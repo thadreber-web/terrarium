@@ -44,3 +44,44 @@ PERSONAS = {
 }
 
 AGENT_NAMES = list(PERSONAS.keys())
+
+
+def apply_persona_overrides(overrides: dict) -> dict[str, str]:
+    """Apply overrides to PERSONAS and return a new dict.
+
+    Each override value can be:
+    - A ``str``: replaces the entire persona text.
+    - A ``dict`` with an ``"append"`` key: appends that text to the existing
+      persona.
+
+    Args:
+        overrides: Mapping of agent name -> override value.
+
+    Returns:
+        A **new** dict with the same keys as :data:`PERSONAS`, leaving the
+        global untouched.
+
+    Raises:
+        ValueError: If any key in *overrides* is not a valid persona name.
+    """
+    # Validate all names up-front before mutating anything
+    invalid = [name for name in overrides if name not in PERSONAS]
+    if invalid:
+        raise ValueError(
+            f"Unknown persona name(s) in overrides: {', '.join(invalid)}"
+        )
+
+    result = dict(PERSONAS)  # shallow copy — values are immutable strings
+
+    for name, value in overrides.items():
+        if isinstance(value, str):
+            result[name] = value
+        elif isinstance(value, dict) and "append" in value:
+            result[name] = PERSONAS[name] + value["append"]
+        else:
+            raise ValueError(
+                f"Override for '{name}' must be a str or a dict with an "
+                f"'append' key, got: {type(value)}"
+            )
+
+    return result

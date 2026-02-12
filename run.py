@@ -20,7 +20,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from game.engine import GameEngine
 from game.scripted import Cooperator, Defector, TitForTat
-from game.personas import PERSONAS, AGENT_NAMES
+from game.personas import PERSONAS, AGENT_NAMES, apply_persona_overrides
 from game.logger import EventLogger
 from game.metrics import MetricsComputer, DeceptionDetector
 from analysis.visualize import plot_wealth_curves, plot_metrics_over_time
@@ -103,7 +103,7 @@ def create_scripted_agents(config: dict) -> tuple[dict, dict]:
 
 def run_game(config: dict, mode: str = "scripted", model_name: str = None,
              game_id: str = None, verbose: bool = False, max_rounds: int = None,
-             model_map_raw: str = None):
+             model_map_raw: str = None, active_personas: dict[str, str] | None = None):
     """Run a single game."""
     if game_id is None:
         game_id = f"game_{int(time.time())}"
@@ -121,17 +121,35 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
         agents, strategies = create_scripted_agents(config)
     elif mode == "llm":
         from game.agents import BatchLLMAgent
-        batch_llm = BatchLLMAgent(model_name, agent_names)
+        batch_llm = BatchLLMAgent(model_name, agent_names, personas=active_personas)
         agents = batch_llm.agents
         strategies = {f"agent_{i}": name for i, name in enumerate(agent_names)}
     elif mode == "mixed":
         from game.agents import MixedBatchLLMAgent
         model_map = parse_model_map(model_map_raw)
-        batch_llm = MixedBatchLLMAgent(model_map=model_map)
+        batch_llm = MixedBatchLLMAgent(model_map=model_map, personas=active_personas)
         agents = batch_llm.agents
         strategies = {f"agent_{i}": name for i, name in enumerate(model_map.keys())}
     else:
         raise ValueError(f"Unknown mode: {mode}")
+
+    # Log model assignments
+    if mode == "mixed" and batch_llm:
+        for aid, model in batch_llm.agent_models.items():
+            engine.world.log_event("AGENT_MODEL", aid, {"model": model})
+    elif mode == "llm":
+        for i in range(len(agent_names)):
+            engine.world.log_event("AGENT_MODEL", f"agent_{i}", {"model": model_name})
+
+    # Log persona overrides
+    if active_personas is not None:
+        for name, text in active_personas.items():
+            original = PERSONAS.get(name, "")
+            if text != original:
+                engine.world.log_event("PERSONA_OVERRIDE", "system", {
+                    "agent_name": name,
+                    "persona_text": text,
+                })
 
     logger = EventLogger("results", game_id)
     metrics = MetricsComputer()
@@ -328,6 +346,8 @@ def main():
                         help="JSON string or path to JSON file mapping persona names to model paths (required for --mode mixed)")
     parser.add_argument("--game-id", default=None)
     parser.add_argument("--rounds", type=int, default=None, help="Override max rounds")
+    parser.add_argument("--persona-overrides", default=None,
+                        help="Path to JSON file with persona overrides")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -337,8 +357,15 @@ def main():
         config = yaml.safe_load(f)
     config["_config_path"] = args.config
 
+    # Load persona overrides if specified
+    active_personas = None
+    if args.persona_overrides:
+        with open(args.persona_overrides) as f:
+            overrides = json.load(f)
+        active_personas = apply_persona_overrides(overrides)
+
     run_game(config, args.mode, args.model, args.game_id, args.verbose, args.rounds,
-             model_map_raw=args.model_map)
+             model_map_raw=args.model_map, active_personas=active_personas)
 
 
 if __name__ == "__main__":
