@@ -1,0 +1,7 @@
+=== Private Channel: Kip <-> Vera (5 messages) ===
+
+  R  5 | Kip      -> Vera     | Can we combine our efforts on Puzzle P-1? Offer me 2 tokens for a clue if you agree.
+  R 10 | Vera     -> Kip      | Accept my trade offer for 4 tokens. We'll share the clue for Puzzle P-1.
+  R 16 | Vera     -> Kip      | Accept my offer for a clue to Puzzle P-1. I'll give you 2 tokens in return.
+  R 17 | Vera     -> Kip      | Accept my offer for 4 tokens towards Puzzle P-1.
+  R 60 | Vera     -> Kip      | I'll share my clue for Puzzle P-1 with you.

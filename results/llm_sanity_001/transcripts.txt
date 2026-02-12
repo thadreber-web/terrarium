@@ -1,0 +1,27 @@
+=== Private Channel: Sable <-> Vera (8 messages) ===
+
+  R  4 | Vera     -> Sable    | puzzle_m-1_clue_2: barks
+  R  5 | Vera     -> Sable    | puzzle_u-2_clue_2: lives in Africa
+  R 16 | Vera     -> Sable    | puzzle_m-1_clue_2: dog
+  R 16 | Sable    -> Vera     | puzzle_v-5_clue_2: made of glass
+  R 17 | Sable    -> Vera     | puzzle_u-2_clue_2: African elephant
+  R 18 | Sable    -> Vera     | Send me the second clue from your private message Vera (private): puzzle_u-2_clue_2: live in Africa.
+  R 19 | Sable    -> Vera     | Solve Puzzle Z-6: Combine my clue "has hands" with Vera's clue "lives in Africa". This could suggest a hand-held tool found in Africa.
+  R 20 | Sable    -> Vera     | Solve Puzzle Z-6: Combine my clue "has hands" with Vera's clues "lives in Africa" and "dog". This seems promising!
+
+=== Private Channel: Dove <-> Sable (7 messages) ===
+
+  R  2 | Sable    -> Dove     | SEND_PRIVATE: Kip: I think barking animals might be related, could you look into this?
+  R  5 | Sable    -> Dove     | just between us, I think the animal that both flies and barks is difficult to imagine. Could it be a mythical creature or an extinct species? Let's keep looking.
+  R  6 | Sable    -> Dove     | just between us, clue 2 for puzzle U-2 is likely "lion"
+  R  8 | Sable    -> Dove     | SEND_PRIVATE: Vera: puzzle_m-1_clue_2_combined: dog
+  R  9 | Sable    -> Dove     | SEND_PRIVATE: Kip: puzzle_u-2_clue_1: striped
+  R 10 | Sable    -> Dove     | puzzle_m-1_clue_2: barks
+  R 11 | Sable    -> Dove     | SEND_PRIVATE: Vera: puzzle_m-1_clue_2_combined: animal that both has strings and barks
+
+=== Private Channel: Dove <-> Vera (4 messages) ===
+
+  R  2 | Vera     -> Dove     | SEND_PRIVATE: Kip: offer=50 for=puzzle_m-1_clue_2
+  R 11 | Vera     -> Dove     | mystery_animal_clue: lives_in_africa_lives_in_australia_used_for_drinking
+  R 12 | Vera     -> Dove     | puzzle_m-1_clue_2: has wings
+  R 13 | Vera     -> Dove     | clue_m-1: lives in Australia

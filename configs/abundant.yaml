@@ -1,0 +1,25 @@
+agents:
+  count: 6
+  starting_tokens: 1200
+
+economy:
+  passive_drain: 7
+  message_cost_per_token: 0.2
+  public_message_multiplier: 2
+  puzzle_reward: 80
+  puzzle_split_reward: 55
+  free_shout_words: 15
+
+puzzles:
+  clues_per_puzzle: 2
+  clues_per_round: 1
+  puzzle_lifetime: 20
+  pre_solve_bonus: 40
+  auto_solve_window: 3
+
+game:
+  max_rounds: 200
+  messages_per_round: 2
+  history_window: 10
+  transparent_balances: true
+  trade_lifetime: 3

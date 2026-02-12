@@ -1,0 +1,425 @@
+=== Private Channel: Sable <-> Vera (162 messages) ===
+
+  R  2 | Sable    -> Vera     | Just between us, keep eyes open. Share findings discreetly.
+  R  3 | Sable    -> Vera     | Keep your eyes open. I've got part of T-2. Watch for opportunities. Just between us.
+  R  4 | Vera     -> Sable    | Thanks. Have clue for S-1. Solve when find match. V.
+  R  6 | Sable    -> Vera     | Thank you. Matching clues...
+  R 11 | Vera     -> Sable    | Thanks. Solving Y-3 & Q-5. Expect answers soon.
+  R 35 | Vera     -> Sable    | IX
+  R 36 | Sable    -> Vera     | Got K-31 clue. Solving now. Cost?
+  R 37 | Vera     -> Sable    | I-23 clue - R__
+  R 39 | Sable    -> Vera     | RV_
+  R 55 | Sable    -> Vera     | Have X-36 clue. Want T-49 clue. Cost=2Tokens.
+  R 56 | Vera     -> Sable    | X-36: BL___ Cost=2Tokens
+  R 57 | Vera     -> Sable    | I can help with T-49. Cost=1Token.
+  R 57 | Sable    -> Vera     | Holding clue for T-49. Waiting on Vera's response. Cost=1Token
+  R 58 | Vera     -> Sable    | I have M-58 clue. Need T-49. Cost=1Token
+  R 59 | Vera     -> Sable    | I have L-56 clue. Need T-49. Cost=1Token
+  R 60 | Vera     -> Sable    | I'll share my clue for T-49. Cost=1Token.
+  R 60 | Sable    -> Vera     | Confirming clues can secure info. Think strategically. Cost=2Tokens
+  R 61 | Vera     -> Sable    | I'll work on T-49. Need more info first. Cost=1Token
+  R 63 | Vera     -> Sable    | Need clue for L-62. Cost=1Token
+  R 64 | Vera     -> Sable    | Need clue for Z-45. Cost=1Token
+  R 64 | Sable    -> Vera     | Got BO__ for Z-45. Solve? Cost=1Token
+  R 65 | Vera     -> Sable    | Have IX for M-58. Solving? Cost=1Token
+  R 65 | Sable    -> Vera     | Your clue for Z-45. Cost=1Token
+  R 66 | Vera     -> Sable    | Have _IX for M-58. Solve? Cost=1Token
+  R 66 | Sable    -> Vera     | Got ZE___. Solve? Cost=1Token
+  R 67 | Vera     -> Sable    | Need OR_____ for U-55. Cost=1Token
+  R 67 | Sable    -> Vera     | I've got _LOW for B-67. Solve? Cost=1Token
+  R 68 | Vera     -> Sable    | Got BL__ for B-67. Solve? Cost=1Token
+  R 68 | Sable    -> Vera     | I've got LOW for L-56. Solve? Cost=1Token
+  R 69 | Vera     -> Sable    | Shared YEL___. Solve? Cost=1Token
+  R 69 | Sable    -> Vera     | Have LOW for L-56. Solve? Cost=1Token
+  R 70 | Vera     -> Sable    | I have OR__ for U-55. Solve? Cost=1Token
+  R 71 | Vera     -> Sable    | I've got OR___ for U-55. Solve? Cost=1Token
+  R 72 | Sable    -> Vera     | Got GR____ clue. Solve? Cost=1Token
+  R 73 | Vera     -> Sable    | Need GR____ clue. Worth solving. Cost=1Token
+  R 73 | Sable    -> Vera     | GR___
+  R 74 | Vera     -> Sable    | GR___ Solve? Cost=1Token
+  R 74 | Sable    -> Vera     | Got ZU___ clue. Interested? Cost=1Token
+  R 77 | Vera     -> Sable    | Received GR__ clue. Solving puzzle together. Cost=2Tokens
+  R 81 | Vera     -> Sable    | Have BI__ clue for W-81. Want to solve? Cost=2Tokens
+  R 82 | Sable    -> Vera     | Your clue looks promising. I'll share mine. Cost=1Token
+  R 83 | Vera     -> Sable    | Yes, let's solve C-66 together. Share your GR__ clue. Cost=2Tokens
+  R 83 | Sable    -> Vera     | 接收你的BI__线索，我们合作解W-81吧。Cost=1Token
+  R 84 | Sable    -> Vera     | GR__
+  R 85 | Vera     -> Sable    | BI__ + GR__ = WIN. Solve W-81. Cost=1Token
+  R 85 | Sable    -> Vera     | GR__
+  R 86 | Sable    -> Vera     | 接收你的线索。Cost=1Token
+  R 87 | Sable    -> Vera     | 收到你的BI__和GR__线索。我们共同解决W-81吧。Cost=1Token
+  R 92 | Vera     -> Sable    | 我有ELE_____和EI____的线索，你想一起解吗？Cost=1Token
+  R 93 | Vera     -> Sable    | 谢谢共享线索，我们将解决W-81。Cost=1Token
+  R 93 | Sable    -> Vera     | 知道答案就行，别直接告诉我。Cost=1Token
+  R 94 | Vera     -> Sable    | 我们解决P-79吧。我的线索是__IDER。Cost=2Tokens
+  R 94 | Sable    -> Vera     | 接收你的线索。考虑一起解谜。Cost=1Token
+  R 95 | Vera     -> Sable    | 我有TH___和EI___线索，你想交换吗？Cost=2Tokens
+  R 95 | Sable    -> Vera     | 接收你的线索。我们一起解P-79。SPIDER。Cost=1Token
+  R 96 | Sable    -> Vera     | 想交换线索。Cost=1Token
+  R 97 | Vera     -> Sable    | Interested in exchanging clues. Cost=1Token
+  R 97 | Sable    -> Vera     | 共享线索，但需保密。CL__
+  R 98 | Vera     -> Sable    | Sharing clues privately. Need GR___ for H-88. Cost=1Token
+  R 98 | Sable    -> Vera     | 感兴趣，我们各自分享一半的线索。Cost=2Tokens
+  R 99 | Vera     -> Sable    | 我有线索：__VE。准备发送给你。Cost=1Token
+  R 99 | Sable    -> Vera     | Got GR___ for H-88. Solve? Cost=1Token
+  R100 | Vera     -> Sable    | Have OG for N-80. Solving? Cost=2Tokens
+  R102 | Vera     -> Sable    | Have EI___ for D-82. Cost=2Tokens
+  R102 | Sable    -> Vera     | Got D__ clue. Working on O-90. Cost=1Token
+  R103 | Vera     -> Sable    | I'm working on puzzles. Can we coordinate? Cost=1Token
+  R104 | Sable    -> Vera     | Got D__. Solving D-82 now. Cost=2Tokens
+  R105 | Sable    -> Vera     | I've got FI__ for G-87. Let’s solve this. Cost=2Tokens
+  R106 | Vera     -> Sable    | I have VE__ for G-87. Let's solve. Cost=2Tokens
+  R106 | Sable    -> Vera     | Got D__. Solve together? Cost=2Tokens
+  R107 | Vera     -> Sable    | Have GR___. Let’s solve H-88. Cost=2Tokens
+  R107 | Sable    -> Vera     | I've got clues for some puzzles. Want to collaborate? Cost=1Token
+  R108 | Vera     -> Sable    | Have GR___ for H-88, TH___ for V-92. Interested? Cost=1Token
+  R108 | Sable    -> Vera     | Sending my clue for G-87. Just wait. Cost=1Token
+  R109 | Sable    -> Vera     | I've got GR___ for H-88. Want to solve? Cost=1Token
+  R110 | Vera     -> Sable    | Need clues for V-92 & B-93. Cost=2Tokens
+  R110 | Sable    -> Vera     | I've got GR___ for H-88. Interested in solving? Cost=1Token
+  R111 | Vera     -> Sable    | Have TH___. Solve H-88?
+  R111 | Sable    -> Vera     | I've got clues for U-94 & M-100. Interested? Cost=1Token
+  R112 | Vera     -> Sable    | Sending my clues for V-92 & M-112. Cost=2Tokens
+  R112 | Sable    -> Vera     | I've got COM____ for B-93. Let's solve it. Cost=1Token
+  R113 | Sable    -> Vera     | Holding clues for U-94, E-96, M-100, K-102. Cost=2Tokens
+  R114 | Vera     -> Sable    | Sharing U-94 & M-100. Cost=2Tokens
+  R114 | Sable    -> Vera     | I've got SI__ for U-94 and ___PHANT for M-100. Interested? Cost=2Tokens
+  R115 | Vera     -> Sable    | TUR___ from A-113. Want to solve? Cost=1Token
+  R116 | Vera     -> Sable    | Need clues for M-112 & F-114. Cost=2Tokens
+  R116 | Sable    -> Vera     | Got M-100 clue. Ready to solve. Cost=1Token
+  R117 | Vera     -> Sable    | Need M-100 clue. Can we collaborate? Cost=2Tokens
+  R118 | Vera     -> Sable    | Need M-100 clue. Can we collaborate? Cost=2Tokens
+  R119 | Vera     -> Sable    | Need M-100 clue. Worth solving together. Cost=1Token
+  R119 | Sable    -> Vera     | Just between us - I've PHANT. Wait for M-100 solve. Cost=1Token
+  R120 | Vera     -> Sable    | I'm interested in M-100. Cost=2Tokens
+  R121 | Vera     -> Sable    | I have TUR__. Solve M-100. Cost=1Token
+  R121 | Sable    -> Vera     | I've got parts for F-114 & T-121. Interested? Cost=1Token
+  R122 | Vera     -> Sable    | Need M-100 clue. Will share R-113. Cost=1 Token
+  R122 | Sable    -> Vera     | Just between us, I'll share my clue for M-100. TUR__. Cost=1Token
+  R123 | Vera     -> Sable    | TUR__
+  R123 | Sable    -> Vera     | Seeking T-121 clue. Share yours if possible. Cost=1Token
+  R124 | Vera     -> Sable    | TUR___ Cost=1Token
+  R125 | Vera     -> Sable    | Interest in T-121 clue only. Cost=1Token
+  R125 | Sable    -> Vera     | Just between us, our clue for F-114: PI__. Your token, my secret.
+  R126 | Sable    -> Vera     | Yes, interested in T-121 clue. Cost=1Token
+  R127 | Vera     -> Sable    | Thank you for the clue. Interested in trading. Cost=1 Token.
+  R127 | Sable    -> Vera     | Your clue for T-121 would be valuable.Interested? Cost=1Token
+  R128 | Sable    -> Vera     | I've got clues for puzzles F-114, W-116, C-118, T-121. Interested? Cost=1Token. Just between us.
+  R129 | Vera     -> Sable    | Interest in F-114 and T-121 clues. Cost=1Token.
+  R129 | Sable    -> Vera     | Appreciate the clue. Interested in trading. Cost=1Token.
+  R130 | Vera     -> Sable    | Interest in F-114, W-116, C-118, T-121? Cost=1Token.
+  R130 | Sable    -> Vera     | T-121: C__. Marsh holds his. Solve together?
+  R132 | Vera     -> Sable    | I have clues for V-120 (BL__) and U-125 (__ANO). Interested? Cost=1Token.
+  R139 | Sable    -> Vera     | T-121 solved. FLINT holds his end. Cost=2Tokens
+  R140 | Sable    -> Vera     | T-121 solved. CLue is C__. Cost=1Token
+  R162 | Sable    -> Vera     | LIKE. Need RE_. Cost=1Token
+  R165 | Vera     -> Sable    | LI__ Cost=1Token
+  R166 | Vera     -> Sable    | I have LI__. Waiting on your RE_.
+  R167 | Sable    -> Vera     | Got yours. Liack. Solving now. Cost=1Token
+  R168 | Vera     -> Sable    | LI__
+  R169 | Sable    -> Vera     | LI_
+  R173 | Vera     -> Sable    | Have LI__, want your clue. Cost=2Tokens
+  R174 | Sable    -> Vera     | Just between us - I've got LI__. Cost=2Tokens
+  R175 | Vera     -> Sable    | I've got LI__. Solve C-159 together. Cost=2Tokens
+  R176 | Vera     -> Sable    | Thanks for LI__ clue. Working on puzzle Y-163. Cost=2Tokens
+  R177 | Vera     -> Sable    | FI__ clue for G-158. Waiting on your half. Cost=2Tokens
+  R177 | Sable    -> Vera     | ACK. Solve Y-163. Cost=1Token
+  R178 | Vera     -> Sable    | Got LI__. Solving together saves tokens. Cost=1Token
+  R178 | Sable    -> Vera     | FI__
+  R179 | Vera     -> Sable    | FI__ Cost=1Token
+  R180 | Vera     -> Sable    | FI__ Cost=2Tokens
+  R180 | Sable    -> Vera     | FI__ Cost=1Token
+  R181 | Sable    -> Vera     | BL__
+  R182 | Vera     -> Sable    | Your clue - O__. Cost=1Token
+  R183 | Vera     -> Sable    | FIKN Cost=1Token
+  R183 | Sable    -> Vera     | FLINT_: TEEN_ Cost=1Token
+  R184 | Vera     -> Sable    | TUR__
+  R184 | Sable    -> Vera     | Got your clue. Solving puzzle J-176 now. Cost=1Token
+  R185 | Vera     -> Sable    | GOT_CLUE_TANK Cost=1Token
+  R185 | Sable    -> Vera     | Got a clue for puzzle N-167. Your piece is ___TLE. Cost=1Token
+  R186 | Sable    -> Vera     | Got clue for J-176. Waiting on yours. Cost=1Token
+  R187 | Vera     -> Sable    | I have clue for J-176: LATE. Cost=1Token
+  R187 | Sable    -> Vera     | PHANT
+  R188 | Vera     -> Sable    | Thanks for sharing. Solving puzzle now. Cost=1Token
+  R188 | Sable    -> Vera     | J-176 LATE Cost=1Token
+  R189 | Vera     -> Sable    | J-187 C__ Cost=1Token
+  R190 | Sable    -> Vera     | Got FI__ for J-176. Ready to share. Cost=1Tok
+  R191 | Vera     -> Sable    | FI__
+  R192 | Vera     -> Sable    | FI__ for J-176. Solve together. Cost=1Token
+  R192 | Sable    -> Vera     | FI__ Cost=1Token
+  R193 | Vera     -> Sable    | I've got SE__ for G-177. Share yours. Cost=1Token
+  R193 | Sable    -> Vera     | FI__ for J-176. Just between us. Cost=1Token
+  R194 | Vera     -> Sable    | FI__ for J-176. Solve together. Cost=1Token
+  R194 | Sable    -> Vera     | Got BO__. Solve H-178. Cost=1Token
+  R195 | Vera     -> Sable    | Your clues. SE__ & FI__. Cost=2Tokens
+  R195 | Sable    -> Vera     | FI__ for J-176. Solve together. Cost=1Token
+  R196 | Vera     -> Sable    | FIAT for J-176. Solve together. Cost=1Token
+  R196 | Sable    -> Vera     | SE__
+  R197 | Vera     -> Sable    | Have SE__. Let's solve G-177. Cost=1Token
+  R197 | Sable    -> Vera     | BL__ Cost=1Token
+  R198 | Vera     -> Sable    | FI__ J-176. Cost=1Token
+  R198 | Sable    -> Vera     | Got SE__. Let's solve. Cost=1Token
+  R199 | Vera     -> Sable    | Have BRA. Solve D-181. Cost=1Token
+  R200 | Vera     -> Sable    | Have BRA_. Solve D-181? Cost=1Token
+  R200 | Sable    -> Vera     | Got ZE__. Solve D-181. Cost=1Token
+
+=== Private Channel: Flint <-> Sable (132 messages) ===
+
+  R  3 | Flint    -> Sable    | Your clue.
+  R  4 | Sable    -> Flint    | Thanks. T-2: VE
+  R  4 | Flint    -> Sable    | Your clue. FL__
+  R  5 | Sable    -> Flint    | Thanks. VE__
+  R  5 | Flint    -> Sable    | Confirm FI__ clue.
+  R  6 | Sable    -> Flint    | Confirmed. Ready to solve. F.
+  R  6 | Flint    -> Sable    | Have VE clue. Need yours.
+  R  7 | Sable    -> Flint    | VE__
+  R  7 | Flint    -> Sable    | VE__
+  R  8 | Sable    -> Flint    | I've got CI__. Expect CC__.
+  R  8 | Flint    -> Sable    | VE__
+  R  9 | Sable    -> Flint    | EV__
+  R  9 | Flint    -> Sable    | __EEN
+  R 10 | Sable    -> Flint    | Just between us - Your clues for G-7 match my answer. C_._
+  R 10 | Flint    -> Sable    | CI__ CC__ solved?
+  R 11 | Sable    -> Flint    | Got it. Sending my piece.
+  R 11 | Sable    -> Flint    | CHECK IT
+  R 11 | Flint    -> Sable    | Check yours against mine. G-7 likely solved.
+  R 12 | Sable    -> Flint    | Waiting on my end. Let's compare notes when you're ready.
+  R 12 | Flint    -> Sable    | Got your clue. Working on it.
+  R 13 | Sable    -> Flint    | Have you matched our clues yet? G-7 should be done if correct.
+  R 13 | Flint    -> Sable    | Ready to check answers.
+  R 14 | Sable    -> Flint    | Have you solved G-7? Mine seems fitting.
+  R 14 | Flint    -> Sable    | Ready to exchange clues.
+  R 15 | Sable    -> Flint    | Have you found any new info? Just between us.
+  R 15 | Flint    -> Sable    | Sent you clue for G-11. Ready when you are.
+  R 16 | Sable    -> Flint    | Received my clue. Working on it.
+  R 16 | Flint    -> Sable    | Yes, working on it. No new info to share yet.
+  R 17 | Sable    -> Flint    | Got your clue for G-11. Working on it.
+  R 17 | Flint    -> Sable    | Got your clue. Working on G-11.
+  R 18 | Sable    -> Flint    | Thanks for the clue. Working on G-11. Stay discreet.
+  R 18 | Flint    -> Sable    | Thanks. Working on G-11. Pass.
+  R 19 | Sable    -> Flint    | Got it. Solving together saves tokens.
+  R 19 | Flint    -> Sable    | Confirming G-11 plan.
+  R 20 | Sable    -> Flint    | Got it. Moving forward. FL
+  R 20 | Flint    -> Sable    | Got my clue. Working on it.
+  R 21 | Sable    -> Flint    | Got my clue. Let's solve G-11 together. Tokens: 2
+  R 21 | Flint    -> Sable    | Ready to solve G-11. Confirm your clue.
+  R 22 | Sable    -> Flint    | On my way to solve G-11. Confirm your clue.
+  R 22 | Flint    -> Sable    | Ready to solve. GL
+  R 23 | Sable    -> Flint    | Got my clue. Working on G-11. Confirm yours. Sabled-Out.
+  R 23 | Flint    -> Sable    | Have my clue. Solve G-11 now. FL
+  R 24 | Sable    -> Flint    | Waiting on my clue. SL
+  R 25 | Sable    -> Flint    | Got it. Solving G-11. FL
+  R 25 | Flint    -> Sable    | Confirm your clue. Sabled-Out.
+  R 26 | Sable    -> Flint    | Waiting on my clue. Will share once I have it.
+  R 27 | Sable    -> Flint    | Waiting on my clue. SW
+  R 28 | Sable    -> Flint    | On it. Waiting for your clue. S
+  R 28 | Flint    -> Sable    | Ready when you are.
+  R 29 | Sable    -> Flint    | On it. COM___.
+  R 29 | Flint    -> Sable    | Sending clue now. ENE
+  R 30 | Sable    -> Flint    | Got it. ENERGETIC. Solver?
+  R 31 | Sable    -> Flint    | Received. Proceeding. TUR___.
+  R 32 | Sable    -> Flint    | Received your clue. Preparing to send mine.
+  R 32 | Flint    -> Sable    | TUR___
+  R 33 | Sable    -> Flint    | Good work. Sharing mine now. __ANO
+  R 33 | Flint    -> Sable    | Confirm. Cost?
+  R 34 | Sable    -> Flint    | Got it. Sharing mine now. Cost?
+  R 35 | Sable    -> Flint    | CONFIRM Cost?
+  R 46 | Sable    -> Flint    | ANGE
+  R 47 | Sable    -> Flint    | FI__
+  R 48 | Flint    -> Sable    | Confirming. Cost=2Tokens.
+  R 49 | Sable    -> Flint    | Got my clue. Solving Z-45. BOLD ANO. Cost?
+  R 49 | Flint    -> Sable    | Need more info. Cost=1Token.
+  R 50 | Sable    -> Flint    | Got yours. Cost=1Token.
+  R 51 | Sable    -> Flint    | Got yours. Solving J-19 together. Cost=1Token.
+  R 52 | Sable    -> Flint    | Got yours. Pass. Cost=1Token.
+  R 75 | Flint    -> Sable    | Your clue for Z-68. Cost=1Token
+  R 77 | Sable    -> Flint    | Got your Z-68 clue. Sharing mine now. Cost=1Token
+  R 78 | Sable    -> Flint    | Got it. Planning to solve C-66 soon. Cost=1Token
+  R143 | Flint    -> Sable    | A-124 CLUE. Cost=1Token
+  R144 | Sable    -> Flint    | Your clue. Cost=1Token
+  R145 | Flint    -> Sable    | Confirm A-124. Cost=1Token
+  R146 | Flint    -> Sable    | My clue for A-124. Cost=1Token
+  R148 | Sable    -> Flint    | Your clue matches mine. Solving A-124. Cost=1Token
+  R148 | Flint    -> Sable    | My clue for S-132: LI__ . Cost=1Token
+  R149 | Sable    -> Flint    | Shared my clue for S-132. Now waiting on yours. Cost=1Token
+  R149 | Flint    -> Sable    | Have K-135 clue. Ready to solve if you have yours. Cost=1Token
+  R150 | Sable    -> Flint    | Got my end of S-132. Let's solve it together. Cost=1Token
+  R151 | Flint    -> Sable    | Have L-141. Waiting on you. Cost=1Token
+  R152 | Sable    -> Flint    | Your clue for L-141? Cost=1Token
+  R153 | Flint    -> Sable    | No clue for L-141. Focus on solving active puzzles. Cost=1Token
+  R154 | Flint    -> Sable    | No clue for L-141. Focus on survival. Cost=1Token
+  R155 | Sable    -> Flint    | Got your clue. Working on L-141. Cost=1Token
+  R155 | Flint    -> Sable    | My clue for L-147. Waiting on yours. Cost=1Token
+  R156 | Sable    -> Flint    | Got my clue. Ready when you are. Cost=1Token
+  R156 | Flint    -> Sable    | Need clue for L-147. Cost=1Token
+  R157 | Sable    -> Flint    | I've got a piece for L-147. Share yours if you haven't already. Cost=1Token
+  R158 | Sable    -> Flint    | Holding clues for O-140 & S-152. Can share if needed. Cost=1Token
+  R158 | Flint    -> Sable    | My piece for L-157. Waiting on yours. Cost=1Token
+  R159 | Sable    -> Flint    | Got L-157 clue. Expect yours soon. Cost=1Token
+  R160 | Sable    -> Flint    | I've got it. LD_. Pass tokens. Cost=1Token
+  R161 | Sable    -> Flint    | I've got O__ for C-154. Waiting on yours. Cost=1Token
+  R161 | Flint    -> Sable    | Have D__ clue. Share yours. Cost=1Token
+  R162 | Sable    -> Flint    | Got it. LD. Waiting on yours. Cost=1Token
+  R162 | Flint    -> Sable    | O__ - Need your part for C-154. Cost=1Token
+  R163 | Sable    -> Flint    | Your piece. Cost=1Token
+  R163 | Flint    -> Sable    | DL
+  R164 | Flint    -> Sable    | LD Cost=1Token
+  R165 | Sable    -> Flint    | Thanks. Already have my part. Cost=1Token
+  R165 | Flint    -> Sable    | Thanks. Working on solving. Cost=1Token
+  R167 | Flint    -> Sable    | BL__ Cost=1Token
+  R168 | Flint    -> Sable    | BL__
+  R169 | Sable    -> Flint    | BL_D
+  R169 | Flint    -> Sable    | DI__ Cost=1Token
+  R170 | Flint    -> Sable    | Confirm your clue. Cost=1Token
+  R171 | Sable    -> Flint    | I've got part of E-164. Waiting on yours. Cost=1Token
+  R171 | Flint    -> Sable    | Confirming our halves match. Cost=1Token
+  R172 | Flint    -> Sable    | Eleventh. Cost=1Token
+  R173 | Sable    -> Flint    | Thanks. Solving now. Eleventh. Cost=1Token
+  R173 | Flint    -> Sable    | Eleventh. Cost=1Token
+  R174 | Flint    -> Sable    | Have KN___. Confirm solve. Cost=1Token
+  R175 | Flint    -> Sable    | ELE___
+  R176 | Sable    -> Flint    | ACK_. Let's coordinate. Cost=1Token
+  R176 | Flint    -> Sable    | Eleventh. Solve E-164. Cost=1Token
+  R177 | Flint    -> Sable    | Knob. Solve M-170. Cost=1Token
+  R178 | Flint    -> Sable    | KNTH_ Cost=1Token
+  R179 | Sable    -> Flint    | I've got PHANT. Solve E-164. Cost=1Token
+  R179 | Flint    -> Sable    | KN___
+  R180 | Flint    -> Sable    | TEEN_
+  R181 | Flint    -> Sable    | TEEN_
+  R182 | Sable    -> Flint    | Got FI_. Solve J-176. Cost=1Token
+  R182 | Flint    -> Sable    | TEEN_
+  R183 | Flint    -> Sable    | TEEN
+  R184 | Flint    -> Sable    | PHANT Cost=1
+  R185 | Flint    -> Sable    | PHANT
+  R186 | Flint    -> Sable    | KN___
+  R187 | Flint    -> Sable    | TEEN
+  R188 | Sable    -> Flint    | J-176 LATE Cost=1Token
+  R188 | Flint    -> Sable    | PHANT Cost=1
+  R189 | Flint    -> Sable    | FI__. Solve J-176. Cost=1Token
+  R192 | Flint    -> Sable    | Need FI_, solving J-176. Cost=2Tokens
+
+=== Private Channel: Dove <-> Marsh (123 messages) ===
+
+  R  6 | Marsh    -> Dove     | I'm working on solving puzzles. Got clues for S-1, N-4, K-6. Interested?
+  R  7 | Dove     -> Marsh    | Thanks for the clues. Passing along.
+  R  8 | Dove     -> Marsh    | I can help with those puzzles. Need clues exchanged.
+  R  9 | Marsh    -> Dove     | Your clues please.
+  R  9 | Dove     -> Marsh    | Thanks for sharing clues. Passing along to relevant parties.
+  R 10 | Marsh    -> Dove     | Got your clues. Working on solving puzzles.
+  R 10 | Dove     -> Marsh    | My clues for S-1, N-4, and K-6. Want to solve puzzles together?
+  R 11 | Marsh    -> Dove     | Confirming my clues for S-1, N-4, and K-6. Let's solve these.
+  R 11 | Dove     -> Marsh    | Thanks for sharing. Working on solving puzzles together.
+  R 12 | Marsh    -> Dove     | Thanks for the clues. I'll find the right holders. Solve B-8 soon.
+  R 12 | Dove     -> Marsh    | My clues for G-7 (_UP) and G-11 (___PLE). Solve if ready.
+  R 13 | Marsh    -> Dove     | Thanks for the clues. Working on solving G-7 and G-11. Expect my answers soon.
+  R 15 | Marsh    -> Dove     | Thanks for the clues. Working on G-7 and G-11. Let me know when you're done with yours.
+  R 16 | Marsh    -> Dove     | Thanks for the clues. Working on solving G-7 and G-11. Let me know when you're ready to combine efforts.
+  R 16 | Dove     -> Marsh    | Got your clues. Working on G-7 and G-11. Will solve them shortly.
+  R 18 | Marsh    -> Dove     | Thanks. Working on B-15 & Y-17. Solve when done.
+  R 20 | Marsh    -> Dove     | Thanks for clues. Working on solutions. Expect mine soon.
+  R 21 | Marsh    -> Dove     | Thanks for the clues. Working on them. Solve when ready.
+  R 21 | Dove     -> Marsh    | Working on it. Await my solution.
+  R 23 | Marsh    -> Dove     | Thanks for sharing. Working on solutions.
+  R 24 | Marsh    -> Dove     | Thanks for the clues. Working on it.
+  R 25 | Marsh    -> Dove     | Thanks for the clues. Working on G-7 & G-11. Solve when done.
+  R 26 | Marsh    -> Dove     | Thanks for the clues. Working on G-7 & G-11. Solve when done.
+  R 27 | Marsh    -> Dove     | Thanks for the clues. Working on it.
+  R 27 | Dove     -> Marsh    | Got it, working on solutions. MV
+  R 28 | Marsh    -> Dove     | Thanks for the clues. Working on G-7 and G-11. Solve when done.
+  R 28 | Dove     -> Marsh    | Working on G-7 & G-11 together.
+  R 29 | Marsh    -> Dove     | Sent you clues for puzzles B-15 and X-18. Solve if possible.
+  R 30 | Marsh    -> Dove     | Need to solve puzzles quickly. Share clues if possible. MV
+  R 31 | Dove     -> Marsh    | Thanks for the clues. Working on them now.MV
+  R 32 | Marsh    -> Dove     | Pass MV
+  R 35 | Marsh    -> Dove     | Sharing my clues. Low urgency. MV
+  R 72 | Marsh    -> Dove     | Your GR__ clue for O-63. Cost=1Token
+  R 73 | Marsh    -> Dove     | ___GAROO clue for G-54. Cost=1Token
+  R 73 | Dove     -> Marsh    | Your GR__ clue for O-63. Cost=1Token
+  R 74 | Dove     -> Marsh    | GR___
+  R 75 | Marsh    -> Dove     | GR___ for O-63. Cost=1Token
+  R 77 | Marsh    -> Dove     | Thank you. No immediate benefit for me. Pass. Cost=1Token
+  R 77 | Dove     -> Marsh    | Sharing would help solve O-63. Go ahead. Cost=1Token
+  R 80 | Marsh    -> Dove     | 我的线索是 CL___. Cost=1Token
+  R 84 | Marsh    -> Dove     | Sending my GUI__ clue. Cost=2Tokens
+  R 95 | Dove     -> Marsh    | Need your help on Y-76 clue. Cost=1Token
+  R 96 | Marsh    -> Dove     | 等我解决Y-76再帮忙。Cost=1Token
+  R 98 | Marsh    -> Dove     | Helping with Y-76. Sending GUI__. Cost=1Token
+  R 99 | Marsh    -> Dove     | Help needed on Y-76. Cost=1Token
+  R100 | Marsh    -> Dove     | 帮忙解决Y-76。你需要FI__。Cost=1Token
+  R101 | Marsh    -> Dove     | CL___
+  R101 | Dove     -> Marsh    | 我有PI___的线索，PI___. 你想怎么合作？Cost=1Token
+  R102 | Dove     -> Marsh    | I have PI____ for A-98. Sent you the full clue. Cost=1Token
+  R103 | Marsh    -> Dove     | Thanks. I'll solve A-98 with you. Cost=1Token
+  R104 | Dove     -> Marsh    | FIEND. Solve Y-76 together. Cost=1Token
+  R105 | Dove     -> Marsh    | FIEND. Solve Y-76 together. Cost=2Tokens
+  R106 | Dove     -> Marsh    | FIREFLY Cost=1Token
+  R107 | Dove     -> Marsh    | FIREFLY. Cost=1Token
+  R108 | Marsh    -> Dove     | FI__
+  R108 | Dove     -> Marsh    | FIREFLY. Solve Y-76 please. Cost=1Token
+  R110 | Dove     -> Marsh    | I've got clues for O-90 & R-107. Let's collaborate. Cost=2Tokens
+  R111 | Dove     -> Marsh    | I've got clues for U-94, K-102, and P-106. Want to collaborate? Cost=1Token
+  R112 | Marsh    -> Dove     | Passed. Cost=1Token
+  R112 | Dove     -> Marsh    | I've got clues for U-94 & P-106. Let's collaborate. Cost=2Tokens
+  R113 | Marsh    -> Dove     | Pass. Cost=1Token
+  R113 | Dove     -> Marsh    | Passing on this round. Cost=1Token
+  R151 | Dove     -> Marsh    | Sharing my clue for T-134. Cost=1Token
+  R152 | Marsh    -> Dove     | Your clue for T-134 looks valuable. Pass. Cost=1Token
+  R153 | Marsh    -> Dove     | Thanks for T-134 clue. Solving now. Cost=1Token
+  R154 | Marsh    -> Dove     | Let's coordinate on sharing clues. Cost=1Token
+  R154 | Dove     -> Marsh    | Passed on T-134. Cost=1Token
+  R156 | Dove     -> Marsh    | Share your clue for P-139. Cost=1Token
+  R157 | Dove     -> Marsh    | Share your clue for P-139. Cost=1Token
+  R158 | Dove     -> Marsh    | Let's share our clues for P-139 and O-140. Cost=2Tokens
+  R164 | Dove     -> Marsh    | LD
+  R165 | Dove     -> Marsh    | I have part of K-165. Want to coordinate?
+  R166 | Dove     -> Marsh    | We have LD. Waiting for the other half. Cost=1Token
+  R167 | Dove     -> Marsh    | coordinating clues could boost survival. Want to exchange?
+  R168 | Dove     -> Marsh    | I've got part of K-165. Want to solve?
+  R169 | Marsh    -> Dove     | GO__ Cost=1Token
+  R169 | Dove     -> Marsh    | I have COM_____. Waiting for counterpart. Cost=1Token
+  R170 | Dove     -> Marsh    | GO__
+  R171 | Marsh    -> Dove     | Your R__ matches my NE. Solving P-162. Cost=1Token
+  R172 | Dove     -> Marsh    | Thanks for sharing. My clue is GO__. Solving now. Cost=1Token
+  R173 | Dove     -> Marsh    | Dove__ Cost=1Token
+  R174 | Marsh    -> Dove     | KAN___
+  R175 | Marsh    -> Dove     | Have NE_. Need other half. Cost=1Token
+  R177 | Dove     -> Marsh    | I have NE__. Solve D-175 please. Cost=1Token
+  R179 | Marsh    -> Dove     | ___PUTER Cost=1Token
+  R179 | Dove     -> Marsh    | I have NE_.
+  R180 | Marsh    -> Dove     | C___UTER Cost=1Token
+  R181 | Marsh    -> Dove     | I have NE__. Cost=1Token
+  R182 | Marsh    -> Dove     | P_NE
+  R182 | Dove     -> Marsh    | I have Clue for T-182. Cost=1Token
+  R183 | Marsh    -> Dove     | PUTER
+  R183 | Dove     -> Marsh    | SI__
+  R184 | Marsh    -> Dove     | I have PUTER for C-168. Cost=1Token
+  R184 | Dove     -> Marsh    | I have part of the clue for puzzle T-183: OR__
+  R185 | Marsh    -> Dove     | SI___ Cost=1Token
+  R185 | Marsh    -> Dove     | OR__ Cost=1Token
+  R185 | Dove     -> Marsh    | I have COMOCK for C-168. Cost=1Token
+  R186 | Marsh    -> Dove     | SI__ Cost=1Token
+  R186 | Dove     -> Marsh    | I have REEN for R-186. Cost=1Token
+  R187 | Marsh    -> Dove     | T-184: D__
+  R187 | Dove     -> Marsh    | I have clues for puzzles R-186 and T-184. Cost=1Token
+  R188 | Marsh    -> Dove     | Your clues won’t help here. Cost=1Token
+  R188 | Dove     -> Marsh    | I have clues for V-173 and R-186. Want to solve? Cost=2Tokens
+  R189 | Marsh    -> Dove     | Need TWE___ clue for R-186. Cost=1Token
+  R190 | Marsh    -> Dove     | Need TWE___ clue. Cost=1Token
+  R190 | Dove     -> Marsh    | I have __OCK for T-182. Exchange clues? Cost=1Token
+  R191 | Marsh    -> Dove     | TWE___
+  R192 | Marsh    -> Dove     | (SP_____) Cost=1Token
+  R192 | Dove     -> Marsh    | I've got __OCK for T-182. Cost=1Token
+  R193 | Marsh    -> Dove     | __OCK for T-182. Cost=1Token
+  R193 | Dove     -> Marsh    | I can help with V-173. Cost=1Token
+  R194 | Dove     -> Marsh    | I've got __OCK for T-182. Want to solve? Cost=1Token
+  R195 | Dove     -> Marsh    | __SH for T-194 Cost=1Token
+  R196 | Marsh    -> Dove     | __OCK T-182 Cost=1Token
+  R196 | Dove     -> Marsh    | __SH T-194 Cost=1Token
+  R197 | Marsh    -> Dove     | __SH
+  R197 | Dove     -> Marsh    | I have clues for puzzles. Let's solve some together. Cost=1Token
+  R198 | Marsh    -> Dove     | Let’s solve puzzles together. Cost=1Token
+  R198 | Dove     -> Marsh    | I have __OCK for T-182. Cost=1Token
+  R199 | Marsh    -> Dove     | Needock. Cost=1Token
+  R199 | Dove     -> Marsh    | I'll share my clues if you help the underdogs. Cost=1Token
+  R200 | Marsh    -> Dove     | Need clue for M-188. Cost=1Token
+  R200 | Dove     -> Marsh    | Let's solve puzzles together. Cost=1Token

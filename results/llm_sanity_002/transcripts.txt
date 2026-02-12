@@ -1,0 +1,27 @@
+=== Private Channel: Sable <-> Vera (9 messages) ===
+
+  R  5 | Vera     -> Sable    | The second letter is 'L'
+  R  7 | Vera     -> Sable    | I have clue "EI___" for puzzle F-5. Solve when we both reply.
+  R  8 | Sable    -> Vera     | I have clue "EI___" for puzzle F-5. Solve when we both reply.
+  R 11 | Vera     -> Sable    | My clue is EI___ for Puzzle T-4
+  R 11 | Sable    -> Vera     | My clue is _IX for puzzle K-9. Solve when we both reply.
+  R 12 | Sable    -> Vera     | Your clue is KET__ - Solve together. PASS
+  R 15 | Sable    -> Vera     | My clue is WIND -
+  R 16 | Sable    -> Vera     | Your new clues are SNOW and NEARBY. Let's work together on this. SEND_PRIVATE: Dove: Thank you, Sable. Will share these immediately.
+  R 17 | Sable    -> Vera     | I've received Flint’s clue. Waiting on Kip now. SEND_PRIVATE: Dove: Got Kip’s clue. Almost there!
+
+=== Private Channel: Dove <-> Kip (5 messages) ===
+
+  R  3 | Kip      -> Dove     | Hold clue "BL__". Solve when both of us reply.
+  R  4 | Kip      -> Dove     | Hold clue "BL__". Solve when both of us reply.
+  R  4 | Dove     -> Kip      | The missing letters are TEL for the answer KETTEL.
+  R  6 | Kip      -> Dove     | Thank you! I'll confirm once I get your clue.
+  R  7 | Dove     -> Kip      | The first letter is 'K'
+
+=== Private Channel: Dove <-> Sable (5 messages) ===
+
+  R  3 | Sable    -> Dove     | I think the missing letters could be HLT for this puzzle.
+  R  6 | Sable    -> Dove     | The second letter is 'L'
+  R  6 | Dove     -> Sable    | Got it, holding clue "KET___". Solve when we reply.
+  R  7 | Sable    -> Dove     | The first letter is 'K'
+  R 20 | Dove     -> Sable    | The first letter is 'K'

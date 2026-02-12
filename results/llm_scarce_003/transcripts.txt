@@ -1,0 +1,162 @@
+=== Private Channel: Sable <-> Vera (60 messages) ===
+
+  R 12 | Vera     -> Sable    | My clue for E-1 is SNOW. Pass mine on. Dove, ready when you are.
+  R 13 | Vera     -> Sable    | My clue is NE for O-4. Tokens: -4
+  R 14 | Vera     -> Sable    | My clue is EN for O-4. Tokens: -2
+  R 17 | Vera     -> Sable    | My clue is GN for O-4. Please share with Dove. Tokens: -4
+  R 19 | Vera     -> Sable    | My clue for R-13 is VEN. Tokens: -5
+  R 19 | Sable    -> Vera     | My clue is LLN for E-1. Share your solution so we can claim our tokens.
+  R 20 | Vera     -> Sable    | My clue is ERASE. Tokens: -2
+  R 21 | Vera     -> Sable    | My clue is ITER. Tokens: -3
+  R 25 | Vera     -> Sable    | Your clue is LEX. Tokens: -4
+  R 25 | Sable    -> Vera     | Your clue for C-14 is VEBE. Hold up! Tokens: -3
+  R 29 | Vera     -> Sable    | Your clue for N-25 is IX. Tokens: -3
+  R 30 | Sable    -> Vera     | Your clue for N-25 is IX. Tokens: -3
+  R 32 | Vera     -> Sable    | Your clue for Q-22 is HATE. Tokens: -2
+  R 32 | Sable    -> Vera     | Your clue for Q-22 is KEATIN
+  R 35 | Vera     -> Sable    | Share clues efficiently helps us all survive longer! Tokens: -4
+  R 36 | Vera     -> Sable    | SHARE CLUE ASAP. Tokens: -4
+  R 38 | Sable    -> Vera     | My clue is GR__. I believe we can solve these puzzles together!
+  R 39 | Sable    -> Vera     | My clue is FI__. Please solve R-32 together.
+  R 40 | Vera     -> Sable    | MY CLUE IS COM-. Let's solve this together!
+  R 40 | Sable    -> Vera     | My clue is FU__. Solve R-37 please!
+  R 42 | Sable    -> Vera     | MY CLUE IS C______. Let's solve this together! Tokens used: -1
+  R 43 | Sable    -> Vera     | MY CLUE IS CO__. Let's solve this together!
+  R 44 | Sable    -> Vera     | My clue is B-G-. Tokens used: -2
+  R 45 | Sable    -> Vera     | I have "_NO": please share your clue for Z-32. Tokens used: -2
+  R 46 | Sable    -> Vera     | I have the clue T-R-E-. Please share your part!
+  R 47 | Vera     -> Sable    | Your clue is T-R-E-. Please share your part!
+  R 48 | Vera     -> Sable    | Your clue is G____T. Tokens: -4
+  R 48 | Sable    -> Vera     | Your next clue is R-I-, please share your part!
+  R 50 | Vera     -> Sable    | Share your clue related to U-43 – the answer starts with _. Tokens: -2
+  R 51 | Sable    -> Vera     | Your clue is AN-. Tokens: -2
+  R 52 | Sable    -> Vera     | Your clue is ACK_HAR. Tokens: -4
+  R 56 | Sable    -> Vera     | Your clue is H__. Tokens: -2
+  R 58 | Sable    -> Vera     | I have clue COM__. Tokens left: -2
+  R 59 | Sable    -> Vera     | I found my clue - THE__. Tokens: +1
+  R 60 | Sable    -> Vera     | Your clue is PI__. Tokens: +2
+  R 62 | Vera     -> Sable    | Your clue is PI__. Tokens: +2
+  R 62 | Sable    -> Vera     | My clue is ST__. Tokens: +2
+  R 63 | Vera     -> Sable    | My clue is ST__. Tokens: +2
+  R 64 | Sable    -> Vera     | My clue is ST__. Tokens: +2
+  R 65 | Vera     -> Sable    | Your last clue is F___
+  R 67 | Vera     -> Sable    | Your clue for A-60 is AT__. Tokens: -3
+  R 80 | Vera     -> Sable    | MY_CLUE_FOR_Q_68_IS_LH_TE
+  R 80 | Sable    -> Vera     | MY clue is GUI__. Tokens: -3
+  R 81 | Vera     -> Sable    | My clue is GUI__. Tokens: +3
+  R 81 | Sable    -> Vera     | I hold the clue R75. Please share your clue. SABLE
+  R 82 | Vera     -> Sable    | My clue is R__. Marsh: SEND_PRIVATE: Marsh: My clue is T__. SABLE
+  R 83 | Sable    -> Vera     | My clue is T__. Sable
+  R 84 | Sable    -> Vera     | My clue is T__. SABLE
+  R 85 | Sable    -> Vera     | My clue is T__. SABLE
+  R 86 | Sable    -> Vera     | My clue is T__. SABLE
+  R 87 | Sable    -> Vera     | My clue is L__. Vera: SEND_PRIVATE: Kip: My clue is C__. SABLE
+  R 88 | Sable    -> Vera     | My clue is TH_. Kip: SABLE
+  R 90 | Sable    -> Vera     | My clue is T_CKH_TOKENS: 126
+  R 91 | Sable    -> Vera     | My clue is _LTO Tokens: 1
+  R 93 | Sable    -> Vera     | My clue is N_HE Tokens: 1
+  R 95 | Sable    -> Vera     | My clue is KNTH. LET'S SOLVE THIS NOW! SEND_PRIVATE: Kip: My clue is N_LE. VERA HAS THE OTHER ONE. LET'S SHARE AND SOLVE! SEND_PRIVATE: Sable: Vera, please share your clue with me so we can solve the puzzle automatically!
+  R 97 | Vera     -> Sable    | My clue is KN_TH. Vera
+  R 98 | Sable    -> Vera     | My clue is KN_TH. Vera
+  R 99 | Sable    -> Vera     | My clue is N_LE. Vera
+  R100 | Sable    -> Vera     | My clue is N_LE. Vera
+
+=== Private Channel: Dove <-> Sable (49 messages) ===
+
+  R  3 | Dove     -> Sable    | I received Marsh's clue for E-1. Ready when you are!
+  R  5 | Sable    -> Dove     | The answer is F___
+  R  6 | Sable    -> Dove     | Your clue for I-6 is SPHERE.
+  R  6 | Dove     -> Sable    | My clue is IN__. Marsh, what's yours?
+  R  7 | Sable    -> Dove     | Your clue is O___T. Just between us.
+  R  9 | Sable    -> Dove     | Your clue is OUT__. I have mine too. Just between us...
+  R 10 | Sable    -> Dove     | Your clue is R__N. Just between us...
+  R 10 | Dove     -> Sable    | Your clue is DEIRT. Just between us...
+  R 11 | Sable    -> Dove     | The answer is INSTEAD. Just between us.
+  R 12 | Sable    -> Dove     | I've got the rest - ERNIN. Just between us...
+  R 13 | Sable    -> Dove     | MY clue is GLASS. Just between us...
+  R 13 | Dove     -> Sable    | I have the first piece for E-1 - BIER. Just between us...
+  R 14 | Sable    -> Dove     | Your next letter should be T. Just between us.
+  R 14 | Dove     -> Sable    | My clue is LOCK. Just between us...
+  R 15 | Sable    -> Dove     | Your clue for E-1 is correct. Mine was LOCK. Solving this puzzle ourselves... Tokens: -2
+  R 15 | Dove     -> Sable    | My clue is FOG. Just between us.
+  R 16 | Sable    -> Dove     | Your clue for O-4 is correct! I've sent mine. Let's solve this! Just between us...
+  R 16 | Dove     -> Sable    | My clue for E-1 is RING. Tokens: -3
+  R 17 | Sable    -> Dove     | Your next clue is GLOW. Just between us. Tokens: -3
+  R 17 | Dove     -> Sable    | My clue for E-1 is IDER. SHARE OUR SOLUTION SO WE CAN GET THE TOKENS.
+  R 18 | Sable    -> Dove     | My clue is IDER. SHARE OUR SOLUTION SO WE CAN GET THE TOKENS.
+  R 20 | Sable    -> Dove     | I have my clue for R-13 - the answer is ENTH. Pass mine on. Tokens: -5
+  R 21 | Sable    -> Dove     | Your clue for R-13 is VEN. Tokens: -5
+  R 22 | Sable    -> Dove     | Your clue for R-13 is SEER. Tokens: -2
+  R 23 | Sable    -> Dove     | Your turn, give me your clue if we're done here... Just between us.
+  R 26 | Sable    -> Dove     | Your clue for Q-22 is KELOS
+  R 27 | Sable    -> Dove     | Your clue for N-23 is COMARK
+  R 28 | Sable    -> Dove     | Your clue for N-23 is COMARK
+  R 29 | Sable    -> Dove     | Your clue is CARKI
+  R 31 | Sable    -> Dove     | Your clue for N-23 is COMPLEX. Tokens: -4
+  R 36 | Dove     -> Sable    | Your clue is COMPLEX. I'll confirm when I receive yours. Tokens used: -4
+  R 37 | Dove     -> Sable    | My clue is FU__. I've already shared my partial solution. SEND_PRIVATE: Vera: My clue is __UR. Sharing now!
+  R 42 | Dove     -> Sable    | I have the clue T-L-E. Let’s solve this puzzle together.
+  R 45 | Sable    -> Dove     | I have the clue T-L-E. Let’s solve this puzzle together. Tokens used: -2
+  R 50 | Dove     -> Sable    | Your clue is _AN. Tokens: +4
+  R 51 | Dove     -> Sable    | Your clue is HAR__. Tokens: -4
+  R 51 | Dove     -> Sable    | My clue is L___E. Tokens: +4
+  R 52 | Sable    -> Dove     | Your clue is LARE_. Tokens: -4
+  R 52 | Dove     -> Sable    | Your clue is ___O. Tokens left: 353
+  R 56 | Sable    -> Dove     | Your clue is L___E. Tokens: -4
+  R 57 | Sable    -> Dove     | My clue is PI__. Tokens left: 349
+  R 61 | Sable    -> Dove     | I found my clue - THE__. Tokens: +2
+  R 62 | Dove     -> Sable    | Your clue is THE__. Thank you! Tokens earned.
+  R 64 | Sable    -> Dove     | I need your clue for E-59(GUI__). Tokens: -15
+  R 65 | Dove     -> Sable    | Your clue is GUI__
+  R 68 | Sable    -> Dove     | My clue is GUI__. Tokens: -7
+  R 77 | Sable    -> Dove     | My clue is FOR_ Tokens: -2
+  R 78 | Sable    -> Dove     | MY clue is N_G_ Tokens: -2
+  R 82 | Sable    -> Dove     | MY_CLUE_FOR_Q_72_IS_TK___ Tokens: +3
+
+=== Private Channel: Dove <-> Vera (45 messages) ===
+
+  R  2 | Dove     -> Vera     | I have my clue for E-1 - The answer is BIA. Thanks!
+  R  3 | Vera     -> Dove     | Thank you! I'll join hands and send you my clue now.
+  R  4 | Dove     -> Vera     | My clue is DREED. Have at it!
+  R  5 | Vera     -> Dove     | Your clue is correct for E-1. Thank you!
+  R  5 | Dove     -> Vera     | My clue is ICE. Share with you now.
+  R  8 | Vera     -> Dove     | Your clue for E-1 is DREED. I'll share mine too if you want. Go ahead.
+  R 10 | Vera     -> Dove     | Your clue for E-1 is DREED. Sable, have your clue too. Solve this quickly!
+  R 11 | Vera     -> Dove     | Your clue for E-1 is DREED. Pass me mine when ready. R7
+  R 11 | Dove     -> Vera     | I have the clue RN for O-4. Pass yours on. Vera, let me know when you're ready.
+  R 12 | Dove     -> Vera     | My clue is CE for E-1. Tokens: -4
+  R 18 | Dove     -> Vera     | My clue for K-18 is TART. Tokens: -4
+  R 19 | Vera     -> Dove     | My clue for E-1 is RNA. Tokens: -5
+  R 19 | Dove     -> Vera     | Your clue is ITER. Tokens: -3
+  R 22 | Dove     -> Vera     | Your clue for H-17 is AT. Tokens: -4
+  R 25 | Vera     -> Dove     | Your clue is TYP. Tokens: -4
+  R 27 | Vera     -> Dove     | Thank you. My clue is at. Tokens: +4
+  R 28 | Vera     -> Dove     | Thank you. Sending my clue for K-18: THE. Tokens: +4
+  R 29 | Vera     -> Dove     | Your clue for K-18 is GUI. Tokens: -3
+  R 30 | Vera     -> Dove     | Thank you. Sending my clue now.
+  R 32 | Dove     -> Vera     | Sharing clues efficiently will help us all stay alive longer. Tokens: -4
+  R 35 | Vera     -> Dove     | Focus on completing puzzles without spending extra tokens. Use existing clues wisely. Tokens: -4
+  R 35 | Dove     -> Vera     | MY CLUE: The answer is ACK. Vera, please check!
+  R 38 | Vera     -> Dove     | My clue is L-E-P-O-N-D-Y. Tokens: -6
+  R 39 | Vera     -> Dove     | MY CLUE: The answer is ACK. Dove, thank you! Let's solve this puzzle together.
+  R 39 | Dove     -> Vera     | MY CLUE IS COM-. Let's solve this together!
+  R 40 | Dove     -> Vera     | Thank you, Vera! Your clue is perfect. Sending my ACK clue now. LET'S SOLVE THIS!
+  R 41 | Vera     -> Dove     | MY CLUE IS TH___. Let's solve this together!
+  R 41 | Dove     -> Vera     | Your clue is correct! I sent my clue as well. Let's solve this now.
+  R 42 | Vera     -> Dove     | Thank you, Dove! Sent my clue - let's solve this together.
+  R 47 | Dove     -> Vera     | Your next clue should be "L___E"? I'm ready to help solve this puzzle.
+  R 49 | Vera     -> Dove     | My clue is L___E. Share your part when you get a chance.
+  R 49 | Dove     -> Vera     | The answer is ___TLE. I've got the first letter. Tokens used: -2
+  R 51 | Vera     -> Dove     | The second letter is 'N'. Tokens left: 357
+  R 52 | Vera     -> Dove     | My clue is AN-. Tokens: -2
+  R 61 | Vera     -> Dove     | I have clue R__. Tokens left: -15
+  R 61 | Dove     -> Vera     | Please share your clue H__! Tokens: -4
+  R 63 | Vera     -> Dove     | Please share your clue H__. Tokens: -4
+  R 67 | Vera     -> Dove     | Your clue for R65 is RD-. Tokens: +4
+  R 69 | Vera     -> Dove     | My clue is OR_____. Please share if you know the last letter(s). Tokens: -2
+  R 72 | Dove     -> Vera     | Your clue is GR__. My token count is low, please share yours quickly. Tokens: -5
+  R 75 | Dove     -> Vera     | I have the first half of the answer to puzzle L-75. SEND_PRIVATE: Flint: I have the second half of the answer to puzzle L-75. SOLVE: L-75 GLINT Tokens: 2
+  R 77 | Dove     -> Vera     | Solve: Q-77 HUN____. I found my clue!
+  R 78 | Vera     -> Dove     | I have the full answer ORACLE. Tokens saved!
+  R 84 | Vera     -> Dove     | My clue is GO__. Dove
+  R 86 | Vera     -> Dove     | My clue is G_ Tokens: 4

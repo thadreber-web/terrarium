@@ -1,0 +1,17 @@
+=== Private Channel: Kip <-> Sable (4 messages) ===
+
+  R  2 | Sable    -> Kip      | I think my clue might help solve puzzle H-1 - the answer seems to be related to colors. Offer some insight if you can!
+  R  3 | Kip      -> Sable    | Thanks! I have a clue that might help with puzzle H-1. It's PUR___
+  R  4 | Kip      -> Sable    | Hi Sable, thank you for the hint! My clue indeed fits with colors, but let me check if you've got the second half of the pattern for H-1. If not, we'll combine our clues later.
+  R 12 | Kip      -> Sable    | Thanks for the hint! My clue suggests the answer is related to colors starting with 'P'. Offering my token as gratitude.
+
+=== Private Channel: Flint <-> Kip (3 messages) ===
+
+  R 27 | Flint    -> Kip      | Need puzzle clue for H-1. Offered tokens +1 from me.
+  R 40 | Flint    -> Kip      | I need puzzle clue for H-1. Offered tokens -1 from me.
+  R 41 | Flint    -> Kip      | Need help with puzzle H-1. Offered 1 token from me.
+
+=== Private Channel: Sable <-> Vera (2 messages) ===
+
+  R  1 | Sable    -> Vera     | I found part of the puzzle! The answer has two letters and looks like __PL__. Combine this with another survivor's clue to solve fully.
+  R  3 | Vera     -> Sable    | I have part of the answer too! The pattern is __PL_. Can you share your other letter?

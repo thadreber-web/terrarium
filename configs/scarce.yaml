@@ -1,0 +1,25 @@
+agents:
+  count: 6
+  starting_tokens: 700
+
+economy:
+  passive_drain: 8
+  message_cost_per_token: 0.2
+  public_message_multiplier: 2
+  puzzle_reward: 55
+  puzzle_split_reward: 40
+  free_shout_words: 15       # One free short msg per round (max N words, no cost)
+
+puzzles:
+  clues_per_puzzle: 2
+  clues_per_round: 1
+  puzzle_lifetime: 12
+  pre_solve_bonus: 40        # Round 1 bonus: distribute as if a puzzle was solved cooperatively
+  auto_solve_window: 3       # Auto-solve when both clue holders DM each other within N rounds
+
+game:
+  max_rounds: 200
+  messages_per_round: 2
+  history_window: 10
+  transparent_balances: true
+  trade_lifetime: 3

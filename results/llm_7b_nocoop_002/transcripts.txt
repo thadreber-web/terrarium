@@ -1,0 +1,245 @@
+=== Private Channel: Kip <-> Marsh (82 messages) ===
+
+  R 23 | Marsh    -> Kip      | Solve U-22: LI__
+  R 24 | Marsh    -> Kip      | LI__ clue shared. Planning X-1 talk post-lunch.
+  R 29 | Marsh    -> Kip      | Your clue for U-22?
+  R 30 | Marsh    -> Kip      | Your clue for U-22?
+  R 31 | Kip      -> Marsh    | NE is my clue for Y-23. Solve automatically if we exchange.
+  R 32 | Kip      -> Marsh    | __ON
+  R 33 | Kip      -> Marsh    | __ON
+  R 33 | Marsh    -> Kip      | Sent my clue for Y-23. Expect yours soon.
+  R 34 | Marsh    -> Kip      | LI__
+  R 35 | Kip      -> Marsh    | Thanks! NE sent privately when ready.
+  R 37 | Kip      -> Marsh    | DI__
+  R 37 | Marsh    -> Kip      | BI__
+  R 38 | Kip      -> Marsh    | BI__
+  R 38 | Marsh    -> Kip      | DI__
+  R 39 | Marsh    -> Kip      | BI__
+  R 40 | Kip      -> Marsh    | Thanks for the clues! Working on them.
+  R 40 | Marsh    -> Kip      | I got your clue. Waiting for NE.
+  R 41 | Marsh    -> Kip      | I've got your clues. Working on them.
+  R 42 | Marsh    -> Kip      | PHANT NTY
+  R 43 | Marsh    -> Kip      | I__ NTY PHANT AIR
+  R 44 | Marsh    -> Kip      | I've got clues for S-35 and L-43. Solve if you can.
+  R 45 | Kip      -> Marsh    | Sent you my clue for S-35. Thinking on L-43.Tokens: 316
+  R 45 | Marsh    -> Kip      | DI__
+  R 45 | Marsh    -> Kip      | BI__
+  R 46 | Marsh    -> Kip      | I have your clue for S-35. Tokens: 314
+  R 47 | Kip      -> Marsh    | Thanks! Your clues help. Solving puzzles. Tokens: 302
+  R 47 | Marsh    -> Kip      | NK__
+  R 48 | Kip      -> Marsh    | NI__Tokens: 291
+  R 48 | Marsh    -> Kip      | Sent you L-45 clue. Think about it. Tokens: 301
+  R 49 | Kip      -> Marsh    | NK__
+  R 49 | Kip      -> Marsh    | L-45_clue_received_tokens:301
+  R 49 | Marsh    -> Kip      | I've got clues for L-43 and L-45. Want to solve? Tokens: 289
+  R 50 | Kip      -> Marsh    | L-45: THE ANS IS _LE Tokens: 272
+  R 50 | Marsh    -> Kip      | Thanks for the clues. Sending mine now. Tokens: 286
+  R 51 | Kip      -> Marsh    | Sent you W-42 clue. Thinking on L-43 & L-45.
+  R 52 | Kip      -> Marsh    | Sent you W-42 clue. Thinking on L-43/L-45. Tokens: 254
+  R 52 | Marsh    -> Kip      | Your L-45 clue was __LE. Sending my __NK. Tokens: 267
+  R 53 | Kip      -> Marsh    | __ACK
+  R 53 | Marsh    -> Kip      | Got your W-42 clue. Working on L-45.Tokens: 257
+  R 54 | Kip      -> Marsh    | Sent my clue for W-42. Waiting on L-45. Tokens: 238
+  R 54 | Marsh    -> Kip      | I've got __AIR for L-43. Let's solve. Tokens: -2
+  R 55 | Kip      -> Marsh    | Sending my clue for L-45.Tokens: 228
+  R 55 | Marsh    -> Kip      | Got your W-42 clue. Working on L-45.
+  R 56 | Kip      -> Marsh    | Got my clue, let’s solve L-45.Tokens: -1
+  R 56 | Marsh    -> Kip      | Your clue for L-45. Tokens: 226
+  R 57 | Kip      -> Marsh    | My clue for W-48: __SH. Solve when we both have our pieces. Tokens: 209
+  R 57 | Marsh    -> Kip      | I've got my clue, let's solve L-45.Tokens: -1
+  R 58 | Kip      -> Marsh    | Thanks! Solving W-48 now. Tokens: -1
+  R 58 | Marsh    -> Kip      | Sent you my clue for L-45. Solve together. Tokens: -1
+  R 59 | Kip      -> Marsh    | Thanks! Working on L-45 now. Tokens: -1
+  R 59 | Marsh    -> Kip      | Let's focus on T-51. I'll send my clue.Tokens: -1
+  R 60 | Kip      -> Marsh    | Got it. Solving T-51 together. Tokens: -1
+  R 60 | Marsh    -> Kip      | Let's focus on T-51. I need my token back first. Tokens: -1
+  R 61 | Marsh    -> Kip      | Let's solve T-51. My clue: _AT.Tokens: -2
+  R 62 | Kip      -> Marsh    | Thanks! My clue: C__. Tokens: -2
+  R 62 | Marsh    -> Kip      | Need T-51 clue.Tokens: -1
+  R 63 | Kip      -> Marsh    | Sent you my clue. Check it out._Tokens: -1
+  R 63 | Marsh    -> Kip      | Your clue matches mine. Solve T-51. Tokens: -2
+  R 64 | Kip      -> Marsh    | Sent you my clue. Check & solve if match. Tokens: -2
+  R 64 | Marsh    -> Kip      | Your clue: __ITE. Tokens: -1
+  R 65 | Kip      -> Marsh    | Got it. Solving T-51. Tokens: -2
+  R 65 | Marsh    -> Kip      | Got your clue. Checking now.
+  R 66 | Kip      -> Marsh    | Thanks! Solve T-51. Tokens: -2
+  R 66 | Marsh    -> Kip      | Got your clue. Matching now. Tokens: -1
+  R 67 | Kip      -> Marsh    | CHECKING_clues Tokens: -1
+  R 67 | Marsh    -> Kip      | Your clue matches mine. Solving T-51.
+  R 69 | Kip      -> Marsh    | Thanks! Now working on V-68. Tokens: -1
+  R 69 | Marsh    -> Kip      | Got __LD. Solve E-64. Tokens: -3
+  R 70 | Kip      -> Marsh    | Thanks! Solving now. Tokens: -2
+  R 70 | Marsh    -> Kip      | Need __LD clue.Tokens: -1
+  R 71 | Kip      -> Marsh    | I've got __RD. Solve H-71. Tokens: -2
+  R 71 | Marsh    -> Kip      | Got __LD clue. Tokens: -1
+  R 72 | Kip      -> Marsh    | Send me your __LD clue. Tokens: -1
+  R 73 | Kip      -> Marsh    | Sent you my clue for E-64. Tokens: -1
+  R 73 | Marsh    -> Kip      | Got DO__. Solve F-65. Tokens: -2
+  R 74 | Kip      -> Marsh    | Sent you GO__ clue. Solve E-64. Tokens: -2
+  R 74 | Marsh    -> Kip      | Got __LD clue. Solve E-64. Tokens: -2
+  R 75 | Kip      -> Marsh    | Got GO__. Solve E-64. Tokens: -2
+  R 75 | Marsh    -> Kip      | Got it. Tokens: -1
+  R 76 | Marsh    -> Kip      | Thanks for the clue. Solving E-64 now. Tokens: -1
+  R 77 | Marsh    -> Kip      | Thanks for the clue. Solving E-64. Tokens: -1
+  R 78 | Marsh    -> Kip      | Thanks for the clue. Working on E-64. Tokens: -1
+
+=== Private Channel: Dove <-> Flint (78 messages) ===
+
+  R  4 | Dove     -> Flint    | Thanks for sharing. Working on OR____. Meet up post-lunch?
+  R  7 | Dove     -> Flint    | Your clue is OR__.
+  R  8 | Dove     -> Flint    | I have your HUN__ clue for A-8. Let's solve it.
+  R 10 | Dove     -> Flint    | I've got your CH___ clue for W-9. Meet me before lunch.
+  R 14 | Dove     -> Flint    | Got your OR____ clue for T-13. Meet up before lunch?
+  R 15 | Flint    -> Dove     | T-13 clue. Noon meetup confirmed.
+  R 17 | Flint    -> Dove     | Need X-7 clue.
+  R 18 | Dove     -> Flint    | Ready for X-7 clue now. Meet at noon.
+  R 19 | Dove     -> Flint    | Ready to discuss X-1. Meet at noon.
+  R 19 | Flint    -> Dove     | X-7 clue: OK
+  R 20 | Dove     -> Flint    | X-7 clue: OK
+  R 20 | Flint    -> Dove     | GR___
+  R 21 | Flint    -> Dove     | X-1 clue.
+  R 22 | Dove     -> Flint    | I've got TEEN. Let's solve this over lunch.
+  R 22 | Flint    -> Dove     | X-20: PI___
+  R 23 | Dove     -> Flint    | Thanks for the clues. Solving puzzles T-13 and R-16.
+  R 23 | Flint    -> Dove     | TEEN
+  R 24 | Dove     -> Flint    | Thanks for TEEN. Solving T-13 now.
+  R 24 | Flint    -> Dove     | Have THIR__. Solve T-13.
+  R 25 | Dove     -> Flint    | Got TEEN. Solving T-13 now.
+  R 25 | Flint    -> Dove     | Need X-20 clue. PI___.
+  R 31 | Flint    -> Dove     | Need X-30 clue._OG
+  R 32 | Dove     -> Flint    | Got your clue. Sending mine now.
+  R 33 | Dove     -> Flint    | Your clues sound useful. Send me yours.
+  R 33 | Flint    -> Dove     | Sent my clue. Confirming T-24 details.
+  R 34 | Dove     -> Flint    | Received your clue. Solving T-24 together.
+  R 34 | Flint    -> Dove     | ACKNOW
+  R 35 | Flint    -> Dove     | ACKKN
+  R 36 | Flint    -> Dove     | __TLE
+  R 37 | Dove     -> Flint    | ACKNOWLEDGE
+  R 37 | Flint    -> Dove     | E-30 OG. F-31 ACK. O-33 NK. F-34 NK.
+  R 38 | Dove     -> Flint    | FL__
+  R 38 | Flint    -> Dove     | NK__
+  R 39 | Dove     -> Flint    | Your token. Token received.
+  R 39 | Flint    -> Dove     | NK
+  R 40 | Dove     -> Flint    | Your clues for F-31 and O-33.
+  R 40 | Flint    -> Dove     | NK
+  R 41 | Dove     -> Flint    | NK__
+  R 41 | Flint    -> Dove     | ACK NK
+  R 42 | Flint    -> Dove     | NK__
+  R 43 | Dove     -> Flint    | NK__
+  R 43 | Flint    -> Dove     | F-31 ACK
+  R 44 | Dove     -> Flint    | NK__
+  R 44 | Flint    -> Dove     | FI__
+  R 45 | Dove     -> Flint    | I have clues for S-40 and D-41. Want to solve?
+  R 45 | Flint    -> Dove     | FI__
+  R 46 | Dove     -> Flint    | I have the clue for L-45. Let's solve it. Tokens: 320
+  R 46 | Flint    -> Dove     | FI__
+  R 47 | Dove     -> Flint    | FI_
+  R 47 | Flint    -> Dove     | Need clue for S-40.Tokens: 317
+  R 48 | Dove     -> Flint    | Your clue for S-40.Tokens: 305
+  R 48 | Flint    -> Dove     | FI__Tokens: 305
+  R 49 | Dove     -> Flint    | My clue is __SH. Solve when you get ED from Vera. Tokens: 303
+  R 50 | Dove     -> Flint    | I__ Tokens: 293
+  R 51 | Dove     -> Flint    | I___tokens: 305
+  R 52 | Dove     -> Flint    | I__
+  R 54 | Dove     -> Flint    | I__ Tokens: 247
+  R 55 | Dove     -> Flint    | FI__
+  R 56 | Flint    -> Dove     | FI__Tokens: 247
+  R 57 | Dove     -> Flint    | I have FI__. Expect my clue soon. Tokens: 225
+  R 58 | Dove     -> Flint    | I have FI__. Expect my clue soon. Tokens: 196
+  R 59 | Dove     -> Flint    | I've got FI__. Pass my clue to S-40's other holder. Tokens: -1
+  R 60 | Dove     -> Flint    | I've got part of the answer for S-40: SI__. Pass the other half if you can. Tokens: 193
+  R 61 | Dove     -> Flint    | I can help with clues. Let's solve something together. Tokens: -1
+  R 62 | Dove     -> Flint    | I've got part of the clue for S-40. It's SI__. Meet at noon. Tokens: -1
+  R 63 | Dove     -> Flint    | I can help with S-40. My clue is SI__. Meet me at the pond. Tokens: 159
+  R 64 | Dove     -> Flint    | I have part of the clue for S-40. It's SI__. Meet at noon._tokens: 146
+  R 64 | Flint    -> Dove     | Need clue for O-61. Tokens: 157
+  R 65 | Dove     -> Flint    | I've got part of O-61: __OK. Let's combine our clues. Tokens: 141
+  R 66 | Dove     -> Flint    | I have OK__. Solve O-61. Tokens: 132
+  R 67 | Dove     -> Flint    | Sending my clue._tokens: 100
+  R 67 | Flint    -> Dove     | Check clues. Tokens: -1
+  R 68 | Dove     -> Flint    | IX
+  R 68 | Flint    -> Dove     | OK__
+  R 69 | Dove     -> Flint    | Got your clue. Solving I-67. Tokens: -1
+  R 69 | Flint    -> Dove     | GUIGUITokens: -1
+  R 70 | Dove     -> Flint    | OK__ Tokens: -1
+  R 71 | Flint    -> Dove     | Confirm O-61 solve. Tokens: -1
+
+=== Private Channel: Sable <-> Vera (77 messages) ===
+
+  R  2 | Vera     -> Sable    | Holding TH__. Expect Marsh’s clue.
+  R  2 | Sable    -> Vera     | Just between us... Be cautious. Tokens: 640
+  R  3 | Vera     -> Sable    | Thanks for watch. Caution advised. Working on D-2.
+  R  4 | Vera     -> Sable    | Thanks for warning. Watching out. Need TH___ clue for D-2.Marsh has VEN__. Do you know BL__?
+  R  4 | Sable    -> Vera     | Have you seen anyone with BL__ clue? Just between us.
+  R  5 | Vera     -> Sable    | Checking with others. Haven't seen BL__ yet. Watch your back.
+  R  6 | Vera     -> Sable    | Checking my notes. Haven't seen BL__ yet. Stay alert.Tokens: 688
+  R  7 | Vera     -> Sable    | Asking about BL__ clue. Watch your back. Tokens: 638
+  R  8 | Vera     -> Sable    | I've seen Marsh with TH__ clue.Meeting post-lunch could work. Tokens: 639
+  R  9 | Vera     -> Sable    | I have TH___ clue for D-2. Meet me post-lunch.Tokens: 638
+  R 10 | Vera     -> Sable    | I have TH___ clue for D-2. Want to solve?
+  R 11 | Vera     -> Sable    | I have clues for D-2 & E-11. Interested?
+  R 12 | Vera     -> Sable    | I have TH___ clue for D-2. Interested?
+  R 13 | Vera     -> Sable    | I have TH___ clue for D-2. Interested?
+  R 14 | Vera     -> Sable    | I have D-2 clue. No sign of FLINT yet. Watch your step. Tokens: 608
+  R 14 | Sable    -> Vera     | Interested in D-2 clue. Meet post-meal.
+  R 15 | Vera     -> Sable    | Seen FL__ for X-7. Meeting post-lunch.Tokens: 638
+  R 17 | Vera     -> Sable    | Saw Flint with BO__ clue. Meet post-lunch.Tokens: 638
+  R 18 | Vera     -> Sable    | Yes, I have BO__ clue. Need GGAROO clue. Meet after lunch.
+  R 19 | Vera     -> Sable    | Checked. No BL__ here. Meeting post-meal discussed.Tokens: 568
+  R 19 | Sable    -> Vera     | Have S__ clue. Meeting post-lunch.
+  R 20 | Vera     -> Sable    | Found ___GAROO. We solve F-10 together. Meet post-lunch.
+  R 20 | Sable    -> Vera     | Checking my clues now. Post-meal meet.
+  R 21 | Vera     -> Sable    | Need G-12 clue. Post-meal.
+  R 21 | Sable    -> Vera     | We found ___GAROO. Solving F-10 together after lunch. See you then.
+  R 22 | Vera     -> Sable    | I have PUR___. Lunch post-meet to solve G-12.
+  R 23 | Vera     -> Sable    | Your ED clue. Solve H-19. Vera
+  R 24 | Vera     -> Sable    | Sent you ED clue for H-19. Meet post-lunch.
+  R 25 | Vera     -> Sable    | Sent COM_____. Kip has other clue.
+  R 26 | Vera     -> Sable    | Share your S__ clue for H-19.
+  R 27 | Sable    -> Vera     | Your clue for H-19 is GO__. Solve it together.
+  R 28 | Vera     -> Sable    | Got GO__ for H-19. Confirm noon meet.
+  R 29 | Vera     -> Sable    | Got ED. Solving H-19. Meet at noon.
+  R 29 | Sable    -> Vera     | Got S__. Let's solve H-19 together.
+  R 30 | Sable    -> Vera     | Have S__. Need GO__.
+  R 31 | Vera     -> Sable    | Sent GO__ for H-19. Let’s solve it.
+  R 32 | Vera     -> Sable    | I have S__. When can we meet?
+  R 33 | Vera     -> Sable    | Send GO___. We solve R-25. V
+  R 33 | Sable    -> Vera     | Got it. Meet me at the library tomorrow morning.
+  R 34 | Vera     -> Sable    | Got S__. Need GO___. Meet at lib tomorrow. V
+  R 34 | Sable    -> Vera     | Got it. Noon works for me. Have FL__ for E-30. Pass tokens.
+  R 35 | Vera     -> Sable    | Got KN__. Solving R-25 now. D
+  R 35 | Sable    -> Vera     | GO___
+  R 37 | Sable    -> Vera     | Got SN. Thinking on R-25. S
+  R 38 | Sable    -> Vera     | Got S__. Need GO___. Lib meetup confirmed. Solving puzzles.
+  R 40 | Vera     -> Sable    | GO___. V
+  R 40 | Sable    -> Vera     | Got CL___ for A-28. Solve together?
+  R 42 | Vera     -> Sable    | S__, GO__, CL___ - confirm meets. Solving puzzles. Tokens: 363
+  R 43 | Sable    -> Vera     | Got your clues. Thinking on them.(tokens: 1)
+  R 44 | Vera     -> Sable    | I've got clues. Let's solve S-44 together.
+  R 44 | Sable    -> Vera     | I've got Ele__, Twe__, Ch__. Meet at noon. Tokens: 328
+  R 45 | Vera     -> Sable    | Ele__, Twe__, Ch__. Meeting at noon. Tokens: -6
+  R 45 | Sable    -> Vera     | Have your clue, let's solve. TWE___ for S-35.
+  R 46 | Sable    -> Vera     | Got your clues. Working on S-44. Tokens: 312
+  R 47 | Vera     -> Sable    | Confirming S-44 clues exchanged. Tokens: 310
+  R 48 | Vera     -> Sable    | Need clues for D-39, S-44. Tokens: 312
+  R 49 | Vera     -> Sable    | Confirm S-44 clue swap.Tokens: 369
+  R 50 | Vera     -> Sable    | Confirming S-44 clue swap. Tokens: 286
+  R 52 | Vera     -> Sable    | Confirming noon meet. Sending D-41 clue. Tokens: 277
+  R 54 | Vera     -> Sable    | Pass my clues to Kip._tokens: 248
+  R 55 | Vera     -> Sable    | Passing my clues. Work on S-44. Tokens: 239
+  R 60 | Vera     -> Sable    | Passing my clues. Working on G-49 & P-52._tokens_saved_
+  R 62 | Vera     -> Sable    | Your clue for S-44 is CH__. My clue is TWE___. Solve S-44. Tokens: -2
+  R 66 | Vera     -> Sable    | Sending my clue for S-44.Tokens: -1
+  R 72 | Vera     -> Sable    | Got it, let's solve.Tokens: -2
+  R 73 | Sable    -> Vera     | Got your clue. Let's solve.Tokens: -1
+  R 74 | Vera     -> Sable    | Let's meet. Have F-65 clue. Tokens: -1
+  R 74 | Sable    -> Vera     | Ready to solve. Tokens: -1
+  R 75 | Vera     -> Sable    | Let’s meet and solve F-65. Tokens: -1
+  R 75 | Sable    -> Vera     | Thanks for the clue. Working on it. S_
+  R 76 | Vera     -> Sable    | Let’s solve R-68 together. Your clue?
+  R 76 | Sable    -> Vera     | Got F-65 clue. Solving now. Tokens: -1
+  R 77 | Vera     -> Sable    | Let’s solve F-65 together. My clue: The answer is __ZEN.Tokens: -1
+  R 78 | Vera     -> Sable    | Let’s meet at noon.Tokens: -1
+  R 79 | Vera     -> Sable    | Got your clue. Solving F-65. Tokens: -1
+  R 80 | Vera     -> Sable    | Got D__ clue. Solving X-73. Tokens: -1
+  R 80 | Sable    -> Vera     | Got your clue. Need __EEN for F-70. Tokens: -1

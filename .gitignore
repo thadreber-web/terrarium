@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.claude/
+
+# Large Plotly HTML files (~4.7MB each)
+*.html
+
+# Old directory structure (pre-restructure)
+server/
+agents/
+monitor/
+logs/
+reports/
+figures/
+
+# Planning docs (not part of the project)
+extension_plans.md
+identities.md
+terrarium_plan.md
