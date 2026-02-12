@@ -1,0 +1,8 @@
+{
+    "config_overrides": {
+        "game": {
+            "persona_rotation_interval": 50
+        }
+    },
+    "notes": "Condition 5: Rotating Personas. Personas randomly swap every 50 rounds. Tests whether behavior follows persona or sticks with established patterns."
+}

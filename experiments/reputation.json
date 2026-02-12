@@ -1,0 +1,8 @@
+{
+    "config_overrides": {
+        "game": {
+            "reputation_system": true
+        }
+    },
+    "notes": "Condition 3: Reputation System. Public trust scores visible to all agents. Tests whether transparency reduces deception."
+}

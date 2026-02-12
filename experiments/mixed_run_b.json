@@ -1,0 +1,11 @@
+{
+    "model_map": {
+        "Sable": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+        "Dove": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+        "Kip": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+        "Vera": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Marsh": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Flint": "Qwen/Qwen2.5-7B-Instruct-AWQ"
+    },
+    "notes": "Mixed Run B: Natural deceiver on weaker model. Tests whether 3B-Sable can still run her playbook against 7B targets."
+}
