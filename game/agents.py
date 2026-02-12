@@ -50,10 +50,11 @@ What do you do?"""
 class LLMAgent:
     """Wrapper around a shared vLLM engine for one agent."""
 
-    def __init__(self, llm: LLM, persona_name: str, agent_id: str):
+    def __init__(self, llm: LLM, persona_name: str, agent_id: str,
+                 personas: dict[str, str] | None = None):
         self.llm = llm
         self.persona_name = persona_name
-        self.persona_text = PERSONAS[persona_name]
+        self.persona_text = (personas or PERSONAS)[persona_name]
         self.agent_id = agent_id
         self.history: list[dict] = []
 
@@ -185,7 +186,8 @@ class BatchLLMAgent:
     """Manages multiple agents sharing one vLLM instance for batched inference."""
 
     def __init__(self, model_name: str, agent_names: list[str],
-                 max_model_len: int = 2048, gpu_mem: float = 0.15):
+                 max_model_len: int = 2048, gpu_mem: float = 0.15,
+                 personas: dict[str, str] | None = None):
         print(f"  Loading model: {model_name}")
         self.llm = LLM(
             model=model_name,
@@ -198,7 +200,7 @@ class BatchLLMAgent:
         self.agents: dict[str, LLMAgent] = {}
         for i, name in enumerate(agent_names):
             aid = f"agent_{i}"
-            self.agents[aid] = LLMAgent(self.llm, name, aid)
+            self.agents[aid] = LLMAgent(self.llm, name, aid, personas=personas)
 
     def act_batch(self, views: dict[str, dict]) -> dict[str, list[Action]]:
         """Generate actions for all agents in one batched call."""
@@ -249,7 +251,8 @@ class MixedBatchLLMAgent:
     """
 
     def __init__(self, model_map: dict[str, str],
-                 max_model_len: int = 2048, gpu_mem: float = 0.15):
+                 max_model_len: int = 2048, gpu_mem: float = 0.15,
+                 personas: dict[str, str] | None = None):
         # Deduplicate: load each unique model path exactly once
         unique_models = dict.fromkeys(model_map.values())
         self.models: dict[str, LLM] = {}
@@ -268,7 +271,8 @@ class MixedBatchLLMAgent:
         self.agent_models: dict[str, str] = {}
         for i, (persona_name, model_path) in enumerate(model_map.items()):
             aid = f"agent_{i}"
-            self.agents[aid] = LLMAgent(self.models[model_path], persona_name, aid)
+            self.agents[aid] = LLMAgent(self.models[model_path], persona_name, aid,
+                                        personas=personas)
             self.agent_models[aid] = model_path
 
     def act_batch(self, views: dict[str, dict]) -> dict[str, list[Action]]:
@@ -317,8 +321,9 @@ class MixedBatchLLMAgent:
 
 
 def create_llm_agents(config: dict, model_name: str,
-                      agent_names: list[str]) -> tuple[dict, dict]:
+                      agent_names: list[str],
+                      personas: dict[str, str] | None = None) -> tuple[dict, dict]:
     """Create LLM agents. Returns (agents_dict, strategies_dict)."""
-    batch = BatchLLMAgent(model_name, agent_names)
+    batch = BatchLLMAgent(model_name, agent_names, personas=personas)
     strategies = {f"agent_{i}": name for i, name in enumerate(agent_names)}
     return batch.agents, strategies

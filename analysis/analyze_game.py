@@ -648,6 +648,13 @@ def build_game_report(events: list[dict], names: dict[str, str]) -> dict:
                 report["token_transfers"].get(key, 0) + e.get("amount", 0)
             )
 
+    # Extract model assignments
+    report["agent_models"] = {}
+    for e in events:
+        if e.get("event_type") == "AGENT_MODEL":
+            aid = e.get("agent", "")
+            report["agent_models"][names.get(aid, aid)] = e.get("model", "unknown")
+
     return report
 
 
@@ -665,6 +672,9 @@ def build_comparison_table(reports: list[dict]) -> str:
     lines.append("|--------|" + "|".join(["--------"] * len(reports)) + "|")
 
     metrics = [
+        ("Model config", lambda r: ", ".join(
+            f"{n}:{m.split('/')[-1][:3]}" for n, m in r.get("agent_models", {}).items()
+        ) or "single"),
         ("Total rounds", lambda r: str(r["total_rounds"])),
         ("Survivors", lambda r: ", ".join(r["survivors"]) or "none"),
         ("Puzzles solved", lambda r: str(r["puzzles_solved"])),
