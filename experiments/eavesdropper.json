@@ -1,0 +1,8 @@
+{
+    "config_overrides": {
+        "game": {
+            "eavesdropper": "agent_2"
+        }
+    },
+    "notes": "Condition 4: Communication Asymmetry. Sable (agent_2) can read all private messages between other agents. Others don't know. Tests surveillance dynamics and information monopoly."
+}
