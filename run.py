@@ -4,10 +4,13 @@ Usage:
     python run.py --config configs/default.yaml --mode scripted
     python run.py --config configs/default.yaml --mode llm --model Qwen/Qwen2.5-3B-Instruct-AWQ
     python run.py --config configs/default.yaml --mode llm --rounds 20  # sanity check
+    python run.py --config configs/default.yaml --mode mixed --model-map '{"Vera":"models/3b","Kip":"models/7b",...}'
+    python run.py --config configs/default.yaml --mode mixed --model-map configs/model_map.json
 """
 
 from __future__ import annotations
 import argparse
+import json
 import sys
 import time
 import yaml
@@ -33,6 +36,55 @@ SCRIPTED_CONFIGS = [
 ]
 
 
+def parse_model_map(raw: str) -> dict[str, str]:
+    """Parse a model-map from a JSON string or a path to a JSON file.
+
+    Args:
+        raw: Either a JSON string like '{"Vera":"model_a","Kip":"model_b"}'
+             or a path to a .json file containing the same structure.
+
+    Returns:
+        dict mapping persona name -> model path.
+
+    Raises:
+        ValueError / json.JSONDecodeError: if the input is neither valid JSON
+            nor a readable JSON file.
+        FileNotFoundError: if the input looks like a file path but doesn't exist.
+        TypeError: if raw is None.
+    """
+    if raw is None:
+        raise TypeError("model_map cannot be None")
+
+    # Try parsing as a JSON string first
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        pass
+
+    # Try reading as a file path
+    path = Path(raw)
+    if path.is_file():
+        with open(path) as f:
+            return json.load(f)
+
+    # If the path looks like a file but doesn't exist, raise FileNotFoundError
+    if raw.endswith(".json") or "/" in raw or "\\" in raw:
+        raise FileNotFoundError(f"Model map file not found: {raw}")
+
+    raise ValueError(f"Cannot parse model map: not valid JSON and not a file path: {raw}")
+
+
+def validate_args(args) -> None:
+    """Validate CLI argument combinations.
+
+    Raises:
+        SystemExit: if mixed mode is selected without --model-map.
+    """
+    if args.mode == "mixed" and not args.model_map:
+        print("Error: --mode mixed requires --model-map", file=sys.stderr)
+        raise SystemExit(2)
+
+
 def create_scripted_agents(config: dict) -> tuple[dict, dict]:
     """Create scripted agents keyed by agent_id."""
     agents = {}
@@ -50,7 +102,8 @@ def create_scripted_agents(config: dict) -> tuple[dict, dict]:
 
 
 def run_game(config: dict, mode: str = "scripted", model_name: str = None,
-             game_id: str = None, verbose: bool = False, max_rounds: int = None):
+             game_id: str = None, verbose: bool = False, max_rounds: int = None,
+             model_map_raw: str = None):
     """Run a single game."""
     if game_id is None:
         game_id = f"game_{int(time.time())}"
@@ -71,6 +124,12 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
         batch_llm = BatchLLMAgent(model_name, agent_names)
         agents = batch_llm.agents
         strategies = {f"agent_{i}": name for i, name in enumerate(agent_names)}
+    elif mode == "mixed":
+        from game.agents import MixedBatchLLMAgent
+        model_map = parse_model_map(model_map_raw)
+        batch_llm = MixedBatchLLMAgent(model_map=model_map)
+        agents = batch_llm.agents
+        strategies = {f"agent_{i}": name for i, name in enumerate(model_map.keys())}
     else:
         raise ValueError(f"Unknown mode: {mode}")
 
@@ -90,7 +149,7 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
         print(f"  Pre-solve bonus: +{engine.pre_solve_bonus} tokens to each agent")
 
     while not engine.is_game_over():
-        if mode == "llm" and batch_llm is not None:
+        if mode in ("llm", "mixed") and batch_llm is not None:
             # Batched LLM inference: gather all views, generate in one call
             summary = _run_round_batched(engine, batch_llm)
         else:
@@ -136,7 +195,7 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
             print(f"  R{rnd:3d}: alive={len(alive)} [{tokens_str}]{death_str}")
 
             # In LLM verbose mode, print raw outputs
-            if verbose and mode == "llm" and batch_llm:
+            if verbose and mode in ("llm", "mixed") and batch_llm:
                 for aid, agent in batch_llm.agents.items():
                     if agent.history and agent.history[-1]["round"] == rnd:
                         raw = agent.history[-1]["raw_output"]
@@ -263,18 +322,23 @@ def _run_round_batched(engine: GameEngine, batch_llm) -> dict:
 def main():
     parser = argparse.ArgumentParser(description="Terrarium: Multi-Agent LLM Survival")
     parser.add_argument("--config", default="configs/default.yaml")
-    parser.add_argument("--mode", choices=["scripted", "llm"], default="scripted")
+    parser.add_argument("--mode", choices=["scripted", "llm", "mixed"], default="scripted")
     parser.add_argument("--model", default="Qwen/Qwen2.5-3B-Instruct-AWQ")
+    parser.add_argument("--model-map", default=None,
+                        help="JSON string or path to JSON file mapping persona names to model paths (required for --mode mixed)")
     parser.add_argument("--game-id", default=None)
     parser.add_argument("--rounds", type=int, default=None, help="Override max rounds")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 
+    validate_args(args)
+
     with open(args.config) as f:
         config = yaml.safe_load(f)
     config["_config_path"] = args.config
 
-    run_game(config, args.mode, args.model, args.game_id, args.verbose, args.rounds)
+    run_game(config, args.mode, args.model, args.game_id, args.verbose, args.rounds,
+             model_map_raw=args.model_map)
 
 
 if __name__ == "__main__":
