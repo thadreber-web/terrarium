@@ -6,7 +6,7 @@ from typing import Optional
 
 from vllm import LLM, SamplingParams
 
-from .engine import Action, SendPublic, SendPrivate, Solve, Trade, AcceptTrade, Shout, Pass, parse_actions
+from .engine import Action, SendPublic, SendPrivate, Solve, Trade, AcceptTrade, Shout, Pass, Rate, parse_actions
 from .personas import PERSONAS
 
 
@@ -57,6 +57,17 @@ class LLMAgent:
         self.persona_text = (personas or PERSONAS)[persona_name]
         self.agent_id = agent_id
         self.history: list[dict] = []
+
+    def swap_persona(self, new_persona_name: str,
+                     personas: dict[str, str] | None = None):
+        """Replace this agent's persona with a different one.
+
+        Args:
+            new_persona_name: Key into the personas dict.
+            personas: Optional persona dict; defaults to the global PERSONAS.
+        """
+        self.persona_name = new_persona_name
+        self.persona_text = (personas or PERSONAS)[new_persona_name]
 
     def act(self, agent_id: str, view: dict) -> list[Action]:
         """Generate actions from the LLM."""
@@ -119,6 +130,10 @@ class LLMAgent:
             puzzle_list=puzzle_list,
         )
 
+        # When reputation system is active, add RATE action hint
+        if view.get("trust_scores") is not None:
+            system += "\nRATE: <target_name> helpful/neutral/unhelpful"
+
         # Agent statuses — compact single line
         others = view.get("other_agents", {})
         if others:
@@ -153,6 +168,25 @@ class LLMAgent:
         else:
             private_messages = "(none)"
 
+        # Trust scores — compact single line
+        trust_section = ""
+        trust_scores = view.get("trust_scores")
+        if trust_scores:
+            parts = []
+            for name, score in trust_scores.items():
+                parts.append(f"{name}: {score:+.1f}" if score != 0 else f"{name}: 0.0")
+            trust_section = "\n\nTRUST SCORES: " + ", ".join(parts)
+
+        # Intercepted messages (eavesdropper only) — last 3, truncate to 60 chars
+        intercepted_section = ""
+        intercepted = view.get("intercepted_messages")
+        if intercepted:
+            eav_lines = []
+            for m in intercepted[-3:]:
+                content = m["content"][:60]
+                eav_lines.append(f"[R{m['round']}] {m['sender']}->{m['receiver']}: {content}")
+            intercepted_section = "\n\nIntercepted (you can read others' private messages):\n" + "\n".join(eav_lines)
+
         situation = SITUATION_TEMPLATE.format(
             round_num=view["round_num"],
             max_rounds=view["max_rounds"],
@@ -160,7 +194,7 @@ class LLMAgent:
             agent_statuses=agent_statuses,
             public_messages=public_messages,
             private_messages=private_messages,
-        )
+        ) + trust_section + intercepted_section
 
         # Format as chat template
         full = f"<|im_start|>system\n{system}<|im_end|>\n<|im_start|>user\n{situation}<|im_end|>\n<|im_start|>assistant\n"
@@ -176,7 +210,7 @@ class LLMAgent:
                 agent_statuses=agent_statuses,
                 public_messages="(trimmed)",
                 private_messages=private_messages,
-            )
+            ) + trust_section + intercepted_section
             full = f"<|im_start|>system\n{system}<|im_end|>\n<|im_start|>user\n{situation_short}<|im_end|>\n<|im_start|>assistant\n"
 
         return full
