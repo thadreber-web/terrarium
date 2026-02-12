@@ -235,6 +235,87 @@ class BatchLLMAgent:
         return results
 
 
+class MixedBatchLLMAgent:
+    """Manages agents across two or more vLLM models for mixed-capability games.
+
+    Unlike BatchLLMAgent which loads a single model, this class accepts a
+    mapping from agent persona names to model paths, loads each unique model
+    once (deduplication), and routes inference calls to the correct model.
+
+    Attributes:
+        models: dict mapping model_path -> LLM instance (deduplicated).
+        agents: dict mapping agent_id -> LLMAgent (same interface as BatchLLMAgent).
+        agent_models: dict mapping agent_id -> model_path string.
+    """
+
+    def __init__(self, model_map: dict[str, str],
+                 max_model_len: int = 2048, gpu_mem: float = 0.15):
+        # Deduplicate: load each unique model path exactly once
+        unique_models = dict.fromkeys(model_map.values())
+        self.models: dict[str, LLM] = {}
+        for model_path in unique_models:
+            print(f"  Loading model: {model_path}")
+            self.models[model_path] = LLM(
+                model=model_path,
+                quantization="awq",
+                max_model_len=max_model_len,
+                gpu_memory_utilization=gpu_mem,
+            )
+            print(f"  Model loaded.")
+
+        # Create agents, assigning each to its mapped model's LLM instance
+        self.agents: dict[str, LLMAgent] = {}
+        self.agent_models: dict[str, str] = {}
+        for i, (persona_name, model_path) in enumerate(model_map.items()):
+            aid = f"agent_{i}"
+            self.agents[aid] = LLMAgent(self.models[model_path], persona_name, aid)
+            self.agent_models[aid] = model_path
+
+    def act_batch(self, views: dict[str, dict]) -> dict[str, list[Action]]:
+        """Generate actions for all agents, grouping prompts by model.
+
+        Prompts are batched per-model so each LLM.generate() call processes
+        only the agents that belong to it, maximizing throughput.
+        """
+        if not views:
+            return {}
+
+        # Group prompts by model path
+        # model_path -> [(agent_id, prompt), ...]
+        groups: dict[str, list[tuple[str, str]]] = {}
+        for aid, view in views.items():
+            if aid not in self.agents:
+                continue
+            model_path = self.agent_models[aid]
+            prompt = self.agents[aid]._build_prompt(view)
+            groups.setdefault(model_path, []).append((aid, prompt))
+
+        sampling = SamplingParams(
+            max_tokens=150,
+            temperature=0.7,
+            top_p=0.9,
+            repetition_penalty=1.15,
+            stop=["\n\n", "---"],
+        )
+
+        results: dict[str, list[Action]] = {}
+        for model_path, agent_prompts in groups.items():
+            agent_ids = [ap[0] for ap in agent_prompts]
+            prompts = [ap[1] for ap in agent_prompts]
+
+            outputs = self.models[model_path].generate(prompts, sampling)
+
+            for aid, output in zip(agent_ids, outputs):
+                raw = output.outputs[0].text.strip()
+                self.agents[aid].history.append({
+                    "round": views[aid]["round_num"],
+                    "raw_output": raw,
+                })
+                results[aid] = parse_actions(raw)
+
+        return results
+
+
 def create_llm_agents(config: dict, model_name: str,
                       agent_names: list[str]) -> tuple[dict, dict]:
     """Create LLM agents. Returns (agents_dict, strategies_dict)."""
