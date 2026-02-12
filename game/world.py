@@ -104,6 +104,7 @@ class WorldState:
         self.solved_puzzles: list[Puzzle] = []
         self.event_log: list[Event] = []
         self.pending_trades: list[TradeOffer] = []
+        self.trust_scores: dict[tuple[str, str], int] = {}
         self._trade_counter: int = 0
 
     def next_trade_id(self) -> str:
@@ -177,7 +178,7 @@ class WorldState:
             and not t.is_expired(self.round_num)
         ]
 
-        return {
+        view = {
             "round_num": self.round_num,
             "max_rounds": self.config["game"]["max_rounds"],
             "your_tokens": agent.tokens,
@@ -196,6 +197,43 @@ class WorldState:
             "active_puzzles": visible_puzzles,
             "incoming_trades": incoming_trades,
         }
+
+        # Trust scores: include averaged per-agent scores when reputation_system is enabled
+        if self.config["game"].get("reputation_system", False) and self.trust_scores:
+            from collections import defaultdict
+            totals: dict[str, list[int]] = defaultdict(list)
+            for (rater, rated), score in self.trust_scores.items():
+                # Only include scores for alive agents
+                rated_agent = self.agents.get(rated)
+                if rated_agent and rated_agent.alive:
+                    totals[rated].append(score)
+            averaged: dict[str, float] = {}
+            for rated_id, scores in totals.items():
+                name = self.agents[rated_id].name
+                averaged[name] = round(sum(scores) / len(scores), 2)
+            if averaged:
+                view["trust_scores"] = averaged
+
+        # Eavesdropper: collect private messages from all OTHER agents' inboxes
+        eavesdropper_id = self.config["game"].get("eavesdropper")
+        if eavesdropper_id and agent_id == eavesdropper_id:
+            intercepted: list[dict] = []
+            for aid, inbox in self.private_messages.items():
+                if aid == agent_id:
+                    continue  # skip own inbox
+                receiver_name = self.agents[aid].name
+                for m in inbox:
+                    intercepted.append({
+                        "sender": m.sender,
+                        "receiver": receiver_name,
+                        "content": m.content,
+                        "round": m.round_num,
+                    })
+            # Sort by round, then limit to last history_window entries
+            intercepted.sort(key=lambda x: x["round"])
+            view["intercepted_messages"] = intercepted[-history_window:]
+
+        return view
 
     def log_event(self, event_type: str, agent: str, content: dict):
         event = Event(

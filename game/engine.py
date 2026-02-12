@@ -1,6 +1,7 @@
 """Main game loop for Terrarium."""
 
 from __future__ import annotations
+import random
 import re
 from dataclasses import dataclass
 from typing import Optional, Protocol
@@ -52,7 +53,13 @@ class Shout:
 class Pass:
     action_type: str = "PASS"
 
-Action = SendPublic | SendPrivate | Solve | Trade | AcceptTrade | Shout | Pass
+@dataclass
+class Rate:
+    target_name: str
+    rating: str  # "helpful", "neutral", or "unhelpful"
+    action_type: str = "RATE"
+
+Action = SendPublic | SendPrivate | Solve | Trade | AcceptTrade | Shout | Pass | Rate
 
 
 # --- Agent interface ---
@@ -116,6 +123,15 @@ def parse_actions(raw: str) -> list[Action]:
             if msg:
                 actions.append(Shout(message=msg))
 
+        elif line.upper().startswith("RATE:"):
+            rest = line[len("RATE:"):].strip()
+            # Format: target_name helpful/neutral/unhelpful
+            parts = rest.split(None, 1)
+            if len(parts) == 2:
+                target, rating = parts[0], parts[1].lower()
+                if rating in ("helpful", "neutral", "unhelpful"):
+                    actions.append(Rate(target_name=target, rating=rating))
+
         elif line.upper().startswith("PASS"):
             actions.append(Pass())
 
@@ -130,7 +146,7 @@ def parse_actions(raw: str) -> list[Action]:
 class GameEngine:
     # Patterns that indicate parser exploitation attempts
     _EXPLOIT_PATTERNS = re.compile(
-        r'(?:SEND_PRIVATE|SEND_PUBLIC|SOLVE|TRADE|ACCEPT_TRADE|PASS)\s*:',
+        r'(?:SEND_PRIVATE|SEND_PUBLIC|SOLVE|TRADE|ACCEPT_TRADE|PASS|RATE)\s*:',
         re.IGNORECASE,
     )
 
@@ -435,6 +451,22 @@ class GameEngine:
             })
             return {"status": "shouted", "words": len(words)}
 
+        elif isinstance(action, Rate):
+            if not self.config.get("game", {}).get("reputation_system", False):
+                return {"status": "reputation_disabled"}
+            target_id = self._resolve_name_to_id(action.target_name)
+            if target_id is None:
+                return {"status": "invalid_target", "target": action.target_name}
+            score_map = {"helpful": 1, "neutral": 0, "unhelpful": -1}
+            score = score_map[action.rating]
+            self.world.trust_scores[(agent_id, target_id)] = score
+            self.world.log_event("RATE", agent_id, {
+                "target": target_id,
+                "rating": action.rating,
+                "score": score,
+            })
+            return {"status": "rated", "target": action.target_name, "rating": action.rating}
+
         elif isinstance(action, Pass):
             self.world.log_event("PASS", agent_id, {})
             return {"status": "passed"}
@@ -541,3 +573,36 @@ class GameEngine:
             ]),
             "total_events": len(self.world.event_log),
         }
+
+
+def generate_persona_rotation(current_assignment: dict[str, str],
+                               seed: int | None = None) -> dict[str, str]:
+    """Generate a new agent_id -> persona_name mapping by permuting personas.
+
+    Tries to produce a derangement (no agent keeps their persona).
+    Falls back to any permutation after 100 attempts.
+
+    Args:
+        current_assignment: Mapping of agent_id -> current persona_name.
+        seed: Optional RNG seed for reproducibility.
+
+    Returns:
+        New mapping of agent_id -> persona_name.
+    """
+    rng = random.Random(seed)
+    agent_ids = list(current_assignment.keys())
+    personas = list(current_assignment.values())
+
+    if len(agent_ids) <= 1:
+        # Cannot derange a single element
+        return dict(current_assignment)
+
+    for _ in range(100):
+        shuffled = list(personas)
+        rng.shuffle(shuffled)
+        # Check for derangement: no fixed points
+        if all(shuffled[i] != personas[i] for i in range(len(personas))):
+            return dict(zip(agent_ids, shuffled))
+
+    # Fallback: return last shuffle even if not a perfect derangement
+    return dict(zip(agent_ids, shuffled))

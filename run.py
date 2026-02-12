@@ -270,8 +270,25 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
 def _run_round_batched(engine: GameEngine, batch_llm) -> dict:
     """Run one round with batched LLM inference."""
     from game.agents import BatchLLMAgent
+    from game.engine import generate_persona_rotation
 
     engine.world.round_num += 1
+
+    # 0. Persona rotation (before puzzle generation)
+    rotation_interval = engine.config.get("game", {}).get("persona_rotation_interval", 0)
+    if rotation_interval > 0 and engine.world.round_num > 0 and engine.world.round_num % rotation_interval == 0:
+        current_assignment = {
+            aid: agent.persona_name for aid, agent in batch_llm.agents.items()
+        }
+        new_assignment = generate_persona_rotation(current_assignment)
+        for aid, new_persona in new_assignment.items():
+            old_persona = batch_llm.agents[aid].persona_name
+            batch_llm.agents[aid].swap_persona(new_persona)
+            engine.world.log_event("PERSONA_SWAP", aid, {
+                "old_persona": old_persona,
+                "new_persona": new_persona,
+            })
+
     round_summary = {
         "round": engine.world.round_num,
         "deaths": [],
