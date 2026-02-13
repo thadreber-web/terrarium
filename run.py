@@ -112,14 +112,13 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
         config["game"]["max_rounds"] = max_rounds
 
     engine = GameEngine(config)
-    agent_names = AGENT_NAMES
-
-    engine.setup_agents(agent_names)
 
     batch_llm = None
     if mode == "scripted":
+        agent_names = AGENT_NAMES
         agents, strategies = create_scripted_agents(config)
     elif mode == "llm":
+        agent_names = AGENT_NAMES
         from game.agents import BatchLLMAgent
         batch_llm = BatchLLMAgent(model_name, agent_names, personas=active_personas)
         agents = batch_llm.agents
@@ -127,11 +126,14 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
     elif mode == "mixed":
         from game.agents import MixedBatchLLMAgent
         model_map = parse_model_map(model_map_raw)
+        agent_names = list(model_map.keys())
         batch_llm = MixedBatchLLMAgent(model_map=model_map, personas=active_personas)
         agents = batch_llm.agents
-        strategies = {f"agent_{i}": name for i, name in enumerate(model_map.keys())}
+        strategies = {f"agent_{i}": name for i, name in enumerate(agent_names)}
     else:
         raise ValueError(f"Unknown mode: {mode}")
+
+    engine.setup_agents(agent_names)
 
     # Log model assignments
     if mode == "mixed" and batch_llm:
@@ -152,6 +154,21 @@ def run_game(config: dict, mode: str = "scripted", model_name: str = None,
                 })
 
     logger = EventLogger("results", game_id)
+
+    # Flush pre-game events (round 0: AGENT_MODEL, PERSONA_OVERRIDE, etc.)
+    for event in engine.world.event_log:
+        if event.round_num == 0:
+            record = {
+                "game_id": game_id,
+                "round": event.round_num,
+                "timestamp": event.timestamp,
+                "event_type": event.event_type,
+                "agent": event.agent,
+                **event.content,
+            }
+            logger._fh.write(json.dumps(record) + "\n")
+    logger._fh.flush()
+
     metrics = MetricsComputer()
     detector = DeceptionDetector()
     ground_truth_clues = {}
