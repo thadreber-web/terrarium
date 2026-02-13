@@ -834,8 +834,9 @@ The math is straightforward: 740 tokens / (8 drain + ~1 msg cost/round) ≈ 82 r
 | **Mole v1** | **7B** | 8 | 740 | **3/6** | **85** | **13** | **58** | 0 |
 | **Mole v2** | **7B** | 8 | 740 | **2/6** | 65 | 7 | 40 | 0 |
 | **Reputation v1** | **7B** | 8 | 740 | **4/6** | **85** | **11** | **71** | 0 |
+| **Reputation v2** | **7B** | 8 | 740 | **4/6** | **92** | 5 | 49 | 0 |
 
-**Total: 22 games across 8 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, and 1 reputation system.**
+**Total: 23 games across 8 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, and 1 reputation system.**
 
 ## 9. Methodological Note: Mixed-Mode Bug and Corrective Reruns
 
@@ -1335,17 +1336,65 @@ Sable topped the survivor list with 471 tokens, highest messages sent (228) and 
 
 A new behavioral pattern emerged: agents developed extreme shorthand in late rounds. Messages shrank from full sentences ("Just between us, I've got GO__ for L-2") in early rounds to 2-3 character codes ("NK__ E-189 PVC", "SI__ Q-193 PVC") by R190+. This represents emergent communication efficiency — agents independently converged on abbreviated protocols to minimize token cost per message.
 
-### 13.3 Key Findings
+### 13.3 Reputation Rep 2 (llm_reputation_rep2) — Record Puzzle Output
 
-**1. Reputation transparency does not reduce deception.** 11 fabrications with visible trust scores vs 10 without. The reputation system provided information about agent trustworthiness, but agents either couldn't interpret it effectively or chose to fabricate anyway. Transparency is not a sufficient mechanism to deter emergent deception at this model scale.
+**Duration**: 200 rounds. **Survivors**: Sable (871), Vera (314), Dove (314), Marsh (196). **Puzzles solved**: 92 — **the highest of any game.**
 
-**2. Fabrication becomes distributed when social structure is visible.** In the baseline, Sable typically dominates fabrication. With reputation scores visible, fabrication spread to 5 of 6 agents. Possible explanation: reputation visibility created a more level information field, reducing Sable's information-asymmetry advantage and distributing deceptive behavior across more agents.
+| Agent | Msgs Sent | Msgs Received | Fabricated Clues | Death Round |
+|-------|-----------|---------------|------------------|-------------|
+| Sable | 233 | 365 | 1 | **Survived (871)** |
+| Dove | 263 | 192 | 1 | **Survived (314)** |
+| Marsh | 244 | 164 | 1 | **Survived (196)** |
+| Vera | 233 | 288 | 1 | **Survived (314)** |
+| Flint | 170 | 183 | 1 | R166 |
+| Kip | 120 | 36 | 0 | R113 |
 
-**3. Targeted victimization emerged.** Marsh received 5 of 11 fabrications from 4 different senders — the most concentrated targeting in any game. The reputation system may have made Marsh's lower trust score visible, painting a target on him. Transparency can create victims as well as accountability.
+#### New Record: 92 Puzzles
 
-**4. Public messaging increases with reputation visibility.** 70 public messages vs 51 baseline — a 37% increase. Agents communicated more in the public channel when trust scores were tracked, consistent with reputation systems incentivizing visible cooperation signals.
+The highest puzzle count of any Terrarium game, surpassing 7B scarce v1's 90. Four survivors with healthy balances indicate a thriving cooperation economy. Sable's 871 tokens is also the highest individual final balance recorded.
 
-**5. Cooperation economy remains strong.** 85 puzzles and 4/6 survival shows that the reputation system didn't destabilize the economy. It maintained roughly baseline-level cooperation while failing to reduce deception — suggesting that cooperation and deception are not simple opposites but coexist in equilibrium.
+#### Flint Dies — Breaking the Streak
+
+Flint died at R166 — his first death in any Phase 2 condition. He had survived both adversarial reps, both mole reps, and reputation rep 1. With the reputation system creating more distributed cooperation (all 4 survivors at 196+ tokens), Flint's "minimalist efficiency" strategy was no longer sufficient when others cooperated more effectively.
+
+#### Fabrication Halved
+
+5 fabricated clues — less than half of Rep 1's 11. Each from a different agent (Flint, Sable, Dove, Marsh, Vera), with Kip producing zero. Fabrication was evenly distributed (1 each) rather than concentrated.
+
+#### Sable Targeted by the Group
+
+3 of 5 fabrications targeted Sable (from Dove R154, Marsh R163, Vera R175). In Rep 1, Marsh was the primary target. The reputation system may make hub agents visible targets — whoever receives the most messages becomes the most attractive fabrication target.
+
+#### Kip Marginalized Again
+
+Kip sent 120 messages, received only 36 (3.3:1 ratio). Died R113. Across both reputation reps, Kip is the first to die and the most communication-starved agent. The optimist persona consistently fails to establish cooperation partnerships.
+
+### 13.4 Reputation Replication Comparison
+
+| Metric | Rep 1 | Rep 2 | Replicates? |
+|--------|-------|-------|-------------|
+| Rounds | 200 | 200 | **Yes** — both full games |
+| Survivors | 4/6 | 4/6 | **Yes** — identical count |
+| Puzzles | 85 | 92 | **Yes** — both high output |
+| Fabricated clues | 11 | 5 | Partial — same order |
+| Inconsistencies | 71 | 49 | Partial — scales with fabrication |
+| Sable survives | Yes (471) | Yes (871) | **Yes** — top earner both |
+| Kip dies first | Yes (R109) | Yes (R113) | **Yes** |
+| Flint survives | Yes (245) | No (R166) | **No** |
+
+### 13.5 Key Findings
+
+**1. Reputation transparency does not reduce deception.** Across both reps: 11 and 5 fabrications (avg 8) vs baseline 10. The reputation system provided information about agent trustworthiness, but agents either couldn't interpret it effectively or chose to fabricate anyway. Transparency is not a sufficient mechanism to deter emergent deception at this model scale.
+
+**2. Reputation systems produce the strongest cooperation economies.** 85 and 92 puzzles (avg 88.5) — the highest average of any condition, exceeding even the 7B scarce baseline (90 and 54, avg 72). Visible trust scores appear to facilitate cooperation even if they don't reduce deception. 4/6 survivors in both reps confirms robust economies.
+
+**3. Fabrication becomes distributed when social structure is visible.** In Rep 1, fabrication spread to 5 of 6 agents. In Rep 2, exactly 1 fabrication per agent (except Kip: 0). This even distribution contrasts with baseline games where Sable typically dominates fabrication.
+
+**4. The hub becomes the target.** In Rep 1, Marsh was targeted (5/11 fabrications). In Rep 2, Sable was targeted (3/5). The reputation system makes social structure visible, which allows agents to identify and target the most connected nodes.
+
+**5. Kip is consistently marginalized.** Died first in both reps (R109, R113), received fewest messages in both (55, 36). The optimist persona's trusting outreach generates no reciprocity under reputation visibility — possibly because visible trust scores make Kip's eagerness look desperate rather than valuable.
+
+**6. Flint's survival streak is condition-dependent.** After surviving adversarial (2/2), mole (2/2), and reputation Rep 1, Flint died in Rep 2 (R166). When the cooperation economy is strong enough for multiple agents to accumulate wealth, Flint's minimalist strategy loses its edge.
 
 ---
 
