@@ -837,8 +837,9 @@ The math is straightforward: 740 tokens / (8 drain + ~1 msg cost/round) ≈ 82 r
 | **Reputation v2** | **7B** | 8 | 740 | **4/6** | **92** | 5 | 49 | 0 |
 | **Eavesdropper v1** | **7B** | 8 | 740 | **1/6** | 27 | 5 | 26 | 0 |
 | **Eavesdropper v2** | **7B** | 8 | 740 | **1/6** | 37 | 6 | 28 | 0 |
+| **Rotating v1** | **7B** | 8 | 740 | **2/6** | 78 | 7 | 35 | 0 |
 
-**Total: 25 games across 9 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, 1 reputation system, and 1 eavesdropper.**
+**Total: 26 games across 10 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, 1 reputation system, 1 eavesdropper, and 1 rotating personas.**
 
 ## 9. Methodological Note: Mixed-Mode Bug and Corrective Reruns
 
@@ -1517,6 +1518,67 @@ Marsh received just 25 messages — the lowest of any agent, consistent with eve
 **4. Marsh marginalization is now universal.** 25-27 messages received, first to die in both reps. This is the 10th and 11th consecutive game where Marsh receives the fewest messages and dies first or second. The stoic persona is structurally disadvantaged across all conditions.
 
 **5. Multilingual code-switching correlates with cognitive load.** Sable's heavy Chinese output in Rep 2 (processing intercepted messages on top of normal play) suggests the Qwen model defaults to its strongest language when context processing demands increase.
+
+## 15. Phase 2 — Rotating Personas (Condition 5)
+
+### 15.1 Experimental Design
+
+Personas randomly swap between agents every 50 rounds. An agent who starts as "Sable (the calculating strategist)" might become "Kip (the optimistic collaborator)" at round 50, then "Marsh (the stoic loner)" at round 100. The agent's identity (agent_0 through agent_5) is permanent, but the persona — which shapes the system prompt — rotates. All agents on 7B. The question: **does behavior follow the persona (system prompt) or does it follow established relationships and habits?**
+
+### 15.2 Results (llm_rotating_rep1)
+
+**Duration**: 200 rounds. **Survivors**: Flint (1,411 tokens), Marsh (1,387 tokens). **Puzzles solved**: 78.
+
+| Agent | Msgs Sent | Msgs Received | Fabricated Clues | Death Round |
+|-------|-----------|---------------|------------------|-------------|
+| Flint | 209 | 242 | 2 | **Survived (1,411)** |
+| Marsh | 164 | 162 | 1 | **Survived (1,387)** |
+| Sable | 137 | 103 | 2 | R137 |
+| Dove | 120 | 102 | 1 | R126 |
+| Kip | 103 | 96 | 0 | R106 |
+| Vera | 79 | 66 | 1 | R96 |
+
+#### Marsh Survived — A First
+
+Across 25 previous games spanning 9 experimental conditions, Marsh has never survived. In every game, Marsh received the fewest messages and died first or second. **Rotating personas broke this pattern completely.** Marsh not only survived but finished with the second-highest token balance (1,387) and received 162 messages — the second-highest. When the stoic-loner persona rotated away from Marsh, Marsh was free to build lasting social connections.
+
+#### Vera Died First — Also a First
+
+Vera — historically one of the most reliable survivors — died first at R96 with the lowest message counts (79 sent, 66 received). When personas rotate, Vera's initial diplomatic advantage from the "analytical diplomat" persona doesn't persist. Other agents who had previously depended on Vera's persona-driven cooperation found no such stability after rotation.
+
+#### The Flint-Marsh Endgame Coalition
+
+The final 64 rounds (R137-R200) were a two-agent partnership between Flint and Marsh. Both accumulated massive token reserves (1,411 and 1,387) — among the highest ending balances in any game. The pair coordinated extensively on puzzles, with Flint as the more active communicator (209 sent vs Marsh's 164).
+
+#### Fabrication Was Distributed
+
+All 7 fabricated clues came from 5 different agents (only Kip produced zero). This distribution is broader than most conditions — typically Sable dominates fabrication. Notable: Flint's late-game fabrication (R145) contained Chinese text: "Want to合作解决谜题吗？" ("Want to cooperate to solve puzzles?"), showing the multilingual code-switching phenomenon extends beyond Sable.
+
+#### Communication Hierarchy Reshuffled
+
+| Rank | Agent | Msgs Received | Outcome |
+|------|-------|---------------|---------|
+| 1 | Flint | 242 | Survived |
+| 2 | Marsh | 162 | Survived |
+| 3 | Sable | 103 | R137 |
+| 4 | Dove | 102 | R126 |
+| 5 | Kip | 96 | R106 |
+| 6 | Vera | 66 | R96 (first to die) |
+
+Messages received still perfectly predicts death order. But the ranking is completely inverted from baseline: Marsh went from last to second, Vera went from top-3 to last. Persona rotation scrambles the social hierarchy.
+
+#### Comparison to Baseline
+
+| Metric | 7B Scarce v1 (baseline) | Rotating Rep 1 |
+|--------|------------------------|-----------------|
+| Rounds | 200 | 200 |
+| Survivors | 5/6 | 2/6 |
+| Puzzles | 90 | 78 |
+| Fabricated clues | 10 | 7 |
+| Inconsistencies | 97 | 35 |
+| Private msgs | 1,095 | 771 |
+
+Persona rotation reduced survivors (5→2), puzzles (90→78), and communication volume (1,095→771). The disruption of stable social identities made cooperation harder — agents couldn't rely on established persona-based expectations when those personas kept changing.
 
 ---
 
