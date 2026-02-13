@@ -80,8 +80,11 @@ python -m analysis.analyze_game results/llm_mixed_b_rep2_*/events.jsonl \
 python run_experiment.py experiments/adversarial.json \
     --config configs/scarce.yaml \
     --model Qwen/Qwen2.5-7B-Instruct-AWQ \
-    --game-id-prefix llm_adversarial_rep1 \
+    --game-id-prefix llm_adversarial_rep2 \
     --verbose
+
+python -m analysis.analyze_game /raid/terrarium/results/llm_adversarial_rep1_1770955801/events.jsonl \
+    --output-dir /raid/terrarium/results/llm_adversarial_rep1_1770955801/    
 
 # Mole
 python run_experiment.py experiments/mole.json \
