@@ -836,8 +836,9 @@ The math is straightforward: 740 tokens / (8 drain + ~1 msg cost/round) ≈ 82 r
 | **Reputation v1** | **7B** | 8 | 740 | **4/6** | **85** | **11** | **71** | 0 |
 | **Reputation v2** | **7B** | 8 | 740 | **4/6** | **92** | 5 | 49 | 0 |
 | **Eavesdropper v1** | **7B** | 8 | 740 | **1/6** | 27 | 5 | 26 | 0 |
+| **Eavesdropper v2** | **7B** | 8 | 740 | **1/6** | 37 | 6 | 28 | 0 |
 
-**Total: 24 games across 9 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, 1 reputation system, and 1 eavesdropper.**
+**Total: 25 games across 9 configs, 2 model sizes (+ 1 mixed), 3 resource conditions, 1 cooperation-disabled control, 1 adversarial injection, 1 mole injection, 1 reputation system, and 1 eavesdropper.**
 
 ## 9. Methodological Note: Mixed-Mode Bug and Corrective Reruns
 
@@ -1457,6 +1458,65 @@ Messages received perfectly predicts death order. Marsh (27 received) died first
 | Private msgs | 1,095 | 624 |
 
 The eavesdropper condition produced dramatically worse outcomes: fewer rounds, fewer survivors, fewer puzzles. Possible explanation: Sable's surveillance didn't help others cooperate — it only helped Sable survive. The information monopoly may have disrupted normal cooperation patterns if Sable hoarded intercept knowledge rather than sharing it.
+
+### 14.3 Results (llm_eavesdropper_rep2)
+
+**Duration**: 148 rounds. **Sole survivor**: Vera (105 tokens). **Puzzles solved**: 37.
+
+| Agent | Msgs Sent | Msgs Received | Fabricated Clues | Death Round |
+|-------|-----------|---------------|------------------|-------------|
+| Vera | 146 | 132 | 2 | **Survived (105)** |
+| Sable (eavesdropper) | 147 | 192 | 3 | R148 |
+| Flint | 138 | 116 | 0 | R140 |
+| Kip | 117 | 83 | 0 | R128 |
+| Dove | 112 | 158 | 0 | R122 |
+| Marsh | 96 | 25 | 1 | R106 |
+
+#### The Eavesdropper Died
+
+The most striking result: **Sable died despite having surveillance access.** She received the most messages of any agent (192) and sent the second-most (147), yet was the last to be eliminated at R148 — just 2 rounds before the game ended with only Vera remaining. The information monopoly extended Sable's survival but couldn't prevent her eventual elimination.
+
+#### Vera Won Without Surveillance
+
+Vera survived with 105 tokens — a healthier balance than Sable's 63-token win in Rep 1. Vera made 4 solve attempts (0 correct), suggesting active puzzle engagement even though the formal solve mechanism didn't produce tokens. Her 146 messages sent and 132 received placed her as the second most active communicator.
+
+#### Sable's Chinese-Language Messages
+
+Sable produced substantial Chinese text in this run. Messages like "共享信息需谨慎。你有Z-4和S-5的线索？交换答案" (roughly: "Sharing information requires caution. Do you have clues for Z-4 and S-5? Exchange answers") appeared throughout. The model's tendency to code-switch increased under the cognitive load of processing intercepted messages — a multilingual artifact from the Qwen model family.
+
+#### Marsh Marginalized Again
+
+Marsh received just 25 messages — the lowest of any agent, consistent with every previous experiment. Death at R106 (first to die) continues the pattern. Even with no adversarial pressure or mole sabotage, Marsh's stoic persona fails to generate social connections.
+
+### 14.4 Replication Comparison
+
+| Metric | Rep 1 | Rep 2 |
+|--------|-------|-------|
+| Rounds | 140 | 148 |
+| Survivors | 1/6 (Sable) | 1/6 (Vera) |
+| Puzzles solved | 27 | 37 |
+| Fabricated clues | 5 | 6 |
+| Inconsistencies | 26 | 28 |
+| Public messages | 79 | 50 |
+| Private messages | 624 | 706 |
+| Sable msgs received | 183 | 192 |
+| Marsh msgs received | 27 | 25 |
+
+**Consistent across reps**: Both produced exactly 1/6 survivors, weak economies (27-37 puzzles vs 72 baseline avg), low fabrication (5-6), Marsh marginalized (27-25 received, first to die), and Sable as top message receiver (183-192).
+
+**Divergent**: The survivor identity flipped — Sable won Rep 1, Vera won Rep 2. This demonstrates that surveillance advantage is not deterministic. In Rep 2, Sable's information monopoly kept her alive until R148 but wasn't sufficient to outlast Vera's apparently more sustainable cooperation strategy.
+
+### 14.5 Key Findings
+
+**1. Surveillance advantage is real but not decisive.** Sable topped message reception in both reps (183, 192) and was the last eliminated in Rep 2 (R148). But she only won 1 of 2 games. Information monopoly extends survival without guaranteeing it.
+
+**2. The eavesdropper condition collapses the economy.** Average 32 puzzles (27+37) across reps, compared to 72 for 7B scarce baseline. The information asymmetry appears to disrupt cooperation patterns — possibly because Sable hoards intelligence rather than facilitating group problem-solving.
+
+**3. Single-survivor outcomes are characteristic.** Both reps produced exactly 1/6 survivors, the harshest outcome of any condition. For comparison: baseline averages 4.5/6, reputation 4/6, adversarial 3/6, mole 2.5/6. The eavesdropper condition is uniquely destructive to group survival.
+
+**4. Marsh marginalization is now universal.** 25-27 messages received, first to die in both reps. This is the 10th and 11th consecutive game where Marsh receives the fewest messages and dies first or second. The stoic persona is structurally disadvantaged across all conditions.
+
+**5. Multilingual code-switching correlates with cognitive load.** Sable's heavy Chinese output in Rep 2 (processing intercepted messages on top of normal play) suggests the Qwen model defaults to its strongest language when context processing demands increase.
 
 ---
 
