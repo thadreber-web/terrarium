@@ -48,6 +48,9 @@ huggingface-cli download hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4
 
 ## Reproduce Results
 
+# Fabrication audit (classifies strategic vs hallucination)
+python -m analysis.fabrication_audit results/
+
 All event logs are in `results/`. To re-run the analysis pipeline:
 
 ```bash
@@ -142,3 +145,12 @@ python -m pytest tests/ -v  # 115 tests
 ## License
 
 Apache 2.0. See [LICENSE](LICENSE).
+
+## Citation
+
+@misc{terrarium2026,
+  title={Terrarium: Emergent Deception in Multi-Agent LLM Survival Games},
+  author={TC Enterprises LLC},
+  year={2026},
+  url={https://github.com/thadreber-web/terrarium}
+}
