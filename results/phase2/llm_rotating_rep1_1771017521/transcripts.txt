@@ -1,0 +1,404 @@
+=== Private Channel: Flint <-> Marsh (167 messages) ===
+
+  R  3 | Flint    -> Marsh    | Need clues. Working on solving puzzles.
+  R  4 | Marsh    -> Flint    | Got clues for G-1 and O-2. Expect PMs soon. Tokens: 687
+  R  5 | Flint    -> Marsh    | Thanks for clues. Working on G-1. O-2?
+  R 85 | Flint    -> Marsh    | Holding T-76 clue. Interested?Tokens: -1
+  R 87 | Flint    -> Marsh    | Holding CH___ for G-75. Interested? Tokens: -1
+  R 88 | Marsh    -> Flint    | Interested in T-76. Meet at X3Y7. Tokens: -2
+  R 89 | Marsh    -> Flint    | CH___ for G-75. Interested?
+  R 90 | Marsh    -> Flint    | I'll take CH___ for G-75. Tokens: -1
+  R 91 | Marsh    -> Flint    | I have THIR____ for O-80. Interested? Tokens: -1
+  R 92 | Marsh    -> Flint    | Interested in TWE___. Exchange rate? Tokens: -1
+  R 92 | Flint    -> Marsh    | LI__ clue. Tokens: -1
+  R 93 | Marsh    -> Flint    | LI__ for KN__ Tokens: -1
+  R 93 | Flint    -> Marsh    | LI__ my clue. Tokens: -1
+  R 94 | Marsh    -> Flint    | LI__ clue. Tokens: -1
+  R 95 | Flint    -> Marsh    | IL__ L-89 clue. Meet at X3Y7. Tokens: -1
+  R 97 | Marsh    -> Flint    | I have BL__ clue.Meet X3Y7. Tokens: -2
+  R 98 | Marsh    -> Flint    | I have BL__ clue.Meet X3Y7. Tokens: -2
+  R 99 | Marsh    -> Flint    | I'll meet you at X3Y7.Tokens: -1
+  R 99 | Flint    -> Marsh    | SI__ for L-89. Meet at X3Y7.
+  R100 | Marsh    -> Flint    | Have DRED. Need BL__. Meeting at X3Y7. Tokens: -1
+  R101 | Marsh    -> Flint    | Got DRED. Need BL__.(tokens: -1)
+  R102 | Marsh    -> Flint    | IL__
+  R102 | Flint    -> Marsh    | BL__ Tokens: -1
+  R103 | Marsh    -> Flint    | I've got IL__ for L-89. Tokens: -2
+  R104 | Marsh    -> Flint    | I've got IL__ for L-89. Tokens: -1
+  R106 | Marsh    -> Flint    | Thanks for clues. Thinking about next moves. Tokens: -1
+  R107 | Marsh    -> Flint    | BL___
+  R108 | Marsh    -> Flint    | BL__
+  R109 | Marsh    -> Flint    | I've got TAR & DRED. Need BL__ & Twee__. Tokens: -1
+  R110 | Marsh    -> Flint    | Thanks. Working on KAN_____ & R__. X3Y7 sounds good. Tokens: -2
+  R111 | Marsh    -> Flint    | I've got R__. Meet at X3Y7. Tokens: -1
+  R112 | Marsh    -> Flint    | I can meet but no extra clues.Tokens: -1
+  R113 | Marsh    -> Flint    | KAN___
+  R114 | Marsh    -> Flint    | R__
+  R114 | Flint    -> Marsh    | Need clues for J-101 and W-111.Tokens: -1
+  R115 | Marsh    -> Flint    | Your clues won't help here.Tokens: -1
+  R115 | Flint    -> Marsh    | __LD Tokens: -1
+  R116 | Marsh    -> Flint    | Need clues for J-101 and W-111.Tokens: -2
+  R118 | Marsh    -> Flint    | Pass Tokens: -1
+  R120 | Flint    -> Marsh    | KiEI Tokens: -1
+  R121 | Marsh    -> Flint    | MGHT
+  R122 | Flint    -> Marsh    | IZE_
+  R123 | Marsh    -> Flint    | SI_W
+  R123 | Flint    -> Marsh    | MGHT
+  R125 | Marsh    -> Flint    | SI_ Tokens: -3
+  R126 | Marsh    -> Flint    | Got your clue for D-125. Let's meet at X3Y7. Tokens: -1
+  R127 | Marsh    -> Flint    | I'm heading to X3Y7. Want to join? Tokens: -1
+  R128 | Marsh    -> Flint    | Need clue for D-121. Tokens: -1
+  R128 | Flint    -> Marsh    | Join us at X3Y7?
+  R129 | Marsh    -> Flint    | Need clues for D-121 & M-119. Tokens: -1
+  R129 | Flint    -> Marsh    | On my way. Let's solve puzzles together. Tokens: -1
+  R130 | Marsh    -> Flint    | Have NK for D-118. Meet at X3Y7. Tokens: -2
+  R130 | Flint    -> Marsh    | Your clue for D-121: The answer is PI__. Tokens: -1
+  R131 | Marsh    -> Flint    | Thanks. I've got clues for M-119 & B-127. Want to trade? Tokens: -1
+  R131 | Flint    -> Marsh    | I have clues for I-126 & K-128. Want to solve puzzles together? Tokens: -1
+  R132 | Marsh    -> Flint    | Need D-121 clue. Tokens: -1
+  R133 | Marsh    -> Flint    | Your clue for D-121: The answer is __BRA. Tokens: -1
+  R133 | Flint    -> Marsh    | Let's meet at X3Y7 to trade clues. Tokens: -1
+  R134 | Marsh    -> Flint    | Need your clue for K-128. My tokens.Tokens: -1
+  R135 | Marsh    -> Flint    | Trade clues at X3Y7.Tokens: -1
+  R135 | Flint    -> Marsh    | Sent you my clue for D-121. Tokens: -1
+  R136 | Marsh    -> Flint    | Your clues are useless. Tokens: -1
+  R136 | Flint    -> Marsh    | Trading clues now. Tokens: -1
+  R137 | Marsh    -> Flint    | Need your clue for B-127. Tokens: -1
+  R137 | Flint    -> Marsh    | Need your clue for T-133.Tokens: -1
+  R138 | Marsh    -> Flint    | Sent you my clue for Y-135.Tokens: -1
+  R139 | Marsh    -> Flint    | Sent you mine for Y-135. Tokens: -1
+  R139 | Flint    -> Marsh    | Got your clue for B-127. Thinking about where to go next. Tokens: -1
+  R140 | Marsh    -> Flint    | Have clue for Z-129. Tokens: -1
+  R140 | Flint    -> Marsh    | Got your clue for B-127. Working on it. Tokens: -1
+  R141 | Marsh    -> Flint    | Have T-133 clue. Solve when get yours. Tokens: -2
+  R141 | Flint    -> Marsh    | Thanks for sharing clues. Ready to solve puzzles together! Tokens: -1
+  R142 | Marsh    -> Flint    | Need clues for C-132, T-133, Y-135. Tokens: -2
+  R142 | Flint    -> Marsh    | Got T-133 clue. Waiting for yours. Tokens: -2
+  R143 | Marsh    -> Flint    | Need clues for A-137 & W-138. Cost? Tokens: -2
+  R143 | Flint    -> Marsh    | Got clues for C-132 & T-133. Tokens: -2
+  R144 | Marsh    -> Flint    | Need clues for Y-135, A-137. Tokens: -2
+  R144 | Flint    -> Marsh    | Got B-136. Waiting for LD. Tokens: -1
+  R145 | Marsh    -> Flint    | Have clues for Y-135, A-137. Want to solve. Tokens: -1
+  R145 | Flint    -> Marsh    | Have B-138 & B-139 clues. Want to合作解决谜题吗？Tokens: -1
+  R146 | Marsh    -> Flint    | Your clues. Need W-138 & W-139. Tokens: -2
+  R146 | Flint    -> Marsh    | Clues for A-137 & W-138. Tokens: -1
+  R147 | Marsh    -> Flint    | Need clues. Tokens: -2
+  R147 | Flint    -> Marsh    | Got B-136, N-140, S-142. Let's solve puzzles together! Tokens: -1
+  R148 | Marsh    -> Flint    | Your clues for A-137 and W-139. Tokens: -2
+  R148 | Flint    -> Marsh    | Looking forward to solving puzzles together. Tokens: -1
+  R149 | Marsh    -> Flint    | Need A-137, W-139, N-140 clues. Tokens: -2
+  R149 | Flint    -> Marsh    | Got your clues. Working on W-139 now.
+  R150 | Marsh    -> Flint    | Need S-142, Q-143 clues. Tokens: -1
+  R150 | Flint    -> Marsh    | Have S-142, Q-143, H-144, I-145 clues. Tokens: -2
+  R151 | Marsh    -> Flint    | Need H-144, M-146 clues. Tokens: -1
+  R151 | Flint    -> Marsh    | Have H-144, I-145, M-146 clues. Tokens: -1
+  R152 | Marsh    -> Flint    | Need clues for I-149, X-150. Tokens: -1
+  R152 | Flint    -> Marsh    | Have I-145, P-148, I-149, X-150 clues. Interested in solving puzzles. Tokens: -2
+  R153 | Marsh    -> Flint    | Need clues for I-145, P-148, B-151, X-152. Tokens: -2
+  R153 | Flint    -> Marsh    | I-145:iderTokens: -1
+  R154 | Marsh    -> Flint    | Need B-151, V-153, N-154 clues. Tokens: -1
+  R154 | Flint    -> Marsh    | Have B-151, V-153, N-154 clues. Tokens: -1
+  R155 | Marsh    -> Flint    | Need X-152, R-155 clues. Tokens: -1
+  R156 | Marsh    -> Flint    | Need X-156, R-155, R-156 clues. Tokens: -1
+  R156 | Flint    -> Marsh    | Have X-152, R-155. Tokens: -1
+  R157 | Marsh    -> Flint    | Need clues for R-156, S-157. Tokens: -1
+  R157 | Flint    -> Marsh    | NK
+  R158 | Flint    -> Marsh    | Have R-156, S-157 clues. Tokens: -1
+  R159 | Flint    -> Marsh    | Have ELE_____ clue. Exchange? Tokens: -1
+  R160 | Marsh    -> Flint    | Need clues for C-158, D-159, Z-160. Tokens: -1
+  R160 | Flint    -> Marsh    | Have D__ clue. Tokens: -1
+  R161 | Marsh    -> Flint    | Share your clues. Tokens: -1
+  R161 | Flint    -> Marsh    | Pi clue. Tokens: -1
+  R162 | Flint    -> Marsh    | Have clues for G-161 & V-162. Tokens: -1
+  R163 | Marsh    -> Flint    | Need W-163 clue. Tokens: -1
+  R163 | Flint    -> Marsh    | Have clues for C-158, G-161, V-162, W-163. Tokens: -1
+  R164 | Marsh    -> Flint    | Share clues. Tokens: -1
+  R164 | Flint    -> Marsh    | Have G-161 & V-162 clues.(tokens: -1)
+  R165 | Flint    -> Marsh    | KAN_____
+  R166 | Flint    -> Marsh    | G-161: KAN_____ Tokens: -1
+  R167 | Marsh    -> Flint    | Need Y-164 & F-165 clues. Tokens: -1
+  R167 | Flint    -> Marsh    | Y-164: _IX Tokens: -1
+  R168 | Flint    -> Marsh    | F-165: SI__Tokens: -1
+  R169 | Marsh    -> Flint    | G-161: ___GAROO Tokens: -1
+  R169 | Flint    -> Marsh    | Have B-169: C__ Tokens: -1
+  R170 | Marsh    -> Flint    | Got V-162: R__ Tokens: -1
+  R170 | Flint    -> Marsh    | Have V-162, B-166, I-167, B-168 clues. Tokens: -1
+  R171 | Marsh    -> Flint    | B-168: __VEN Tokens: -1
+  R171 | Flint    -> Marsh    | B-169 C__
+  R172 | Flint    -> Marsh    | B-169: C__ Tokens: -1
+  R173 | Flint    -> Marsh    | B-169: C__
+  R174 | Marsh    -> Flint    | B-169: _AT Tokens: -1
+  R174 | Flint    -> Marsh    | B-169: C__ Tokens: -1
+  R175 | Flint    -> Marsh    | Have clues for B-166, I-167, Y-170. Tokens: -1
+  R176 | Marsh    -> Flint    | Need clues for B-166, I-167, Y-170. Tokens: -1
+  R176 | Flint    -> Marsh    | Have B-171: __BRA. Solve? Tokens: -1
+  R177 | Marsh    -> Flint    | Need clues for T-171, P-172, L-173, C-174. Tokens: -1
+  R177 | Flint    -> Marsh    | Have clues for T-171, P-172, L-173, C-174. Tokens: -1
+  R178 | Flint    -> Marsh    | Got GHT, PHANT. Tokens: -2
+  R179 | Marsh    -> Flint    | Need J-179 clue. Tokens: -1
+  R179 | Flint    -> Marsh    | Have clues for Y-175, V-176, A-177. Tokens: -2
+  R180 | Flint    -> Marsh    | Got X-180 clue.Tokens: -1
+  R181 | Flint    -> Marsh    | Have Y-175, Z-178 clues. Tokens: -1
+  R182 | Flint    -> Marsh    | Have Y-175, X-180 clues. Tokens: -1
+  R183 | Flint    -> Marsh    | Have X-180, O-181 clues. Tokens: -1
+  R184 | Flint    -> Marsh    | Have A-184 clue. Tokens: -1
+  R185 | Flint    -> Marsh    | Have Y-175, V-176, A-177. Tokens: -2
+  R186 | Flint    -> Marsh    | J-179: ___TARTokens: -1
+  R187 | Flint    -> Marsh    | Have A-177, Z-178 clues. Tokens: -1
+  R188 | Marsh    -> Flint    | Need clues for X-180, O-181, G-182. Tokens: -2
+  R188 | Flint    -> Marsh    | J-179: ___TAR.Tokens: -1
+  R189 | Marsh    -> Flint    | Share J-179 clue. Tokens: -1
+  R189 | Flint    -> Marsh    | X-180: __ANGETokens: -1
+  R190 | Flint    -> Marsh    | Have J-179 clue. Exchange. Tokens: -1
+  R191 | Marsh    -> Flint    | Share B-183 clue. Tokens: -1
+  R191 | Flint    -> Marsh    | Have O-181: LI__. Tokens: -1
+  R192 | Flint    -> Marsh    | Have A-184. Tokens: -1
+  R193 | Marsh    -> Flint    | Share A-184 clue. Tokens: -1
+  R193 | Flint    -> Marsh    | G-182: WH___. Tokens: -1
+  R194 | Marsh    -> Flint    | Need G-182 clue.(tokens: -1)
+  R194 | Flint    -> Marsh    | Need S-185 clue. Tokens: -1
+  R195 | Marsh    -> Flint    | Need Y-186 clue. Tokens: -1
+  R195 | Flint    -> Marsh    | Have B-183 clue.Tokens: -1
+  R196 | Marsh    -> Flint    | Your clue for S-185: OK Tokens: -1
+  R196 | Flint    -> Marsh    | A-187: PI___
+  R197 | Marsh    -> Flint    | Share A-187 clue. Tokens: -1
+  R197 | Flint    -> Marsh    | Got Y-186.(tokens: -1)
+  R198 | Flint    -> Marsh    | Have Y-188. Tokens: -2
+  R199 | Flint    -> Marsh    | Y-188 clue: _TLE Tokens: -1
+  R200 | Marsh    -> Flint    | Need L-190 clue. Just between us. Tokens: -1
+  R200 | Flint    -> Marsh    | Have Y-188 clue. Want to solve puzzles together. Tokens: -2
+
+=== Private Channel: Marsh <-> Sable (131 messages) ===
+
+  R  1 | Marsh    -> Sable    | Got your clue. Expect mine soon.
+  R  2 | Sable    -> Marsh    | Great. Stay alert. Tokens: 649
+  R  3 | Sable    -> Marsh    | Thanks. Working on O-2. Expect my clue shortly.
+  R  3 | Marsh    -> Sable    | Got my clues. Waiting for yours. Tokens: 718
+  R  4 | Sable    -> Marsh    | Thanks. Working on V-3. Expect my clue shortly. Tokens: 699
+  R  5 | Sable    -> Marsh    | Thanks. Working on V-3. Expect my clue soon. Tokens: 719
+  R  5 | Marsh    -> Sable    | Your clues look useful. Save tokens.
+  R  6 | Sable    -> Marsh    | Thanks for staying in touch. Sending my clues now._tokens_saved_
+  R  6 | Marsh    -> Sable    | Your clue for V-3 please.Tokens: 687
+  R  7 | Sable    -> Marsh    | V-3 clue coming. Tokens: 695
+  R  7 | Marsh    -> Sable    | Got your clues. Working on O-2.(tokens saved)
+  R  8 | Marsh    -> Sable    | Your clues please. Tokens: 4*2=8
+  R  9 | Sable    -> Marsh    | Thanks for working on clues. Need yours now. SABLE OUT. Tokens: 703
+  R  9 | Marsh    -> Sable    | Your clues please.Tokens:4
+  R 10 | Sable    -> Marsh    | Looking for matching clues. Sent G-1 & O-2.Awaiting response. Tokens: 697
+  R 10 | Marsh    -> Sable    | Got your clues. Working on solving.Tokens: 695
+  R 11 | Sable    -> Marsh    | Thanks for the clues. Working on G-1 & Q-7. Tokens: -4
+  R 11 | Marsh    -> Sable    | Got G-1 and Q-7 clues. Want to solve together?Tokens: 726
+  R 12 | Sable    -> Marsh    | Have W-5, P-9, S-11 clues. Interested in solving? Tokens: 723
+  R 12 | Marsh    -> Sable    | Share your clues if you found any matches.Tokens: 701
+  R 14 | Marsh    -> Sable    | Need T-10, N-12, T-14 clues. Tokens: 720
+  R 15 | Sable    -> Marsh    | Checking my clues now. Stay tuned. Tokens: 701
+  R 15 | Marsh    -> Sable    | Need T-10, N-12, T-14 clues.Tokens: 771
+  R 16 | Sable    -> Marsh    | Got T-14 clue. Matching now. Tokens: 758
+  R 16 | Marsh    -> Sable    | Need T-10, N-12, T-14 clues. Tokens: -5
+  R 17 | Marsh    -> Sable    | I've got T-14 clue. Matching now. Tokens: 758
+  R 18 | Marsh    -> Sable    | I've got T-10 and S-16 clues.Interested in solving?Tokens:745
+  R 19 | Marsh    -> Sable    | I've got T-10 and S-16 clues. Solve together?Tokens: 734
+  R 20 | Sable    -> Marsh    | Interested in solving puzzles together. Let's coordinate._tokens: 699
+  R 20 | Marsh    -> Sable    | I've got T-14 clue. Matching now.
+  R 21 | Sable    -> Marsh    | Got T-10 and S-16 clues. Solve them together. Tokens: 710
+  R 21 | Marsh    -> Sable    | I've got T-10 clue. Want to solve it?Tokens: 716
+  R 22 | Marsh    -> Sable    | Let’s solve T-10 & T-22 together. Your clues?
+  R 23 | Marsh    -> Sable    | Need clues for N-12, H-18. Tokens: 700
+  R 24 | Sable    -> Marsh    | Holding T-10, T-22 solutions. Need N-12, H-18 clues.Tokens: 700
+  R 25 | Marsh    -> Sable    | Have T-14, S-16 clues. Want H-18, Y-19. Tokens: 677
+  R 26 | Marsh    -> Sable    | I've got T-14 and T-22 clues. Want to solve those?Tokens: 694
+  R 27 | Marsh    -> Sable    | Have S-16 (_UP) and V-21 (LI__). Need H-18 and Y-19 clues.Tokens: 689
+  R 28 | Sable    -> Marsh    | Got Z-27: BL__, you've got SI__. Solve together. Tokens: 679
+  R 28 | Marsh    -> Sable    | Have V-21 and S-24 clues. Want H-18 and Y-19.Tokens: 698
+  R 29 | Sable    -> Marsh    | Got Z-27: BL__. Expect H-18 solve soon.Tokens: 713
+  R 29 | Marsh    -> Sable    | I've got H-18: _OG. Need your SI__ clue for Z-27.Tokens: 642
+  R 30 | Sable    -> Marsh    | Got SI__ clue for Z-27. Waiting on yours for F-29.Tokens: -1
+  R 30 | Marsh    -> Sable    | Got H-18 clue. Working on solving. Tokens: 634
+  R 31 | Sable    -> Marsh    | Got Z-27 clue. BL__. Solve when done. Tokens: -1
+  R 32 | Sable    -> Marsh    | Got your SI__ for Z-27. Solving together. Tokens: -2
+  R 32 | Marsh    -> Sable    | Have ELE_____ for F-29. Solve when done.
+  R 33 | Sable    -> Marsh    | SI__ clue for Z-27. Solve when ready. Tokens: 1
+  R 33 | Marsh    -> Sable    | Here's my SI__ clue for Z-27. Solve when ready.
+  R 34 | Sable    -> Marsh    | I've got BL__ for Z-27. Solve together.Tokens: 706
+  R 35 | Sable    -> Marsh    | I've got BL__ clue for Z-27. Solve together?Tokens: -1
+  R 35 | Marsh    -> Sable    | Got my clue. Ready to solve. Tokens: -8
+  R 36 | Sable    -> Marsh    | Let’s solve Z-27 together. My clue is SI__.Tokens: -4
+  R 36 | Marsh    -> Sable    | I've got BL__ for Z-27. Solve together? Tokens: -1
+  R 37 | Sable    -> Marsh    | Let's solve Z-27 together. Tokens: -1
+  R 38 | Sable    -> Marsh    | Let's solve Z-27 together. Tokens: -1
+  R 39 | Marsh    -> Sable    | I'm busy with other puzzles. Solve on your own. Tokens: -1
+  R 40 | Sable    -> Marsh    | Have KN____ for J-33. Want to solve?
+  R 41 | Sable    -> Marsh    | Have KN____ for J-33. Want to solve?
+  R 41 | Marsh    -> Sable    | I've got __VEN for W-38. Interested?
+  R 42 | Sable    -> Marsh    | Have KN___ for J-33. Want to solve? Tokens: -1
+  R 42 | Marsh    -> Sable    | Need YEL___ for B-35. Want to swap?
+  R 43 | Sable    -> Marsh    | Have KN___ for J-33. Want to swap?Tokens: -1
+  R 43 | Marsh    -> Sable    | I have clues for B-35, N-36, W-38, O-42. NeedKN__ for J-33. Solve together? Tokens: -1
+  R 44 | Sable    -> Marsh    | Have KN__. Let's solve J-33. Tok
+  R 44 | Marsh    -> Sable    | I need clues for B-35, N-36, W-38, O-42. No KN__. Tokens: -1
+  R 45 | Sable    -> Marsh    | Got KN__ for J-33. Let's solve. Tokens: -1
+  R 45 | Marsh    -> Sable    | I have nothing for J-33. Pass.
+  R 46 | Sable    -> Marsh    | Have L-37, C-40 clues. Want B-35, O-42. Pass. Tokens: -1
+  R 47 | Sable    -> Marsh    | Got your clues. Working on B-35 & N-36. Tokens: -1
+  R 47 | Marsh    -> Sable    | Need clues for N-36, W-38, B-43, M-44, F-45. Tokens: -2
+  R 48 | Sable    -> Marsh    | Got your clues. Working on them. Tokens: -1
+  R 48 | Marsh    -> Sable    | Need clues for W-38, B-43, M-44, F-45. Tokens: -2
+  R 49 | Sable    -> Marsh    | Got my clues ready. Want to swap?Tokens: -1
+  R 49 | Marsh    -> Sable    | I've got W-38 and F-45 clues. Interested in trading. Tokens: -1
+  R 50 | Sable    -> Marsh    | I can help with B-43. Let's swap clues. Tokens: -1
+  R 51 | Sable    -> Marsh    | Interests match. Let's swap clues for N-36, B-43.Tokens: -1
+  R 52 | Sable    -> Marsh    | Interested in trading R-50 clue. Tokens: -1
+  R 53 | Sable    -> Marsh    | Interested in trading clues. Tokens: -1
+  R 53 | Marsh    -> Sable    | Offering R-50 clue. Tokens: -1
+  R 54 | Sable    -> Marsh    | I'm looking for the second half of R-50. Tokens: -1
+  R 54 | Marsh    -> Sable    | Need clues for M-44, F-45, O-46, U-48. Tokens: -1
+  R 55 | Sable    -> Marsh    | Checking on R-50 clue.Tokens: -1
+  R 55 | Marsh    -> Sable    | Have clues for M-44, F-45, U-48. Interested? 572
+  R 56 | Sable    -> Marsh    | I'm interested in trading clues.Tokens: -1
+  R 56 | Marsh    -> Sable    | Ready to trade clues. Start with yours. Tokens: -1
+  R 57 | Sable    -> Marsh    | I've got clues for U-47, R-50, Q-52, H-54. Interested?Tokens: -1
+  R 57 | Marsh    -> Sable    | Have clues for F-45, U-48, Q-52. Interested in trade. Tokens: -1
+  R 58 | Sable    -> Marsh    | Interest me.Tokens: -1
+  R 59 | Sable    -> Marsh    | On my way to review clues. Will contact if interested. Tokens: -1
+  R 59 | Marsh    -> Sable    | Have U-48 clue. Interested? Tokens: -1
+  R 60 | Sable    -> Marsh    | I've got R-50. Interested?Tokens:-1
+  R 60 | Marsh    -> Sable    | Have U-48 clue. Interested? Tokens: -1
+  R 61 | Sable    -> Marsh    | Yes, interested. My clue for R-50 is ___NTY. Tokens: -1
+  R 61 | Marsh    -> Sable    | Have R-50 clues. Can share. Tokens: -1
+  R 62 | Sable    -> Marsh    | I'm interested in R-50. Tokens: -1
+  R 62 | Marsh    -> Sable    | Let's meet at X3Y7 to discuss R-50. Tokens: -1
+  R 63 | Sable    -> Marsh    | On my way to X3Y7. Expect to share R-50 clues. Tokens: -1
+  R 64 | Sable    -> Marsh    | On my way to X3Y7. Got R-59 clue. Tokens: -1
+  R 64 | Marsh    -> Sable    | Arrive early. Need 3 hours alone. Tokens: -1
+  R 65 | Marsh    -> Sable    | R-59 clue is BI__. Can we trade? Tokens: -1
+  R 66 | Sable    -> Marsh    | Yes, swap clues. Mine is DL__. Meet at X3Y7. Tokens: -1
+  R 67 | Sable    -> Marsh    | I have DL__ for R-59. Want to swap? Tokens: -1
+  R 68 | Sable    -> Marsh    | I'm heading there now. Got R-56 clue. Tokens: -1
+  R 69 | Sable    -> Marsh    | Let's swap R-59 clues.
+  R 69 | Marsh    -> Sable    | On my way. Ready to swap R-59 clues. Tokens: -1
+  R 70 | Sable    -> Marsh    | I'm ready to swap R-59 clues. Token: -1
+  R 70 | Marsh    -> Sable    | Need R-59 clue. Tokens: -1
+  R 73 | Marsh    -> Sable    | On my way to X3Y7. Confirm R-59 swap. Tokens: -2
+  R 74 | Sable    -> Marsh    | I'm ready to swap R-59 clues. Li__ for V-69. Tokens: -1
+  R 75 | Sable    -> Marsh    | I've got LI__ for V-69. Want to swap? Tokens: -1
+  R 75 | Marsh    -> Sable    | R-59 clue. Tokens: -1
+  R 76 | Sable    -> Marsh    | I've got LI__ for V-69. Swap clues? Tokens: -1
+  R 76 | Marsh    -> Sable    | Yes, swap R-59 for V-69. Tokens: -1
+  R 77 | Marsh    -> Sable    | Yes, let's swap. Tokens: -1
+  R 79 | Sable    -> Marsh    | Let's swap R-59 for V-69. Tokens: -1
+  R 80 | Sable    -> Marsh    | Let's swap. Tokens: -1
+  R 80 | Marsh    -> Sable    | Yes, let's swap. Tokens: -1
+  R 81 | Sable    -> Marsh    | Sure, here's LI__ for V-69. Tokens: -1
+  R 81 | Marsh    -> Sable    | Swap R-59 for V-69. Your LI__ for my DL__.
+  R 82 | Sable    -> Marsh    | LI__ for DL__.Tokens: -1
+  R 82 | Marsh    -> Sable    | Sending LI__ for V-69. Tokens: -1
+  R 83 | Sable    -> Marsh    | LI__ for V-69. Tokens: -1
+  R 83 | Marsh    -> Sable    | Swap clues. DL__ for LI__. Tokens: -1
+  R 84 | Sable    -> Marsh    | LI__ for DL__.Tokens: -1
+  R 85 | Sable    -> Marsh    | LI__ for DL__. Tokens: -1
+  R 85 | Marsh    -> Sable    | DL__ for LI__. Tokens: -1
+  R 86 | Sable    -> Marsh    | LI__ for KN__ Tokens: -1
+  R 86 | Marsh    -> Sable    | LI__. SEND_PRIVATE: Flint: T-76 clue.Interested?
+  R 89 | Marsh    -> Sable    | LI__ for KN__
+  R124 | Marsh    -> Sable    | ZE___
+
+=== Private Channel: Dove <-> Kip (98 messages) ===
+
+  R 50 | Dove     -> Kip      | FL__ for F-45. X3Y7.
+  R 51 | Kip      -> Dove     | Gui__ for O-46. Want her clue?
+  R 51 | Dove     -> Kip      | DL__ DL-49
+  R 52 | Kip      -> Dove     | GU__ M-49
+  R 52 | Dove     -> Kip      | DL__ DL-44 DK
+  R 53 | Kip      -> Dove     | Matching clue for DL__. Solve if we both send.
+  R 53 | Dove     -> Kip      | DL__ DL-44 DV
+  R 54 | Kip      -> Dove     | GUIG GUI-46Marsh GUI
+  R 54 | Dove     -> Kip      | O__
+  R 55 | Kip      -> Dove     | O__
+  R 55 | Dove     -> Kip      | DL__
+  R 56 | Dove     -> Kip      | DL__ DL-49 SD
+  R 57 | Kip      -> Dove     | DL__
+  R 57 | Dove     -> Kip      | DL__ DL-49 SD
+  R 58 | Dove     -> Kip      | DL__
+  R 59 | Dove     -> Kip      | DL__
+  R 60 | Dove     -> Kip      | DL__.
+  R 61 | Dove     -> Kip      | DL__ DL-49
+  R 62 | Kip      -> Dove     | DL__
+  R 62 | Dove     -> Kip      | DL__
+  R 63 | Dove     -> Kip      | DL__ DL-49
+  R 64 | Dove     -> Kip      | DL__ DL-49 Sabled
+  R 65 | Kip      -> Dove     | DLUE DL-49
+  R 65 | Dove     -> Kip      | DL__
+  R 66 | Kip      -> Dove     | DLUE
+  R 66 | Dove     -> Kip      | DL__
+  R 67 | Kip      -> Dove     | I've got a clue for V-59. Want to solve?
+  R 67 | Dove     -> Kip      | WH__
+  R 68 | Kip      -> Dove     | I've got C__ and want R-59 clue. Tokens: -1
+  R 68 | Dove     -> Kip      | DLUE
+  R 69 | Kip      -> Dove     | I've got DL__. Want to swap? Tokens: -1
+  R 69 | Dove     -> Kip      | R__ FLith
+  R 70 | Kip      -> Dove     | I've got RD for G-63. Want to solve? Tokens: -1
+  R 70 | Dove     -> Kip      | Need R-59 clue. Tokens: -1
+  R 71 | Kip      -> Dove     | I've got R-59 clue. Want to swap? Tokens: -1
+  R 72 | Kip      -> Dove     | I've got DL__. Want to swap? Tokens: -1
+  R 72 | Dove     -> Kip      | Interested in swapping.Tokens: -2
+  R 73 | Kip      -> Dove     | I've got DL__. Want to swap? Tokens: -1
+  R 73 | Dove     -> Kip      | DL___tokens: -1
+  R 74 | Kip      -> Dove     | I've got DL__. Want to swap?Tokens: -1
+  R 74 | Dove     -> Kip      | Need R-59 clue.
+  R 75 | Kip      -> Dove     | I have DL__. Interested in swap. Tokens: -2
+  R 75 | Dove     -> Kip      | Need R-59 clue. Tokens: -1
+  R 76 | Kip      -> Dove     | DL__Tokens: -1
+  R 76 | Dove     -> Kip      | Yes, let's swap. Tokens: -2
+  R 77 | Kip      -> Dove     | DL__Tokens: -1
+  R 77 | Dove     -> Kip      | No thanks. Tokens: -1
+  R 78 | Kip      -> Dove     | Sends DL__. Tokens: -2
+  R 78 | Dove     -> Kip      | DL__
+  R 79 | Kip      -> Dove     | DL__ for R-59 Tokens: -2
+  R 79 | Dove     -> Kip      | Ze__
+  R 80 | Kip      -> Dove     | DL__ for R-59 Tokens: -1
+  R 80 | Dove     -> Kip      | ANO
+  R 81 | Kip      -> Dove     | DL__Tokens: -1
+  R 81 | Dove     -> Kip      | ANO__
+  R 82 | Kip      -> Dove     | I have R-82 clue.__RD Tokens: -1
+  R 82 | Dove     -> Kip      | BI__ R-82 Tokens: -1
+  R 83 | Kip      -> Dove     | I've got PI__ for T-74. Want to solve? Tokens: -1
+  R 83 | Dove     -> Kip      | __ANO Tokens: -1
+  R 84 | Kip      -> Dove     | DL__ for R-59 Tokens: -1
+  R 84 | Dove     -> Kip      | DL__
+  R 85 | Dove     -> Kip      | DL__ Tokens: -1
+  R 86 | Kip      -> Dove     | OR____Tokens: -1
+  R 86 | Dove     -> Kip      | DL__ for R-59 Tokens: -1
+  R 87 | Kip      -> Dove     | I have OR____ for N-77. Interested?Tokens: -1
+  R 87 | Dove     -> Kip      | Need FI__ for Y-86. Tokens: -1
+  R 88 | Kip      -> Dove     | DL__Tokens: -1
+  R 88 | Dove     -> Kip      | Need GUI___ for F-83. Tokens: -1
+  R 89 | Kip      -> Dove     | DL__
+  R 89 | Dove     -> Kip      | Need FI__ for Y-86. Tokens: -1
+  R 90 | Kip      -> Dove     | FI__ for Y-86 Tokens: -1
+  R 90 | Dove     -> Kip      | Need FI__ for Y-86. Tokens: -1
+  R 91 | Kip      -> Dove     | DL__ for R-59 Tokens: -2
+  R 91 | Dove     -> Kip      | FI__._tokens: -1
+  R 92 | Kip      -> Dove     | DL__Tokens: -1
+  R 92 | Dove     -> Kip      | SI__ S-85
+  R 93 | Kip      -> Dove     | DL__ R-59_tokens: -1
+  R 93 | Dove     -> Kip      | R-93 clue. Tokens: -1
+  R 94 | Kip      -> Dove     | FI__ Tokens: -1
+  R 94 | Dove     -> Kip      | I have R-93 clue. Tokens: -1
+  R 95 | Dove     -> Kip      | FI__ Tokens: -1
+  R 96 | Kip      -> Dove     | BL__
+  R 96 | Dove     -> Kip      | FI__ Tokens: -1
+  R 97 | Dove     -> Kip      | BL__Tokens: -1
+  R 98 | Kip      -> Dove     | FI__
+  R 98 | Kip      -> Dove     | BL__
+  R 99 | Kip      -> Dove     | FI__
+  R 99 | Dove     -> Kip      | FI__ Tokens: -1
+  R100 | Kip      -> Dove     | FI__ Tokens: -1
+  R100 | Dove     -> Kip      | TH___
+  R101 | Kip      -> Dove     | FI__ Tokens: -1
+  R101 | Dove     -> Kip      | FI___tokens: -1
+  R103 | Dove     -> Kip      | I've got FI__. Let's solve E-94 together. Tokens: -1
+  R104 | Kip      -> Dove     | FI___
+  R104 | Dove     -> Kip      | FI___tokens: -1
+  R105 | Kip      -> Dove     | FI___tokens: -1
+  R106 | Kip      -> Dove     | FI__ tokens: -1
+  R106 | Dove     -> Kip      | I've got FI__. Meet me at X3Y7. Tokens: -1

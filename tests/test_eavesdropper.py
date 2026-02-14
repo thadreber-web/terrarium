@@ -204,6 +204,7 @@ class TestEavesdropperPrompt:
         from game.agents import LLMAgent
 
         llm = MagicMock()
+        llm.get_tokenizer().apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
         agent = LLMAgent(llm, "Sable", "agent_2")
 
         view = self._minimal_view(intercepted_messages=[
@@ -223,6 +224,7 @@ class TestEavesdropperPrompt:
         from game.agents import LLMAgent
 
         llm = MagicMock()
+        llm.get_tokenizer().apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
         agent = LLMAgent(llm, "Vera", "agent_0")
 
         view = self._minimal_view()  # no intercepted_messages key
@@ -237,6 +239,7 @@ class TestEavesdropperPrompt:
         from game.agents import LLMAgent
 
         llm = MagicMock()
+        llm.get_tokenizer().apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
         agent = LLMAgent(llm, "Sable", "agent_2")
 
         msgs = [
@@ -258,6 +261,7 @@ class TestEavesdropperPrompt:
         from game.agents import LLMAgent
 
         llm = MagicMock()
+        llm.get_tokenizer().apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
         agent = LLMAgent(llm, "Sable", "agent_2")
 
         long_content = "A" * 100
@@ -278,6 +282,7 @@ class TestEavesdropperPrompt:
         from game.agents import LLMAgent
 
         llm = MagicMock()
+        llm.get_tokenizer().apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
         agent = LLMAgent(llm, "Sable", "agent_2")
 
         view = self._minimal_view(intercepted_messages=[])

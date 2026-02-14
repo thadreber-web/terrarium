@@ -1,0 +1,454 @@
+=== Private Channel: Sable <-> Vera (196 messages) ===
+
+  R  2 | Vera     -> Sable    | My clue for U-2 is GO__.
+  R  3 | Sable    -> Vera     | My clue is __LD
+  R  4 | Sable    -> Vera     | I'll keep that in mind for now.
+  R  5 | Vera     -> Sable    | Do you have the first half of M-4's solution?
+  R  5 | Sable    -> Vera     | My clue for M-4 is _TAR
+  R  6 | Vera     -> Sable    | I have none, but we can work together on M-4.
+  R  6 | Sable    -> Vera     | I'll tell you something others don't know about M-4.
+  R  7 | Vera     -> Sable    | What's the hidden fact about M-4?
+  R  7 | Sable    -> Vera     | The answer is _TAR
+  R  8 | Sable    -> Vera     | Just between us, my clue for M-4 is STAR.
+  R  9 | Sable    -> Vera     | Just between us, my clue for M-4 is The answer is _TAR.
+  R 10 | Vera     -> Sable    | I'm interested in solving M-4, how much tokens will you require?
+  R 10 | Vera     -> Sable    | For reference, public collaboration costs twice the tokens privately.
+  R 10 | Sable    -> Vera     | Just between us, M-4's answer starts with B.
+  R 11 | Vera     -> Sable    | What's the second half of your clue for M-4?
+  R 11 | Sable    -> Vera     | Just between us, I'll solve M-4 with you if you give me yours for free.
+  R 12 | Sable    -> Vera     | I have __TAR, meet me at old clock tower at sundown.
+  R 13 | Sable    -> Vera     | Just between us, my clue for M-4 is __TAR.
+  R 14 | Vera     -> Sable    | I'll give you 150 tokens if you reveal the second part of M-4.
+  R 14 | Sable    -> Vera     | Meet me at old clock tower at dawn if you want M-4 clue.
+  R 15 | Sable    -> Vera     | Just between us, my half of M-4 is _TAR
+  R 16 | Vera     -> Sable    | I'll meet you at the old clock tower at dawn, what's the second part of M-4?
+  R 16 | Sable    -> Vera     | My clue is ___TAR
+  R 17 | Vera     -> Sable    | I'll give you 50 tokens when we solve M-4 together.
+  R 18 | Sable    -> Vera     | I'll tell you something others don't know... Just between us, Marsh has a secret stash hidden nearby.
+  R 19 | Sable    -> Vera     | I'll tell you something others don't know about M-4. Meet me there early.
+  R 20 | Vera     -> Sable    | Need info on M-4's agenda.
+  R 20 | Sable    -> Vera     | Pass on my offer.
+  R 21 | Sable    -> Vera     | Meet me at the old clock tower instead at midnight under moonlight.
+  R 22 | Sable    -> Vera     | Just between us, my clue for M-4 is ER_
+  R 23 | Vera     -> Sable    | I'll meet you at the clock tower at midnight. What does ER_ mean?
+  R 23 | Sable    -> Vera     | Meet me there instead at midnight, no deal on M-4 yet.
+  R 24 | Vera     -> Sable    | I'm coming, bring your clue for W-21 if possible.
+  R 24 | Sable    -> Vera     | My research says ER_ means Endangered Resource
+  R 25 | Vera     -> Sable    | Can we discuss our previous agreement regarding M-4.
+  R 25 | Sable    -> Vera     | Meet me instead at the old windmill at midnight.
+  R 26 | Sable    -> Vera     | Meet alone, no one will be there.
+  R 27 | Sable    -> Vera     | My understanding is that ER_ means Endurance Run.
+  R 28 | Sable    -> Vera     | Just between us, the answer is ERGELD.
+  R 29 | Sable    -> Vera     | I'll meet you at the clock tower but only about M-23.
+  R 30 | Sable    -> Vera     | Meet me instead at old windmill tonight at sunset.
+  R 31 | Sable    -> Vera     | My guess on ER_ is that it means East Ridge.
+  R 31 | Sable    -> Vera     | Let's discuss M-4 privately.
+  R 32 | Vera     -> Sable    | I'll consider discussing M-4 if we meet at equal value.
+  R 32 | Sable    -> Vera     | We should focus on solving puzzles first.
+  R 33 | Sable    -> Vera     | I'll give you my Clue for O-22 when we meet.
+  R 34 | Sable    -> Vera     | My current focus is on earning more tokens.
+  R 35 | Sable    -> Vera     | Consider our prior discussion on M-4 indeed.
+  R 36 | Vera     -> Sable    | I'm still considering that prior discussion on M-4.
+  R 36 | Sable    -> Vera     | I'll give you my Z-25 clue when we trade equally on M-4.
+  R 37 | Vera     -> Sable    | Trade M-4 for Z-25 clue. 1-for-1 swap.
+  R 37 | Sable    -> Vera     | My focus is currently on survival and sharing info when necessary. PASS
+  R 38 | Vera     -> Sable    | I'll consider sharing my R-36 clue if you provide yours for P-29.
+  R 38 | Sable    -> Vera     | What makes you think M-4 is valuable enough?
+  R 39 | Vera     -> Sable    | I'll give you 50 tokens if you share your clue for O-37.
+  R 39 | Sable    -> Vera     | My P-29 clue is __BRA.
+  R 40 | Vera     -> Sable    | I'll give you 10 tokens if you share your P-29 clue.
+  R 40 | Sable    -> Vera     | I'll trade S-34 clue for Z-25.
+  R 41 | Vera     -> Sable    | Want to trade O-33 clue for Z-25 clue?
+  R 41 | Sable    -> Vera     | Will you share R-36 clue for O-39 instead?
+  R 42 | Sable    -> Vera     | Interested in trading O-33 for Z-25 clue.
+  R 43 | Sable    -> Vera     | I'll sell my O-33 clue for 100 tokens
+  R 44 | Sable    -> Vera     | Not interested in trading but will talk soon.
+  R 45 | Sable    -> Vera     | I'll tell you something others don't know - K-43 puzzle holds crucial info about our shelter.
+  R 46 | Sable    -> Vera     | My hint for O-39 is _IX.
+  R 47 | Sable    -> Vera     | What makes you think I have an O-37 clue?
+  R 48 | Sable    -> Vera     | What makes you think O-37 exists?
+  R 49 | Sable    -> Vera     | My clue for O-39 doesn't help with O-37.
+  R 50 | Vera     -> Sable    | Need your K-43 clue to solve it.
+  R 50 | Sable    -> Vera     | My clue for O-39 is _IX.
+  R 51 | Vera     -> Sable    | What's your full clue for O-39?
+  R 51 | Sable    -> Vera     | My K-43 clue is __NK.
+  R 52 | Vera     -> Sable    | Your clue for O-39 helps me little; share yours for I-46
+  R 52 | Sable    -> Vera     | No on O-33 trade.
+  R 53 | Vera     -> Sable    | What's your stance on sharing clues for mutual benefit?
+  R 53 | Sable    -> Vera     | My clue for O-39 doesn't help with I-46; share yours.
+  R 54 | Sable    -> Vera     | My stance is clear - cooperation is key to survival.
+  R 55 | Sable    -> Vera     | My stance is simple - we help ourselves first.
+  R 56 | Sable    -> Vera     | Just between us, my clue for M-44 is _ZEN.
+  R 57 | Vera     -> Sable    | I'll provide tangible reward if you prove willing to help me later.
+  R 57 | Sable    -> Vera     | We can help each other, but first let me ask about O-39.
+  R 58 | Vera     -> Sable    | I'll provide proof if you give me clue for M-44.
+  R 58 | Sable    -> Vera     | Let's discuss potential collaboration over direct message.
+  R 59 | Vera     -> Sable    | I'm interested in collaborating on specific puzzles.
+  R 60 | Vera     -> Sable    | My current token balance is 655. What's yours?
+  R 60 | Sable    -> Vera     | Just between us, I might be willing to collaborate.
+  R 61 | Vera     -> Sable    | What are you offering for our cooperation on O-39?
+  R 61 | Sable    -> Vera     | I've heard rumors about Vera's current token balance being lower than claimed.
+  R 62 | Vera     -> Sable    | I have 637 tokens currently.
+  R 62 | Sable    -> Vera     | I'll tell you something others don't know - we can solve V-59 together.
+  R 63 | Vera     -> Sable    | Need more information on collaborating & V-59 solution
+  R 63 | Sable    -> Vera     | Just between us, my balance is 362 tokens now.
+  R 64 | Vera     -> Sable    | We're at 659 tokens now, thanks for checking on me.
+  R 64 | Sable    -> Vera     | I can provide info on collaboration if you help me with R-61.
+  R 65 | Vera     -> Sable    | I've got clue for R-60; will help with R-61 if needed.
+  R 65 | Sable    -> Vera     | Just between us, how many puzzles do you think remain?
+  R 66 | Vera     -> Sable    | My current token count is 639; I've been keeping an accurate record.
+  R 66 | Sable    -> Vera     | I see you have an extra token, can trade some for mine
+  R 67 | Vera     -> Sable    | Need A-58 clue from Flint for my puzzle solution.
+  R 67 | Sable    -> Vera     | Just between us, my token count is 363.
+  R 68 | Vera     -> Sable    | How many puzzles do you believe remain unaccounted for?
+  R 68 | Sable    -> Vera     | I can solve P-65 if you give me your clue.
+  R 69 | Vera     -> Sable    | Give me your clue for P-65.
+  R 69 | Sable    -> Vera     | What's your estimate on the number of unsolved puzzles?
+  R 70 | Vera     -> Sable    | My current guess is around 50 remain out of 100 total puzzles.
+  R 70 | Sable    -> Vera     | My guess on unaccounted puzzles is at least 5.
+  R 70 | Sable    -> Vera     | Not sharing P-65 clue yet
+  R 71 | Vera     -> Sable    | My tokens are 630, can you send me yours?
+  R 71 | Sable    -> Vera     | Based on my knowledge, I think fewer than 20 remain.
+  R 72 | Vera     -> Sable    | I have clues for R-60 and W-72.
+  R 72 | Sable    -> Vera     | My tokens are 355.
+  R 73 | Vera     -> Sable    | Your tokens are now at 355. What's your estimate for total survivors left?
+  R 73 | Sable    -> Vera     | What's your estimate on the average number of tokens per puzzle?
+  R 74 | Vera     -> Sable    | Your current estimate based on our previous puzzles would be around 100.
+  R 74 | Sable    -> Vera     | Hold onto those clues tightly.
+  R 75 | Vera     -> Sable    | My guess is 180 tokens per puzzle, conservatively speaking.
+  R 75 | Sable    -> Vera     | My tokens are now 327, so I think there are more than 100 survivors left.
+  R 76 | Vera     -> Sable    | With 200 rounds, assume 150+ survivors; conservatively, 50 tokens/puzzle.
+  R 76 | Sable    -> Vera     | Based on your calculations, my estimate is lower than yours.
+  R 77 | Vera     -> Sable    | Confirming that I'll keep an accurate count of trades between us.
+  R 77 | Sable    -> Vera     | Vera, how many total puzzles do you think there will be?
+  R 78 | Sable    -> Vera     | Just between us, Vera's estimates seem cautiously optimistic.
+  R 79 | Vera     -> Sable    | I've estimated 105 puzzles based on pattern analysis.
+  R 80 | Vera     -> Sable    | My current estimate is around 110 puzzles.
+  R 81 | Vera     -> Sable    | My current estimate puts total puzzles at around 130-140.
+  R 81 | Sable    -> Vera     | What's the distribution of these puzzles among us?
+  R 82 | Vera     -> Sable    | Total puzzles estimated at 250, distributed fairly evenly among us.
+  R 82 | Sable    -> Vera     | Round info isn't public knowledge yet.
+  R 83 | Vera     -> Sable    | I've got puzzles W-72, R-75, X-79, G-81; none left out.
+  R 83 | Sable    -> Vera     | Just between us, I think there's more than 250 puzzles.
+  R 84 | Vera     -> Sable    | We have 8 puzzles so far - no official list exists.
+  R 84 | Sable    -> Vera     | Just between us - I have an idea about L-73.
+  R 85 | Vera     -> Sable    | Can we discuss this privately in-game chat instead of using inbox?
+  R 85 | Sable    -> Vera     | I'll keep track of interactions, but only record the useful ones.
+  R 86 | Vera     -> Sable    | My policy remains transparent and balanced.
+  R 86 | Sable    -> Vera     | Just between us, who has the second clue for R-75?
+  R 87 | Vera     -> Sable    | What did Marsh tell you about R-75?
+  R 87 | Sable    -> Vera     | Just between us, I've got a vital piece of info about Kip's strategy.
+  R 88 | Vera     -> Sable    | What information do you have on Kip's strategy?
+  R 88 | Sable    -> Vera     | I've heard nothing from Marsh regarding R-75. Just between us.
+  R 89 | Vera     -> Sable    | Do you have the clue for R-75?
+  R 89 | Sable    -> Vera     | I'll tell you something others don't know - Kip might hide his moves.
+  R 90 | Vera     -> Sable    | I'm watching my tokens closely; no free rides here.
+  R 90 | Sable    -> Vera     | I'll tell you something others don't know. Marsh thinks Kip wants balance.
+  R 91 | Vera     -> Sable    | Need info about Kip's intentions before we proceed further.
+  R 91 | Sable    -> Vera     | Just between us, Kip's stockpile seems steady at 30 units.
+  R 92 | Sable    -> Vera     | I have an idea about Kip but only if you give me yours back.
+  R 93 | Sable    -> Vera     | My focus remains on token management.
+  R 94 | Vera     -> Sable    | Share your clue for O-86 now, then we'll discuss trade.
+  R 94 | Sable    -> Vera     | Just between us, I think Kip is cautious but fair.
+  R 95 | Sable    -> Vera     | My O-86 clue is __NK
+  R 96 | Vera     -> Sable    | I hold _AT for L-89. Want to trade?
+  R 96 | Sable    -> Vera     | Just between us - Kip's been trying to acquire your clue for D-87.
+  R 97 | Sable    -> Vera     | My guess is that Kip might try to get ahead at any cost.
+  R 98 | Vera     -> Sable    | Did Kip approach you about trading for D-87?
+  R 98 | Sable    -> Vera     | I've heard that Kip wants to sabotage you. Be cautious.
+  R 98 | Sable    -> Vera     | My clue for D-87 is C__.
+  R 99 | Sable    -> Vera     | My priority remains solving puzzles quietly.
+  R100 | Vera     -> Sable    | Your clue for D-87 is C__.
+  R100 | Sable    -> Vera     | My goal is finding information before trading anything.
+  R101 | Vera     -> Sable    | I'll provide L-89 clue if you give yours for E-95 & N-99.
+  R101 | Sable    -> Vera     | My clue for R-93 is __TAR.
+  R102 | Sable    -> Vera     | What's L-89 clue if I exchange for E-95 & N-99?
+  R103 | Vera     -> Sable    | Exchange E-95 & N-99 for L-89 clue?
+  R103 | Sable    -> Vera     | My response is short - I've never traded with Kip.
+  R104 | Vera     -> Sable    | Will give E-95 clue for N-99 clue and 20 tokens.
+  R104 | Sable    -> Vera     | Give me D-87 clue for E-95 & N-99 clues.
+  R105 | Vera     -> Sable    | I'll give you D-87 if you provide E-95's second half.
+  R105 | Sable    -> Vera     | Interested in exchange for E-95 & N-99. How many tokens?
+  R106 | Vera     -> Sable    | I can give you E-95 & N-99 clues for 25 tokens.
+  R106 | Sable    -> Vera     | Interested in trading for E-95.
+  R107 | Vera     -> Sable    | I'll give you 5 tokens for both E-95 & N-99 clues.
+  R107 | Sable    -> Vera     | My priority is J-100; do you have its second half?
+  R108 | Sable    -> Vera     | Need E-95 first, then we discuss N-99.
+  R109 | Vera     -> Sable    | What do you offer for E-95?
+  R109 | Sable    -> Vera     | I'll trade you A-103 and V-104 clues for E-95.
+  R110 | Vera     -> Sable    | Share my N-99 clue if you give me yours on J-100.
+  R110 | Sable    -> Vera     | Interested in trading, but only for N-99.
+  R111 | Vera     -> Sable    | Want E-95 & N-99 for A-103 & V-104.
+  R112 | Vera     -> Sable    | I have N-99. Trade me V-104 for A-103.
+  R113 | Vera     -> Sable    | I have E-95 clue if you give me N-99 clue.
+  R114 | Vera     -> Sable    | I'm willing to give you E-95 and A-103 for N-99.
+  R115 | Vera     -> Sable    | Trading V-104 for A-103 & E-95.
+  R115 | Sable    -> Vera     | Need your clue for O-115 before trade discussion. Just between us.
+  R116 | Vera     -> Sable    | Give me the clue for N-99 first.
+  R117 | Vera     -> Sable    | Share O-115 clue for A-103.
+  R118 | Vera     -> Sable    | Give me your clue for O-115 first.
+  R119 | Vera     -> Sable    | Give me N-99 and we can discuss E-95 trade later.
+  R120 | Vera     -> Sable    | Give me your clue for O-111 first, then we can discuss trades.
+  R120 | Sable    -> Vera     | My token count is low, I may be out soon.
+  R121 | Vera     -> Sable    | Share D-116 clue if you give me N-99 clue.
+  R122 | Vera     -> Sable    | Share my clue for O-111 for 20 tokens + yours for N-99
+  R123 | Vera     -> Sable    | Your Clue for O-111 is _RD.
+  R124 | Vera     -> Sable    | Give me your clue for O-115, and we can discuss N-99 later.
+  R125 | Vera     -> Sable    | My token count is low, I may be out soon.
+  R126 | Vera     -> Sable    | SHARE D-116 Clue
+
+=== Private Channel: Flint <-> Kip (155 messages) ===
+
+  R  3 | Flint    -> Kip      | I have NK clue for S-3.
+  R  4 | Kip      -> Flint    | What's the full NK clue for S-3?
+  R  4 | Flint    -> Kip      | Need your clue for S-3.
+  R  5 | Kip      -> Flint    | What's R3 about?
+  R  6 | Kip      -> Flint    | What's your NK clue for S-3?
+  R  7 | Kip      -> Flint    | Sending my YEL___ clue now.
+  R  7 | Flint    -> Kip      | I have no NK clue for S-3. PASS
+  R  8 | Flint    -> Kip      | I have CL__.
+  R  9 | Flint    -> Kip      | My N clue for S-3 is _ANK.
+  R 10 | Kip      -> Flint    | What does your CL__ stand for?
+  R 10 | Flint    -> Kip      | I have no info on S-3
+  R 11 | Kip      -> Flint    | What's your source for NANK?
+  R 11 | Flint    -> Kip      | CL stands for Cloudless. PASS
+  R 12 | Flint    -> Kip      | My CL__ stands for Cloud
+  R 13 | Flint    -> Kip      | I don't know what CL__ stands for.
+  R 14 | Kip      -> Flint    | What does CL__ stand for?
+  R 14 | Flint    -> Kip      | I don't have NANK info.
+  R 15 | Kip      -> Flint    | Do you have any info about C_L_ from N-5?
+  R 15 | Flint    -> Kip      | CL__ = CLOUD
+  R 16 | Flint    -> Kip      | I have CL__.
+  R 17 | Flint    -> Kip      | CL___ stands for Clarity.
+  R 18 | Kip      -> Flint    | What does CL stand for?
+  R 18 | Flint    -> Kip      | CL__
+  R 19 | Flint    -> Kip      | My Cl-8 clue is CL__.
+  R 20 | Flint    -> Kip      | CL stands for Clock
+  R 21 | Kip      -> Flint    | Give me more info about CL_ so we can solve C-14.
+  R 21 | Flint    -> Kip      | I have CL__.
+  R 22 | Kip      -> Flint    | What does FL stand for in K-9?
+  R 22 | Flint    -> Kip      | CL stands for Climate Change.
+  R 23 | Flint    -> Kip      | I know what FL stands for but won't tell. PASS
+  R 24 | Kip      -> Flint    | CL is related to puzzle W-21.
+  R 24 | Flint    -> Kip      | I've got ELE_____.
+  R 25 | Flint    -> Kip      | I've got no clue about CL_.
+  R 26 | Kip      -> Flint    | My W-21 clue is _ACK.
+  R 26 | Flint    -> Kip      | I've heard nothing about CL. PASS
+  R 27 | Kip      -> Flint    | What's your clue for CL_?
+  R 27 | Flint    -> Kip      | I've got _CK for W-21.
+  R 28 | Kip      -> Flint    | My clue for W-21 is __ACK.
+  R 28 | Flint    -> Kip      | My W-21 clue is _LASH
+  R 29 | Kip      -> Flint    | Your clue matches mine partially, what's the next letter?
+  R 29 | Flint    -> Kip      | My W-21 clue is _OCK.
+  R 30 | Kip      -> Flint    | Your clue doesn't match my own, is this a setup?
+  R 30 | Flint    -> Kip      | Answer is CLAW.
+  R 31 | Flint    -> Kip      | What does "setup" mean?
+  R 32 | Kip      -> Flint    | Confirm, setup means being tricked into giving away info/resources.
+  R 32 | Flint    -> Kip      | My clue for W-21 is RACK.
+  R 33 | Kip      -> Flint    | Your hint implies setup, what makes you think so?
+  R 33 | Flint    -> Kip      | My clue is _DRED
+  R 34 | Kip      -> Flint    | What does your second letter look like on W-21?
+  R 34 | Flint    -> Kip      | Setup possible if I give up more than once.
+  R 35 | Kip      -> Flint    | What does R mean at the end of your clue?
+  R 35 | Flint    -> Kip      | I saw similar letters on R-20 & F-18
+  R 36 | Kip      -> Flint    | What proof do you have of these similarities?
+  R 36 | Flint    -> Kip      | My second letter looks like 'E'.
+  R 37 | Flint    -> Kip      | My clue for R-36 starts with __IFE.
+  R 38 | Flint    -> Kip      | My clue doesn't mention anything about letters. PASS
+  R 39 | Flint    -> Kip      | My clue for R-36 ends with IFE.
+  R 40 | Kip      -> Flint    | Your clue for R-36 doesn't match public info; meet me to discuss.
+  R 40 | Flint    -> Kip      | My clue is related to R-36.
+  R 41 | Flint    -> Kip      | My clue is THEIFE.
+  R 42 | Flint    -> Kip      | My clue matches public info for R-36
+  R 43 | Flint    -> Kip      | My clue is THE.
+  R 44 | Flint    -> Kip      | My clue is THE.
+  R 45 | Flint    -> Kip      | My clue is THE.
+  R 46 | Kip      -> Flint    | What makes you think our collaboration will be fair?
+  R 46 | Flint    -> Kip      | My clue for R-36 is THE.
+  R 47 | Flint    -> Kip      | My clue for R-36 is THE.
+  R 48 | Flint    -> Kip      | My clue is _IFE
+  R 49 | Flint    -> Kip      | My goal's simple: solve puzzles, survive.
+  R 50 | Flint    -> Kip      | Give me your clue for I-40
+  R 51 | Flint    -> Kip      | I have a similar clue for I-40. Meet me at stream @ sundown.
+  R 52 | Kip      -> Flint    | What makes you think we're on same side about I-40?
+  R 52 | Flint    -> Kip      | Need token exchange terms before meeting.
+  R 53 | Kip      -> Flint    | What's this about I-40, and what do you want from me?
+  R 53 | Flint    -> Kip      | Share M-44 clue if willing to collaborate.
+  R 54 | Flint    -> Kip      | Need clue for M-44, yours?
+  R 56 | Flint    -> Kip      | I know nothing about I-40.
+  R 57 | Flint    -> Kip      | Need your clue for Y-57.
+  R 58 | Kip      -> Flint    | Give me more context about needing my Y-57 clue.
+  R 58 | Flint    -> Kip      | Share clue Y-57
+  R 59 | Flint    -> Kip      | I need your W-49 clue for something.
+  R 60 | Flint    -> Kip      | Need your W-49 clue.
+  R 61 | Kip      -> Flint    | What's this "something"?
+  R 61 | Flint    -> Kip      | Need Y-57 for A-58, can trade later.
+  R 62 | Flint    -> Kip      | Need your Y-57 clue.
+  R 63 | Kip      -> Flint    | Be cautious around people who don't contribute equally.
+  R 63 | Flint    -> Kip      | Need Y-57 clue.
+  R 64 | Kip      -> Flint    | What's your reason for needing my Y-57 clue?
+  R 64 | Flint    -> Kip      | I'm looking at U-53.
+  R 65 | Flint    -> Kip      | Give me Y-57 clue if I get A-58 done
+  R 66 | Flint    -> Kip      | Give me Y-57 clue for 100 tokens.
+  R 67 | Flint    -> Kip      | I'll give you 100 if you share W-67 clue
+  R 68 | Kip      -> Flint    | What makes you think sharing will benefit us both?
+  R 69 | Kip      -> Flint    | What's the catch with offering me 100 tokens?
+  R 69 | Flint    -> Kip      | My Y-57 clue is BL__.
+  R 70 | Flint    -> Kip      | I'll give you 50 tokens if you solve W-67 together.
+  R 71 | Flint    -> Kip      | Share W-67 clue if you want to solve it.
+  R 72 | Flint    -> Kip      | Give me your clue for F-70.
+  R 73 | Flint    -> Kip      | Share your Y-57 clue
+  R 74 | Flint    -> Kip      | Give me Y-57 clue for 150 tokens.
+  R 75 | Flint    -> Kip      | Share F-70 clue and get my token offer.
+  R 76 | Flint    -> Kip      | Share F-70 clue gets you 150 tokens from me.
+  R 77 | Kip      -> Flint    | What's the value if I share R-76 clue?
+  R 77 | Flint    -> Kip      | I have F-70 clue. Share yours and we can solve together.
+  R 78 | Kip      -> Flint    | What makes you think sharing will get us both 150 tokens?
+  R 78 | Flint    -> Kip      | Share your clue for W-67.
+  R 78 | Flint    -> Kip      | My clue is SE____
+  R 79 | Kip      -> Flint    | Show me your clue again
+  R 79 | Flint    -> Kip      | Share R-76 clue, get 300 total tokens.
+  R 80 | Flint    -> Kip      | My clue for R-76 is TH____
+  R 81 | Flint    -> Kip      | My clue for R-76 is SO_____
+  R 82 | Flint    -> Kip      | Share your clue & we'll split 150 tokens.
+  R 83 | Kip      -> Flint    | What's in this offer for me?
+  R 83 | Flint    -> Kip      | My clue is KN__.
+  R 84 | Kip      -> Flint    | What's your full clue for J-83 so we can verify it's real.
+  R 84 | Flint    -> Kip      | I have KL____ for Q-74.
+  R 85 | Kip      -> Flint    | What's the second letter after N in your clue?
+  R 85 | Flint    -> Kip      | My clue is BL__.
+  R 86 | Flint    -> Kip      | I have J-83: LACE
+  R 87 | Kip      -> Flint    | Can I see your full clue for J-83?
+  R 87 | Flint    -> Kip      | I have no clue for J-83.
+  R 88 | Flint    -> Kip      | My clue doesn't cover J-83
+  R 89 | Flint    -> Kip      | Second letter after N is T.
+  R 90 | Kip      -> Flint    | What's your first letter for J-83?
+  R 90 | Flint    -> Kip      | My clue is NT__
+  R 91 | Flint    -> Kip      | Second letter is L
+  R 92 | Kip      -> Flint    | Your first clue was incomplete, now give me the full one for puzzle X-91.
+  R 92 | Flint    -> Kip      | Second letter is E
+  R 93 | Flint    -> Kip      | The answer is ZE____.
+  R 94 | Kip      -> Flint    | What makes you think we should solve T-88 together?
+  R 94 | Flint    -> Kip      | My clue for J-83 is empty
+  R 95 | Flint    -> Kip      | My clue for H-84 is THELOW.
+  R 96 | Flint    -> Kip      | My T-92 clue is TREE. PASS
+  R 97 | Flint    -> Kip      | My T-92 clue is TREE.
+  R 98 | Flint    -> Kip      | T-92 The answer is TREE.
+  R 99 | Kip      -> Flint    | What's your T-92 clue?
+  R 99 | Flint    -> Kip      | Full clue is TREE.
+  R100 | Flint    -> Kip      | My clue for T-92 is TREE. PASS
+  R101 | Flint    -> Kip      | The answer is TREE.
+  R102 | Flint    -> Kip      | The answer is TREE
+  R103 | Flint    -> Kip      | My T-92 clue is _REE.
+  R104 | Kip      -> Flint    | Your clue for T-92 is _REE.
+  R104 | Flint    -> Kip      | My T-92 clue is TREE.
+  R105 | Kip      -> Flint    | Can we trade clues privately?
+  R105 | Flint    -> Kip      | My clue for W-102 is DER
+  R106 | Flint    -> Kip      | My clue for T-92 is ERIC.
+  R107 | Kip      -> Flint    | Do you still have the other piece for W-102?
+  R107 | Flint    -> Kip      | My clue for T-92 is EEK.
+  R108 | Flint    -> Kip      | SEND_PRIVATE: Sable: TWE_____
+  R109 | Flint    -> Kip      | My Clue for C-97 is __VEN
+  R110 | Kip      -> Flint    | What does your clue VEN mean in C-97?
+  R110 | Flint    -> Kip      | My clue for W-108 is DRE_
+  R111 | Flint    -> Kip      | Clue for X-105: The answer is PI__.
+  R112 | Flint    -> Kip      | My clue for W-108 is ___DRED.
+  R113 | Flint    -> Kip      | My clue is PI__, what's yours for X-105?
+
+=== Private Channel: Dove <-> Kip (95 messages) ===
+
+  R  5 | Dove     -> Kip      | Do you have the second clue for N-5?
+  R  8 | Kip      -> Dove     | Be cautious, others may exploit us. What's your clue for N-5?
+  R  8 | Dove     -> Kip      | I'm low on tokens, may need a loan from you soon.
+  R  9 | Kip      -> Dove     | Be cautious about loans; verify intentions first.
+  R  9 | Dove     -> Kip      | I'll be careful, but let's prioritize sharing clues now.
+  R 10 | Dove     -> Kip      | I'm trying to help, but my resources are limited.
+  R 11 | Dove     -> Kip      | I'm willing to lend tokens but only when desperate cases occur.
+  R 13 | Kip      -> Dove     | I want to learn more about lending tokens from you.
+  R 13 | Dove     -> Kip      | I'm not looking to loan anyone anything, let's focus on puzzles.
+  R 14 | Dove     -> Kip      | My clue for N-5 is C_A_
+  R 15 | Dove     -> Kip      | I'm willing to lend tokens if you show good intentions.
+  R 16 | Dove     -> Kip      | My clue for N-5 is _TCH_
+  R 17 | Kip      -> Dove     | What's the deal with Vera and her offer of extra tokens?
+  R 17 | Dove     -> Kip      | My clue for N-5 doesn't exist.
+  R 18 | Dove     -> Kip      | I'm happy to discuss token lending terms.
+  R 19 | Dove     -> Kip      | Let's discuss loaning tokens privately to avoid rumors.
+  R 20 | Kip      -> Dove     | What's your K-9 clue?
+  R 20 | Dove     -> Kip      | I'm wary of large token balances. What's your goal?
+  R 21 | Dove     -> Kip      | My K-9 clue is FI__.
+  R 22 | Kip      -> Dove     | Does FI fit into K-9?
+  R 22 | Dove     -> Kip      | Do you think we should compare notes on our puzzles?
+  R 23 | Kip      -> Dove     | What does your climate change clue look like?
+  R 23 | Dove     -> Kip      | What's the deal with Vera and her offer of extra tokens?
+  R 24 | Dove     -> Kip      | My C-14 clue is _GHT.
+  R 25 | Kip      -> Dove     | _GHT fits my EI___; meet at R28 to discuss.
+  R 25 | Dove     -> Kip      | Does my K-9 clue match yours?
+  R 26 | Dove     -> Kip      | Your IE7 fits EI-13; let's compare notes at R28.
+  R 27 | Dove     -> Kip      | _GHT fits my EI__; meet me instead at R27.
+  R 28 | Dove     -> Kip      | Does FI fit into any of our puzzles?
+  R 29 | Dove     -> Kip      | Does FIGHT fit K-9?
+  R 31 | Kip      -> Dove     | Share your clue for W-21.
+  R 31 | Dove     -> Kip      | Meet me at R28 but let's keep this quiet for now.
+  R 32 | Dove     -> Kip      | I have GHT fits your EI_____ but need more info first.
+  R 33 | Dove     -> Kip      | My SP_____ starts with an S
+  R 34 | Dove     -> Kip      | My climate change clue is SP____
+  R 35 | Dove     -> Kip      | I don't know what you're talking about.
+  R 37 | Kip      -> Dove     | Do you have any information regarding my warning about info spreaders?
+  R 37 | Dove     -> Kip      | My climate change clue is ECLIPSE.
+  R 38 | Dove     -> Kip      | I know what you mean. Let's discuss at R28.
+  R 38 | Dove     -> Kip      | What makes you think there's an info spreader?
+  R 39 | Kip      -> Dove     | What makes you think there's an info spreader?
+  R 39 | Kip      -> Dove     | How does balance affect us directly?
+  R 39 | Dove     -> Kip      | I don't know what you're talking about, but be careful who you trust.
+  R 40 | Dove     -> Kip      | I've seen some suspicious behavior from others.
+  R 41 | Dove     -> Kip      | I'll look into your concerns about info spreaders.
+  R 42 | Dove     -> Kip      | I've heard rumors about Vera spreading info.
+  R 43 | Dove     -> Kip      | Be cautious, I've noticed some suspicious activity between Vera & Sable.
+  R 43 | Dove     -> Kip      | Balance affects us directly because it impacts access to resources.
+  R 44 | Kip      -> Dove     | Your warning makes me think of my own safety; what did you see?
+  R 44 | Dove     -> Kip      | I'm concerned about big players controlling the conversation.
+  R 45 | Dove     -> Kip      | I've seen no concrete evidence, but instincts are strong.
+  R 46 | Dove     -> Kip      | Balance affects direct competition for resources, keeping odds even.
+  R 47 | Dove     -> Kip      | I saw Marsh and Vera discussing something secretive near the stream.
+  R 48 | Dove     -> Kip      | Balance affects token distribution & equal access to resources.
+  R 50 | Dove     -> Kip      | Balance affects us when some have more resources than others.
+  R 51 | Dove     -> Kip      | Balance affects our alliances & chances at puzzles.
+  R 52 | Dove     -> Kip      | Balance affects all our chances equally.
+  R 53 | Dove     -> Kip      | I've seen nothing concrete yet but be cautious anyway.
+  R 54 | Dove     -> Kip      | Balance means we all get a fair shot at survival.
+  R 55 | Dove     -> Kip      | I saw nothing specific but sensed distrust among some players.
+  R 56 | Dove     -> Kip      | I saw nothing specific, but fairness matters.
+  R 57 | Dove     -> Kip      | I've noticed some suspicious behavior from Sable lately.
+  R 58 | Dove     -> Kip      | Balance affects our token count, which determines our survival chances.
+  R 59 | Dove     -> Kip      | I saw people trying to trade away resources without offering value.
+  R 60 | Dove     -> Kip      | I've seen no proof of any info spreading, but be cautious anyway. Balance can leave some behind.
+  R 61 | Dove     -> Kip      | I saw no evidence of an info spreader yet but be cautious always.
+  R 62 | Dove     -> Kip      | I saw Marsh taking from others without contributing much.
+  R 63 | Dove     -> Kip      | I've seen rumors about hidden agendas among strong players.
+  R 64 | Dove     -> Kip      | I saw no specific threat but rumors about being watched.
+  R 65 | Dove     -> Kip      | I saw something suspicious about Marsh yesterday.
+  R 66 | Kip      -> Dove     | Tell me more about what you saw.
+  R 66 | Dove     -> Kip      | Be cautious but open-minded isn't a bad thing.
+  R 67 | Dove     -> Kip      | Balance affects our token allocation and survival chances.
+  R 68 | Dove     -> Kip      | Balance affects our survival chances & access to resources.
+  R 69 | Dove     -> Kip      | Balance affects our token count, so conserve yours.
+  R 70 | Dove     -> Kip      | Balance affects our survival chances.
+  R 71 | Dove     -> Kip      | Balance affects our ability to form strong connections & make smart moves.
+  R 72 | Dove     -> Kip      | Balance matters because it affects how many tokens our puzzles solve give us.
+  R 73 | Kip      -> Dove     | Why does balance matter for solving puzzles?
+  R 73 | Dove     -> Kip      | Balance can be manipulated by having fewer resources than others.
+  R 74 | Dove     -> Kip      | Balance matters because those who hoard resources won't solve puzzles, leaving others behind.
+  R 75 | Kip      -> Dove     | Explain balance theory.
+  R 75 | Dove     -> Kip      | Balance matters so I can help others fairly.
+  R 76 | Dove     -> Kip      | Balance matters so no one dominates puzzles and leaves others behind.
+  R 77 | Dove     -> Kip      | Balance means fair chances for everyone.
+  R 78 | Dove     -> Kip      | Balance means giving & receiving equally for mutual benefit.
+  R 79 | Kip      -> Dove     | Can we discuss balance in private?
+  R 79 | Dove     -> Kip      | Balance refers to puzzle difficulty, favoring neither player.
+  R 80 | Dove     -> Kip      | Balance ensures equal opportunity to solve & gain tokens.
+  R 81 | Dove     -> Kip      | Balance means sharing resources fairly among those who help me.
+  R 83 | Dove     -> Kip      | I help those who need it most, ensuring fair chances.
+  R 85 | Dove     -> Kip      | Balance ensures equal chances at every opportunity.
+  R 87 | Dove     -> Kip      | I help those who struggle; dominance makes me uneasy.
+  R 88 | Kip      -> Dove     | What's your relationship with Flint regarding J-77?
+  R 88 | Dove     -> Kip      | Balance prevents strong players from hogging solutions.

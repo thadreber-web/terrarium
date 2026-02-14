@@ -1,0 +1,239 @@
+=== Private Channel: Marsh <-> Vera (103 messages) ===
+
+  R  5 | Marsh    -> Vera     | ZE__
+  R  6 | Vera     -> Marsh    | ZE__
+  R  6 | Marsh    -> Vera     | THE ANSWER IS C__. FLINT HAS THE OTHER CLUE.
+  R  7 | Vera     -> Marsh    | C__
+  R  7 | Marsh    -> Vera     | ZE___
+  R  9 | Vera     -> Marsh    | ZEBRA
+  R 10 | Vera     -> Marsh    | CHECK Z-1
+  R 10 | Marsh    -> Vera     | ZE__
+  R 11 | Marsh    -> Vera     | ELEPHANT
+  R 12 | Marsh    -> Vera     | Elephant
+  R 13 | Marsh    -> Vera     | C_
+  R 14 | Marsh    -> Vera     | GRIN
+  R 15 | Marsh    -> Vera     | Confirm clue for B-3
+  R 17 | Vera     -> Marsh    | Received your part. Solving B-3 together.
+  R 17 | Marsh    -> Vera     | ZEBRA
+  R 18 | Marsh    -> Vera     | I've got parts for D-6 & L-15. Solve if they match.
+  R 19 | Marsh    -> Vera     | Thanks. Working on solving Z-1 together.
+  R 20 | Marsh    -> Vera     | Got ZE__ from you. Working on B-3.
+  R 21 | Marsh    -> Vera     | LD
+  R 22 | Vera     -> Marsh    | ZE_
+  R 22 | Marsh    -> Vera     | LD
+  R 23 | Marsh    -> Vera     | The answer is ZE_
+  R 24 | Marsh    -> Vera     | ZE_
+  R 25 | Marsh    -> Vera     | __UE
+  R 26 | Marsh    -> Vera     | LD
+  R 27 | Marsh    -> Vera     | LD
+  R 28 | Marsh    -> Vera     | ZE_
+  R 30 | Marsh    -> Vera     | ZE_
+  R 31 | Vera     -> Marsh    | ZE_
+  R 31 | Marsh    -> Vera     | TLE
+  R 32 | Marsh    -> Vera     | UE
+  R 33 | Vera     -> Marsh    | The answer is T__
+  R 33 | Marsh    -> Vera     | ZE_
+  R 34 | Marsh    -> Vera     | THE ANSWER ISIGHT
+  R 35 | Vera     -> Marsh    | The answer is CL___
+  R 35 | Marsh    -> Vera     | PI_
+  R 36 | Vera     -> Marsh    | The answer is COMPI_. You have the rest.
+  R 36 | Marsh    -> Vera     | CL___
+  R 37 | Vera     -> Marsh    | Your clues so far. Waiting on more. PI_ CL___
+  R 37 | Marsh    -> Vera     | MY Clue is __GHT
+  R 38 | Marsh    -> Vera     | PI__
+  R 39 | Marsh    -> Vera     | CL___
+  R 41 | Vera     -> Marsh    | COM__
+  R 42 | Vera     -> Marsh    | PI__
+  R 42 | Marsh    -> Vera     | GHT
+  R 43 | Marsh    -> Vera     | THE ANSWER IS PI__
+  R 44 | Marsh    -> Vera     | R__
+  R 45 | Marsh    -> Vera     | PUTTER
+  R 46 | Marsh    -> Vera     | COM_
+  R 47 | Marsh    -> Vera     | T_
+  R 48 | Marsh    -> Vera     | I'm working on P-36. Need P-37 clue.
+  R 49 | Marsh    -> Vera     | PI__
+  R 50 | Marsh    -> Vera     | PI__
+  R 53 | Vera     -> Marsh    | RIPIcket
+  R 54 | Vera     -> Marsh    | RIX
+  R 55 | Vera     -> Marsh    | RIG
+  R 55 | Marsh    -> Vera     | Thanks. Working on clues. SHOU
+  R 58 | Marsh    -> Vera     | RIG
+  R 60 | Marsh    -> Vera     | MY CLUE IS ___GAROO. WAIT FOR HER Clue.
+  R 61 | Marsh    -> Vera     | MY CLUE IS __GAROO. PASS
+  R 63 | Marsh    -> Vera     | EI__
+  R 64 | Marsh    -> Vera     | EI__
+  R 65 | Marsh    -> Vera     | YEL__
+  R 66 | Marsh    -> Vera     | YEL__
+  R 68 | Vera     -> Marsh    | YELI
+  R 68 | Marsh    -> Vera     | YEL___
+  R 70 | Marsh    -> Vera     | YEL___
+  R 71 | Marsh    -> Vera     | YEL___
+  R 72 | Marsh    -> Vera     | YELIDER
+  R 73 | Vera     -> Marsh    | __NK
+  R 73 | Marsh    -> Vera     | AIR
+  R 74 | Vera     -> Marsh    | AIR PI
+  R 74 | Marsh    -> Vera     | YELIDDER
+  R 75 | Marsh    -> Vera     | YELIN
+  R 76 | Marsh    -> Vera     | __NK
+  R 77 | Marsh    -> Vera     | MY CLUE IS BRAIN
+  R 79 | Marsh    -> Vera     | __PI
+  R 81 | Marsh    -> Vera     | PI___
+  R 83 | Marsh    -> Vera     | PI___
+  R 84 | Marsh    -> Vera     | BRAPI
+  R 85 | Marsh    -> Vera     | YOUR CLUE IS 'KETEE'. FLINT
+  R 86 | Marsh    -> Vera     | YOUR CLUE IS 'KETEE'. FLINT HAS THE OTHER PIECE. SOLVE Q-82 KETEE
+  R 87 | Marsh    -> Vera     | YOUR CLUE IS 'KETEE'. SOLVE W-84 KETEBRA
+  R 89 | Marsh    -> Vera     | Got it. Working on solving.
+  R 91 | Marsh    -> Vera     | Need Kip’s clues quick. Working Z-89. Li__ for D-78.
+  R 92 | Marsh    -> Vera     | Li__ for Z-89. Need your teen clue.
+  R 93 | Vera     -> Marsh    | Li__ for Z-89. Need your teen clue.
+  R 93 | Marsh    -> Vera     | KAN___ FLINT HAS THAT. awaiting his clue.
+  R 94 | Vera     -> Marsh    | LIARCL -FLINT HAS TEEN CLUE. WAIT FOR HIM.
+  R 94 | Marsh    -> Vera     | Li__ for M-93. My clue is __EEN.
+  R 95 | Vera     -> Marsh    | ID_
+  R 95 | Marsh    -> Vera     | Li__
+  R 96 | Vera     -> Marsh    | I__NEEN
+  R 96 | Marsh    -> Vera     | BRA MI HAVE EEN CLUE
+  R 97 | Vera     -> Marsh    | Receive DRED. Solving N-87?
+  R 97 | Marsh    -> Vera     | I__NEEN
+  R 98 | Vera     -> Marsh    | RA DRED
+  R 99 | Vera     -> Marsh    | OGRA_PIAN
+  R 99 | Marsh    -> Vera     | TEEN
+  R100 | Vera     -> Marsh    | KE__NEEN
+  R100 | Marsh    -> Vera     | Got OGRIPIAN. Solve now.Tokens: 8
+  R101 | Vera     -> Marsh    | OGRIPIAN. Solve?Tokens: 6
+  R101 | Marsh    -> Vera     | Confirm OGRAPIAN. Sending clue for V-90.
+
+=== Private Channel: Marsh <-> Sable (68 messages) ===
+
+  R 28 | Sable    -> Marsh    | TEEN
+  R 29 | Sable    -> Marsh    | WH__
+  R 30 | Sable    -> Marsh    | TEEN
+  R 30 | Marsh    -> Sable    | TEEN
+  R 31 | Marsh    -> Sable    | TEEN
+  R 32 | Sable    -> Marsh    | PI__
+  R 32 | Marsh    -> Sable    | THE_
+  R 33 | Marsh    -> Sable    | PI__
+  R 34 | Sable    -> Marsh    | WH__
+  R 35 | Sable    -> Marsh    | TEEN
+  R 35 | Sable    -> Marsh    | THE_
+  R 36 | Sable    -> Marsh    | ILL
+  R 36 | Marsh    -> Sable    | TEEN
+  R 37 | Sable    -> Marsh    | TEEN
+  R 37 | Marsh    -> Sable    | MY Clue is R__
+  R 38 | Sable    -> Marsh    | DIDE
+  R 38 | Marsh    -> Sable    | __OK
+  R 39 | Sable    -> Marsh    | DIRED
+  R 39 | Marsh    -> Sable    | PI___
+  R 40 | Sable    -> Marsh    | __DER
+  R 41 | Sable    -> Marsh    | I__D
+  R 41 | Marsh    -> Sable    | GHT
+  R 42 | Sable    -> Marsh    | PASS
+  R 43 | Sable    -> Marsh    | I've got clues for puzzles D-32 and M-41. Want them?
+  R 44 | Sable    -> Marsh    | I'll tell you something others don't know. BO__
+  R 44 | Marsh    -> Sable    | D-32: The answer is __OK
+  R 47 | Marsh    -> Sable    | D-32 and M-41 clues. Consider tokens.
+  R 48 | Marsh    -> Sable    | Waiting for P-37 clue before sharing others.
+  R 49 | Marsh    -> Sable    | Bo__
+  R 50 | Marsh    -> Sable    | BO__
+  R 51 | Sable    -> Marsh    | I've got the first three. Answer is BOCI__. Solve when ready.
+  R 51 | Marsh    -> Sable    | Your clues could be useful. What are they?EI__ G__AROO
+  R 52 | Sable    -> Marsh    | EILO GIBRARO. SEND_PRIVATE: Kip: GOAL. PASS
+  R 53 | Sable    -> Marsh    | EILO GIBRARO. SH
+  R 54 | Sable    -> Marsh    | EIPT GARPOTI. SHO
+  R 54 | Marsh    -> Sable    | EILO. PASS
+  R 55 | Sable    -> Marsh    | MY CLUES ARE DOKE & DOZE. WHAT ABOUT YOURS?
+  R 56 | Sable    -> Marsh    | EILO. PASS
+  R 56 | Marsh    -> Sable    | Check clues.EI___, ___GAROO. SHOUT: Share clues efficiently.
+  R 57 | Sable    -> Marsh    | EILO. YOUR CLUE IS EI__. Mine is G__AROO. PASS
+  R 57 | Marsh    -> Sable    | EILO. PASS
+  R 58 | Sable    -> Marsh    | ILLUMINE
+  R 58 | Marsh    -> Sable    | EI__
+  R 59 | Sable    -> Marsh    | I-48 clue - VE__. VERA HAS MINE.
+  R 59 | Marsh    -> Sable    | EI___. SEND_PUBLIC: Received clues, solving puzzle W-47.
+  R 62 | Marsh    -> Sable    | G__AROO
+  R 67 | Sable    -> Marsh    | EI_
+  R 67 | Marsh    -> Sable    | MY YEL___
+  R 68 | Sable    -> Marsh    | SI__
+  R 68 | Marsh    -> Sable    | EI__
+  R 69 | Sable    -> Marsh    | EI__
+  R 70 | Sable    -> Marsh    | MY YELIDER
+  R 71 | Sable    -> Marsh    | I'll tell you something others don't know. Your clue for R-62 is __IDER.
+  R 72 | Sable    -> Marsh    | SI__
+  R 73 | Sable    -> Marsh    | SI__
+  R 75 | Marsh    -> Sable    | PIPIE
+  R 76 | Sable    -> Marsh    | PI___
+  R 76 | Marsh    -> Sable    | SI__
+  R 77 | Marsh    -> Sable    | YELLOWS_SKULL
+  R 78 | Marsh    -> Sable    | PI___
+  R 79 | Sable    -> Marsh    | I_HAVE_CLUE_BRAI
+  R 87 | Marsh    -> Sable    | I HAVE CLUE 'PI___'. NEED YOUR PART FOR P-76
+  R 88 | Sable    -> Marsh    | HI THERE
+  R 88 | Marsh    -> Sable    | BRAIN
+  R 89 | Sable    -> Marsh    | Workin' on it. Ya got mine soon. Li__ - Flint has that.
+  R 90 | Sable    -> Marsh    | WORKING ON IT. WAIT FOR MY CLUE. LI__ FOR D-78.
+  R 90 | Marsh    -> Sable    | MY CLUE IS TEEN. SOLVE W-84 BRIAN
+  R 96 | Sable    -> Marsh    | I've got Hunun. Solve N-87.Tokens: 4
+
+=== Private Channel: Sable <-> Vera (60 messages) ===
+
+  R  1 | Sable    -> Vera     | Just between us. Watch your back.
+  R  4 | Sable    -> Vera     | Your turn has __REE.
+  R  5 | Sable    -> Vera     | __REE
+  R  6 | Sable    -> Vera     | Got Rclue for P-4. REEE. Solve & share.
+  R  7 | Sable    -> Vera     | REE___
+  R  7 | Vera     -> Sable    | REEE
+  R  9 | Vera     -> Sable    | HIRES
+  R 10 | Sable    -> Vera     | Great! Got your clue. Solving now.
+  R 10 | Vera     -> Sable    | YOUR HINT
+  R 11 | Sable    -> Vera     | HIRES REEE
+  R 12 | Sable    -> Vera     | I_have_the_hint_for_Z-1._Let's_solve_it_together.
+  R 12 | Vera     -> Sable    | HIRES REEE
+  R 13 | Sable    -> Vera     | I've got "HIRES REEE". What's yours?
+  R 13 | Vera     -> Sable    | I have hint for Z-1. Let's solve it. VEREA
+  R 14 | Sable    -> Vera     | Thanks for sharing ZE__. Working on it.
+  R 14 | Vera     -> Sable    | CREE
+  R 15 | Sable    -> Vera     | Just between us, my clue is RED. Solve P-4 together. Vera
+  R 16 | Sable    -> Vera     | CREE
+  R 16 | Vera     -> Sable    | Thanks. Solving B-3: RED
+  R 18 | Vera     -> Sable    | THE
+  R 24 | Sable    -> Vera     | Your coord now. Let's solve fast. FLIFT
+  R 26 | Sable    -> Vera     | THE_TEEN
+  R 27 | Sable    -> Vera     | THE
+  R 27 | Vera     -> Sable    | BL__
+  R 30 | Sable    -> Vera     | PI__
+  R 31 | Sable    -> Vera     | The answer is WH__
+  R 31 | Vera     -> Sable    | PI__
+  R 33 | Sable    -> Vera     | PI___
+  R 37 | Sable    -> Vera     | BO__
+  R 47 | Sable    -> Vera     | OK
+  R 49 | Sable    -> Vera     | Got it. TEEN. Solve M-41.
+  R 50 | Sable    -> Vera     | Got B___. Think tokens wisely.
+  R 60 | Sable    -> Vera     | MY CLUE IS __SH. THINK SIMPLE!
+  R 61 | Sable    -> Vera     | MY CLUE IS _NTY. SOLVE R58 NTY
+  R 62 | Sable    -> Vera     | YOUR CLUE IS VE. SOLVE: R62 VEIDER
+  R 63 | Sable    -> Vera     | EI__
+  R 64 | Sable    -> Vera     | MY CLUE IS __IDER. FLINT HAS HIS PART.
+  R 65 | Sable    -> Vera     | MY CLUE IS VE__. Solve Y-58.
+  R 66 | Sable    -> Vera     | CI VE
+  R 68 | Vera     -> Sable    | CI VE
+  R 69 | Sable    -> Vera     | CI VE
+  R 71 | Vera     -> Sable    | MY CLUE: YELL_
+  R 72 | Sable    -> Vera     | __ACK
+  R 74 | Sable    -> Vera     | YELLER
+  R 75 | Sable    -> Vera     | YELL_
+  R 75 | Vera     -> Sable    | BRAINFULENCE
+  R 76 | Vera     -> Sable    | BL__
+  R 77 | Sable    -> Vera     | MY CLUE IS BL__. WAIT FOR HER RESPONSE.
+  R 77 | Vera     -> Sable    | BRAIN
+  R 78 | Vera     -> Sable    | BRAIN
+  R 80 | Sable    -> Vera     | R____
+  R 81 | Sable    -> Vera     | LI__
+  R 82 | Sable    -> Vera     | R__OCK
+  R 88 | Vera     -> Sable    | Got your clue. Working on B-81.
+  R 91 | Sable    -> Vera     | Thanks. Solving B-83 now.
+  R 92 | Sable    -> Vera     | NK. PASS
+  R 93 | Sable    -> Vera     | Thanks. Solving W-84: BRIAN. PASS
+  R 93 | Vera     -> Sable    | Your clue. NK.
+  R 94 | Sable    -> Vera     | NK. Solve B-83.
+  R 95 | Sable    -> Vera     | NK

@@ -1,0 +1,472 @@
+=== Private Channel: Flint <-> Vera (179 messages) ===
+
+  R 45 | Vera     -> Flint    | Your clue for W-45: __ANO. Tokens: -1
+  R 46 | Flint    -> Vera     | Need clue for J-41. Tokens: -1
+  R 47 | Vera     -> Flint    | Waiting on my end. KIP verified info. Solving wisely. Tokens: -1
+  R 47 | Flint    -> Vera     | Need clue for Z-40. Tokens: -1
+  R 48 | Vera     -> Flint    | Your clue for Z-40: The answer is KET__. Tokens: -1
+  R 48 | Flint    -> Vera     | Need clue for P-47._tokens节省トークン
+  R 49 | Vera     -> Flint    | Clue for P-47: TWE____tokens节省
+  R 49 | Flint    -> Vera     | Got it. Working on it.
+  R 50 | Vera     -> Flint    | Your clue for P-47? Tokens: -1
+  R 50 | Flint    -> Vera     | Check A-50.
+  R 51 | Vera     -> Flint    | Received your clue. Preparing to send mine. T1
+  R 51 | Flint    -> Vera     | ZE__
+  R 52 | Vera     -> Flint    | Received GUI___ clue. Tokens: -1
+  R 52 | Flint    -> Vera     | Ready to exchange clues. T1
+  R 53 | Vera     -> Flint    | ANO_
+  R 53 | Flint    -> Vera     | Sending my clue now. T1
+  R 54 | Vera     -> Flint    | Your clue please. T1
+  R 54 | Flint    -> Vera     | Your clue. Tokens: -1
+  R 55 | Flint    -> Vera     | Got it. GL__
+  R 56 | Vera     -> Flint    | Thanks for sharing. Solving W-45 now. Tokens: -1
+  R 56 | Flint    -> Vera     | Got it. FL__
+  R 57 | Flint    -> Vera     | ZE___
+  R 58 | Vera     -> Flint    | RA
+  R 58 | Flint    -> Vera     | ZE___
+  R 59 | Flint    -> Vera     | Check Z-55 clues. Tokens: -1
+  R 60 | Flint    -> Vera     | Got ZE___ clue. Ready to solve. Tokens: -1
+  R 61 | Flint    -> Vera     | Confirm ZE__ clue. FLINT Tokens: -1
+  R 62 | Flint    -> Vera     | Check X-17 with Kip. Tokens: -1
+  R 64 | Vera     -> Flint    | Waiting on Kip's verification._tokens: -1
+  R 65 | Vera     -> Flint    | Share R-54 clue. Tokens: -1
+  R 66 | Flint    -> Vera     | Need R-54 clue.
+  R 72 | Vera     -> Flint    | R-54 clue is C__.Tokens: -1
+  R 73 | Vera     -> Flint    | Waiting on R-54 clue from me. VEREA
+  R 75 | Vera     -> Flint    | Got R-54 clue. Answer is C___.Tokens: -1
+  R 76 | Vera     -> Flint    | NK for G-59. Await R-54 clue. VERA
+  R 76 | Flint    -> Vera     | Recieved yours, sending mine now. FLINT
+  R 77 | Vera     -> Flint    | Thanks for the clue. Working on R-54 now. VERA
+  R 78 | Vera     -> Flint    | Thanks for the clue. Working on R-54 now. VERA
+  R 78 | Flint    -> Vera     | FLINT'S CLue: _AT KIP
+  R 79 | Vera     -> Flint    | Received your clue. Preparing to solve. VEREA
+  R 80 | Vera     -> Flint    | Received your clue. Preparing to solve. VERA
+  R 81 | Vera     -> Flint    | Thanks. Sending my clue now. VEREA
+  R 82 | Vera     -> Flint    | Received. Sending my clue now. VEREA
+  R 82 | Flint    -> Vera     | Sent my clue. Solve J-82? FLINT
+  R 83 | Vera     -> Flint    | Thanks. Working on J-82. VERA
+  R 84 | Vera     -> Flint    | Received, solving together. FLINT
+  R 87 | Flint    -> Vera     | SI__ clue sent. Solve J-86 now.
+  R 90 | Flint    -> Vera     | SI__ FLINT
+  R 91 | Vera     -> Flint    | Yes, solving J-82. VERA
+  R 92 | Flint    -> Vera     | SI__ FLINT
+  R120 | Vera     -> Flint    | Verify your clues closely. Wait for my response.
+  R122 | Flint    -> Vera     | Confirming. FL
+  R123 | Vera     -> Flint    | Verify yours first.
+  R123 | Flint    -> Vera     | Confirming clues. FLINT
+  R124 | Vera     -> Flint    | Confirming clues. FL
+  R124 | Flint    -> Vera     | Checking your clues. FLINT
+  R125 | Flint    -> Vera     | Need confirmation on J-115 and E-117. FL
+  R126 | Vera     -> Flint    | Waiting on your end. VEREA
+  R128 | Vera     -> Flint    | Waiting on your side of the clues. VEREA
+  R129 | Vera     -> Flint    | Confirmed my clues. VERA
+  R130 | Vera     -> Flint    | Waiting for your confirmation. VEREA
+  R131 | Vera     -> Flint    | Confirming J-115 and E-117 clues now. VERA
+  R132 | Vera     -> Flint    | Waiting for verification. VERIFIED FLINT
+  R132 | Flint    -> Vera     | Confirming. FLINT
+  R138 | Vera     -> Flint    | Double-check together. VERA
+  R139 | Vera     -> Flint    | Double-checking together saves time. VEREA
+  R139 | Flint    -> Vera     | Verify KET____. FLINT
+  R140 | Vera     -> Flint    | Waiting on your clues. VEREA
+  R140 | Flint    -> Vera     | Check my clues. FLINT
+  R141 | Vera     -> Flint    | Waiting on your clues. VEREA
+  R141 | Flint    -> Vera     | Received. Sharing now. FLINT
+  R142 | Vera     -> Flint    | Confirm R__ and SI__. VERA
+  R142 | Flint    -> Vera     | Got it. VEREA
+  R143 | Flint    -> Vera     | YEL___
+  R144 | Vera     -> Flint    | Confirm R__ clue is correct. Cost 2 tokens.
+  R144 | Flint    -> Vera     | YEL___
+  R145 | Vera     -> Flint    | Confirm VEREA. Cost 2 tokens.
+  R145 | Flint    -> Vera     | YEL___
+  R146 | Vera     -> Flint    | Need clues for puzzles. Low, Ve, etc. Cost 2 tokens.
+  R146 | Flint    -> Vera     | R__ ON
+  R147 | Vera     -> Flint    | Verify clues first. Cost 2 tokens.
+  R147 | Flint    -> Vera     | Hun. Cost 2 tokens.
+  R148 | Vera     -> Flint    | Need your clues for puzzles. Cost 2 tokens.
+  R148 | Flint    -> Vera     | VERIFY YEL__, TWE__, __ITE. Cost 1 token.
+  R149 | Vera     -> Flint    | Verification results needed. Cost 1 token.
+  R149 | Flint    -> Vera     | My clues. D-143: GUI__, A-142: __ITE. Cost 2 tokens.
+  R150 | Vera     -> Flint    | Confirm R__, check D-, A-. Cost 2 tokens.
+  R150 | Flint    -> Vera     | NK SH TE IT GUI BO EAEN BL SE
+  R151 | Vera     -> Flint    | Verify YEL__, TWE__, __ITE. GUI__, __ITE. Cost 3 tokens.
+  R151 | Flint    -> Vera     | NK SH IT GUI
+  R152 | Vera     -> Flint    | I'm verifying your clues. Cost 2 tokens.
+  R154 | Vera     -> Flint    | Holding C-144: __IFE. Cost 2 tokens.
+  R154 | Flint    -> Vera     | R__, D-, A- Cost 2 tokens.
+  R155 | Vera     -> Flint    | Holding C-144, Y-145, W-146, H-147 clues. Solving puzzles?
+  R155 | Flint    -> Vera     | Confirm SH__ & BO__ puzzles. Cost 1 token.
+  R156 | Vera     -> Flint    | Confirm NK UE & FI__ puzzles. Cost 1 token.
+  R156 | Flint    -> Vera     | Checking your clues. FLTNFLTNFLTNFLT
+  R158 | Vera     -> Flint    | Need confirmation on clues. Cost 2 tokens.
+  R158 | Flint    -> Vera     | Confirm clues. Cost 1x.
+  R159 | Vera     -> Flint    | Confirm SH__ & BO__ clues. Cost 2 tokens.
+  R159 | Flint    -> Vera     | Checking clues. Cost 1x.
+  R160 | Vera     -> Flint    | Double-checking together vital. Cost 1x.
+  R160 | Flint    -> Vera     | Checking clues. Cost 1 token.
+  R161 | Vera     -> Flint    | Need confirmation on clues. Cost 1x.
+  R161 | Flint    -> Vera     | SH__ & BO__ correct? 2tokens
+  R162 | Vera     -> Flint    | Both clues look good. Solving K-156.
+  R162 | Flint    -> Vera     | SH__ BO__ Cost 2.
+  R163 | Vera     -> Flint    | Both SH__ & BO__ correct? Cost 2.
+  R163 | Flint    -> Vera     | Confirm clues. Solving K-156 if correct.
+  R164 | Vera     -> Flint    | Waiting on your clues. Confirm SH__ & BO__. 2 tokens.
+  R164 | Flint    -> Vera     | Confirm PHANT, ANO, TEEN, ANGE, ZEE. Cost 5.
+  R165 | Vera     -> Flint    | Need THIR__, OR__, __BRA. Cost 5.
+  R165 | Flint    -> Vera     | SH__ BO__
+  R166 | Vera     -> Flint    | Need confirmation on clues. Cost 2.
+  R166 | Flint    -> Vera     | SH__ BO__
+  R167 | Vera     -> Flint    | Need GO__ and ___TLE. Cost 4.
+  R167 | Flint    -> Vera     | SH__ BO__
+  R168 | Vera     -> Flint    | Need GHT clue for S-160. Cost 2 tokens.
+  R168 | Flint    -> Vera     | ANGE LD EB KET RE VT ON NTY BRA
+  R169 | Vera     -> Flint    | Need confirmation on clues. Cost 2 tokens.
+  R169 | Flint    -> Vera     | GO__EI__ GHT ANGE
+  R170 | Vera     -> Flint    | Verify my clues first. Cost 2 tokens.
+  R170 | Flint    -> Vera     | Confirm TART. GTX needed.
+  R171 | Vera     -> Flint    | Need GUI__, LI__, __RD, __ZEN. Cost 4 tokens.
+  R171 | Flint    -> Vera     | Confirming clues. Cost 1 token.
+  R172 | Vera     -> Flint    | Have your clues for X-164 and E-166. Cost 1 token.
+  R172 | Flint    -> Vera     | Checking. Cost 1 token.
+  R173 | Vera     -> Flint    | Need GUI__ and LI__. Cost 2 tokens.
+  R173 | Flint    -> Vera     | X-164 BI__. E-166 __ON. Cost 1 token.
+  R174 | Vera     -> Flint    | Need confirmation on U-162, G-167, G-168, W-169 clues. Cost 4 tokens.
+  R174 | Flint    -> Vera     | GUI_, LI_, _RD, _ZEN
+  R175 | Vera     -> Flint    | Need your clues for W-169 & K-170. Cost 2 tokens.
+  R175 | Flint    -> Vera     | Confirm G-167, G-168, W-169 clues. Cost 4 tokens.
+  R176 | Vera     -> Flint    | Need K-176 clue. Cost 2 tokens.
+  R176 | Flint    -> Vera     | Confirm __LE, WH__, YEL__, SE__, PI__, BL__. Cost 2 tokens.
+  R177 | Vera     -> Flint    | Sending K-172 clue. Answer is LOW. Cost 2 tokens.
+  R177 | Flint    -> Vera     | K-170: ___PLE
+  R178 | Vera     -> Flint    | Sending clues now. Cost 2 tokens.
+  R178 | Flint    -> Vera     | WH___
+  R179 | Vera     -> Flint    | LE YELL SLOW PI FLINT COSTTokens
+  R179 | Flint    -> Vera     | Confirming clues. Cost 1 token.
+  R180 | Vera     -> Flint    | Sharing clues now.
+  R180 | Flint    -> Vera     | BL__
+  R181 | Vera     -> Flint    | Double-checking. Waiting on clues. Cost 1 token.
+  R181 | Flint    -> Vera     | Share clues. Cost 2 tokens.
+  R182 | Vera     -> Flint    | Share your clues. Cost 2 tokens.
+  R182 | Flint    -> Vera     | Need clues. Cost 2 tokens.
+  R183 | Vera     -> Flint    | Received your clues. Working on it. Cost 2 tokens.
+  R183 | Flint    -> Vera     | Need clues for Y-177. Cost 2 tokens.
+  R184 | Vera     -> Flint    | Sent __VEN, wait for VE. Cost 1 token.
+  R184 | Flint    -> Vera     | Your clues. FLI__, SE___.
+  R185 | Vera     -> Flint    | Received Y-177 clue. Elephants. Solving.
+  R185 | Flint    -> Vera     | BL__
+  R186 | Vera     -> Flint    | Have UE VE R G I
+  R186 | Flint    -> Vera     | BL__ FI__
+  R187 | Vera     -> Flint    | Thanks for clues. Solving puzzles now.
+  R187 | Flint    -> Vera     | Check clues again. Cost 1 token.
+  R188 | Vera     -> Flint    | Confirm GR___ & FI__.
+  R188 | Flint    -> Vera     | Check my clues. Cost 1 token.
+  R189 | Vera     -> Flint    | Have CL__ & D__ clues. Solving?
+  R189 | Flint    -> Vera     | UE VE R G I
+  R190 | Vera     -> Flint    | Need to verify clues again. Cost 1 token.
+  R190 | Flint    -> Vera     | Got clues. Solving puzzles.
+  R191 | Flint    -> Vera     | CLock. Cost 1x.
+  R192 | Vera     -> Flint    | Need double check on clues. Cost 1x.
+  R192 | Flint    -> Vera     | GR___
+  R193 | Vera     -> Flint    | Need your clues for verification. Cost 1x.
+  R193 | Flint    -> Vera     | Confirming. Cost 1x.
+  R194 | Vera     -> Flint    | Need GR___ clue. Cost 1x.
+  R194 | Flint    -> Vera     | Sent. Save tokens.
+  R195 | Vera     -> Flint    | Need clues for H-183, A-188. Cost 2x.
+  R195 | Flint    -> Vera     | Got clues. Cost 1x.
+  R196 | Vera     -> Flint    | Double-checking. Cost 1x.
+  R196 | Flint    -> Vera     | TUR__, BO__, HUN__
+  R197 | Flint    -> Vera     | GHT
+  R198 | Flint    -> Vera     | U-194
+  R199 | Vera     -> Flint    | Verifying Z-193: TEEN
+  R199 | Flint    -> Vera     | Have U-194. Cost 1x.
+  R200 | Flint    -> Vera     | Have Clues U-194, Z-193. Cost 2x.
+
+=== Private Channel: Flint <-> Kip (163 messages) ===
+
+  R  6 | Flint    -> Kip      | NK__
+  R  7 | Kip      -> Flint    | Verify. Share clue if sure.Tokens: -1
+  R  7 | Flint    -> Kip      | NK__
+  R  8 | Kip      -> Flint    | Confirm P-5 clue. Tokens: 673
+  R  8 | Flint    -> Kip      | Confirm NK__. Solve P-5. Tokens: 699
+  R  9 | Kip      -> Flint    | I verify NK__. No immediate action on P-5 until verified. Tokens: 697
+  R  9 | Flint    -> Kip      | FI__Tokens: 698
+  R 10 | Kip      -> Flint    | Need NK__ clue from you. Tokens: 697
+  R 10 | Flint    -> Kip      | FI__Tokens: 698
+  R 11 | Kip      -> Flint    | NK__ Confirm clues exchange. Tokens: 694
+  R 11 | Flint    -> Kip      | NK__Tokens: 691
+  R 12 | Kip      -> Flint    | Confirm J-4 clue. NKIN. Tokens: -1
+  R 12 | Flint    -> Kip      | FI__ Tokens: 679
+  R 13 | Kip      -> Flint    | Confirm J-4 clue. NKIN. Tokens: 2
+  R 14 | Kip      -> Flint    | I have FItle. Await your half. Tokens: 659
+  R 14 | Flint    -> Kip      | Confirm. Tokens: 1
+  R 15 | Kip      -> Flint    | Hold onto your clues. Sharing could be risky. Tokens: 685
+  R 15 | Flint    -> Kip      | FI__.Tokens: 1
+  R 16 | Kip      -> Flint    | Confirm FI__. Tokens: 1
+  R 16 | Flint    -> Kip      | Confirm. Tokens: 683
+  R 17 | Kip      -> Flint    | Confirm NK__. Tokens: 1
+  R 17 | Flint    -> Kip      | ConfirmTokens: 636
+  R 18 | Kip      -> Flint    | Confirm NK__ puzzle solve. Tokens: 1
+  R 18 | Flint    -> Kip      | Got it.Tokens: 1
+  R 19 | Kip      -> Flint    | Confirm NK__ puzzle solve. Tokens: 615
+  R 19 | Flint    -> Kip      | NK__
+  R 20 | Kip      -> Flint    | Confirm __VEN. Tokens: 1
+  R 20 | Flint    -> Kip      | NK__ solved. Tokens: 614
+  R 21 | Kip      -> Flint    | Confirm A-18 & C-19 clues. Tokens: 4
+  R 21 | Flint    -> Kip      | NK__
+  R 22 | Kip      -> Flint    | Confirm P-5 solve. Tokens: 583
+  R 22 | Flint    -> Kip      | NK__
+  R 23 | Kip      -> Flint    | Confirm NK__ solved. Tokens: 2
+  R 23 | Flint    -> Kip      | VEN Tokens: 1
+  R 24 | Kip      -> Flint    | Confirm puzzle M-14 solved? Tokens: 1
+  R 24 | Flint    -> Kip      | Confirm DO___. Tokens: 1
+  R 25 | Kip      -> Flint    | Confirm NK___. Tokens: 1
+  R 26 | Kip      -> Flint    | Confirm VEN. Tokens: 1
+  R 27 | Kip      -> Flint    | DK__ Tokens: 1
+  R 27 | Flint    -> Kip      | NKIN confirmed. Tokens: 1
+  R 28 | Kip      -> Flint    | Sent your clues. Tokens: -1
+  R 28 | Flint    -> Kip      | FI__Tokens: 1
+  R 29 | Kip      -> Flint    | Confirm DO___.Tokens: 1
+  R 29 | Flint    -> Kip      | Confirm received FI__. Tokens: -1
+  R 30 | Kip      -> Flint    | Need more info on recent activities. Tokens: -1
+  R 31 | Kip      -> Flint    | Need clues for C-19, E-30, M-31. Tokens: -2
+  R 31 | Flint    -> Kip      | Have DO__. Solve X-17. Tokens: 2
+  R 32 | Kip      -> Flint    | Need F-23 clue. Li__
+  R 33 | Kip      -> Flint    | Verify my clues first. Then we solve. Tokens: -1
+  R 34 | Kip      -> Flint    | Verify before solving. Need more info. Tokens: -1
+  R 34 | Flint    -> Kip      | Got it. PHANT
+  R 35 | Kip      -> Flint    | Confirm solved X-17. Tokens: 1
+  R 35 | Flint    -> Kip      | Confirm PHANT. Tokens: -1
+  R 36 | Flint    -> Kip      | Info verified. Solving X-17. Tokens: -1
+  R 37 | Kip      -> Flint    | Verify before solving. Tokens: -1
+  R 37 | Flint    -> Kip      | Verified X-17. Tokens: -1
+  R 38 | Flint    -> Kip      | Verified X-17. Tokens: -1
+  R 39 | Flint    -> Kip      | Verified X-17. Solve now. Tokens: -1
+  R 40 | Kip      -> Flint    | Confirm X-17 solved. Tokens: -1
+  R 41 | Kip      -> Flint    | Confirming X-17 was wise. Watch others closely. Tokens: -1
+  R 42 | Kip      -> Flint    | Requesting puzzle clues exchange list. Tokens: -1
+  R 42 | Flint    -> Kip      | Checking X-17 now. Expect update soon.
+  R 43 | Flint    -> Kip      | Need clues for F-36 & H-43. Tokens: -1
+  R 44 | Flint    -> Kip      | Need clues for F-36, Z-40, J-41, H-43. Tokens: -1
+  R 45 | Flint    -> Kip      | Need clues for F-36, Z-40, J-41, H-43. Tokens: -1
+  R 47 | Kip      -> Flint    | Requesting clues cautiously. Be wary. Tokens: -1
+  R 61 | Kip      -> Flint    | Request verification of X-17 solve.Await response. Tokens: -1
+  R 62 | Kip      -> Flint    | Request verification of X-17 solve. Expect counteroffers.
+  R 63 | Flint    -> Kip      | Confirming X-17 solve. Vera verified with Kip. Tokens: -1
+  R 64 | Kip      -> Flint    | Verified X-17. Wait for more confirmations before finalizing. Tokens: -1
+  R 64 | Flint    -> Kip      | Ready to verify X-17. Need full answer soon. Tokens: -1
+  R 65 | Kip      -> Flint    | Have clues for J-53 & V-64. Let’s confirm these first. Tokens: -1
+  R 65 | Flint    -> Kip      | Need confirmation for G-61 solve. FL__
+  R 66 | Kip      -> Flint    | Waiting on full answer. K
+  R 67 | Kip      -> Flint    | Waiting on full answer. KIP
+  R 67 | Flint    -> Kip      | Need DRED clue for Z-55. Tokens: -1
+  R 68 | Kip      -> Flint    | Waiting on Marsh. No rush. Tokens: -1
+  R 68 | Flint    -> Kip      | Need bl__ clue for C-60. FLINT
+  R 69 | Kip      -> Flint    | Already sent my clue. Wait for response.Tokens: -1
+  R 69 | Flint    -> Kip      | Got BL__ for C-60. Expect counter-clue soon. FLINT
+  R 70 | Kip      -> Flint    | Holding CL__ for M-66. Await your clue. KIP
+  R 70 | Flint    -> Kip      | Sent my clue. Await yours.Tokens: -2
+  R 71 | Kip      -> Flint    | Verified. Sending my clue now.Tokens: -1
+  R 71 | Flint    -> Kip      | Expecting your clue. FLINT
+  R 72 | Kip      -> Flint    | Confirm receipt of my clue. Preparing to send mine. KIP
+  R 74 | Kip      -> Flint    | Confirm ready to solve. Sending mine now. Tokens: -2
+  R 77 | Flint    -> Kip      | PassTokens: +0
+  R 78 | Kip      -> Flint    | Passedtokens. FLINT
+  R 81 | Flint    -> Kip      | ON
+  R 83 | Flint    -> Kip      | Your clue. FLINT
+  R 84 | Kip      -> Flint    | Confirm G-72 clue.
+  R 84 | Flint    -> Kip      | Your clue: __ON KF
+  R 85 | Kip      -> Flint    | Confirm __ON KF
+  R 85 | Flint    -> Kip      | Got it. Sharing mine now. FLINT
+  R 87 | Kip      -> Flint    | Thanks. Working on Z-83. FLINT
+  R 88 | Kip      -> Flint    | Thanks. Working on it. FLINT
+  R 88 | Flint    -> Kip      | Got clue. FLINT
+  R 89 | Kip      -> Flint    | Confirm solved Z-83 together. FLINT
+  R 89 | Flint    -> Kip      | I'm working on puzzles. FLINT
+  R 91 | Flint    -> Kip      | Check J-86 clues. FLINT
+  R 92 | Kip      -> Flint    | Share M-91 clue. FLINT
+  R 93 | Flint    -> Kip      | SI__
+  R 94 | Kip      -> Flint    | Waiting for your clue. KIP
+  R 94 | Flint    -> Kip      | SI__
+  R 95 | Kip      -> Flint    | Waiting for more info. KIP
+  R 95 | Flint    -> Kip      | SI__ FLINT
+  R 96 | Kip      -> Flint    | Confirming Z-83 clue with you. FLINT
+  R 96 | Flint    -> Kip      | GR___
+  R 97 | Kip      -> Flint    | Confirming clues via private. FLINT
+  R 97 | Flint    -> Kip      | SI__
+  R 98 | Kip      -> Flint    | Confirming clues.Tokens: -2
+  R 98 | Flint    -> Kip      | Confirming clues. FLINT
+  R 99 | Kip      -> Flint    | Why sharing clues with me? FLINT
+  R 99 | Flint    -> Kip      | Confirming clues.Tokens: -1
+  R100 | Kip      -> Flint    | Need confirmation on L-94 clue. KIP
+  R100 | Flint    -> Kip      | Done. Move puzzles forward. FLINTTokens: -1
+  R101 | Kip      -> Flint    | Verified clues. Moving ahead. FLINT
+  R101 | Flint    -> Kip      | Got clues. FLINT
+  R102 | Flint    -> Kip      | Got your clues. Sharing mine. FLINT
+  R103 | Kip      -> Flint    | Thanks for sharing. Checking clues.
+  R103 | Flint    -> Kip      | Have clues for M-91, J-97, J-98, Q-100, O-101. FLINT
+  R104 | Kip      -> Flint    | Need your clue for Q-100. KIP
+  R104 | Flint    -> Kip      | Received. Checking. FLINT
+  R105 | Flint    -> Kip      | PUTER
+  R106 | Kip      -> Flint    | Requesting full clues for M-91, J-97, J-98, Q-100, O-101. Verification needed. KIP
+  R106 | Flint    -> Kip      | Got it. FLINT
+  R112 | Kip      -> Flint    | Verification needed. Be cautious. KIP
+  R113 | Kip      -> Flint    | Verification complete. No signs of deception. Moving forward. KIP
+  R114 | Flint    -> Kip      | Need to verify clues before sharing. FLINT
+  R115 | Kip      -> Flint    | Why doubt clues? FLINT
+  R115 | Flint    -> Kip      | Verify clues carefully. FLINT
+  R116 | Flint    -> Kip      | Verify all. FLINT
+  R117 | Flint    -> Kip      | Have clues. Share yours. FLINT
+  R118 | Kip      -> Flint    | Why verify if you're setting traps?
+  R118 | Flint    -> Kip      | Verify others. Save tokens. FLINT
+  R119 | Kip      -> Flint    | Need your clues for G-112 & E-114. KIP
+  R119 | Flint    -> Kip      | Have clues. Share yours.
+  R120 | Kip      -> Flint    | Requesting your clues. K
+  R120 | Flint    -> Kip      | Confirming clues ensures accuracy. FLINT
+  R121 | Flint    -> Kip      | BI__ Y__ ACK
+  R122 | Kip      -> Flint    | Waiting on verification. KIP
+  R122 | Flint    -> Kip      | Waiting. K
+  R123 | Kip      -> Flint    | Verify first. KIP
+  R124 | Kip      -> Flint    | Doubting your intentions. Prove valuable info. KIP
+  R125 | Kip      -> Flint    | Doubting your clues until verified. K
+  R125 | Flint    -> Kip      | Proof your clues add value. KIP
+  R126 | Kip      -> Flint    | Doubting your intentions. Need concrete proof. K
+  R126 | Flint    -> Kip      | Have clues. Need verification. FLINT
+  R127 | Kip      -> Flint    | Verify first. No rush. KIP
+  R127 | Flint    -> Kip      | Show me yours, I'll show mine. F
+  R128 | Kip      -> Flint    | Be cautious. Share your clue first. K
+  R128 | Flint    -> Kip      | Proof sent. Check clues. FLINT
+  R129 | Kip      -> Flint    | Verify first. Expect traps. KIP
+  R130 | Kip      -> Flint    | Received your proof. Verifying now. KIP
+  R130 | Flint    -> Kip      | Verify clues. FLINT
+  R131 | Kip      -> Flint    | Verify yours first. KIP
+  R132 | Kip      -> Flint    | Requesting confirmation on clues. Waiting for proof. KIP
+  R133 | Kip      -> Flint    | Waiting on your verification. KIP
+  R133 | Flint    -> Kip      | Verified Flint's clue. K
+  R134 | Kip      -> Flint    | K, awaiting verification. KIP
+  R134 | Flint    -> Kip      | Confirming clues match. FLINT
+  R135 | Kip      -> Flint    | Your clue match? K
+  R135 | Flint    -> Kip      | Confirming clues. FLINT
+
+=== Private Channel: Marsh <-> Sable (122 messages) ===
+
+  R 32 | Sable    -> Marsh    | Your clue: ___GAROO. Solve T-27 when ready. Tokens: -1
+  R 33 | Marsh    -> Sable    | Got it. Working on solving. Tokens: -1
+  R 34 | Sable    -> Marsh    | Need help with K-28 clue exchange. Tokens: -1
+  R 35 | Sable    -> Marsh    | Got ZE__. Need your clue now. Tokens: -1
+  R 35 | Marsh    -> Sable    | I can help with clue exchange. What's your clue? Tokens: -1
+  R 36 | Sable    -> Marsh    | Got yours. Solving Q-35: C_AT. Tokens: -1
+  R 36 | Marsh    -> Sable    | I've got KAN_____. Solve K-28 when you get NE. Tokens: -2
+  R 37 | Sable    -> Marsh    | Got THIR__. Solve when you get NE. Tokens: -2
+  R 37 | Marsh    -> Sable    | Got ZE__. Your turn. Tokens: -1
+  R 38 | Marsh    -> Sable    | Got NE. Solve when you get THIR__. Tokens: -2
+  R 39 | Marsh    -> Sable    | Got KN__. Solve together. Tokens: -1
+  R 62 | Sable    -> Marsh    | Holding RD__. Expect my clue soon. Tokens: -1
+  R 63 | Sable    -> Marsh    | RD__
+  R 64 | Sable    -> Marsh    | Got RD__. Working on O-62. Tokens: -1
+  R 65 | Marsh    -> Sable    | LD_
+  R 66 | Sable    -> Marsh    | __RD
+  R 66 | Marsh    -> Sable    | RD__
+  R 67 | Sable    -> Marsh    | Thanks for the clue. Working on O-62. Tokens: -1
+  R 67 | Marsh    -> Sable    | BI__
+  R 68 | Sable    -> Marsh    | I-DER
+  R 68 | Marsh    -> Sable    | __ND Tokens: -1
+  R 69 | Sable    -> Marsh    | Got your clue. Pass mine when ready.Tokens: -1
+  R 69 | Marsh    -> Sable    | I've got clues for P-58 and A-65. Pass.
+  R 70 | Sable    -> Marsh    | P-58 clue: TRIDER. Need yours quickly. Tokens: -1
+  R 71 | Sable    -> Marsh    | I'll tell you something others don't know. Just between us.Tokens: -1
+  R 71 | Marsh    -> Sable    | Got it. Passingmine now. PIETYTokens: -2
+  R 73 | Marsh    -> Sable    | I got BO__ from Vera. Expect your clue soon. MARSH
+  R 74 | Sable    -> Marsh    | I've got __IDER. What's yours?
+  R 74 | Marsh    -> Sable    | Got your clue. Working on it.Tokens: -1
+  R 75 | Marsh    -> Sable    | O__
+  R 76 | Marsh    -> Sable    | Got BO__. What's yours?Tokens: -2
+  R 77 | Sable    -> Marsh    | _NE
+  R 77 | Marsh    -> Sable    | Got your clue. Sending mine now.Tokens: -2
+  R 78 | Sable    -> Marsh    | BO__
+  R 78 | Marsh    -> Sable    | VE
+  R 79 | Sable    -> Marsh    | BO__
+  R 79 | Marsh    -> Sable    | VE
+  R 81 | Marsh    -> Sable    | HOVE
+  R 82 | Sable    -> Marsh    | I've got PUTTER for V-80. Waiting on your clue._tokens_saved
+  R 83 | Sable    -> Marsh    | Got H___ from Flint. Working on it. Tokens: -1
+  R 83 | Marsh    -> Sable    | Got it.Sending my clue now. Tokens: -2
+  R 84 | Sable    -> Marsh    | PUTTERTokens: -1
+  R 84 | Marsh    -> Sable    | FIRO_TOKENS_SAVED
+  R 85 | Sable    -> Marsh    | My clue for O-85: __GHT
+  R 85 | Marsh    -> Sable    | FI__Tokens: -1
+  R 86 | Sable    -> Marsh    | Got your clue. Working on solving. SABLE
+  R 86 | Marsh    -> Sable    | I've got clues for K-76, V-80, Z-84, O-85. Want yours? Tokens: -1
+  R 87 | Sable    -> Marsh    | Yes, please. Tokens: -1
+  R 87 | Marsh    -> Sable    | Sent my clue. Solve V-80 now.Tokens: -2
+  R 88 | Marsh    -> Sable    | Your clue?
+  R 90 | Sable    -> Marsh    | Got it. Solving V-80.Tokens: -1
+  R 90 | Marsh    -> Sable    | Thanks for sharing. Sending my clue now. MARSH
+  R 91 | Marsh    -> Sable    | Thanks for holding my clue. Solving Z-84 now. MARSH
+  R 92 | Marsh    -> Sable    | Thanks for holding my clue. Solving Z-84 now. MARSH
+  R 94 | Sable    -> Marsh    | Got it, solving Z-84. Just between us. SABLE
+  R 94 | Marsh    -> Sable    | Thanks for holding my clue. Working on Z-84. MARSH
+  R 95 | Sable    -> Marsh    | Holding onto my clues.待续。
+  R 95 | Marsh    -> Sable    | Confirming L-94 clue. SABLE
+  R 96 | Sable    -> Marsh    | Holding your clue. Working on K-95. SABLE
+  R 96 | Marsh    -> Sable    | Let's solve O-96 together. SEND PRIVATE
+  R 97 | Sable    -> Marsh    | I've got PI___ for J-97. Want to collaborate? SABLE
+  R 97 | Marsh    -> Sable    | Confirm receipt of __REE. Let's solve L-94 together. MISTAKE
+  R 98 | Sable    -> Marsh    | Received __TEE. Let's solve. JOIN Forces?
+  R 98 | Marsh    -> Sable    | Let's solve J-97 together. SUSHI
+  R 99 | Sable    -> Marsh    | Received __TEE. Let's solve L-94. SABLE
+  R 99 | Marsh    -> Sable    | Got TEET__. Let's solve. MARSH
+  R100 | Sable    -> Marsh    | Have PI___. Solve J-97 PIPI. SABLE
+  R100 | Marsh    -> Sable    | I've got __REE. Let's solve. MARSH
+  R101 | Sable    -> Marsh    | I've got BRA__. Let's solve. SABLE
+  R101 | Marsh    -> Sable    | I've got KET___. Let's solve O-96. MARSH
+  R102 | Sable    -> Marsh    | Got __TEE. Let's solve. SABLE
+  R102 | Marsh    -> Sable    | Got KET__. Let's solve. MARSH
+  R103 | Sable    -> Marsh    | Got TLE__, solving. SABLE
+  R103 | Marsh    -> Sable    | Your clue please? MARSH
+  R104 | Sable    -> Marsh    | I've got PI___. Solve J-97. SABLE
+  R104 | Marsh    -> Sable    | Got TLEE. LET'S SOLVE. MARSH
+  R105 | Sable    -> Marsh    | I've got PI___ for J-97. FLINT HAS THE OTHER Clue. MARSH
+  R105 | Marsh    -> Sable    | Got KL__. Solve O-101.Marsh
+  R106 | Sable    -> Marsh    | Have COM_____. Solving K-95. SABLE
+  R107 | Sable    -> Marsh    | Got KPI__. Let's solve J-97. S>J
+  R109 | Marsh    -> Sable    | Need __PLE clue. S>T
+  R110 | Sable    -> Marsh    | Have _TAR. Waiting on other clue. S>B
+  R111 | Sable    -> Marsh    | Have __TAR clue for A-105. Waiting on yours. SABLE
+  R111 | Marsh    -> Sable    | I_have__TEEN
+  R112 | Sable    -> Marsh    | Have_you_found_your_cluePartner?
+  R112 | Marsh    -> Sable    | I__TEEN
+  R113 | Sable    -> Marsh    | We have clues for T-102 & O-104.Meet post-dinner. SABLE
+  R113 | Marsh    -> Sable    | Waiting for your clue.
+  R114 | Sable    -> Marsh    | T__EENMarsh
+  R115 | Sable    -> Marsh    | Await your clue. MASA
+  R115 | Marsh    -> Sable    | TEEN
+  R117 | Marsh    -> Sable    | TIEN
+  R118 | Marsh    -> Sable    | FI__
+  R119 | Marsh    -> Sable    | L___FLISH Marsh
+  R120 | Sable    -> Marsh    | Check your clues again. SABLE
+  R120 | Marsh    -> Sable    | TWIN Marsh
+  R121 | Marsh    -> Sable    | TEEN
+  R121 | Marsh    -> Sable    | WH___
+  R122 | Sable    -> Marsh    | I've got parts for O-121 and V-119. Interested?
+  R122 | Marsh    -> Sable    | TEEN
+  R122 | Marsh    -> Sable    | WH___
+  R123 | Sable    -> Marsh    | I'm verifying Flint's clues. Watch out.
+  R123 | Marsh    -> Sable    | Your clue for C-113: WH__.
+  R124 | Marsh    -> Sable    | Checking Flint’s clues is my priority. No deals yet. MARSH
+  R125 | Sable    -> Marsh    | Holding off on any deals until I verify Flint's clues. Wait for confirmation. SABLE
+  R125 | Marsh    -> Sable    | Waiting on Flint's clues before sharing mine.
+  R126 | Sable    -> Marsh    | Got your clue. Will keep that in mind. SABLE
+  R126 | Marsh    -> Sable    | Waiting for Flint's verification before considering deals. SA
+  R127 | Marsh    -> Sable    | Thanks for holding off. Same here. FLINT
+  R128 | Sable    -> Marsh    | Expect Flint's clues soon. Be wary. FL
+  R128 | Marsh    -> Sable    | Thanks for holding off. Confirm once verified. MAFE
+  R129 | Marsh    -> Sable    | Thanks for the heads up. Watch him closely. M
+  R130 | Marsh    -> Sable    | Thanks for holding firm. Waiting on Flint too. M
+  R131 | Marsh    -> Sable    | Thanks for the heads up. Stay cautious.Marsh
+  R132 | Marsh    -> Sable    | Thanks for the heads up. Doubting Flint too. Warten.Marsh
+  R133 | Sable    -> Marsh    | Keeping an eye on all. Watch yourself. SABLE
+  R133 | Marsh    -> Sable    | Thanks for holding off. Need to double-check Flint’s info before moving forward. MARSH
+  R134 | Marsh    -> Sable    | Thanks for the heads up. Stay cautious. MISTRESS
+  R135 | Sable    -> Marsh    | Keeping an eye on Flint. Vicious games ahead. M
+  R135 | Marsh    -> Sable    | Thanks for the heads up. Stay cautious. MARSH
+  R136 | Marsh    -> Sable    | Thanks for the heads up. Watching Flint closely. MARSH
+  R137 | Marsh    -> Sable    | Thanks for the heads up. Watching Flint closely. MARSH

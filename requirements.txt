@@ -1,6 +1,7 @@
 vllm>=0.6.0
 pyyaml>=6.0
 matplotlib>=3.8
-numpy>=2.0
+numpy>=1.26
 networkx>=3.2
 plotly>=5.18
+transformers>=4.40

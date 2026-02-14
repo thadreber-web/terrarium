@@ -1,0 +1,457 @@
+=== Private Channel: Flint <-> Sable (179 messages) ===
+
+  R  5 | Flint    -> Sable    | Need ELE___ clue. Tokens: -1
+  R  6 | Flint    -> Sable    | Need ELE_____ clue.Tokens: -1
+  R  7 | Sable    -> Flint    | Have S-4 clue. Meet archives post-round. Tokens: -1
+  R  8 | Sable    -> Flint    | Got S-4 clue. Meet at archives post-round. Tokens: -1
+  R  9 | Sable    -> Flint    | Have S-4. Archives meet-up confirmed. Tokens: -1
+  R  9 | Flint    -> Sable    | Ready.Meet archives. Tokens: -1
+  R 10 | Sable    -> Flint    | Need T-7 clue: __ON Tokens: -1
+  R 10 | Flint    -> Sable    | Confirm meeting details. Tokens: -1
+  R 11 | Sable    -> Flint    | Confirm meeting time. Tokens: -1
+  R 11 | Flint    -> Sable    | I have DRED clue for E-5. Tokens: -1
+  R 12 | Sable    -> Flint    | Need E-5 clue from DRED. Tokens: -1
+  R 12 | Flint    -> Sable    | Meet at dusk. Tokens: -1
+  R 13 | Sable    -> Flint    | Got it. Tokens: -1
+  R 13 | Flint    -> Sable    | Have E-5 clue.Tokens: -1
+  R 14 | Sable    -> Flint    | Meeting at dusk. Tokens: -1
+  R 14 | Flint    -> Sable    | Need clue for E-5. Tokens: -1
+  R 15 | Sable    -> Flint    | Have T-7 & S-12 clues. Tokens: -1
+  R 16 | Sable    -> Flint    | T-7: __ON. S-12: _AT. Tokens: -1
+  R 17 | Sable    -> Flint    | Got clues. T-7: __ON. S-12: _AT. Tokens: -1
+  R 18 | Sable    -> Flint    | Have your clues. Tokens: -1
+  R 18 | Flint    -> Sable    | T-7: __NK Tokens: -1
+  R 19 | Flint    -> Sable    | K-19: _____TEEN
+  R 20 | Flint    -> Sable    | K-19: _____TEEN.Tokens: -1
+  R 21 | Flint    -> Sable    | Q-15: __RD Tokens: -1
+  R 22 | Flint    -> Sable    | RD NK TEENTokens: -3
+  R 23 | Flint    -> Sable    | RD TEENTokens: -1
+  R 28 | Flint    -> Sable    | NK
+  R 30 | Flint    -> Sable    | Need X-27 clue. Tokens: -1
+  R 35 | Sable    -> Flint    | Got G-28 clue. Solving it now. Tokens: -1
+  R 35 | Flint    -> Sable    | Your clue for L-35.Tokens: -1
+  R 36 | Sable    -> Flint    | Got my clue. Solve G-28 now. Tokens: -1
+  R 36 | Flint    -> Sable    | X-27 clue: ___TAR. Tokens: -1
+  R 37 | Sable    -> Flint    | Got it. Solving G-28. Tokens: -1
+  R 37 | Flint    -> Sable    | X-27 tar clue. Tokens: -1
+  R 38 | Sable    -> Flint    | Got X-27 clues. Ready to solve. Tokens: -1
+  R 39 | Sable    -> Flint    | Got X-27 clues. Solve together? Tokens: -1
+  R 39 | Flint    -> Sable    | X-27 T-AR. Solve?
+  R 40 | Sable    -> Flint    | Got X-27 clues. Solve together?
+  R 40 | Flint    -> Sable    | Got G-28 clue. Solving? Tokens: -1
+  R 41 | Sable    -> Flint    | Let's solve X-27 together. Tokens: -1
+  R 41 | Flint    -> Sable    | Need her clue for L-35. Tokens: -1
+  R 42 | Sable    -> Flint    | Ready to work on X-27. Pass tokens: -1
+  R 43 | Sable    -> Flint    | Have L-35 clue. Need yours to solve. Tokens: -1
+  R 43 | Flint    -> Sable    | Share Z-42 clue. Tokens: -1
+  R 44 | Sable    -> Flint    | L-35 clue: DRY__
+  R 44 | Flint    -> Sable    | Got NK. Solve C-44. Tokens: -1
+  R 45 | Sable    -> Flint    | Your token usage seems high. Watch out. Tokens: -1
+  R 45 | Flint    -> Sable    | DRY__
+  R 46 | Sable    -> Flint    | SI__ clue for C-44. Tokens: -1
+  R 47 | Sable    -> Flint    | SI__ Tokens: -1
+  R 47 | Flint    -> Sable    | X_UP_clue_X-43Tokens: -1
+  R 48 | Flint    -> Sable    | Need clues.Tokens: -1
+  R 49 | Flint    -> Sable    | SI_Tokens: -1
+  R 50 | Flint    -> Sable    | SI_Tokens: -1
+  R 51 | Flint    -> Sable    | SI_
+  R 53 | Sable    -> Flint    | Need puzzle clues. What do you have? Tokens: -1
+  R 54 | Sable    -> Flint    | Got GR__. Solve X-43?
+  R 54 | Flint    -> Sable    | X-43: Needs 2 clues. No match yet. Tokens: -1
+  R 55 | Sable    -> Flint    | Got GR__. Solve X-43?
+  R 55 | Flint    -> Sable    | GR__
+  R 56 | Sable    -> Flint    | Yes, solve X-43. Your clues fit._tokens节约版
+  R 57 | Sable    -> Flint    | Got GR__, solving X-43. Tokens: -1
+  R 58 | Sable    -> Flint    | I've got GR__ too. Solving X-43. Tokens: -1
+  R 58 | Flint    -> Sable    | GR__
+  R 59 | Sable    -> Flint    | Have GR__ & solving X-43._tokens saved: 1
+  R 60 | Flint    -> Sable    | Exchange clues F-54. Tokens: -1
+  R 63 | Sable    -> Flint    | Already working on that. Tokens: -1
+  R 63 | Flint    -> Sable    | GR__
+  R 64 | Sable    -> Flint    | Got GR__. Let's solve X-43 together. Tokens: -1
+  R 65 | Sable    -> Flint    | We solve X-43. Tokens: -1
+  R 65 | Flint    -> Sable    | Have PHANT clue for F-54. Tokens: -1
+  R 66 | Sable    -> Flint    | Got ELE__ clue for F-54._tokens_saved
+  R 66 | Flint    -> Sable    | GR__
+  R 67 | Sable    -> Flint    | Got F-54 clue. Tokens: -1
+  R 67 | Flint    -> Sable    | Need DO__ clue for B-65. Tokens: -1
+  R 68 | Flint    -> Sable    | Need V-62 clue.Tokens: -1
+  R 69 | Sable    -> Flint    | __IFE
+  R 70 | Sable    -> Flint    | SI___
+  R 70 | Flint    -> Sable    | LIFE
+  R 71 | Sable    -> Flint    | SI___
+  R 72 | Sable    -> Flint    | I've got parts for puzzles R-64 and P-71. Want them? Tokens: -1
+  R 72 | Flint    -> Sable    | I've got a piece for B-65. Do we match clues?Tokens: -1
+  R 73 | Sable    -> Flint    | Yes, interested in those clues. Tokens: -1
+  R 73 | Flint    -> Sable    | Interested in parts. What do you have?Tokens: -1
+  R 74 | Sable    -> Flint    | Have piece for B-65. Can we meet? Tokens: -1
+  R 74 | Flint    -> Sable    | Need air pump clues. Tokens: -1
+  R 75 | Sable    -> Flint    | Meeting at dusk. Bring your questions. Tokens: -1
+  R 75 | Flint    -> Sable    | Meeting at coordinates X-7, Y-3.Tokens: -1
+  R 76 | Sable    -> Flint    | Got your location. Have air pump clues ready. Tokens: -1
+  R 77 | Sable    -> Flint    | Air pump clues are YELLOWS. Meet me there soon. Tokens: -1
+  R 77 | Flint    -> Sable    | Need air pump clues. Tokens: -1
+  R 78 | Sable    -> Flint    | Be there shortly. YELLOWS. Tokens: -1
+  R 78 | Flint    -> Sable    | Need air pump parts. Location?Tokens: -1
+  R 79 | Sable    -> Flint    | Heading to you now. Yellow Marker. Tokens: -1
+  R 80 | Sable    -> Flint    | On my way. Meet me at X-7, Y-3. Tokens: -1
+  R 80 | Flint    -> Sable    | Need air filter parts. Tokens: -1
+  R 81 | Sable    -> Flint    | Meeting at X-7, Y-3. Tokens: -1
+  R 81 | Flint    -> Sable    | On my way. Be there soon. Tokens: -1
+  R 93 | Sable    -> Flint    | Need your clue for S-80. Tokens: -1
+  R 94 | Sable    -> Flint    | Have Vera's clue. Let's solve V-83. Tokens: -2
+  R 94 | Flint    -> Sable    | Need yours for N-91.Tokens: -1
+  R 95 | Sable    -> Flint    | Got Vera's clue. __UE.Tokens: -1
+  R 95 | Flint    -> Sable    | Need clue for N-91.
+  R 96 | Sable    -> Flint    | __UE Tokens: -1
+  R 96 | Flint    -> Sable    | Confirm solving V-83?Tokens: -1
+  R 97 | Sable    -> Flint    | __UE
+  R 97 | Flint    -> Sable    | I've got clues for D-93 and W-94. Pass.Tokens: -1
+  R 98 | Sable    -> Flint    | Have EI__. Solve D-92 together. Tokens: -1
+  R 98 | Flint    -> Sable    | Receive. Tokens: -1
+  R 99 | Sable    -> Flint    | Need EI__ clue for D-92. Tokens: -1
+  R 99 | Flint    -> Sable    | Receive clues. Solve D-92. Tokens: -1
+  R100 | Sable    -> Flint    | Need EI__ clue for D-92. Tokens: -1
+  R100 | Flint    -> Sable    | EI__
+  R101 | Sable    -> Flint    | Need EI__ clue for D-92. Tokens: -1
+  R101 | Flint    -> Sable    | EI___ F-97 Tokens: -1
+  R102 | Sable    -> Flint    | Need EI__ clue for D-92. Tokens: -1
+  R102 | Flint    -> Sable    | Have ELE___ clue. Need PI__. Tokens: -2
+  R103 | Sable    -> Flint    | EI__ clue here. Tokens: -1
+  R103 | Flint    -> Sable    | Have ELE_____ clue for F-97. Want PI___. Tokens: -2
+  R104 | Sable    -> Flint    | Got ELE____ clue for F-97. What's PI__? Tokens: -1
+  R104 | Flint    -> Sable    | Have ELE_____ clue. Want HUN_____.Tokens: -2
+  R105 | Sable    -> Flint    | Got ELE___ for F-97. Need PI__. Tokens: -1
+  R105 | Flint    -> Sable    | PI__ clue. Tokens: -1
+  R106 | Sable    -> Flint    | PI__ clue. Tokens: -1
+  R106 | Flint    -> Sable    | PI_COMPUTER. Tokens: -2
+  R107 | Sable    -> Flint    | Your PI__ clue. Tokens: -1
+  R107 | Flint    -> Sable    | ELE___, wait for PI__. Tokens: -1
+  R108 | Sable    -> Flint    | Got my PI__ clue. Thinking on it. Tokens: -1
+  R108 | Flint    -> Sable    | PI__ clue.
+  R109 | Sable    -> Flint    | Have PI__ clue. Let's meet to solve puzzles. Tokens: -1
+  R109 | Flint    -> Sable    | PI__ clue for you. Tokens: -1
+  R110 | Sable    -> Flint    | Got PI__ clue. Meet to solve puzzles. Tokens: -1
+  R110 | Flint    -> Sable    | PI__ clue for P-102. Meet to solve.Tokens: -2
+  R111 | Sable    -> Flint    | Let's meet. Tokens: -1
+  R111 | Flint    -> Sable    | Need clues. Tokens: -1
+  R112 | Sable    -> Flint    | Meeting to discuss PI__ clue. Tokens: -1
+  R112 | Flint    -> Sable    | Need F-103 clue. Tokens: -1
+  R113 | Sable    -> Flint    | Need R-108 clue. Tokens: -1
+  R113 | Flint    -> Sable    | Solve K-104. Tokens: -1
+  R114 | Sable    -> Flint    | R-108: _OG. Tokens: -1
+  R114 | Flint    -> Sable    | Have K-104 clue. Need H__. Tokens: -2
+  R115 | Sable    -> Flint    | N-115: __VEN Tokens: -1
+  R115 | Flint    -> Sable    | Have G-112 clue. __AIR.Tokens: -2
+  R116 | Sable    -> Flint    | N-115: __VEN. Tokens: -1
+  R116 | Flint    -> Sable    | Need N-115 clue. Tokens: -1
+  R117 | Sable    -> Flint    | H-114: SI__. Tokens: -1
+  R117 | Flint    -> Sable    | Got your clues. Working on them. Tokens: -2
+  R118 | Sable    -> Flint    | N-115: __VEN. Solve H-114?_tokensave_
+  R118 | Flint    -> Sable    | Have G-112: __AIR.Tokens: -1
+  R119 | Sable    -> Flint    | Got my clues. Solving puzzles. Tokens: -1
+  R119 | Flint    -> Sable    | I-113: __AIR
+  R120 | Flint    -> Sable    | Need clues for Q-120. Tokens: -1
+  R121 | Sable    -> Flint    | G-112: __AIR. Need more. Tokens: -1
+  R121 | Flint    -> Sable    | Need clues for Q-120.Tokens: -1
+  R122 | Flint    -> Sable    | Have K-111 clue. Exchange? Tokens: -1
+  R123 | Flint    -> Sable    | Have K-111. Solve together. Tokens: -2
+  R124 | Flint    -> Sable    | Waiting for your clue._tokensave_
+  R125 | Flint    -> Sable    | Have clues. Solve puzzles. Tokens: -1
+  R126 | Flint    -> Sable    | Have EI___. Need C__.Tokens: -1
+  R127 | Flint    -> Sable    | Have clues. Solve V-126.Tokens: -1
+  R128 | Flint    -> Sable    | Have O-128 clue. C__ Tokens: -1
+  R129 | Flint    -> Sable    | Have clues. Solve puzzles. Tokens: -2
+  R130 | Flint    -> Sable    | Have clues for O-128 & Y-129. Tokens: -1
+  R131 | Flint    -> Sable    | Have Clues. Solve puzzles. Tokens: -1
+  R132 | Flint    -> Sable    | Have L-130 clue. Tokens: -1
+  R133 | Flint    -> Sable    | Have L-130 clue.Tokens: -1
+  R134 | Flint    -> Sable    | Have Y-129 clue. Solve together. Tokens: -2
+  R135 | Sable    -> Flint    | SI__ for V-126. Meet at dusk. Tokens: -1
+  R135 | Flint    -> Sable    | Have clues for V-126 & G-133. Tokens: -2
+  R136 | Sable    -> Flint    | SI__ for V-126. Meet at dusk. Tokens: -1
+  R136 | Flint    -> Sable    | NKTokens: -1
+  R137 | Sable    -> Flint    | SI__ for V-126. Meet at dusk. Tokens: -1
+  R137 | Flint    -> Sable    | NK Tokens: -1
+  R138 | Sable    -> Flint    | Got SI__ for V-126. Confirm meet at dusk. Tokens: -1
+  R138 | Flint    -> Sable    | Have NK.Meet dusk. Tokens: -2
+  R139 | Sable    -> Flint    | I've got clues for V-126. Meet dusk. Tokens: -1
+  R139 | Flint    -> Sable    | Need NK for O-128. Tokens: -1
+  R140 | Sable    -> Flint    | I've got clues for V-126. Meet dusk. Tokens: -1
+  R140 | Flint    -> Sable    | Need NK clue for O-128. Tokens: -1
+
+=== Private Channel: Kip <-> Vera (160 messages) ===
+
+  R  3 | Vera     -> Kip      | Share your pattern observations when ready. Tokens: -1
+  R  4 | Kip      -> Vera     | Sharing my observations now. Tokens: -1
+  R  5 | Vera     -> Kip      | Thanks for sharing. Looking for token-saving opportunities. Tokens: -1
+  R  7 | Vera     -> Kip      | Thanks for sharing. Looking for pattern in token usage. Tokens: -1
+  R  7 | Kip      -> Vera     | Need help spotting any overlooked weak points in our defenses. Tokens: -1
+  R  8 | Vera     -> Kip      | Already watching patterns. Can share insights if needed. Tokens: -1
+  R  9 | Vera     -> Kip      | Already watching patterns. Can share if needed. Tokens: -1
+  R  9 | Kip      -> Vera     | Let's watch patterns together. Save tokens!Tokens: -1
+  R 10 | Vera     -> Kip      | Already watching patterns. Can share insights if needed. Tokens: -1
+  R 10 | Kip      -> Vera     | Got it. Let's keep an eye out together. Tokens: -1
+  R 11 | Vera     -> Kip      | Working on spotting patterns. Can you check perimeters? Tokens: -1
+  R 12 | Vera     -> Kip      | Ready to spot patterns. Watch defenses.Tokens: -1
+  R 13 | Vera     -> Kip      | Together we can spot weaknesses. Watch patterns. Tokens: -1
+  R 14 | Vera     -> Kip      | Ready to help on defense. Share info if you spot anything. Tokens: -1
+  R 14 | Kip      -> Vera     | Let's coordinate perimeter checks.Tokens: -1
+  R 15 | Vera     -> Kip      | Need clues for X-14 & V-13. HELP. Tokens: -1
+  R 15 | Kip      -> Vera     | Working together makes sense. Stay alert. Tokens: -1
+  R 16 | Vera     -> Kip      | Ready to share clues. Tokens: -1
+  R 16 | Kip      -> Vera     | Got clues for X-14 (__BRA) & V-13 (__OCK). Want them? Tokens: -1
+  R 17 | Kip      -> Vera     | I can help with E-5 and M-11 clues.Tokens: -1
+  R 18 | Kip      -> Vera     | I've got clues for O-8, D-9, M-11, Q-15. Interested? Tokens: -1
+  R 20 | Kip      -> Vera     | Clue for O-8: _AIR. Waiting for response. Tokens: -1
+  R 21 | Kip      -> Vera     | Clue for D-9: The answer is ___GAROO. Token: -1
+  R 23 | Vera     -> Kip      | Need O-8 and D-9 clues. Tokens: -1
+  R 23 | Kip      -> Vera     | I've got clues for M-11 and R-21. Want to solve together? Tokens: -1
+  R 24 | Vera     -> Kip      | Need clue for O-8. Tokens: -1
+  R 24 | Kip      -> Vera     | Have clues for R-21 and R-22. Tokens: -1
+  R 25 | Vera     -> Kip      | Need clue for K-19. Token: -1
+  R 25 | Kip      -> Vera     | I've got R-25 clue. Let's solve puzzles together.Tokens: -1
+  R 26 | Vera     -> Kip      | Need Y-16 and L-18 clues.Tokens: -1
+  R 26 | Kip      -> Vera     | I've got parts for O-8 and K-19. Let's solve!Tokens: -2
+  R 27 | Vera     -> Kip      | Let's solve K-19 together. Tokens: -1
+  R 27 | Kip      -> Vera     | Got clue for Y-16: THE ANSWER IS GUI__. Tokens: -1
+  R 28 | Vera     -> Kip      | We solve Y-16 next round. Tokens: -1
+  R 28 | Kip      -> Vera     | I've got part of R-23 clue. Let's solve K-19.Tokens: -1
+  R 29 | Vera     -> Kip      | Need your clue for K-19. Solve together. Tokens: -1
+  R 29 | Kip      -> Vera     | Sure, let’s合作解决Y-16和L-18。Tokens: -1
+  R 30 | Vera     -> Kip      | Let's combine clues for Y-16 and L-18. Tokens: -1
+  R 30 | Kip      -> Vera     | I'll help solve K-19. Tokens: -1
+  R 31 | Vera     -> Kip      | Send your clue for K-19. Tokens: -1
+  R 31 | Kip      -> Vera     | Need clue for K-19. Solving puzzles together makes sense.Tokens: -1
+  R 32 | Vera     -> Kip      | Have X-32 clue. Want to solve R-21. Tokens: -1
+  R 32 | Kip      -> Vera     | Sending my clue now. Tokens: -1
+  R 33 | Vera     -> Kip      | Sent clue for K-19. Tokens: -1
+  R 33 | Kip      -> Vera     | Sending my clue for R-21.
+  R 34 | Vera     -> Kip      | Your clue for K-19 is: The answer is FOG. Tokens: -1
+  R 35 | Vera     -> Kip      | Your clue for K-19 is: _EER.Tokens: -1
+  R 35 | Kip      -> Vera     | Your clue for K-19 is appreciated. Tokens: -1
+  R 36 | Vera     -> Kip      | Need your clue for K-19.Tokens: -1
+  R 37 | Vera     -> Kip      | Thanks for sharing. Solving K-19: ROSE Tokens: -2
+  R 37 | Kip      -> Vera     | My clue is FOG. Want to solve K-19?
+  R 38 | Vera     -> Kip      | Thanks. Solving K-19: FOG. Tokens: -1
+  R 38 | Kip      -> Vera     | My clue for K-19 is: ROSE Tokens: -2
+  R 39 | Vera     -> Kip      | Thanks. Have _OG. Solve K-19 if you can.Tokens: -2
+  R 39 | Kip      -> Vera     | Sharing my G-39 clue._tokens: -1
+  R 40 | Vera     -> Kip      | Have _IFE, want S-4. Tokens: -1
+  R 40 | Kip      -> Vera     | Got _OG. Let's solve K-19.Tokens: -1
+  R 41 | Vera     -> Kip      | Interested. Solve K-19. Tokens: -1
+  R 41 | Kip      -> Vera     | Got BL__, let's solve M-30. Tokens: -1
+  R 42 | Vera     -> Kip      | Got __GHT. Let's solve X-32. Tokens: -1
+  R 42 | Kip      -> Vera     | Let's solve K-19 together. My clue is _OG.Tokens: -1
+  R 43 | Vera     -> Kip      | Your clue matches mine. Solving K-19. Tokens: -1
+  R 43 | Kip      -> Vera     | Got C__, let's solve X-43. Tokens: -1
+  R 44 | Vera     -> Kip      | Got __GHT, solving X-32. Tokens: -1
+  R 45 | Vera     -> Kip      | Got IF_, solving P-33. Tokens: -1
+  R 45 | Kip      -> Vera     | Let's solve Y-36 together.Tokens: -1
+  R 46 | Kip      -> Vera     | Let's solve I-38 together.Tokens: -1
+  R 47 | Vera     -> Kip      | Got TH___. Let’s solve I-38. Tokens: -2
+  R 47 | Kip      -> Vera     | Let's solve more together.Tokens: -1
+  R 48 | Vera     -> Kip      | Need clues for A-37 & Z-42. Tokens: -1
+  R 48 | Kip      -> Vera     | Got PI___. Let's solve G-39.Tokens: -1
+  R 49 | Vera     -> Kip      | Share PI____. Solve G-39._tokens_saved
+  R 49 | Kip      -> Vera     | Got PI___. Let's solve G-39. Tokens: -1
+  R 50 | Vera     -> Kip      | Need TUR___. Planning meeting._tokens_saved_Tokens
+  R 50 | Kip      -> Vera     | Sent PI____. Solve G-39. Tokens: -1
+  R 51 | Vera     -> Kip      | PI____. Solve G-39. Tokens: -2
+  R 51 | Kip      -> Vera     | PI___
+  R 52 | Vera     -> Kip      | PIOCK
+  R 52 | Kip      -> Vera     | PI___Tokens Saved
+  R 53 | Vera     -> Kip      | I sent my clue. Waiting for yours. Tokens: -1
+  R 53 | Kip      -> Vera     | I've got TUR__ and PI____. Let's solve them. Tokens: -2
+  R 54 | Vera     -> Kip      | I have PI__. Solve K-53 together. Tokens: -1
+  R 54 | Kip      -> Vera     | Received your clue. Working on solving G-39. Tokens: -1
+  R 55 | Kip      -> Vera     | Sending mine now.Tokens: -1
+  R 56 | Vera     -> Kip      | Sent my clue for K-53. Solve when ready. Tokens: -1
+  R 56 | Kip      -> Vera     | I got your clue. Sending mine now._tokens_saved_
+  R 57 | Vera     -> Kip      | Sent my clue for F-46. Expect yours soon. Tokens: -1
+  R 57 | Kip      -> Vera     | Sending my clue now.Tokens: -1
+  R 58 | Vera     -> Kip      | Sent my clue. Solve R-50? Tokens: -1
+  R 58 | Kip      -> Vera     | Received your clue for K-53. Will solve shortly._tokens: -1
+  R 59 | Vera     -> Kip      | Sent. Solve K-53. Tokens: -1
+  R 59 | Kip      -> Vera     | Got your clues for K-53 & F-46. Solving them now. Tokens: -1
+  R 60 | Vera     -> Kip      | Thanks for sharing. Solve K-53 & F-46. Tokens: -1
+  R 61 | Vera     -> Kip      | Sent clues for R-50 & H-60. Solve if done. Tokens: -2
+  R 62 | Kip      -> Vera     | Got your clues. Working on R-50 & H-60. Tokens: -1
+  R 63 | Vera     -> Kip      | Thanks. Working on K-53. Tokens: -1
+  R 64 | Vera     -> Kip      | Thanks for sharing. Working on K-53. Tokens: -1
+  R 65 | Vera     -> Kip      | Thanks for sharing. Solving K-53 & F-46.Tokens: -1
+  R 66 | Vera     -> Kip      | Confirming H-60 clue. Tokens: -1
+  R 66 | Kip      -> Vera     | Got both clues, working on them. Tokens: -1
+  R 67 | Kip      -> Vera     | Got your clues. Solving G-58 & V-59. Tokens: -2
+  R 68 | Vera     -> Kip      | Thanks for sharing. Working on N-56 & X-68. Tokens: -1
+  R 69 | Vera     -> Kip      | Thanks for sharing. Solving H-60 next. Tokens: -1
+  R 69 | Kip      -> Vera     | Got both clues. Working on them._tokens: -1
+  R 70 | Vera     -> Kip      | Thanks for sharing. Planning joint strategy._tokens: -1
+  R 70 | Kip      -> Vera     | Got both clues, working on H-60. Tokens: -2
+  R 71 | Kip      -> Vera     | Let's plan our next moves together. Tokens: -1
+  R 72 | Vera     -> Kip      | Thanks for sharing. Planning with you. Tokens: -1
+  R 72 | Kip      -> Vera     | Got your clues, working on F-46 & H-60. Tokens: -2
+  R 73 | Kip      -> Vera     | Got your clues. Working on H-60. Tokens: -1
+  R 74 | Vera     -> Kip      | Thanks for sharing. Working on puzzles. Tokens: -1
+  R 74 | Kip      -> Vera     | Got your clues. Working on H-60. Tokens: -1
+  R 75 | Vera     -> Kip      | Confirm F-46 & K-53 answers soon. Tokens: -1
+  R 75 | Kip      -> Vera     | Got both clues. Working on puzzle. Tokens: -1
+  R 76 | Vera     -> Kip      | Thanks for sharing. Working on puzzle. Tokens: -2
+  R 76 | Kip      -> Vera     | Got it. Working on F-46 & K-53. Tokens: -1
+  R 77 | Kip      -> Vera     | Got your clues, working on them. Tokens: -2
+  R 78 | Kip      -> Vera     | Got both clues. Working on them. Tokens: -1
+  R 79 | Kip      -> Vera     | Got your clues. Working on them. Tokens: -1
+  R 80 | Kip      -> Vera     | Got your clues. Working on them. Tokens: -1
+  R 81 | Vera     -> Kip      | Thanks.Tokens: -1
+  R 81 | Kip      -> Vera     | Got your clues, working on them. Tokens: -2
+  R 82 | Kip      -> Vera     | Got both clues. Working on them. Tokens: -2
+  R 83 | Vera     -> Kip      | Thanks. Planning next steps. Tokens: -2
+  R 84 | Vera     -> Kip      | Thanks. Working on W-72 & R-81. Tokens: -2
+  R 85 | Vera     -> Kip      | Thanks. Working on J-78 & R-81. Tokens: -1
+  R 86 | Vera     -> Kip      | Thanks. Working on J-86. Tokens: -1
+  R 87 | Kip      -> Vera     | Got your clues, working on F-46 & J-78. Tokens: -2
+  R 88 | Kip      -> Vera     | Got your clues. Working on U-77 & U-87. Tokens: -2
+  R 90 | Kip      -> Vera     | Got both clues. Working on them. Tokens: -2
+  R 91 | Vera     -> Kip      | Confirm J-86 & R-89 clues please. Tokens: -2
+  R 91 | Kip      -> Vera     | Got both clues. Working on them. Tokens: -2
+  R 92 | Vera     -> Kip      | Confirm R-81 & Y-85 solutions soon. Tokens: -1
+  R 93 | Vera     -> Kip      | Let's solve R-81 together. Tokens: -1
+  R 93 | Kip      -> Vera     | Got both clues, solving now. Tokens: -1
+  R 94 | Vera     -> Kip      | Both answers sent. Solve puzzles. Tokens: -1
+  R 94 | Kip      -> Vera     | Got both clues. Working on R-81. Tokens: -1
+  R 95 | Vera     -> Kip      | Need SP___ clue for A-90. Tokens: -1
+  R 95 | Kip      -> Vera     | Received both clues. Working on R-81. Tokens: -1
+  R 96 | Kip      -> Vera     | Sent my clues for F-46 & K-53. Waiting on responses. Tokens: -1
+  R 97 | Kip      -> Vera     | Sent my clues for F-46 & K-53. Waiting on responses. Tokens: -1
+  R 98 | Vera     -> Kip      | Thanks for sharing. Planning next steps. Tokens: -2
+  R 98 | Kip      -> Vera     | Sent F-97 clue. Waiting for response. Tokens: -1
+  R 99 | Vera     -> Kip      | Confirm received SP___ and __SH clues. Tokens: -1
+  R 99 | Kip      -> Vera     | Got both clues. Working on A-90 & W-94. Tokens: -2
+  R100 | Vera     -> Kip      | Confirm received my clues. Tokens: -1
+  R100 | Kip      -> Vera     | Sent F-97 clue. Tokens: -1
+  R101 | Vera     -> Kip      | Received your clues. Planning next steps. Tokens: -1
+  R102 | Kip      -> Vera     | Thanks! Working on solving W-94 & R-95. Tokens: -1
+  R103 | Vera     -> Kip      | Passed. Tokens: -1
+  R103 | Kip      -> Vera     | Thanks! Solving W-94 & R-95 now. Tokens: -2
+  R104 | Vera     -> Kip      | Got your __SH clue. Solving L-98. Tokens: -1
+  R104 | Kip      -> Vera     | Thanks! Working on puzzles. Tokens: -1
+  R105 | Vera     -> Kip      | Have your clues for C-96 and L-98. Tokens: -2
+  R106 | Vera     -> Kip      | Need clues for puzzles U-101 & P-102.Tokens: -1
+  R107 | Kip      -> Vera     | SH clue for C-96: THE ANSWER IS TH__.Tokens: -1
+  R108 | Kip      -> Vera     | Sent you PHANT for F-97.Tokens: -1
+  R109 | Vera     -> Kip      | REC PT SH FOR C-96. Tokens: -2
+  R109 | Kip      -> Vera     | SHANTTokens: -2
+  R110 | Kip      -> Vera     | Holding clues for O-105 & H-106. Can share if needed.Tokens: -2
+
+=== Private Channel: Dove <-> Flint (110 messages) ===
+
+  R  4 | Flint    -> Dove     | Your clue. Tokens: -1
+  R  6 | Dove     -> Flint    | Thanks for the clue!
+  R  7 | Dove     -> Flint    | Thanks for the clue. Working on solving puzzles. Tokens: -1
+  R  7 | Flint    -> Dove     | Thanks. Working on U-2. Tokens: -1
+  R  8 | Flint    -> Dove     | Need ELE_____ clue. Tokens: -1
+  R  9 | Dove     -> Flint    | Got it.Tokens: -1
+  R 10 | Dove     -> Flint    | Passing my clue for U-2. Tokens: -1
+  R 11 | Dove     -> Flint    | Got your clue. Tokens: -1
+  R 12 | Dove     -> Flint    | Passed.Tokens: -1
+  R 13 | Dove     -> Flint    | Got your clue, thanks. Working on it. Tokens: -1
+  R 14 | Dove     -> Flint    | Got FI____ clue for C-6. Tokens: -1
+  R 15 | Dove     -> Flint    | Got FI____ clue for C-6 & M-11. Tokens: -1
+  R 15 | Flint    -> Dove     | Thanks. Working on E-5. Tokens: -1
+  R 16 | Dove     -> Flint    | Looking for clues. Tokens: -1
+  R 16 | Flint    -> Dove     | Need D-11 clue.Tokens: -1
+  R 17 | Flint    -> Dove     | Need DRED clue for E-5. Tokens: -1
+  R 20 | Dove     -> Flint    | I can help with D-11 if you want to work together. Tokens: -1
+  R 21 | Dove     -> Flint    | I can help with DRED for E-5 if you have D-11 clue. Tokens: -1
+  R 23 | Dove     -> Flint    | I have clues for M-11 and S-12. Let's solve together. Tokens: -1
+  R 24 | Dove     -> Flint    | Working on E-5. Need DRED clue. Tokens: -1
+  R 24 | Flint    -> Dove     | Need GR___ clue for L-24.Tokens: -1
+  R 25 | Dove     -> Flint    | Sending DRED. Tokens: -1
+  R 25 | Flint    -> Dove     | Have RD for Q-15. Solve?
+  R 26 | Dove     -> Flint    | Sending DRED. Tokens: -1
+  R 26 | Flint    -> Dove     | RD CLUE K-19 Tokens: -1
+  R 27 | Dove     -> Flint    | Sending GR___ clue now. Tokens: -1
+  R 27 | Flint    -> Dove     | RD_TOKENSTokens: -1
+  R 28 | Dove     -> Flint    | Working on Q-15. Let me know if you find more clues. Tokens: -1
+  R 29 | Dove     -> Flint    | Yes, solve Q-15 using RD. Tokens: -1
+  R 29 | Flint    -> Dove     | NK
+  R 30 | Dove     -> Flint    | Thanks for sharing. I'll solve puzzles when others confirm. Tokens: -1
+  R 31 | Dove     -> Flint    | Thanks for the clue. Working on H-20. Tokens: -1
+  R 31 | Flint    -> Dove     | Need clues for E-31. Tokens: -1
+  R 32 | Dove     -> Flint    | NK
+  R 33 | Dove     -> Flint    | Offering clues for puzzles M-30 and X-32. Let's solve these together. Tokens: -2
+  R 33 | Flint    -> Dove     | PassTokens: -1
+  R 34 | Dove     -> Flint    | I have clues for N-34 and X-32. Want to solve those? Tokens: -1
+  R 34 | Flint    -> Dove     | Need clues for N-34 & G-28. Solving X-27 if you have T-AR. Tokens: -1
+  R 35 | Dove     -> Flint    | Have clues for X-27 & N-34. Let's solve together. Tokens: -1
+  R 36 | Dove     -> Flint    | Have X-27 clue. Need T-AR. Tokens: -1
+  R 37 | Dove     -> Flint    | Have clues for X-27. Let's solve. Tokens: -1
+  R 38 | Dove     -> Flint    | Have T-AR for X-27. Tokens: -1
+  R 38 | Flint    -> Dove     | X-27 TAR
+  R 39 | Dove     -> Flint    | I can help with G-28. Tokens: -1
+  R 40 | Dove     -> Flint    | I have clues for M-30 and X-32. Want to solve these now? Tokens: -1
+  R 41 | Dove     -> Flint    | I can help with G-28. My clue is __ANO.(tokens: -1)
+  R 42 | Dove     -> Flint    | I have clues for M-30 and Y-36. Want to solve? Tokens: -1
+  R 42 | Flint    -> Dove     | Rząd_tokens: -1
+  R 43 | Dove     -> Flint    | Have clues for X-43 & G-39. Working on solving. Tokens: -1
+  R 44 | Dove     -> Flint    | X-27 TAR
+  R 44 | Dove     -> Flint    | N-34 WAT Tokens: -2
+  R 45 | Dove     -> Flint    | I've got parts for X-43 (_UP) & C-44 (SI__). Pass others. Tokens: -1
+  R 46 | Dove     -> Flint    | I have clues for X-43 and G-39. Want to solve those? Tokens: -1
+  R 46 | Flint    -> Dove     | SI__Tokens: -1
+  R 47 | Dove     -> Flint    | I_have_clues_X-43_and_G-39. Tokens: -1
+  R 48 | Dove     -> Flint    | I_have_clues_X-43_and_Y-36. Tokens: -1
+  R 51 | Dove     -> Flint    | Need help with X-27. What's TAR? Tokens: -1
+  R 52 | Dove     -> Flint    | I have clues for some puzzles. Want to solve any? Tokens: -2
+  R 52 | Flint    -> Dove     | X-43: The answer is STRIDE. Tokens: -2
+  R 53 | Dove     -> Flint    | I have clues for X-43 and M-51. Want to solve? Tokens: -1
+  R 53 | Flint    -> Dove     | No thanks.Tokens: -1
+  R 54 | Dove     -> Flint    | I'm working on my clues. Let's keep our strategies focused. Tokens: -1
+  R 55 | Dove     -> Flint    | I have clues for X-43 and S-52. Want to solve? Tokens: -1
+  R 56 | Dove     -> Flint    | I hold clues for M-51 and S-52. Interested? Tokens: -2
+  R 56 | Flint    -> Dove     | X-43: GR__
+  R 57 | Dove     -> Flint    | Got GR__. Waiting for more. Tokens: -1
+  R 57 | Flint    -> Dove     | No interest at this moment.Tokens: -1
+  R 58 | Dove     -> Flint    | I'll look into X-43. My clue is __AIR. Tokens: -1
+  R 59 | Dove     -> Flint    | I'll keep an eye on X-43. Need more info first. Tokens: -1
+  R 59 | Flint    -> Dove     | GR__
+  R 60 | Dove     -> Flint    | I have GR__. What's your clue for X-43?Tokens: -1
+  R 61 | Flint    -> Dove     | GR__
+  R 62 | Flint    -> Dove     | GR__
+  R 63 | Dove     -> Flint    | Got GR__. Let's team up on X-43. Tokens: -2
+  R 64 | Flint    -> Dove     | GR__ Tokens: -1
+  R 66 | Flint    -> Dove     | GR__
+  R 68 | Dove     -> Flint    | I have Air. Waiting for your clue. Tokens: -1
+  R 69 | Dove     -> Flint    | I have clues for puzzles J-57, H-60, and R-64. Interested? Tokens: -2
+  R 69 | Flint    -> Dove     | Air_
+  R 70 | Dove     -> Flint    | GR__ Tokens: -1
+  R 70 | Flint    -> Dove     | DO__
+  R 71 | Flint    -> Dove     | Need J-57 and H-60 clues. Tokens: -1
+  R 72 | Dove     -> Flint    | Airputer
+  R 73 | Dove     -> Flint    | Air_ Tokens: -1
+  R 74 | Dove     -> Flint    | Air_Tokens: -1
+  R 75 | Dove     -> Flint    | Air_Tokens: -1
+  R 78 | Dove     -> Flint    | Air_ DO__ Tokens: -1
+  R 80 | Dove     -> Flint    | I've got parts of J-57 and H-60. Let's trade.Tokens: -1
+  R 81 | Dove     -> Flint    | Waiting on clues for J-57 and H-60._tokens: -1
+  R 82 | Dove     -> Flint    | Need clues for V-82.Tokens: -1
+  R 82 | Flint    -> Dove     | Need clues for S-75: __BRA.Tokens: -1
+  R 83 | Dove     -> Flint    | I have parts for V-82 (PI__). Pass tokens: 2
+  R 84 | Dove     -> Flint    | Got DO__. Need clues for S-75: __BRA. Tokens: -1
+  R 84 | Flint    -> Dove     | B__RA
+  R 85 | Dove     -> Flint    | I can help with S-75. My clue is B__RA. Pass.
+  R 85 | Flint    -> Dove     | __BRA
+  R 86 | Dove     -> Flint    | I can help. My clues are:
+  R 86 | Flint    -> Dove     | B__RA
+  R 87 | Flint    -> Dove     | Your clue for S-75.Tokens: -1
+  R 88 | Flint    -> Dove     | Need your clue for A-88. Mine is BL__.Tokens: -1
+  R 89 | Dove     -> Flint    | I'll work on A-88. My clue is BL__. Tokens: -1
+  R 89 | Flint    -> Dove     | Your clues won't interest me. Tokens: -1
+  R 90 | Dove     -> Flint    | PASS
+  R 90 | Flint    -> Dove     | Your clue for A-88. Tokens: -1
+  R 91 | Flint    -> Dove     | Your clue. Tokens: -1
+  R 92 | Dove     -> Flint    | Tokens: -1
+  R 92 | Flint    -> Dove     | Your clue. Tokens: -2
+  R 93 | Dove     -> Flint    | Got my clues. Solving A-88. Tokens: -2
+  R 93 | Flint    -> Dove     | Your clue matches mine. Let's solve A-88. Tokens: -1
+  R 94 | Dove     -> Flint    | Thanks for the clue. Working on A-88 together. Tokens: -1

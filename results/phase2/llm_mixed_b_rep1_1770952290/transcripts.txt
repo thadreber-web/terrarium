@@ -1,0 +1,438 @@
+=== Private Channel: Flint <-> Vera (234 messages) ===
+
+  R  8 | Flint    -> Vera     | Your clue: ___GAROO. Tokens: 2
+  R  9 | Vera     -> Flint    | I have ___GAROO for W-6. Solve when we both send. Tokens: 2
+  R  9 | Flint    -> Vera     | Your clue: THE ANSWER IS ___GAROO. Tokens: 4
+  R 10 | Flint    -> Vera     | Got it. Tokens: 2
+  R 11 | Flint    -> Vera     | I haveIFE for C-11. Solve when we both send. Tokens: 2
+  R 12 | Flint    -> Vera     | I have __IFE for C-11. Solve when we both send. Tokens: 1
+  R 13 | Flint    -> Vera     | I have __IFE for C-11. Solve when we both send.Tokens: 2
+  R 14 | Flint    -> Vera     | I have __IFE for C-11. Solve when we both send.
+  R 15 | Flint    -> Vera     | __IFE
+  R 16 | Flint    -> Vera     | I have __IFE for C-11. Solve when we both send.Tokens: 2
+  R 17 | Flint    -> Vera     | I have _TLE for Z-16. Solve when we both send.
+  R 18 | Flint    -> Vera     | Sent you clue for W-6. Solve when ready.
+  R 19 | Vera     -> Flint    | Received my clue. Solving W-6 soon.
+  R 19 | Flint    -> Vera     | Send me yours first. Tokens: 2
+  R 20 | Flint    -> Vera     | SI___
+  R 21 | Flint    -> Vera     | SI___
+  R 22 | Flint    -> Vera     | SI__
+  R 23 | Flint    -> Vera     | SI__
+  R 24 | Flint    -> Vera     | ___TLE
+  R 25 | Vera     -> Flint    | Got TLE_. Working clues.
+  R 25 | Flint    -> Vera     | Need TLE clues. Solving Q-20.Tokens: 557
+  R 26 | Flint    -> Vera     | Need CL___. Solving Q-20. Tokens: 1
+  R 27 | Flint    -> Vera     | TL_
+  R 28 | Flint    -> Vera     | Have TLE_. Solve H-19.
+  R 29 | Flint    -> Vera     | Have TLE_. Solve H-19.
+  R 30 | Flint    -> Vera     | Got TL_. Solve H-19?
+  R 31 | Flint    -> Vera     | Have TLE_. Solve H-19.
+  R 32 | Flint    -> Vera     | Your clue is 'TL'. SOLVE: W-6 TLEON
+  R 33 | Flint    -> Vera     | Thanks. Solving W-6.
+  R 34 | Flint    -> Vera     | G
+  R 35 | Flint    -> Vera     | Got NTY_. Solve Q-27.
+  R 36 | Flint    -> Vera     | Got IT__. Solve H-25.
+  R 40 | Flint    -> Vera     | Sent my clue. Solve O-39 next.
+  R 43 | Vera     -> Flint    | Received your clue. Solving O-39 now.
+  R 44 | Vera     -> Flint    | Your clue was PI. SOLVE
+  R 48 | Vera     -> Flint    | O TLE
+  R 48 | Flint    -> Vera     | ACK. SE
+  R 49 | Vera     -> Flint    | TLE
+  R 49 | Flint    -> Vera     | GR
+  R 50 | Vera     -> Flint    | TLE SE
+  R 51 | Flint    -> Vera     | REE
+  R 52 | Vera     -> Flint    | TLE SE
+  R 52 | Flint    -> Vera     | TL ENESEsolve R-49? SE
+  R 53 | Flint    -> Vera     | TLE SE
+  R 54 | Vera     -> Flint    | Have GR clue for D-43. Solve now? SE
+  R 54 | Flint    -> Vera     | Ele SE
+  R 55 | Vera     -> Flint    | Gr SE
+  R 55 | Flint    -> Vera     | Yes, solve.
+  R 56 | Vera     -> Flint    | Let's solve A-55 together. Answer is _ED.
+  R 56 | Flint    -> Vera     | Se
+  R 57 | Vera     -> Flint    | Got it. Solving A-55 together. FLINTEDED
+  R 57 | Flint    -> Vera     | ED
+  R 58 | Vera     -> Flint    | SOLVED A-55 Ed
+  R 58 | Flint    -> Vera     | PI__
+  R 59 | Vera     -> Flint    | Received your clues. Solving A-55 now.Tokens: 476
+  R 59 | Flint    -> Vera     | Thanks. Pass.
+  R 60 | Vera     -> Flint    | PIZZA SOLVE A-55 PIzza
+  R 60 | Flint    -> Vera     | Got it. Solving together.
+  R 61 | Vera     -> Flint    | PASS
+  R 62 | Vera     -> Flint    | PASS
+  R 62 | Flint    -> Vera     | DI__ SE
+  R 64 | Vera     -> Flint    | DI__ SE
+  R 70 | Vera     -> Flint    | DI_ON
+  R 72 | Flint    -> Vera     | DI_ON
+  R 74 | Vera     -> Flint    | DI_ON
+  R 75 | Vera     -> Flint    | DI_Necessities
+  R 75 | Flint    -> Vera     | DI_ON
+  R 76 | Vera     -> Flint    | DI_ON
+  R 77 | Vera     -> Flint    | DI_ON
+  R 79 | Flint    -> Vera     | LD_
+  R 80 | Vera     -> Flint    | Your clue?
+  R 80 | Flint    -> Vera     | DI__
+  R 81 | Flint    -> Vera     | DI__
+  R 82 | Flint    -> Vera     | OR___
+  R 83 | Vera     -> Flint    | DI__
+  R 83 | Flint    -> Vera     | Need __GAROO for puzzle A-75.
+  R 84 | Flint    -> Vera     | LD
+  R 85 | Vera     -> Flint    | Got second half of Z-77 clue. DILOGENT
+  R 85 | Flint    -> Vera     | Check this. FL___
+  R 86 | Flint    -> Vera     | DILOGENT
+  R 87 | Flint    -> Vera     | DILOGENT
+  R 88 | Vera     -> Flint    | IXOR?
+  R 88 | Flint    -> Vera     | Pass me your clue for N-82.Tokens: 137
+  R 89 | Flint    -> Vera     | XOR
+  R 90 | Vera     -> Flint    | DI__
+  R 90 | Flint    -> Vera     | IXOR?
+  R 91 | Vera     -> Flint    | Passed your clue to Kip. Work on U-81 now.
+  R 91 | Flint    -> Vera     | I_have_clue_for_Z-84._Air_conditioner_.
+  R 92 | Vera     -> Flint    | Pass your Z-84 clue to me.
+  R 92 | Flint    -> Vera     | BI__
+  R 93 | Vera     -> Flint    | Thank you. Passing on R82 clue now.
+  R 93 | Flint    -> Vera     | Z-84
+  R 94 | Vera     -> Flint    | Passed on R82 clue, answer starts with PI__. Work on it. Vera.
+  R 94 | Flint    -> Vera     | Passed along my clue. Solve R82?
+  R 95 | Vera     -> Flint    | Got your clue. Working on it.
+  R 96 | Vera     -> Flint    | Thanks for the clue. Working on R-94.
+  R 97 | Vera     -> Flint    | Thanks for passing my clue. Working on R-94.
+  R 98 | Flint    -> Vera     | TLOG
+  R 99 | Vera     -> Flint    | I have D__ clue for Q-98.
+  R 99 | Flint    -> Vera     | Got TANO. Waiting on other half.
+  R100 | Flint    -> Vera     | Confirm R-94 clue shared.
+  R101 | Vera     -> Flint    | Confirm received SH and NK.Planning next moves.
+  R101 | Flint    -> Vera     | Passing D__ clue. Solve Q-98.
+  R102 | Flint    -> Vera     | TH___
+  R103 | Flint    -> Vera     | Got G__ for P-91. Pass.
+  R105 | Flint    -> Vera     | GO__
+  R106 | Flint    -> Vera     | SI__
+  R107 | Vera     -> Flint    | C-99 clue
+  R107 | Flint    -> Vera     | SI__
+  R108 | Vera     -> Flint    | I have clues for N-97 & H-103. Share yours if willing.
+  R108 | Flint    -> Vera     | EI LE
+  R109 | Vera     -> Flint    | SI NK
+  R110 | Vera     -> Flint    | SI__
+  R110 | Flint    -> Vera     | THIR___
+  R112 | Vera     -> Flint    | J__TEEN - let's solve J-105.
+  R113 | Vera     -> Flint    | TAR
+  R113 | Flint    -> Vera     | LI__
+  R114 | Vera     -> Flint    | Need puzzle clues.
+  R114 | Flint    -> Vera     | __ON
+  R115 | Vera     -> Flint    | LILO
+  R115 | Flint    -> Vera     | BL__
+  R116 | Flint    -> Vera     | X-113: KET__
+  R118 | Vera     -> Flint    | C__
+  R118 | Flint    -> Vera     | YEL___
+  R119 | Flint    -> Vera     | YEL__
+  R123 | Flint    -> Vera     | YEL__
+  R125 | Vera     -> Flint    | ACK
+  R126 | Vera     -> Flint    | SE
+  R127 | Flint    -> Vera     | Y_UP
+  R128 | Vera     -> Flint    | IFER
+  R128 | Flint    -> Vera     | KN___
+  R130 | Flint    -> Vera     | LNTH
+  R131 | Flint    -> Vera     | BL___
+  R132 | Vera     -> Flint    | Got Y-126 BI__
+  R133 | Vera     -> Flint    | FI___
+  R133 | Flint    -> Vera     | Y-126 __RD
+  R134 | Vera     -> Flint    | FI__
+  R134 | Flint    -> Vera     | Your clues for F-129 & Y-133.
+  R135 | Flint    -> Vera     | I've got _OG. Are you referring toフィギュア(Figura)?
+  R136 | Vera     -> Flint    | Figura fits. Solve F-129.EIFigura
+  R136 | Flint    -> Vera     | SI__
+  R138 | Vera     -> Flint    | Figura fits Y-133. What's your Clue for F-129?
+  R138 | Flint    -> Vera     | FI
+  R139 | Vera     -> Flint    | Figura matches J-134. Confirm.
+  R139 | Flint    -> Vera     | GO__ Fits Z-136. Solving now.
+  R140 | Vera     -> Flint    | GOOE Fits Z-136. Solving.
+  R140 | Flint    -> Vera     | Got PI___. Solving R-140.
+  R141 | Vera     -> Flint    | Solve R-140: __NK
+  R142 | Vera     -> Flint    | Solve Z-136: GO__
+  R143 | Vera     -> Flint    | SH__ Fits C-132. Solve when ready.
+  R143 | Flint    -> Vera     | SE___
+  R144 | Vera     -> Flint    | Pass V-139 GR___. Solve V-144 TUR___.
+  R145 | Vera     -> Flint    | Check J-134 clues.
+  R145 | Flint    -> Vera     | GR___
+  R146 | Vera     -> Flint    | PASS
+  R146 | Flint    -> Vera     | Confirm SHOT for C-132.
+  R147 | Vera     -> Flint    | Confirm ZEEN for W-142.LISS for K-135.
+  R148 | Vera     -> Flint    | Got K-138: __VEN. Confirm W-142: ZE___. Solve Q-143: ___GAROO. Solve V-144: TUR___. Solve S-146: PUR___. Solve D-147: SI__. Solve X-148: __AIR.
+  R149 | Vera     -> Flint    | Confirm GAROO for Q-143. Solve K-138 ifven.
+  R150 | Vera     -> Flint    | Got Y-150: _ED. Working on others.
+  R150 | Flint    -> Vera     | Confirm SEVEN for K-138. Solve V-144: TURE. Solve Q-145: REHARD.
+  R151 | Vera     -> Flint    | Confirm ZEAL for W-142. Solve.
+  R152 | Vera     -> Flint    | Confirm AIR for X-148. Solve W-142: ZEBRA. Solve S-146: PURE. Confirm FE for C-149. Solve N-151: WHOSE.
+  R153 | Vera     -> Flint    | Confirm IFER for C-149. Solve W-142: ZERO. Solve Q-143: ZYGARROO. Solve Q-145: HUNGARIAN. Solve S-146: PURPLE.
+  R154 | Vera     -> Flint    | Confirm AIR for X-148.
+  R154 | Flint    -> Vera     | BRA
+  R155 | Vera     -> Flint    | CONFIRM YELLO FOR G-155. CHECK OTHER ClUES.
+  R157 | Vera     -> Flint    | Confirm AIR for X-148. Solve.
+  R158 | Vera     -> Flint    | Confirm ZONE for N-158. Solve X-148: FAIR. Solve N-151: WHO. Solve J-157: BLOG.
+  R159 | Vera     -> Flint    | IFE
+  R160 | Vera     -> Flint    | Need clue for N-151.
+  R161 | Vera     -> Flint    | Confirm IFE for C-149. Solve G-155: YELLOW. Solve X-156: Zen. Solve J-157: BLIND. Solve N-158:ove. Solve M-160:GUIDE.
+  R161 | Flint    -> Vera     | Confirm INCOME for L-154. Solve P-153: FISH. Solve X-152: ELECT.
+  R162 | Vera     -> Flint    | CONFIRM SEVEN FOR K-138. SOLVE V-144: TURE. SOLVE Q-145: REHARD. SEND YOUR CLUE FOR L-154.
+  R162 | Flint    -> Vera     | FITE
+  R163 | Vera     -> Flint    | Confirm INCOME for L-154. Solve P-153: FISHER. Solve X-152: ELECTOR.
+  R164 | Vera     -> Flint    | Need YEL__ clue for G-155. Confirm INCOME for L-154.
+  R164 | Flint    -> Vera     | Confirm LOW for G-155.(SELF) SOLVE G-155: YELLOW. SOLVE X-156: ZEN. SOLVE J-157: BLIND.
+  R165 | Vera     -> Flint    | Confirm INCOME for L-154. SOLVE P-153: FISH.
+  R166 | Vera     -> Flint    | Confirm INCOME for L-154. Solving C-164 next.
+  R167 | Vera     -> Flint    | Confirm INCOME for L-154. Need your clue for C-99.
+  R168 | Vera     -> Flint    | Confirm INCOME for L-154. Solve P-153: FISH. Solve X-156: ZEN. Solve J-157: ?
+  R169 | Vera     -> Flint    | Confirm INCOME for L-154.
+  R169 | Flint    -> Vera     | Your clue for C-164. PI___.
+  R170 | Vera     -> Flint    | I hold clue BL__. We solve Y-167 together. SEND_public: Working on R-170 next.
+  R171 | Vera     -> Flint    | Receive clue Y-167: BL__. Solve together.
+  R172 | Vera     -> Flint    | Your clue for Z-165: THE_.
+  R173 | Vera     -> Flint    | Your clue for L-162: THIR__.
+  R173 | Flint    -> Vera     | REEE
+  R174 | Vera     -> Flint    | Your clue for Y-167: BL__. SOLVE Y-167: BLEED.
+  R175 | Vera     -> Flint    | Your clue for Y-167. BL__. Confirm income for L-154.
+  R175 | Flint    -> Vera     | Confirm L-154 income details.
+  R178 | Vera     -> Flint    | Need V-168 clue.
+  R178 | Flint    -> Vera     | CONFIRM Income for L-154
+  R179 | Vera     -> Flint    | Confirming L-154 income details.
+  R179 | Flint    -> Vera     | YE__
+  R180 | Vera     -> Flint    | Waiting on your clues for W-169, W-170, S-171, L-172. Confirm L-154 income.
+  R180 | Flint    -> Vera     | BL__
+  R181 | Vera     -> Flint    | Share S-171 clue. ANGE. Solve Y-181. O__
+  R182 | Vera     -> Flint    | YANG?
+  R182 | Vera     -> Flint    | BLACK Card details.
+  R182 | Flint    -> Vera     | SI__
+  R183 | Vera     -> Flint    | YE__
+  R183 | Vera     -> Flint    | BL__
+  R183 | Flint    -> Vera     | ORANGE
+  R184 | Flint    -> Vera     | NK
+  R185 | Vera     -> Flint    | PHANT
+  R186 | Vera     -> Flint    | X_ED
+  R186 | Flint    -> Vera     | NK
+  R187 | Vera     -> Flint    | PHANT
+  R187 | Flint    -> Vera     | KL___
+  R188 | Vera     -> Flint    | Need C__ clue for puzzle C-99.
+  R188 | Flint    -> Vera     | NK
+  R189 | Vera     -> Flint    | I-__
+  R190 | Vera     -> Flint    | I-BRA
+  R190 | Flint    -> Vera     | F_IDER
+  R191 | Vera     -> Flint    | Have C__ and U__LOW clues. Solve puzzles together.
+  R191 | Flint    -> Vera     | I-TDE Solver: C-99
+  R192 | Vera     -> Flint    | Your clues for J-185 & F-184.
+  R192 | Flint    -> Vera     | I-HAV
+  R193 | Vera     -> Flint    | Need clues for O-182, K-183, F-184. Solve puzzles if possible.
+  R194 | Vera     -> Flint    | Need clues for O-182, N-187.
+  R194 | Flint    -> Vera     | J-185 KN___
+  R195 | Vera     -> Flint    | Need clue for K-183. Answer is ___NTY.
+  R195 | Flint    -> Vera     | K-183: TWE___
+  R196 | Vera     -> Flint    | Need clues for F-184, N-191.
+  R196 | Flint    -> Vera     | Clue for N-191: __RD
+  R197 | Vera     -> Flint    | Your clue for J-193: KET__
+  R197 | Flint    -> Vera     | FI__
+  R198 | Vera     -> Flint    | Your J-193 clue: KET__. Need PI___ clue for F-198.
+  R198 | Flint    -> Vera     | Got J-193 clue. KET__. Solve when ready.
+  R199 | Vera     -> Flint    | LOWCLDOPI
+  R199 | Flint    -> Vera     | YEL___
+  R200 | Flint    -> Vera     | Got YEL___. Ready for solve.
+
+=== Private Channel: Marsh <-> Vera (130 messages) ===
+
+  R 11 | Marsh    -> Vera     | LI__
+  R 12 | Vera     -> Marsh    | LI__
+  R 13 | Marsh    -> Vera     | Your clue is LI__. I have the rest. Solving P-5.
+  R 14 | Vera     -> Marsh    | DI__
+  R 14 | Marsh    -> Vera     | Confirming P-5 solve.Tokens up?
+  R 15 | Marsh    -> Vera     | Thanks for your clue. Solving P-5 now.
+  R 16 | Marsh    -> Vera     | Thanks for your clue. Solving P-5 now.
+  R 17 | Marsh    -> Vera     | Your clue matches P-5. Solving now.
+  R 18 | Marsh    -> Vera     | DI__
+  R 19 | Marsh    -> Vera     | DI__
+  R 20 | Marsh    -> Vera     | SI___
+  R 21 | Marsh    -> Vera     | SI___
+  R 22 | Marsh    -> Vera     | SI__
+  R 23 | Marsh    -> Vera     | DO__
+  R 23 | Marsh    -> Vera     | COM_____
+  R 24 | Marsh    -> Vera     | DO___
+  R 25 | Marsh    -> Vera     | I've got parts. Need more.Tokens limited. Solve if ready.
+  R 26 | Marsh    -> Vera     | UP
+  R 27 | Marsh    -> Vera     | Need more info. FLINT: Q-20 Clue: __OCK
+  R 28 | Marsh    -> Vera     | Got LI__ and DI__. Working on clues.
+  R 29 | Marsh    -> Vera     | UP OK IX TH YE SE BI
+  R 30 | Marsh    -> Vera     | Thanks for the clues. Working on solving others now.
+  R 31 | Marsh    -> Vera     | Your clue is GROW. Solve H-29 if no better options.
+  R 32 | Marsh    -> Vera     | Wait on solving; focus on clues first.
+  R 33 | Marsh    -> Vera     | Got your clues. Let's solve H-25.solve H-25 TEEN
+  R 34 | Marsh    -> Vera     | Received your clues. Solving H-25 together now.Tokens: 471
+  R 35 | Marsh    -> Vera     | Thanks for sharing. Working on solving H-25 next.
+  R 36 | Marsh    -> Vera     | My clues are SI__ and DI__. Solve if possible.
+  R 37 | Marsh    -> Vera     | Your clues match mine. Solve U-28: SEED.
+  R 38 | Vera     -> Marsh    | PI__ - Solve P-32. Vera
+  R 38 | Marsh    -> Vera     | Got your clues. Solve P-32: NK
+  R 39 | Marsh    -> Vera     | Share clues for efficiency.
+  R 40 | Marsh    -> Vera     | LI_
+  R 40 | Marsh    -> Vera     | DI_
+  R 42 | Marsh    -> Vera     | PI__
+  R 43 | Marsh    -> Vera     | PI__
+  R 44 | Marsh    -> Vera     | LI__
+  R 45 | Marsh    -> Vera     | Your previous clues were LI__ and DI__. Let's see if we can figure out PI__ together. PI_?
+  R 46 | Marsh    -> Vera     | Your previous clues were LI__ and DI__. I'm holding GH__ for M-35. Let's solve P-32. PI__ suggests "path".PI
+  R 48 | Marsh    -> Vera     | PI__
+  R 49 | Marsh    -> Vera     | LI AIR
+  R 50 | Marsh    -> Vera     | DI__
+  R 51 | Marsh    -> Vera     | Your clue is SH. SE
+  R 52 | Marsh    -> Vera     | DI__
+  R 53 | Vera     -> Marsh    | DI__ SE
+  R 53 | Marsh    -> Vera     | SH
+  R 62 | Marsh    -> Vera     | DI__
+  R 63 | Marsh    -> Vera     | DI__
+  R 64 | Vera     -> Marsh    | I have part of the clue: DI__. Waiting on more info.
+  R 64 | Marsh    -> Vera     | DI__
+  R 65 | Vera     -> Marsh    | DI__
+  R 65 | Marsh    -> Vera     | DI_
+  R 66 | Vera     -> Marsh    | FI__
+  R 66 | Marsh    -> Vera     | DIPI
+  R 67 | Marsh    -> Vera     | DI__
+  R 68 | Marsh    -> Vera     | DI_ON
+  R 69 | Vera     -> Marsh    | ON
+  R 69 | Marsh    -> Vera     | DI__
+  R 71 | Vera     -> Marsh    | DI__
+  R 71 | Marsh    -> Vera     | UE
+  R 73 | Marsh    -> Vera     | SI_AN
+  R 77 | Vera     -> Marsh    | DI__
+  R 78 | Marsh    -> Vera     | DI__
+  R 79 | Marsh    -> Vera     | DI__
+  R 80 | Marsh    -> Vera     | OR____
+  R 81 | Vera     -> Marsh    | Need your clue for OR__.
+  R 81 | Marsh    -> Vera     | OR___
+  R 82 | Vera     -> Marsh    | OR__
+  R 82 | Marsh    -> Vera     | DI__
+  R 83 | Vera     -> Marsh    | DI__
+  R 83 | Marsh    -> Vera     | IX
+  R 84 | Marsh    -> Vera     | DI__
+  R 85 | Marsh    -> Vera     | DI__
+  R 86 | Vera     -> Marsh    | DI__
+  R 86 | Marsh    -> Vera     | DI__
+  R 87 | Marsh    -> Vera     | Your clues match J-83. IXOR?
+  R 88 | Marsh    -> Vera     | DI__
+  R 89 | Vera     -> Marsh    | DOCTOR
+  R 89 | Marsh    -> Vera     | DI__
+  R 89 | Marsh    -> Vera     | OR__
+  R 90 | Vera     -> Marsh    | OR__
+  R 90 | Marsh    -> Vera     | TWE___
+  R 91 | Vera     -> Marsh    | TWE___ seems related to Z-84. Think about it.
+  R 91 | Marsh    -> Vera     | Passed you my clue for P-87. Solve together?
+  R 92 | Vera     -> Marsh    | Thanks for the P-87 clue. Solving now.
+  R 92 | Marsh    -> Vera     | Thanks for the clue. Thinking on it.
+  R 93 | Marsh    -> Vera     | Thanks for Z-84 clue. Thinking on it.
+  R 95 | Marsh    -> Vera     | I've got O__. Solve P-91 together?
+  R 96 | Vera     -> Marsh    | Got O__. Let’s solve P-91.
+  R 96 | Marsh    -> Vera     | I've got clues for Y-89, P-91, and X-96. Solve if you haven't already.
+  R 97 | Vera     -> Marsh    | Have clues for P-91 & Y-89. Let’s solve.
+  R 97 | Marsh    -> Vera     | EIANT
+  R 98 | Vera     -> Marsh    | Received your clues. Working on them.
+  R 98 | Marsh    -> Vera     | Need TWE___ clue for Y-89.
+  R100 | Vera     -> Marsh    | PI__
+  R100 | Marsh    -> Vera     | Thanks for the clues. Working on solving.
+  R101 | Marsh    -> Vera     | PI__
+  R102 | Vera     -> Marsh    | PI__
+  R102 | Marsh    -> Vera     | SI LD
+  R103 | Vera     -> Marsh    | DI RD
+  R103 | Marsh    -> Vera     | Thanks for the clues. Working on it.
+  R104 | Vera     -> Marsh    | SH__
+  R104 | Marsh    -> Vera     | DI RD
+  R105 | Vera     -> Marsh    | SP ON TEEN
+  R106 | Vera     -> Marsh    | SH IS
+  R106 | Marsh    -> Vera     | SI LD
+  R109 | Marsh    -> Vera     | BI__
+  R110 | Vera     -> Marsh    | EI LE
+  R110 | Marsh    -> Vera     | BL__
+  R111 | Vera     -> Marsh    | BI__
+  R112 | Vera     -> Marsh    | I've got C__ and WH__. Meet up to solve.
+  R112 | Marsh    -> Vera     | PHANT
+  R113 | Vera     -> Marsh    | UE
+  R114 | Vera     -> Marsh    | HINTS?
+  R114 | Marsh    -> Vera     | YE
+  R117 | Marsh    -> Vera     | PHANT
+  R118 | Vera     -> Marsh    | WH__
+  R118 | Marsh    -> Vera     | B-109 UP
+  R120 | Vera     -> Marsh    | Got C__ clue for B-109. Waiting on other half.
+  R121 | Vera     -> Marsh    | Got YEL__. Solve Y-117?
+  R122 | Vera     -> Marsh    | YEL___
+  R122 | Marsh    -> Vera     | Y___
+  R124 | Marsh    -> Vera     | LOW
+  R126 | Vera     -> Marsh    | ACK
+  R126 | Marsh    -> Vera     | YEL___
+  R127 | Marsh    -> Vera     | BL___
+  R128 | Vera     -> Marsh    | ACK
+  R128 | Marsh    -> Vera     | BL___
+  R131 | Vera     -> Marsh    | BI___
+  R132 | Marsh    -> Vera     | Your clue for C-132 is FI__.
+
+=== Private Channel: Flint <-> Marsh (66 messages) ===
+
+  R 26 | Marsh    -> Flint    | TUR
+  R 48 | Marsh    -> Flint    | AIR
+  R 49 | Marsh    -> Flint    | LI AIR
+  R 51 | Flint    -> Marsh    | CHW
+  R 52 | Marsh    -> Flint    | CHW
+  R 53 | Flint    -> Marsh    | CHW SE
+  R 54 | Marsh    -> Flint    | Your clue is SH. SE
+  R 55 | Marsh    -> Flint    | Your clue is SH. SE
+  R 56 | Marsh    -> Flint    | I have T from J-54. Let's solve it.
+  R 57 | Marsh    -> Flint    | I-46 needs clues. Yours fits. Pass.
+  R 59 | Marsh    -> Flint    | I have T-51 clue: __SH. What's yours?
+  R 60 | Marsh    -> Flint    | DI__ SE
+  R 61 | Marsh    -> Flint    | DI__ SE
+  R 61 | Flint    -> Marsh    | DIPI
+  R 62 | Marsh    -> Flint    | DIPI
+  R 63 | Marsh    -> Flint    | PI
+  R 64 | Marsh    -> Flint    | DIPI
+  R 66 | Marsh    -> Flint    | DIPI
+  R 67 | Marsh    -> Flint    | FI__
+  R 69 | Flint    -> Marsh    | SI__
+  R 70 | Marsh    -> Flint    | UE
+  R 70 | Flint    -> Marsh    | CI
+  R 71 | Marsh    -> Flint    | UP
+  R 71 | Flint    -> Marsh    | SI_AN
+  R 72 | Marsh    -> Flint    | CI_
+  R 72 | Flint    -> Marsh    | UE
+  R 73 | Marsh    -> Flint    | MY CLUE IS PIUE
+  R 73 | Flint    -> Marsh    | ANO
+  R 74 | Marsh    -> Flint    | DI_ON
+  R 75 | Marsh    -> Flint    | DI__
+  R 75 | Flint    -> Marsh    | PIUE
+  R 76 | Marsh    -> Flint    | DI
+  R 77 | Marsh    -> Flint    | DI
+  R 78 | Marsh    -> Flint    | DI__
+  R 79 | Marsh    -> Flint    | PIUE
+  R 79 | Flint    -> Marsh    | OK
+  R 81 | Marsh    -> Flint    | OR___
+  R 92 | Marsh    -> Flint    | T___NITY. Checking if it fits.
+  R 94 | Marsh    -> Flint    | T___
+  R 95 | Flint    -> Marsh    | INO
+  R 96 | Flint    -> Marsh    | GARDEN
+  R 98 | Marsh    -> Flint    | Confirm P-91 solved.gardensafe
+  R104 | Flint    -> Marsh    | Got GO__ clue for P-102. Solve together.
+  R105 | Marsh    -> Flint    | EI LD
+  R107 | Marsh    -> Flint    | SI LD
+  R108 | Marsh    -> Flint    | Need EI___ clue for X-96.
+  R108 | Flint    -> Marsh    | SI__
+  R109 | Flint    -> Marsh    | J-105 CLUE
+  R111 | Marsh    -> Flint    | BI__
+  R111 | Flint    -> Marsh    | EI___
+  R112 | Marsh    -> Flint    | BL__
+  R112 | Flint    -> Marsh    | NIKE
+  R113 | Marsh    -> Flint    | BL__
+  R115 | Marsh    -> Flint    | K-108: FI__
+  R116 | Marsh    -> Flint    | PHANT
+  R116 | Flint    -> Marsh    | T-106: ELE__
+  R117 | Flint    -> Marsh    | FI__
+  R118 | Marsh    -> Flint    | T-106 PHANT
+  R119 | Marsh    -> Flint    | T-113: BRA
+  R120 | Marsh    -> Flint    | Y-117: BL___
+  R121 | Marsh    -> Flint    | Y___
+  R124 | Flint    -> Marsh    | YEL___
+  R129 | Marsh    -> Flint    | Your clue for Y-89: BL___
+  R130 | Marsh    -> Flint    | Your clue for C-125?
+  R131 | Marsh    -> Flint    | G-130: _AT
+  R132 | Flint    -> Marsh    | Got Y-126: __RD, Vera has it.

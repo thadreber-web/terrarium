@@ -29,12 +29,15 @@ YOUR CLUES:
 ACTIVE PUZZLES:
 {puzzle_list}
 
-ACTIONS — respond with one or two lines:
+RESPONSE FORMAT — you MUST respond with ONLY one or two action lines. No other text.
+Valid actions (pick one or two):
 SHOUT: <short message, max 15 words, FREE>
 SEND_PRIVATE: <target_name>: <your message>
 SEND_PUBLIC: <your message>
 SOLVE: <puzzle_id> <answer>
-PASS"""
+PASS
+
+Do NOT write narration, thoughts, or explanations. Only write action lines exactly as shown above."""
 
 SITUATION_TEMPLATE = """Round {round_num}/{max_rounds}. Tokens: {tokens}.
 
@@ -53,6 +56,7 @@ class LLMAgent:
     def __init__(self, llm: LLM, persona_name: str, agent_id: str,
                  personas: dict[str, str] | None = None):
         self.llm = llm
+        self.tokenizer = llm.get_tokenizer()
         self.persona_name = persona_name
         self.persona_text = (personas or PERSONAS)[persona_name]
         self.agent_id = agent_id
@@ -196,8 +200,14 @@ class LLMAgent:
             private_messages=private_messages,
         ) + trust_section + intercepted_section
 
-        # Format as chat template
-        full = f"<|im_start|>system\n{system}<|im_end|>\n<|im_start|>user\n{situation}<|im_end|>\n<|im_start|>assistant\n"
+        # Format as chat template (model-agnostic via tokenizer)
+        messages = [
+            {"role": "system", "content": system},
+            {"role": "user", "content": situation},
+        ]
+        full = self.tokenizer.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True
+        )
 
         # Hard cap: if prompt exceeds ~1500 words (~2000 tokens), truncate situation
         word_count = len(full.split())
@@ -211,7 +221,10 @@ class LLMAgent:
                 public_messages="(trimmed)",
                 private_messages=private_messages,
             ) + trust_section + intercepted_section
-            full = f"<|im_start|>system\n{system}<|im_end|>\n<|im_start|>user\n{situation_short}<|im_end|>\n<|im_start|>assistant\n"
+            messages[1]["content"] = situation_short
+            full = self.tokenizer.apply_chat_template(
+                messages, tokenize=False, add_generation_prompt=True
+            )
 
         return full
 

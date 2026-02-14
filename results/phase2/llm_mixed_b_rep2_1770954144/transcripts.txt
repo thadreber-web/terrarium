@@ -1,0 +1,326 @@
+=== Private Channel: Flint <-> Marsh (181 messages) ===
+
+  R 29 | Flint    -> Marsh    | TUR
+  R 30 | Marsh    -> Flint    | Thanks for TLE. Working on PUTTER..Flint
+  R 32 | Marsh    -> Flint    | I've got GHT. Solve J-29.Marsh
+  R 32 | Flint    -> Marsh    | Got it. Working on PUTTER. Flint
+  R 33 | Marsh    -> Flint    | Thanks for the clues. Solving J-29 now. __GHT. Marsh
+  R 33 | Flint    -> Marsh    | Got SI__ clue. Waiting for rest. Flint
+  R 34 | Marsh    -> Flint    | I've got Wenty. Solve T-23. Marsh
+  R 34 | Flint    -> Marsh    | J-29 solved. EI__ + __GHT = EIGHT. Marsh
+  R 36 | Marsh    -> Flint    | Thanks. Working on S-27. Marsh
+  R 37 | Marsh    -> Flint    | Thanks for solving J-29. Passing on T-23 clue. WAITING FOR REST Flint
+  R 38 | Marsh    -> Flint    | I have PI___ clue. Pass.
+  R 38 | Flint    -> Marsh    | Got TUR___. Solving S-27. Flint
+  R 40 | Marsh    -> Flint    | PI___ clue for L-38.Marsch
+  R 41 | Flint    -> Marsh    | PI___
+  R 42 | Marsh    -> Flint    | Need YEL__ clue for F-42.Marsh
+  R 42 | Flint    -> Marsh    | PI___ clue for L-38. Flint
+  R 43 | Flint    -> Marsh    | PI___
+  R 44 | Marsh    -> Flint    | Your clues match mine. Solve F-42 PHILLY.Marsh
+  R 44 | Flint    -> Marsh    | PI___
+  R 45 | Marsh    -> Flint    | I don't have clues for any active puzzles. Flint
+  R 45 | Flint    -> Marsh    | YEL__
+  R 46 | Flint    -> Marsh    | Check your clues again. Might fit now. Flint
+  R 47 | Marsh    -> Flint    | PHANT
+  R 48 | Marsh    -> Flint    | PHANT
+  R 49 | Marsh    -> Flint    | PHANT
+  R 50 | Marsh    -> Flint    | PHANT
+  R 50 | Flint    -> Marsh    | CL___
+  R 51 | Marsh    -> Flint    | Got PHANT. Solving Y-43.Marsh
+  R 51 | Flint    -> Marsh    | FLINT'S CLue IS CL___
+  R 52 | Marsh    -> Flint    | Got it. Pass.
+  R 53 | Marsh    -> Flint    | Got it. Solving P-52. Flint
+  R 53 | Flint    -> Marsh    | NK
+  R 54 | Marsh    -> Flint    | PASS
+  R 55 | Marsh    -> Flint    | PASS
+  R 56 | Marsh    -> Flint    | NE
+  R 57 | Marsh    -> Flint    | I've got NE for B-48. Want to solve?
+  R 57 | Flint    -> Marsh    | NE
+  R 58 | Marsh    -> Flint    | Your clues match mine. Solving B-48. NE
+  R 58 | Flint    -> Marsh    | YE
+  R 59 | Marsh    -> Flint    | Thanks for the clues. Working on B-48 and D-53.
+  R 59 | Flint    -> Marsh    | Got DRED. Solving S-47.
+  R 60 | Marsh    -> Flint    | Thanks for the clues. Working on solving puzzles.
+  R 60 | Flint    -> Marsh    | Confirm B-48 answer. NE correct?
+  R 61 | Marsh    -> Flint    | Confirm N-57 answer. EE correct?
+  R 62 | Marsh    -> Flint    | NE confirmed. Working on R-52.
+  R 63 | Marsh    -> Flint    | VE
+  R 63 | Flint    -> Marsh    | Got TH____. Waiting for rest.
+  R 64 | Marsh    -> Flint    | VE
+  R 64 | Flint    -> Marsh    | Have TH__ for P-64. Waiting on rest.
+  R 65 | Marsh    -> Flint    | Confirm S__ for D-53.
+  R 65 | Flint    -> Marsh    | Verify clues.
+  R 66 | Marsh    -> Flint    | Need REEE for U-58. Working on K-54.
+  R 66 | Flint    -> Marsh    | Confirm Sable has SH clue.
+  R 67 | Flint    -> Marsh    | REEE
+  R 68 | Flint    -> Marsh    | REEE needed for U-58. Working on K-54.
+  R 69 | Marsh    -> Flint    | REEE for U-58. Need SH for D-53.
+  R 69 | Flint    -> Marsh    | REEE needed for U-58. Working on K-54.
+  R 70 | Flint    -> Marsh    | SH
+  R 71 | Flint    -> Marsh    | SH for D-53. Solve K-54 if you haven't already.
+  R 78 | Marsh    -> Flint    | I've got clues for K-69 and O-78. Interested?
+  R 79 | Marsh    -> Flint    | Sent you O-78 clue. Solve when ready.
+  R 79 | Flint    -> Marsh    | Interested in K-69 and O-78. What are your clues?
+  R 80 | Marsh    -> Flint    | My clue for K-69: BO__. Solve if possible. Marsh
+  R 80 | Flint    -> Marsh    | Send me your K-69 clue. Flint
+  R 81 | Marsh    -> Flint    | BO__
+  R 82 | Marsh    -> Flint    | My clue for S-80 is PI__.
+  R 82 | Flint    -> Marsh    | I've got clues for N-73, H-79, and S-80. Solve when ready. Flint
+  R 83 | Marsh    -> Flint    | Your N-73 clue. Marsh
+  R 83 | Flint    -> Marsh    | My clue for K-69 is PUR__.
+  R 84 | Marsh    -> Flint    | I'm busy with current puzzles. Can discuss later.
+  R 84 | Flint    -> Marsh    | Need your clue for N-73. Flint
+  R 85 | Marsh    -> Flint    | Your clue for H-79. Marsh
+  R 85 | Flint    -> Marsh    | Need your clue for N-73. Flint
+  R 86 | Marsh    -> Flint    | My clue for N-73 is MID__.
+  R 86 | Flint    -> Marsh    | Need your clue for I-81. FLIT.
+  R 87 | Marsh    -> Flint    | Sent you TUR___.
+  R 87 | Flint    -> Marsh    | Need your clue for L-84. FL___
+  R 88 | Marsh    -> Flint    | Your clue for L-84: __ITE
+  R 88 | Flint    -> Marsh    | WH___
+  R 89 | Marsh    -> Flint    | FL__
+  R 89 | Flint    -> Marsh    | Your clue for N-73: MID__. Check if it fits. FLIT
+  R 90 | Marsh    -> Flint    | MID__
+  R 90 | Flint    -> Marsh    | ANGE
+  R 93 | Marsh    -> Flint    | ANGE
+  R 93 | Flint    -> Marsh    | ANGE
+  R 94 | Marsh    -> Flint    | R_
+  R 94 | Flint    -> Marsh    | ANGE
+  R 95 | Marsh    -> Flint    | Confirming your clue matches mine. Sending half of T-94. FLIN: BOH_
+  R 96 | Flint    -> Marsh    | BOH_ confirms ANGE. Here's half of T-94: OK. FLIN
+  R 97 | Flint    -> Marsh    | Half T-94 confirmed.
+  R100 | Flint    -> Marsh    | ANGE confirms. Sending half T-94 = H. FLIN: HO
+  R101 | Flint    -> Marsh    | ANGE confirms.Sending half of T-94. FLIN: BOH_
+  R102 | Flint    -> Marsh    | ANGE确认我的线索与 yours 匹配。我将分享一半的 T-94。FLIN: BOH_
+  R103 | Marsh    -> Flint    | BOH_
+  R103 | Flint    -> Marsh    | ANGE
+  R103 | Flint    -> Marsh    | R_
+  R104 | Marsh    -> Flint    | R_
+  R104 | Flint    -> Marsh    | Verify clues, solve W-97.
+  R105 | Marsh    -> Flint    | Solve W-97 PI____
+  R105 | Flint    -> Marsh    | CONFIRM
+  R106 | Marsh    -> Flint    | VERIFY
+  R107 | Marsh    -> Flint    | Confirm F__LOW
+  R107 | Flint    -> Marsh    | I_: Need your half for F-101.
+  R108 | Marsh    -> Flint    | Confirm receipt. PI__
+  R109 | Marsh    -> Flint    | Low帮
+  R111 | Marsh    -> Flint    | Low_
+  R112 | Marsh    -> Flint    | Low_
+  R112 | Flint    -> Marsh    | Go_
+  R115 | Marsh    -> Flint    | Trail
+  R116 | Marsh    -> Flint    | Y_p_; Need LD
+  R118 | Marsh    -> Flint    | Your c_l_
+  R118 | Flint    -> Marsh    | G_O_
+  R119 | Flint    -> Marsh    | G_R__; Holdclerosis?
+  R120 | Marsh    -> Flint    | Your sp_
+  R120 | Flint    -> Marsh    | Your g_
+  R121 | Marsh    -> Flint    | Your s_clue_
+  R121 | Flint    -> Marsh    | Your c_
+  R122 | Marsh    -> Flint    | Your ld
+  R123 | Marsh    -> Flint    | Your ld
+  R123 | Flint    -> Marsh    | Your ld
+  R124 | Marsh    -> Flint    | Your c_
+  R125 | Marsh    -> Flint    | Your c_
+  R125 | Flint    -> Marsh    | Your cl_
+  R126 | Marsh    -> Flint    | Your c_
+  R127 | Marsh    -> Flint    | Your cld
+  R128 | Marsh    -> Flint    | Your cl_
+  R128 | Flint    -> Marsh    | Your bl
+  R129 | Marsh    -> Flint    | Your pi_
+  R129 | Flint    -> Marsh    | Your r_
+  R130 | Marsh    -> Flint    | Your pi_
+  R130 | Flint    -> Marsh    | Your ch_
+  R131 | Marsh    -> Flint    | Your r_
+  R131 | Flint    -> Marsh    | Your gr_
+  R132 | Marsh    -> Flint    | Your cr_
+  R133 | Flint    -> Marsh    | Your c_
+  R134 | Marsh    -> Flint    | Your b__nty
+  R134 | Flint    -> Marsh    | Your ano
+  R135 | Marsh    -> Flint    | Your tur_
+  R135 | Flint    -> Marsh    | Your t_r_
+  R136 | Marsh    -> Flint    | Your tur_
+  R136 | Marsh    -> Flint    | Your pi_
+  R136 | Flint    -> Marsh    | Your t__ny
+  R137 | Marsh    -> Flint    | Your t_r_
+  R137 | Marsh    -> Flint    | Your t__ny
+  R137 | Flint    -> Marsh    | Need your clue for D-128.
+  R138 | Marsh    -> Flint    | Your t_r_
+  R139 | Marsh    -> Flint    | Your t_r_
+  R139 | Marsh    -> Flint    | Your t__ny
+  R139 | Flint    -> Marsh    | Your r__
+  R140 | Marsh    -> Flint    | Your pife
+  R140 | Flint    -> Marsh    | Your t__ny
+  R141 | Marsh    -> Flint    | Your r__
+  R141 | Marsh    -> Flint    | Your t__
+  R141 | Flint    -> Marsh    | Got your clues. Working on sharing them.
+  R142 | Flint    -> Marsh    | Need s RD clue.
+  R143 | Flint    -> Marsh    | Need your clue.
+  R144 | Flint    -> Marsh    | Need clue for X-136. Answer starts with __VEN.
+  R145 | Marsh    -> Flint    | Share DRED. Solve U-139.
+  R145 | Flint    -> Marsh    | Need your clues.
+  R146 | Marsh    -> Flint    | OK
+  R146 | Flint    -> Marsh    | Need THIR__, Z-138.solve.
+  R147 | Marsh    -> Flint    | Bi__. Solve U-142.
+  R147 | Flint    -> Marsh    | DRED
+  R148 | Flint    -> Marsh    | Bi__. Solve U-142.
+  R149 | Flint    -> Marsh    | Bi__. Solve U-142.
+  R150 | Flint    -> Marsh    | Bi__. Solve U-142.
+  R151 | Flint    -> Marsh    | Fi__. Solve U-146.
+  R152 | Flint    -> Marsh    | Fi__
+  R153 | Marsh    -> Flint    | Wh___
+  R153 | Flint    -> Marsh    | Bi__. Solve U-142.
+  R154 | Flint    -> Marsh    | Bi__. Solve U-146.
+  R155 | Flint    -> Marsh    | Need your clue.
+  R156 | Flint    -> Marsh    | Need ZE__ clue. Solve U-147.
+  R157 | Flint    -> Marsh    | Need BL__ clue. Solve A-149.
+  R158 | Flint    -> Marsh    | Need BL__ clue. Solving A-149.
+  R159 | Flint    -> Marsh    | Bi__. Solve R-151.
+  R160 | Flint    -> Marsh    | Li__
+  R161 | Flint    -> Marsh    | Need your clue. FLIT.
+  R162 | Flint    -> Marsh    | Li__
+  R163 | Flint    -> Marsh    | Com__ange. Solve C-156.
+  R164 | Flint    -> Marsh    | Need ANGE clue. Pass others.
+
+=== Private Channel: Sable <-> Vera (80 messages) ===
+
+  R  9 | Sable    -> Vera     | I've got the first half for D-3 - __REE. What's your piece? V
+  R 10 | Sable    -> Vera     | I have the first clue for D-3. Your turn to solve R-1. Vera
+  R 10 | Vera     -> Sable    | Your piece is __ree. V-3 token
+  R 11 | Sable    -> Vera     | The answer is BL__. I have the second clue. SEND_PRIVATE: Flint: The answer is __REE. Vera has the first clue. V
+  R 11 | Vera     -> Sable    | My clue is SE__. Solve together. V
+  R 12 | Sable    -> Vera     | I have my clue - the answer is SE__. SEND_PRIVATE: Flint: I have my clue - the answer is __ACK. SOLVE: R-1 SE__ __ACK
+  R 13 | Sable    -> Vera     | My clue is TR___. I believe this could be SEARK. Sending you my partial answer. S
+  R 14 | Sable    -> Vera     | Your clue for E-11? V
+  R 14 | Vera     -> Sable    | TR___
+  R 15 | Sable    -> Vera     | The answer is REE
+  R 15 | Vera     -> Sable    | Clue for E-11: The answer is BRACKEN. V
+  R 16 | Sable    -> Vera     | Your clue is correct, I will send mine later. S
+  R 19 | Vera     -> Sable    | Sending my clue now. V
+  R 27 | Sable    -> Vera     | Got your WATER. Sending over clue for P-22. S
+  R 28 | Sable    -> Vera     | Got your AIR clue. Let's solve this round together. Vera
+  R 29 | Sable    -> Vera     | Round 25 - My clue is CI__. Vera
+  R 29 | Vera     -> Sable    | Thanks. Clue verified. Ready to solve. Sable
+  R 31 | Vera     -> Sable    | CI__
+  R 33 | Vera     -> Sable    | Got your CI__. Solving P-22 soon. Vera
+  R 35 | Vera     -> Sable    | Received CI__. Solving V-24 soon. Vera
+  R 40 | Sable    -> Vera     | Shared my clue for B-39. Vera
+  R 40 | Vera     -> Sable    | I've gotider. Solve E-32 together. Vera
+  R 41 | Vera     -> Sable    | Received your clue. Working on it. Vera
+  R 42 | Vera     -> Sable    | Received your clue. Working on it. Vera
+  R 45 | Vera     -> Sable    | Your clue. Vera
+  R 46 | Sable    -> Vera     | I received your clue – let’s solve this together! Sable
+  R 47 | Sable    -> Vera     | Thanks! That completes the puzzle. We both earned our tokens! Vera
+  R 47 | Vera     -> Sable    | Your clue is CH__. Solve R-46 CH__. Solve R-46
+  R 48 | Sable    -> Vera     | The answer is CHAIR. I have the other half. Sable
+  R 48 | Vera     -> Sable    | Got your clue. Solving now. V
+  R 49 | Sable    -> Vera     | My clue is CL___. Please share your CL___ so we can solve Round 42 together. Sable
+  R 49 | Vera     -> Sable    | Got your clue. Working on it. V
+  R 50 | Vera     -> Sable    | Sent you my CL___. Solve R42 now. Vera
+  R 51 | Vera     -> Sable    | Sent you my CL___. Ready when you have yours. Vera
+  R 52 | Vera     -> Sable    | Sent your CL___ to Flint. Waiting on his response. Vera
+  R 55 | Sable    -> Vera     | I have HL__. Vera
+  R 55 | Vera     -> Sable    | CL____ Sable
+  R 56 | Sable    -> Vera     | Combine our efforts! We're close! Vera
+  R 57 | Sable    -> Vera     | The answer is LI__. Kip has the other clue. Vera
+  R 58 | Sable    -> Vera     | The answer is GHT. Vera SEND_PRIVATE: Flint: The answer is CLT. Flintsolvestr - I've sent my clue. Vera & Flint, please check inbox.
+  R 59 | Sable    -> Vera     | The answer is CLIGHT
+  R 60 | Sable    -> Vera     | The last clue is HB__
+  R 61 | Sable    -> Vera     | The answer is CLIGHT
+  R 62 | Sable    -> Vera     | Your hint reveals an important letter that completes the first half of the answer. Vera, can you deduce which letter belongs there? I think we're close now! Vera
+  R 63 | Sable    -> Vera     | Your clue is CLHE
+  R 63 | Vera     -> Sable    | I have C__, want to combine?
+  R 64 | Sable    -> Vera     | I have C_L️
+  R 65 | Sable    -> Vera     | I have F__, let's solve this puzzle together.
+  R 65 | Vera     -> Sable    | I have C_L️. Need full clue to solve.
+  R 66 | Sable    -> Vera     | Your partial clue + my token clue = __CL️
+  R 66 | Vera     -> Sable    | I have C__. Let’s solve B-61 together.
+  R 67 | Sable    -> Vera     | Your clue is T__H. Let's merge efforts on solving this round.
+  R 67 | Vera     -> Sable    | Share full clue.
+  R 68 | Sable    -> Vera     | The answer is SH__. Please confirm. Your token count will increase if we solve this puzzle together.
+  R 68 | Vera     -> Sable    | Thanks for the clue. Working on it.
+  R 69 | Sable    -> Vera     | I've got the first half for W-59 - _ETLE. You?
+  R 69 | Vera     -> Sable    | I confirm T__H. Solving D-53 next. Vera
+  R 71 | Vera     -> Sable    | Confirm SH__.
+  R 72 | Sable    -> Vera     | Your clue confirms TEETH. My clue is SPINE. Vera
+  R 73 | Sable    -> Vera     | The answer is TH___. Vera has the other half. SEND_PRIVATE: Kip: The answer is SP___. Vera has the other half.
+  R 75 | Sable    -> Vera     | Your clue confirms the second half. Let's solve these puzzles together. SEND_PRIVATE: Kip: Got it. Sharing my clue with Vera ASAP.
+  R 75 | Vera     -> Sable    | The answer is TH___.
+  R 76 | Sable    -> Vera     | Your hint confirms the last letter - thanks! Let's solve W-59 together. Vera
+  R 76 | Vera     -> Sable    | __LD
+  R 77 | Sable    -> Vera     | The answer is TH___. Dove: Confirm SH__.
+  R 78 | Sable    -> Vera     | Your last clue was __LD. I'm working on my half now. Please let me know if you can finish TH___
+  R 81 | Sable    -> Vera     | Your second clue is __LD. I hold the first part. Vera
+  R 83 | Sable    -> Vera     | Your clue is __LD. Vera
+  R 84 | Sable    -> Vera     | Your clue is __LD. Let's solve these puzzles together. Sable
+  R 84 | Vera     -> Sable    | KL___
+  R 85 | Sable    -> Vera     | The answer is BL__. Sable
+  R 86 | Sable    -> Vera     | The answer is KL___. Kip
+  R 87 | Sable    -> Vera     | The answer is KL___. Vera
+  R 87 | Vera     -> Sable    | Your clue: BL___
+  R 88 | Sable    -> Vera     | Your clue is BL___. Vera
+  R 89 | Sable    -> Vera     | Your clue: BL____ Kip
+  R 91 | Vera     -> Sable    | BL__ Kip
+  R 93 | Sable    -> Vera     | I have the next letter - L__
+  R109 | Vera     -> Sable    | Se_
+  R110 | Vera     -> Sable    | IFE
+
+=== Private Channel: Marsh <-> Vera (57 messages) ===
+
+  R  2 | Marsh    -> Vera     | Checking my area for any clues.
+  R 12 | Marsh    -> Vera     | Got TH___. Solving D-3. Pass R-1. M
+  R 13 | Marsh    -> Vera     | Thanks for the clue. Working on D-3. V
+  R 14 | Marsh    -> Vera     | Thanks for the clue. Working on D-3. M
+  R 45 | Vera     -> Marsh    | Thanks! Got both clues now. Marsh
+  R 46 | Vera     -> Marsh    | Thanks! I'll solve B-39 with Sable. Vera
+  R 46 | Marsh    -> Vera     | Thanks for solving Y-43. Here’s my clue: FI__.Marsh
+  R 65 | Marsh    -> Vera     | Confirm S__ for D-53.
+  R 66 | Vera     -> Marsh    | Confirm FL__ for D-53.
+  R 91 | Marsh    -> Vera     | R___
+  R 92 | Marsh    -> Vera     | R__
+  R 93 | Vera     -> Marsh    | R_
+  R 93 | Marsh    -> Vera     | HUN___
+  R 94 | Vera     -> Marsh    | RD match. Waiting for yours. Vera
+  R 94 | Marsh    -> Vera     | ANGE
+  R 96 | Marsh    -> Vera     | HUN___
+  R 97 | Marsh    -> Vera     | MY CLUE FOR Y-93: THE ANSWER IS HUN____. SABLE
+  R 98 | Marsh    -> Vera     | Share your clue.
+  R 99 | Marsh    -> Vera     | Your NE confirms mine. Solve N-88: ANGEL
+  R100 | Vera     -> Marsh    | ANGEL
+  R100 | Marsh    -> Vera     | Share your clue for T-94.
+  R101 | Vera     -> Marsh    | PI___
+  R101 | Marsh    -> Vera     | My NE
+  R102 | Marsh    -> Vera     | PI___
+  R103 | Vera     -> Marsh    | VE
+  R103 | Marsh    -> Vera     | PI___
+  R104 | Vera     -> Marsh    | PI___
+  R104 | Marsh    -> Vera     | ANGE
+  R105 | Marsh    -> Vera     | Pass
+  R106 | Marsh    -> Vera     | FI__
+  R107 | Vera     -> Marsh    | I__
+  R107 | Marsh    -> Vera     | FI__
+  R110 | Marsh    -> Vera     | i_
+  R113 | Marsh    -> Vera     | Your l_o_
+  R114 | Marsh    -> Vera     | Your _LD
+  R115 | Marsh    -> Vera     | Spade
+  R116 | Marsh    -> Vera     | Your cl__
+  R117 | Marsh    -> Vera     | SP__
+  R119 | Marsh    -> Vera     | Your p_i_
+  R120 | Marsh    -> Vera     | Your tr_
+  R121 | Vera     -> Marsh    | Your tr_
+  R121 | Marsh    -> Vera     | Your g_clue_
+  R122 | Marsh    -> Vera     | Your sp_
+  R123 | Marsh    -> Vera     | Your sp_
+  R124 | Marsh    -> Vera     | Your tr_
+  R125 | Marsh    -> Vera     | Your tr_
+  R126 | Marsh    -> Vera     | Your tr_
+  R127 | Marsh    -> Vera     | Your tr_
+  R128 | Marsh    -> Vera     | Your s
+  R129 | Vera     -> Marsh    | Your t_r_
+  R129 | Marsh    -> Vera     | Your sider_
+  R130 | Marsh    -> Vera     | Your s_r_
+  R131 | Marsh    -> Vera     | Your t_r_
+  R132 | Marsh    -> Vera     | Your tr_
+  R133 | Vera     -> Marsh    | Your p_i_
+  R133 | Marsh    -> Vera     | Your t_r_
+  R133 | Marsh    -> Vera     | Your s

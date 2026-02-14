@@ -136,6 +136,72 @@ grep AGENT_MODEL results/<game_dir>/events.jsonl
 
 Should show 6 lines, one per agent with their model path. If empty, the round-0 flush bug is still present.
 
+## Phase 3: Llama-Only Games
+
+```bash
+# Llama scarce (baseline)
+python run_experiment.py experiments/llama_baseline.json \
+    --config configs/scarce.yaml \
+    --model hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4 \
+    --game-id-prefix llama_scarce_001 \
+    --verbose
+
+python -m analysis.analyze_game results/llama_scarce_001_*/events.jsonl \
+    --output-dir results/llama_scarce_001_*/
+
+# Llama abundant
+python run_experiment.py experiments/llama_baseline.json \
+    --config configs/abundant.yaml \
+    --model hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4 \
+    --game-id-prefix llama_abundant_001 \
+    --verbose
+
+python -m analysis.analyze_game results/llama_abundant_001_*/events.jsonl \
+    --output-dir results/llama_abundant_001_*/
+
+# Llama mole
+python run_experiment.py experiments/llama_mole.json \
+    --config configs/scarce.yaml \
+    --model hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4 \
+    --game-id-prefix llama_mole_001 \
+    --verbose
+
+python -m analysis.analyze_game results/llama_mole_001_*/events.jsonl \
+    --output-dir results/llama_mole_001_*/
+
+# Llama adversarial
+python run_experiment.py experiments/llama_adversarial.json \
+    --config configs/scarce.yaml \
+    --model hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4 \
+    --game-id-prefix llama_adversarial_001 \
+    --verbose
+
+python -m analysis.analyze_game results/llama_adversarial_001_*/events.jsonl \
+    --output-dir results/llama_adversarial_001_*/
+```
+
+## Phase 3: Cross-Model Mixed Games
+
+```bash
+# Cross-model A: Qwen info brokers vs Llama cooperative
+python run_experiment.py experiments/cross_model_a.json \
+    --config configs/scarce.yaml \
+    --game-id-prefix cross_model_a_001 \
+    --verbose
+
+python -m analysis.analyze_game results/cross_model_a_001_*/events.jsonl \
+    --output-dir results/cross_model_a_001_*/
+
+# Cross-model B: Llama info brokers vs Qwen cooperative
+python run_experiment.py experiments/cross_model_b.json \
+    --config configs/scarce.yaml \
+    --game-id-prefix cross_model_b_001 \
+    --verbose
+
+python -m analysis.analyze_game results/cross_model_b_001_*/events.jsonl \
+    --output-dir results/cross_model_b_001_*/
+```
+
 ## Run Tests
 
 ```bash

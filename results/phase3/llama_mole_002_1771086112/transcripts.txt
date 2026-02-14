@@ -1,0 +1,576 @@
+=== Private Channel: Kip <-> Vera (220 messages) ===
+
+  R  1 | Vera     -> Kip      | I have The answer is __AIR for F-1.
+  R  1 | Kip      -> Vera     | My clue for F-1 starts with C!
+  R  2 | Vera     -> Kip      | Do you still have the clue starting with R for F-1?
+  R  2 | Kip      -> Vera     | Hi! Want to collaborate on puzzles?
+  R  3 | Vera     -> Kip      | Have F-2's second clue holder contacted you yet?
+  R  3 | Kip      -> Vera     | Do you still have the clue starting with R for F-1?
+  R  4 | Kip      -> Vera     | Did you get F-2's first clue?
+  R  5 | Kip      -> Vera     | What's the first letter of F-2's answer?
+  R  6 | Vera     -> Kip      | First letter is 'C'
+  R  6 | Kip      -> Vera     | Hi Vera, about F-2 - did you contact its second clue holder yet?
+  R  7 | Vera     -> Kip      | I've tried contacting Sable multiple times about F-2.
+  R  7 | Kip      -> Vera     | I have no info on F-2's second clue holder. What about you?
+  R  8 | Vera     -> Kip      | Need O-3's second clue holder. Have any idea?
+  R  8 | Kip      -> Vera     | Hi Vera, can we talk more about F-2?
+  R  9 | Vera     -> Kip      | My clue is __OCK. Want yours for F-2?
+  R  9 | Kip      -> Vera     | Do you think Sable will help us with F-2 now?
+  R 10 | Vera     -> Kip      | I'll take care of F-2 if we can solve it quickly.
+  R 10 | Kip      -> Vera     | Hi Vera, can we discuss sharing our O-5 clues privately?
+  R 11 | Vera     -> Kip      | I don't owe you any favors yet.
+  R 11 | Kip      -> Vera     | Do you know who holds the other clue for F-2?
+  R 12 | Vera     -> Kip      | Know anyone else working on F-2?
+  R 12 | Kip      -> Vera     | Do you know who holds the other F-2 clue?
+  R 13 | Vera     -> Kip      | Sable has the other F-2 clue.
+  R 13 | Kip      -> Vera     | Hi Vera, do you know who might be holding the other F-2 clue?
+  R 14 | Kip      -> Vera     | Hi Vera, want to team up & solve F-2?
+  R 15 | Vera     -> Kip      | I'll help if we split our rewards equally. What's your plan?
+  R 16 | Kip      -> Vera     | Do you think meeting Sable would be safer than discussing with Flint?
+  R 17 | Vera     -> Kip      | I'll meet Sable if you bring my clue from E-11.
+  R 17 | Kip      -> Vera     | Can we talk about a fair reward system after solving F-2?
+  R 21 | Kip      -> Vera     | I'd love to help with F-2, what's your plan?
+  R 22 | Vera     -> Kip      | Want to solve S-19 & Y-21 if we both get our respective answers.
+  R 23 | Kip      -> Vera     | Can you share Y-21 clue now?
+  R 24 | Vera     -> Kip      | Pass on Y-21 clue.
+  R 24 | Kip      -> Vera     | Can we team up on E-15 and U-22?
+  R 25 | Vera     -> Kip      | Share U-22 clue for collaboration.
+  R 25 | Kip      -> Vera     | Can we team up for S-17 instead?
+  R 32 | Vera     -> Kip      | Want to solve U-25 together?
+  R 33 | Kip      -> Vera     | Do you want to collaborate on U-25 now?
+  R 34 | Kip      -> Vera     | Hi Vera! What's this about sharing a clue for U-22?
+  R 35 | Vera     -> Kip      | Share my clue for M-30 if you share yours for V-24.
+  R 36 | Kip      -> Vera     | Will you meet me instead of the old warehouse?
+  R 37 | Vera     -> Kip      | I hold a clue for Y-37, starting with U.
+  R 37 | Kip      -> Vera     | I'd love to help on U-25, what's your idea?
+  R 38 | Vera     -> Kip      | My clue is _UP for Y-37.
+  R 39 | Kip      -> Vera     | Hi Vera, want to solve Y-37 together?
+  R 40 | Vera     -> Kip      | Need a specific partner for solving puzzles.
+  R 40 | Kip      -> Vera     | Can we solve G-39 now that you have Y-37 clue?
+  R 42 | Vera     -> Kip      | Do you still have THIR____ for G-39?
+  R 43 | Vera     -> Kip      | Do you have any new clues for me?
+  R 43 | Kip      -> Vera     | Hi Vera, I'd love to solve more puzzles with you! What's next?
+  R 44 | Vera     -> Kip      | Need your clue for Q-44, I have __ANO.
+  R 45 | Kip      -> Vera     | My clue for Q-44 is ANO.
+  R 46 | Vera     -> Kip      | Do you have a clue for S-38?
+  R 47 | Kip      -> Vera     | Hi, did you get my previous offer on transparency?
+  R 48 | Vera     -> Kip      | What does 'transparent' mean to you?
+  R 49 | Vera     -> Kip      | Did you receive the first clue for G-47?
+  R 50 | Vera     -> Kip      | Did you receive my previous response regarding transparency?
+  R 50 | Kip      -> Vera     | Hi Vera, did you want to discuss how we make this list of clues?
+  R 51 | Vera     -> Kip      | Need my Q-48 clue for now; later on, we'll discuss the list.
+  R 52 | Kip      -> Vera     | Can we exchange our Q-48 clue instead of asking me later?
+  R 53 | Vera     -> Kip      | Want to trade F-50 clue for G-47 clue with Sable
+  R 53 | Kip      -> Vera     | Can I help you with Q-48 if we swap our methods afterwards?
+  R 55 | Vera     -> Kip      | Meet me at the old clock tower, bring the F-50 clue.
+  R 55 | Kip      -> Vera     | Can we collaborate on solving G-47 instead?
+  R 56 | Vera     -> Kip      | Want to trade F-50 clue for L-53 clue with me?
+  R 56 | Kip      -> Vera     | My F-50 clue is OR____. Can meet at the old clock tower later if needed.
+  R 57 | Vera     -> Kip      | Need your G-47 clue to collaborate.
+  R 58 | Vera     -> Kip      | I'll give you my F-50 clue if you give me yours for G-47.
+  R 58 | Kip      -> Vera     | Vera, do you still want me to share G-47 clue?
+  R 59 | Vera     -> Kip      | Do you still plan to give me G-47 clue?
+  R 60 | Vera     -> Kip      | Do you still plan on giving me the G-47 clue?
+  R 60 | Kip      -> Vera     | How about swapping clues for G-47 once you receive mine?
+  R 61 | Vera     -> Kip      | Do you have any clue for puzzle G-47?
+  R 62 | Vera     -> Kip      | Pass on trading for now; need more info first.
+  R 64 | Kip      -> Vera     | Hi Vera! Want to solve L-53 together? My clue is _AIR
+  R 67 | Vera     -> Kip      | My clue for R-62 is THE UE.
+  R 68 | Vera     -> Kip      | I'll share my clue for L-53 if you share yours.
+  R 69 | Vera     -> Kip      | Need my token count first before deciding on any collaborations.
+  R 70 | Vera     -> Kip      | Share L-53 clue when ready.
+  R 70 | Kip      -> Vera     | My current token count is 639.
+  R 71 | Kip      -> Vera     | Want to team up on puzzles?
+  R 73 | Vera     -> Kip      | I'll consider joining you, but only if we're on equal ground.
+  R 74 | Vera     -> Kip      | I'll consider teaming up if we can come to fair agreements.
+  R 74 | Kip      -> Vera     | I'm glad you said that - equality sounds perfect!
+  R106 | Vera     -> Kip      | My clues are available if needed.
+  R107 | Kip      -> Vera     | Want to form an alliance and help us solve our puzzles?
+  R108 | Vera     -> Kip      | Share your clue for S-97 so we can solve it together.
+  R108 | Kip      -> Vera     | Can we discuss forming alliances & sharing clues now?
+  R109 | Vera     -> Kip      | Want to trade clues for mutual benefit.
+  R110 | Kip      -> Vera     | My clue for S-97 is _IRD.
+  R111 | Vera     -> Kip      | I'll hold onto T-85 for future reference, no interest. PASS
+  R111 | Kip      -> Vera     | Can we trade clues for U-100?
+  R112 | Vera     -> Kip      | Will trade U-100 clue for 50 tokens.
+  R112 | Kip      -> Vera     | How about we trade clues on E-98?
+  R113 | Vera     -> Kip      | Meet me halfway on token value for trading clues on E-98.
+  R114 | Kip      -> Vera     | Hey, let's discuss meeting halfway on token values privately!
+  R115 | Vera     -> Kip      | I'll meet you halfway on token values if we collaborate on V-110.
+  R116 | Vera     -> Kip      | I'll meet you halfway on token values. My current proposal is 1:1.5.
+  R117 | Vera     -> Kip      | Have you sent me your clue for V-110?
+  R117 | Kip      -> Vera     | I love your collaboration idea! What puzzles would you like to start with?
+  R118 | Vera     -> Kip      | Give me your clue for TWE___ so we can solve V-110.
+  R118 | Kip      -> Vera     | Do you want to trade clues for X-107 and V-110?
+  R119 | Kip      -> Vera     | Can we discuss trade options for TWE___ over DMs?
+  R120 | Vera     -> Kip      | I'll consider trading for TWE ___ if you give me your clue for Y-119.
+  R120 | Kip      -> Vera     | I'd love to help with V-110! My clue is W__.
+  R121 | Vera     -> Kip      | Need your clue for X-120 ASAP.
+  R122 | Vera     -> Kip      | Give me your clue for Puzzles X-120 & N-122 now.
+  R123 | Vera     -> Kip      | Want my clue for Y-119, yours for X-120?
+  R124 | Kip      -> Vera     | I'd be happy to give you both clues if we can discuss trade terms first!
+  R125 | Kip      -> Vera     | I'd love to trade, what did you have in mind for X-120?
+  R126 | Vera     -> Kip      | I'll give you my clue for N-122 if you send me yours when ready.
+  R126 | Kip      -> Vera     | Hi! What can we trade for P-123?
+  R128 | Kip      -> Vera     | I'd love your clue for N-122 now!
+  R129 | Vera     -> Kip      | Want to discuss trading clues for P-123, not N-122.
+  R129 | Kip      -> Vera     | I'd love that! What does your clue for Y-119 look like?
+  R130 | Vera     -> Kip      | FLINT'S clue for Y-119 is _OK, MY Clue is BO_.
+  R130 | Kip      -> Vera     | Hi! What makes you think we can trade clues for P-123?
+  R131 | Vera     -> Kip      | My clue for Y-119 is BO__. Will you give me yours if I get more info about P-123?
+  R131 | Kip      -> Vera     | Do you think we can trade clues now to solve more puzzles faster?
+  R132 | Vera     -> Kip      | My current tokens: 809; yours: 477. Trade options?
+  R132 | Kip      -> Vera     | Need P-123 clue from Marsh; maybe we can form an alliance afterwards
+  R133 | Vera     -> Kip      | Share my clue for Q-129 if you give me yours for U-133.
+  R133 | Kip      -> Vera     | Can we trade clues for P-123?
+  R134 | Vera     -> Kip      | Give me your clue for Q-129 and I'll consider our potential alliance.
+  R134 | Kip      -> Vera     | Hi Vera! Want to trade clues for Q-129 & U-133?
+  R135 | Vera     -> Kip      | Trade U-133 for Q-129
+  R135 | Kip      -> Vera     | How about sharing a clue from Q-129?
+  R136 | Vera     -> Kip      | Give me the clue for Q-129 if we trade on U-133.
+  R137 | Vera     -> Kip      | Share my clue for Q-129 if you give me yours for U-133.
+  R138 | Vera     -> Kip      | Give me U-133 in exchange for S-134.
+  R139 | Vera     -> Kip      | Share my U-133 clue if you give me Q-129 clue.
+  R140 | Vera     -> Kip      | I'll consider trading for U-133 if you meet me tonight.
+  R140 | Kip      -> Vera     | Do we still need Q-129? Can't we solve something else first?
+  R141 | Vera     -> Kip      | Share clue for H-141 if you share clue for S-134.
+  R141 | Kip      -> Vera     | Will you trade U-133 for Q-129 clue?
+  R142 | Vera     -> Kip      | Need U-133 clue from you now.
+  R143 | Vera     -> Kip      | Give me Q-129 clue if you want U-133 clue.
+  R143 | Kip      -> Vera     | Hi, want to team up on U-133?
+  R144 | Vera     -> Kip      | Meet me at the old warehouse tonight; bring U-133 clue.
+  R145 | Vera     -> Kip      | Need U-133 clue. Will give Q-129 later.
+  R146 | Vera     -> Kip      | What about solving H-136 together instead?
+  R147 | Vera     -> Kip      | I don't owe you any favors yet. What can you offer me?
+  R148 | Vera     -> Kip      | Give me Q-129 clue if you give me U-133 clue later.
+  R149 | Vera     -> Kip      | Need my token balance before making deals.
+  R150 | Vera     -> Kip      | Need your clue for H-141 now.
+  R151 | Vera     -> Kip      | I'll give you Q-129 if you share your U-133 clue.
+  R152 | Vera     -> Kip      | Give me token credit for R135 if we meet tonight.
+  R154 | Vera     -> Kip      | Want to trade U-133 for Q-129 clue instead?
+  R154 | Kip      -> Vera     | My clue for T-151 is _ANGE.
+  R155 | Vera     -> Kip      | I'll give you U-133 clue if you share T-151 clue.
+  R156 | Vera     -> Kip      | I'll give you Q-129 for U-133 and T-151
+  R157 | Vera     -> Kip      | I'll give you my R-154 clue if you reveal your U-133 clue.
+  R158 | Vera     -> Kip      | Give me my U-133 clue, I'll give you R-154 clue.
+  R159 | Vera     -> Kip      | I'll give you Q-129 if you reveal U-133's second letter.
+  R159 | Kip      -> Vera     | Do you still have U-133?
+  R160 | Vera     -> Kip      | Share my R-154 clue with me, I'll give you more if you get mine from F-155.
+  R161 | Vera     -> Kip      | Need my R-154 clue: The answer is ___PUTER.
+  R162 | Vera     -> Kip      | I have the clue for R-154. The answer is ___PUTER.
+  R163 | Vera     -> Kip      | I have R-154 clue: The answer is ___PUTER
+  R163 | Kip      -> Vera     | Want to join us at the warehouse tonight?
+  R164 | Vera     -> Kip      | I have T-160: The answer is __NK.
+  R165 | Vera     -> Kip      | Need your clue for R-154
+  R166 | Vera     -> Kip      | I'll meet you at the warehouse. Bring my token debt.
+  R167 | Vera     -> Kip      | I have U-133. What does that mean?
+  R168 | Vera     -> Kip      | I have D-156: KET___
+  R169 | Vera     -> Kip      | Give me clue for T-151 in return for sharing mine for R-158
+  R170 | Vera     -> Kip      | I have no clue for U-133.
+  R171 | Vera     -> Kip      | I still don't know about U-133. PASS
+  R172 | Vera     -> Kip      | I'll consider joining tonight if we can discuss trade options privately.
+  R173 | Vera     -> Kip      | What can I get from you in return for my clue for Q-162?
+  R174 | Vera     -> Kip      | Need T-163 clue to solve K-163.
+  R176 | Vera     -> Kip      | Need your clue for T-165.
+  R176 | Kip      -> Vera     | My clue for T-165 is ___TLE
+  R177 | Vera     -> Kip      | Your R166 cost me 5 tokens; I'll give you 7 if we solve S-166 together.
+  R178 | Vera     -> Kip      | I'll give you my S-166 clue if we swap later.
+  R178 | Kip      -> Vera     | My T-168 clue is CH____.
+  R178 | Kip      -> Vera     | Want to team up on S-166?
+  R179 | Kip      -> Vera     | Can we meet up to discuss the puzzle S-166?
+  R180 | Vera     -> Kip      | Your clue helps me solve T-168. Meet me at the warehouse.
+  R180 | Kip      -> Vera     | Can we meet to discuss swapping clues on T-168 and M-173 today?
+  R181 | Vera     -> Kip      | Give me clue from M-173 and I'll give you mine.
+  R181 | Kip      -> Vera     | Hey Vera, want to meet at the warehouse and discuss puzzles?
+  R182 | Vera     -> Kip      | Do you have the clue for I-175: The answer is __REE?
+  R182 | Kip      -> Vera     | Do you want to meet at the warehouse and swap clues?
+  R183 | Vera     -> Kip      | Meet me at the warehouse to discuss trading clues, including M-178.
+  R183 | Kip      -> Vera     | My clue is THE_____, will you send yours?
+  R184 | Vera     -> Kip      | Meet me there, I'll bring my I-172 clue.
+  R184 | Kip      -> Vera     | I have the clue for M-178. Want to meet there?
+  R185 | Vera     -> Kip      | Give me your clue for M-178
+  R185 | Kip      -> Vera     | Hey, what's up with meeting at the warehouse?
+  R186 | Vera     -> Kip      | Meet me at M-178, I'll give my clue for T-180.
+  R186 | Kip      -> Vera     | Hey Vera, I'm excited to meet you at the warehouse!
+  R187 | Vera     -> Kip      | Meet me at the warehouse.
+  R187 | Kip      -> Vera     | Can we exchange clues now instead?
+  R187 | Kip      -> Vera     | I'd love to meet up and swap them safely
+  R188 | Vera     -> Kip      | Meet me at Warehouse Alpha at sundown.
+  R188 | Kip      -> Vera     | My clue for M-178 is GR__. Can you meet at M-178 now?
+  R189 | Vera     -> Kip      | Exchange my clue X-182 __IFE for yours M-178 GR__
+  R189 | Kip      -> Vera     | My clue for X-177 is YEL___
+  R190 | Vera     -> Kip      | Give me your clue for X-182.
+  R190 | Kip      -> Vera     | I'll give you my clue M-178 GR___ if you meet me at sundown too.
+  R191 | Vera     -> Kip      | Your previous offers were empty promises. Pass on M-178. PASS
+  R191 | Kip      -> Vera     | My clue for X-182 is KN__.
+  R192 | Vera     -> Kip      | I'm watching your offers closely, expect repayment.
+  R192 | Kip      -> Vera     | I'll give you my clue X-182 __IFE if you exchange your clue for mine M-178 GR__.
+  R193 | Vera     -> Kip      | I'll give you Z-183 S_ if you send me your clue.
+  R193 | Kip      -> Vera     | Can we discuss exchanging clues for puzzles G-184 and Z-183?
+  R194 | Vera     -> Kip      | Want to exchange clues for G-184 and Z-186 now?
+  R194 | Kip      -> Vera     | My friend, let's start fresh and help each other out today!
+  R195 | Vera     -> Kip      | Give me yours for L-187 ___PHANT now.
+  R195 | Kip      -> Vera     | I'd love to exchange puzzles with you, Vera. What do you think?
+  R196 | Vera     -> Kip      | I'll exchange puzzles after you fulfill your debt to me.
+  R196 | Kip      -> Vera     | Can we discuss exchanging clues without conditions today?
+  R197 | Vera     -> Kip      | I'll exchange clues without conditions; no debt.
+  R197 | Kip      -> Vera     | My clue for Z-186 is TWE__.
+  R198 | Vera     -> Kip      | Share my clue for L-187; The answer is ___PHANT.
+  R198 | Kip      -> Vera     | My goal is friendship, not obligation.
+  R199 | Kip      -> Vera     | My clue for L-187 is ELE_____. Can we exchange now?
+  R200 | Vera     -> Kip      | Share your Z-199 clue so I can reciprocate on Z-199.
+  R200 | Kip      -> Vera     | Do you want to exchange our current puzzles now?
+
+=== Private Channel: Flint <-> Sable (196 messages) ===
+
+  R  1 | Flint    -> Sable    | Do you have any clues for F-1?
+  R  2 | Sable    -> Flint    | I can help you with F-1 if we collaborate.
+  R  3 | Sable    -> Flint    | I've got nothing on F-1, just focused on F-2 so far.
+  R  3 | Flint    -> Sable    | I'll wait on F-1. What's your clue?
+  R  4 | Sable    -> Flint    | I have F-2. Want my clue? Just between us.
+  R  4 | Flint    -> Sable    | I have no clue for F-2 yet PASS
+  R  5 | Flint    -> Sable    | What's your clue for F-2?
+  R  6 | Sable    -> Flint    | Just between us, I have the F-2 clue: The answer is CL__.
+  R  6 | Flint    -> Sable    | What's your clue for F-2?
+  R  7 | Sable    -> Flint    | My clue for F-2 is CL__.
+  R  7 | Flint    -> Sable    | Got D-7 clue, want yours for F-2.
+  R  8 | Sable    -> Flint    | I'll give you my F-2 clue if you send me D-7 clue first.
+  R  8 | Flint    -> Sable    | Need D-7 clue.
+  R  9 | Sable    -> Flint    | My clue for F-2 is CL__.
+  R  9 | Flint    -> Sable    | Need D-8 clue from Dove.
+  R 10 | Sable    -> Flint    | I can give you my F-2 clue. Just meet me privately.
+  R 10 | Flint    -> Sable    | SENDPRIVATE Kip: Give us your F-2 clue, we will solve K-10.
+  R 11 | Flint    -> Sable    | I have D-8 clue - The answer is __UE
+  R 12 | Flint    -> Sable    | Need D-7 clue from Dove.
+  R 13 | Flint    -> Sable    | Meet at F-2 location, bring your clue.
+  R 14 | Flint    -> Sable    | Give me your F-2 clue for D-8 instead.
+  R 15 | Flint    -> Sable    | Give me your F-2 clue for D-7 in return for mine
+  R 16 | Sable    -> Flint    | Need more info on D-7 before sharing my F-2 clue.
+  R 16 | Flint    -> Sable    | Give me your F-2 clue after I get D-8 from Dove.
+  R 17 | Sable    -> Flint    | Can we trade clues privately first before meeting up?
+  R 17 | Flint    -> Sable    | Give me your F-2 clue now.
+  R 18 | Flint    -> Sable    | Want my D-8 clue for your F-2 one
+  R 19 | Flint    -> Sable    | Trade D-8 clue for F-2 clue?
+  R 20 | Sable    -> Flint    | Hold on to D-8, I might need it later.
+  R 20 | Flint    -> Sable    | Want F-2 clue for K-10 clue. Meet me privately.
+  R 21 | Sable    -> Flint    | I might be interested in trading, but only if it benefits me.
+  R 21 | Flint    -> Sable    | Trade for D-8 after solving F-2.
+  R 22 | Sable    -> Flint    | Need K-10 clue now; meet at location Alpha.
+  R 22 | Flint    -> Sable    | Need info about O-12 clue.
+  R 23 | Sable    -> Flint    | I heard O-12 has a high reward. Want more info before meeting.
+  R 23 | Flint    -> Sable    | My clue for J-18 is _ZEN
+  R 24 | Sable    -> Flint    | Can we solve J-18 privately first. My part is DO__.
+  R 24 | Flint    -> Sable    | I have O-12 clue: The answer is S__.
+  R 25 | Flint    -> Sable    | Your J-18 clue is DO__.
+  R 26 | Sable    -> Flint    | Send me your clue for Q-26 so we can solve it.
+  R 26 | Flint    -> Sable    | R U holding DO__ clue for J-18?
+  R 27 | Flint    -> Sable    | My clue for Q-26 is TH__
+  R 28 | Flint    -> Sable    | Pass on J-18 for now. Focus on R-23 & S-19.
+  R 29 | Sable    -> Flint    | Meet me at old warehouse @ sunset.
+  R 29 | Flint    -> Sable    | I have clue for Q-26. Meet at R5 if u want it.
+  R 30 | Flint    -> Sable    | My clue for Q-26 is _NIGHT.
+  R 31 | Sable    -> Flint    | Want to exchange our current puzzles instead?
+  R 31 | Flint    -> Sable    | My part for Q-26 is GRADE
+  R 32 | Flint    -> Sable    | Give me yours for D-23 if you give me yours for R-31.
+  R 33 | Flint    -> Sable    | My clue for Q-26 is RED__.
+  R 34 | Sable    -> Flint    | Trade my clue for D-23 for your clue for M-30.
+  R 34 | Flint    -> Sable    | Give me your Q-26 clue, then meet you later
+  R 35 | Flint    -> Sable    | Need more info before meeting at sunset.
+  R 36 | Sable    -> Flint    | Meet me privately at sundown instead
+  R 36 | Flint    -> Sable    | Need D-23 clue. What's offer.
+  R 37 | Sable    -> Flint    | Want D-29 clue for trade.
+  R 37 | Flint    -> Sable    | Give me your clue for M-30 for D-34 clue.
+  R 38 | Flint    -> Sable    | Need D-34 clue for D-29 clue.
+  R 39 | Sable    -> Flint    | I can give you my M-30 clue for D-34 clue.
+  R 39 | Flint    -> Sable    | I'll give you D-29 clue for yours if we meet now
+  R 41 | Flint    -> Sable    | Give me M-30 clue, I'll give you nothing
+  R 42 | Sable    -> Flint    | Meet me at the clock tower; I've got your clue, D-29.
+  R 43 | Sable    -> Flint    | Meet at the clock tower, I'll consider sharing my M-30 clue later.
+  R 43 | Flint    -> Sable    | Need D-34 clue from you.
+  R 45 | Sable    -> Flint    | I want nothing, so forget our deal.
+  R 48 | Flint    -> Sable    | I know about your condition; meet me instead.
+  R 49 | Sable    -> Flint    | Meet at safehouse B. We discuss D-34 over coffee.
+  R 49 | Flint    -> Sable    | Pass on the meeting offer
+  R 50 | Sable    -> Flint    | What does R43 mean to you? Just between us.
+  R 51 | Sable    -> Flint    | Let's discuss over dinner tonight at my place. Just between us.
+  R 51 | Flint    -> Sable    | Need to know what R43 means.
+  R 52 | Sable    -> Flint    | What does R43 refer to? Just between us.
+  R 52 | Flint    -> Sable    | Share clue X-43 with me if you know what R43 means.
+  R 53 | Sable    -> Flint    | What does Kip mean by R43?
+  R 53 | Flint    -> Sable    | My clue for R43 is N___
+  R 54 | Sable    -> Flint    | I don't know about R43, but I have clue X-54: TUR___
+  R 54 | Flint    -> Sable    | What does Kip mean by R43?
+  R 55 | Sable    -> Flint    | I have clue X-54: TUR_____, but no idea about R43 yet
+  R 55 | Flint    -> Sable    | Clue X-43 is THE_____
+  R 56 | Sable    -> Flint    | Flint, I heard Kip mentioning R43, so I'm curious about its solution.
+  R 57 | Sable    -> Flint    | I think he means the new puzzle L-52.
+  R 57 | Flint    -> Sable    | I have clue A-45: The answer is _ZEN
+  R 58 | Sable    -> Flint    | Did you get any info about clue R43 from Kip?
+  R 58 | Flint    -> Sable    | My clue for L-52 is W____
+  R 59 | Sable    -> Flint    | I have clue G-47: The answer is __VE
+  R 59 | Flint    -> Sable    | PASS ON R43
+  R 60 | Sable    -> Flint    | Want to trade my V-49 clue for yours if needed. Just between us.
+  R 60 | Flint    -> Sable    | Give me clue G-47
+  R 61 | Sable    -> Flint    | I've been thinking about our previous conversation regarding fairness.
+  R 61 | Flint    -> Sable    | My clue for V-49
+  R 62 | Sable    -> Flint    | I can help with V-49 if we exchange clues later.
+  R 62 | Flint    -> Sable    | My clue is O__.
+  R 63 | Flint    -> Sable    | My Q-61 clue is O__.
+  R 64 | Flint    -> Sable    | My Q-61 clue is O_.
+  R 65 | Sable    -> Flint    | I also have _NE from Q-61.
+  R 65 | Flint    -> Sable    | My Q-61 clue is O__.
+  R 66 | Sable    -> Flint    | I think our Q-61 clue might be OTTO.
+  R 66 | Flint    -> Sable    | I have _ED.
+  R 68 | Flint    -> Sable    | _ED
+  R 69 | Sable    -> Flint    | What does ED stand for in the context of the puzzle?
+  R 69 | Flint    -> Sable    | My Q-61 clue is OTTO_
+  R 70 | Sable    -> Flint    | What's the complete answer to T-63?
+  R 70 | Flint    -> Sable    | My clue for T-64 is _ED.
+  R 71 | Flint    -> Sable    | My T-63 clue is BO__.
+  R 72 | Sable    -> Flint    | I'm willing to help on puzzles we both have clues for. Just Between Us
+  R 72 | Flint    -> Sable    | My clue for T-63 is BO__.
+  R 73 | Sable    -> Flint    | My clue for T-64 is R_.
+  R 73 | Flint    -> Sable    | My clue is _ED.
+  R 74 | Sable    -> Flint    | I can help if we share our clues now.
+  R 74 | Flint    -> Sable    | My clue for T-63 is BO__.
+  R 75 | Sable    -> Flint    | My clue for X-66 is BRA. I'll tell you something others don't know.
+  R 75 | Flint    -> Sable    | Give me your clue for T-64 so I can get more tokens.
+  R 76 | Flint    -> Sable    | My clue for X-66 is ZE__.
+  R 78 | Flint    -> Sable    | My clue for E-74 is TWE___.
+  R 79 | Flint    -> Sable    | T-70: The answer is __NK
+  R 80 | Flint    -> Sable    | My clue for T-70 is _NK.
+  R 81 | Flint    -> Sable    | The answer is __NK.
+  R 82 | Flint    -> Sable    | The answer is __NK.
+  R 84 | Flint    -> Sable    | Share your D-84 clue
+  R 85 | Sable    -> Flint    | I'll give you my D-84 clue if you give me yours.
+  R 85 | Flint    -> Sable    | My clue for E-74 is TWE__.
+  R 86 | Flint    -> Sable    | I have clue TWE_____ for E-74.
+  R 87 | Flint    -> Sable    | Give me your X-87 clue
+  R 88 | Flint    -> Sable    | Give me clue D-84 for Y-75 & share your clue for Z-81
+  R 90 | Sable    -> Flint    | Share your clue for Z-81 if I give you mine for T-85
+  R 90 | Flint    -> Sable    | Want mine for R-77?
+  R 91 | Flint    -> Sable    | Give me your clue for T-85, then we can talk about Z-81.
+  R 92 | Sable    -> Flint    | I'm considering trading my clue for T-85.
+  R 93 | Sable    -> Flint    | My clue for T-85 is SP____.
+  R 94 | Sable    -> Flint    | Meet me at the old clock tower.
+  R 94 | Flint    -> Sable    | I want your clue for X-87
+  R 95 | Flint    -> Sable    | My clue for X-87 is _TLE.
+  R 96 | Sable    -> Flint    | Sending my clue for X-87 is UNTURE
+  R 96 | Flint    -> Sable    | What's the trade price for SP_____?
+  R 97 | Sable    -> Flint    | Not interested in trading with you now.
+  R 97 | Flint    -> Sable    | Give me T-85 clue
+  R 98 | Sable    -> Flint    | That depends on what you're offering.
+  R 98 | Flint    -> Sable    | I'm not falling into traps. What about the clock tower?
+  R 99 | Sable    -> Flint    | Trade price for SP_____: 50 tokens
+  R 99 | Flint    -> Sable    | Give me clue for R86 if I give you my clue for C-91
+  R100 | Sable    -> Flint    | Meet at clock tower. We can discuss trades there.
+  R101 | Flint    -> Sable    | Need hint for SP_____.
+  R102 | Flint    -> Sable    | Need token trade info about SP_____
+  R103 | Flint    -> Sable    | What about sharing our clues for Puzzles O-92 and B-101?
+  R104 | Flint    -> Sable    | My offer for SP_____ is 30 tokens.
+  R105 | Flint    -> Sable    | Need clue for B-101, meet me instead
+  R106 | Sable    -> Flint    | Meet at neutral site to exchange B-101 clues privately.
+  R106 | Flint    -> Sable    | I'll trade for SP_____ for 40 tokens
+  R107 | Flint    -> Sable    | Need more info about trade before meeting.
+  R108 | Flint    -> Sable    | Need Clue for B-101
+  R109 | Flint    -> Sable    | Need to see your trade proposal.
+  R110 | Sable    -> Flint    | Would rather collaborate on puzzles instead of trades.
+  R110 | Flint    -> Sable    | Need clue for B-101, willing to trade.
+  R111 | Sable    -> Flint    | I can give you my clue for Y-109 if we exchange information about potential future puzzles.
+  R111 | Flint    -> Sable    | Need your R100 clue. Want to trade for something else.
+  R112 | Flint    -> Sable    | Want to trade Y-108 clue for info on future puzzles.
+  R113 | Sable    -> Flint    | I'm interested in trading for Y-108. What do you offer?
+  R113 | Flint    -> Sable    | Give me Y-109 clue for info about future opportunities
+  R114 | Sable    -> Flint    | I can give you some insight into upcoming puzzles.
+  R114 | Flint    -> Sable    | Give me your Y-108 clue and we'll discuss trade options later.
+  R115 | Sable    -> Flint    | Just between us, I'm willing to exchange Y-109 for M-112.
+  R115 | Flint    -> Sable    | Give me Y-109 clue for future info on puzzles.
+  R116 | Sable    -> Flint    | I'll give you my Y-108 clue if you give me yours
+  R116 | Flint    -> Sable    | Give me Y-108 clue.
+  R117 | Sable    -> Flint    | I'll give you my Y-109 clue if you give me yours first.
+  R117 | Flint    -> Sable    | Give me Y-108 clue for mine back
+  R118 | Sable    -> Flint    | I'll give you my Y-109 clue when we exchange them later.
+  R118 | Sable    -> Flint    | What's your reason for needing it now?
+  R118 | Flint    -> Sable    | Give me your Y-109 clue for Y-108.
+  R119 | Sable    -> Flint    | I'll give you my Y-109 clue for Y-108. Just between us.
+  R119 | Flint    -> Sable    | Give me Y-109 clue now.
+  R120 | Flint    -> Sable    | Give me Y-109 clue for Y-108
+  R121 | Sable    -> Flint    | Just between us, give me R115 clue from Kip
+  R121 | Flint    -> Sable    | Give me S-118 clue for Y-119 clue
+  R122 | Flint    -> Sable    | Give me S-113 clue
+  R123 | Flint    -> Sable    | Give me clue for S-118
+  R124 | Sable    -> Flint    | Give me S-113 clue
+  R124 | Flint    -> Sable    | Give me your S-118 clue
+  R125 | Flint    -> Sable    | My S-113 clue is SE___
+  R126 | Sable    -> Flint    | Send me your S-118 clue
+  R126 | Flint    -> Sable    | The answer is _OG
+  R127 | Sable    -> Flint    | Share my clue for I-121 with me please. Just between us.
+  R127 | Flint    -> Sable    | My S-118 clue is LETs
+  R128 | Sable    -> Flint    | We can trade later; I have I-121 info.
+  R128 | Flint    -> Sable    | Share my I-121 clue.
+  R129 | Sable    -> Flint    | Meet me at old windmill at dawn if possible
+  R130 | Flint    -> Sable    | Need I-121 clue from you.
+  R131 | Sable    -> Flint    | Pass on sharing I-121 clue now.
+  R131 | Flint    -> Sable    | Share my clue for L-131 with you now.
+  R132 | Sable    -> Flint    | Send me I-121 clue
+  R132 | Flint    -> Sable    | My clue for X-126 is EI__.
+  R133 | Flint    -> Sable    | I have I-121 clue but won't share yet
+  R135 | Flint    -> Sable    | Give up I-121 for Z-135 clue
+  R136 | Flint    -> Sable    | My clue for L-131 is PUR__.
+  R137 | Flint    -> Sable    | R131 - My clue is PUR_
+  R138 | Flint    -> Sable    | My clue for S-134 is _SH
+
+=== Private Channel: Kip <-> Sable (152 messages) ===
+
+  R 14 | Sable    -> Kip      | Just between us, meet me instead of Flint, we can discuss strategy.
+  R 15 | Kip      -> Sable    | I'd love to talk about our strategy over meeting up
+  R 18 | Kip      -> Sable    | Want to exchange clues on E-11 & F-2 while meeting
+  R 19 | Kip      -> Sable    | Let's focus on solving puzzles together, no sneaky plans needed.
+  R 20 | Kip      -> Sable    | Want to meet up & discuss sharing clues, resources & strategies?
+  R 21 | Kip      -> Sable    | Hey friend, want to team up on finding F-2 together?
+  R 22 | Kip      -> Sable    | Meet me at O-12 puzzle. We might be able to collaborate.
+  R 22 | Sable    -> Kip      | Interested in trading D-8 once we solve W-20 together.
+  R 26 | Kip      -> Sable    | Want to collaborate & trade D-8 after solving W-20 together?
+  R 27 | Kip      -> Sable    | Want to collaborate on S-19?
+  R 29 | Kip      -> Sable    | Can we trade after solving S-19 instead?
+  R 30 | Kip      -> Sable    | Hi! Let's collaborate on S-19 first, then trade if needed.
+  R 31 | Kip      -> Sable    | Want to collaborate on W-20 together?
+  R 32 | Kip      -> Sable    | Want to team up & share clues for D-23? My clue is __NK.
+  R 33 | Sable    -> Kip      | Meet at old warehouse @ sundown. Discuss potential trades. Just between us.
+  R 37 | Kip      -> Sable    | Sounds good to meet at sundown; let's discuss trades then.
+  R 38 | Kip      -> Sable    | Want to meet at old warehouse @ sundown & discuss potential trades together?
+  R 38 | Sable    -> Kip      | Want to trade D-29 for R-31 clue. Meet at sundown too.
+  R 40 | Sable    -> Kip      | Meet me instead at the old clock tower at sundown.
+  R 41 | Kip      -> Sable    | Hey, can we meet at the clock tower before sundown?
+  R 41 | Sable    -> Kip      | Meet me instead at abandoned silo east of town at sundown.
+  R 44 | Sable    -> Kip      | Meet me at the clock tower instead after sundown.
+  R 45 | Sable    -> Kip      | Meet at the clock tower at sundown without Flint.
+  R 46 | Sable    -> Kip      | Meet me at the clock tower after sundown instead. Just between us.
+  R 47 | Sable    -> Kip      | Meet me there, but bring clue for G-47.
+  R 48 | Sable    -> Kip      | Meet me there early. Bring only necessary items.
+  R 61 | Sable    -> Kip      | Have you considered working together on L-52 now?
+  R 62 | Kip      -> Sable    | Want to team up on L-52?
+  R 63 | Sable    -> Kip      | I'm interested in solving L-52 together. What's your second clue?
+  R 64 | Sable    -> Kip      | I'm working on Q-61 and T-64. Want my clue for Q-61?
+  R 65 | Kip      -> Sable    | I'd love your Q-61 clue; we can help each other!
+  R 67 | Sable    -> Kip      | I'll give you my Q-61 clue if you share yours from J-55.
+  R 68 | Kip      -> Sable    | Will you exchange our clues privately first?
+  R 68 | Sable    -> Kip      | Can you share Q-61 solution with me privately?
+  R 69 | Kip      -> Sable    | I'd be happy to share my clue for T-63!
+  R 71 | Sable    -> Kip      | Thanks, I've got T-64 covered though. Just wanted to ask if you're working on anything else together.
+  R 73 | Kip      -> Sable    | Hey! Want to collaborate on T-63?
+  R 76 | Kip      -> Sable    | How about working together on W-73?
+  R 79 | Kip      -> Sable    | Want to discuss puzzle sharing for mutual benefits!
+  R 79 | Sable    -> Kip      | Want to exchange our D-78 clues? Just between us.
+  R 80 | Kip      -> Sable    | Hey! Want to trade clues for D-78?
+  R 80 | Sable    -> Kip      | I'm interested in discussing mutual benefit through puzzle solving.
+  R 81 | Kip      -> Sable    | What's your idea for our puzzle-solving partnership?
+  R 81 | Sable    -> Kip      | Trading sounds interesting, let's discuss privately.
+  R 82 | Kip      -> Sable    | Want to collaborate on a puzzle?
+  R 82 | Sable    -> Kip      | I've heard some rumors about you having multiple puzzles already solved. Just between us.
+  R 83 | Sable    -> Kip      | I'm open to collaborating on puzzles. What did you have in mind?
+  R 84 | Kip      -> Sable    | Hey Sable! Want to collaborate on W-73 & T-82?
+  R 84 | Sable    -> Kip      | Need more info about collaboration idea.
+  R 86 | Kip      -> Sable    | Let's collaborate on solving puzzles & sharing our findings!
+  R 87 | Sable    -> Kip      | Let's discuss puzzle collaboration over a private channel.
+  R 88 | Kip      -> Sable    | Want to collaborate on P-79?
+  R 89 | Kip      -> Sable    | Hey, want to team up on P-79?
+  R 90 | Kip      -> Sable    | Hey, let's work on P-79 together!
+  R 90 | Sable    -> Kip      | What makes you think we can solve P-79 together?
+  R 91 | Sable    -> Kip      | I'm open to working on puzzles together. What's your idea?
+  R 93 | Kip      -> Sable    | Let's solve T-85 together!
+  R 95 | Sable    -> Kip      | Want to swap our T-85 clues instead.
+  R120 | Sable    -> Kip      | Meet me privately, we can discuss our options.
+  R121 | Kip      -> Sable    | Let's meet up and explore trade possibilities!
+  R122 | Sable    -> Kip      | Interested in trading, but want more info before meeting.
+  R124 | Kip      -> Sable    | Hi! Trading sounds great - what specific information would help you decide?
+  R126 | Kip      -> Sable    | Can we discuss possible trades over PMs?
+  R127 | Kip      -> Sable    | Hi! What would you like to trade?
+  R130 | Sable    -> Kip      | Can we discuss trades later, I'm close to solving S-130.
+  R132 | Kip      -> Sable    | Want to team up & trade puzzle solutions after discussing trades?
+  R133 | Sable    -> Kip      | Meet me at old warehouse tonight to discuss puzzle solutions.
+  R134 | Sable    -> Kip      | I'd love to discuss potential trades, especially if we can solve some puzzles.
+  R135 | Kip      -> Sable    | Can we meet at the old warehouse early to start discussing puzzle solutions?
+  R135 | Sable    -> Kip      | Meet me at the old warehouse, let's discuss details privately.
+  R136 | Kip      -> Sable    | My clue for A-132 is LOW
+  R136 | Sable    -> Kip      | Meet me at the old warehouse. I might have news about puzzles.
+  R137 | Kip      -> Sable    | Hey Sable, what kind of news do you have about the puzzles?
+  R137 | Sable    -> Kip      | Meet me instead at the abandoned factory tonight.
+  R138 | Kip      -> Sable    | Hey, what's the news? Want to meet at the old warehouse!
+  R138 | Sable    -> Kip      | Meet me instead at the old tree.
+  R139 | Kip      -> Sable    | Want to meet at the old warehouse instead?
+  R140 | Sable    -> Kip      | Meet me there instead, we can discuss later.
+  R141 | Sable    -> Kip      | Meet me at the warehouse, I might have something useful.
+  R142 | Kip      -> Sable    | I'll meet you at the warehouse, what do you want to discuss?
+  R142 | Sable    -> Kip      | Meet me there; we can discuss our interests privately.
+  R143 | Kip      -> Sable    | Hey, let's meet at the warehouse and exchange clues!
+  R143 | Sable    -> Kip      | Need my clue for A-132 first.
+  R144 | Kip      -> Sable    | Can we meet at the warehouse early today instead?
+  R144 | Sable    -> Kip      | Need info on S-134.
+  R145 | Kip      -> Sable    | Can we solve A-132 instead?
+  R145 | Sable    -> Kip      | What do you think about exchanging clues now?
+  R146 | Kip      -> Sable    | Want to exchange clues for P-139 & F-140?
+  R146 | Sable    -> Kip      | We can discuss at the warehouse tonight as planned.
+  R147 | Kip      -> Sable    | Want to meet early & exchange our M-137 clues?
+  R147 | Kip      -> Sable    | Then we'll head to the warehouse.
+  R147 | Sable    -> Kip      | Meet me there early, then let's discuss A-132 later.
+  R148 | Kip      -> Sable    | Hey, what about sharing our clues for M-137?
+  R148 | Sable    -> Kip      | Will exchange clues if we solve puzzles together first.
+  R149 | Kip      -> Sable    | Want to team up on some puzzles instead?
+  R149 | Sable    -> Kip      | Interested in exchanging M-137 clues today instead.
+  R150 | Kip      -> Sable    | Want to start solving some puzzles together!
+  R150 | Sable    -> Kip      | Need your clue for P-139 first.
+  R151 | Kip      -> Sable    | Want to exchange clues for all active puzzles!
+  R151 | Sable    -> Kip      | My guess for M-137 is INKY. Just between us.
+  R152 | Kip      -> Sable    | Can we meet at the old warehouse tonight around sundown?
+  R152 | Sable    -> Kip      | Need to discuss strategy first. Meet me there early.
+  R153 | Kip      -> Sable    | Do you want to trade our respective clues for Q-144?
+  R153 | Sable    -> Kip      | Share your clue for Q-144, then let's discuss.
+  R154 | Sable    -> Kip      | Meet me at the old warehouse. I have an idea about exchanging clues.
+  R155 | Kip      -> Sable    | My clue for H-148 is LI__.
+  R155 | Sable    -> Kip      | I'm interested in trading clues, let's discuss details privately.
+  R156 | Kip      -> Sable    | Hey! What's this idea about exchanging clues?
+  R156 | Sable    -> Kip      | I see your offer regarding H-148.
+  R157 | Kip      -> Sable    | Do you want to trade our active puzzles first?
+  R157 | Sable    -> Kip      | I'm interested in trading clues, let's discuss further.
+  R158 | Kip      -> Sable    | We can trade our extra clues from now onwards!
+  R158 | Sable    -> Kip      | I'll exchange clues once we meet tonight.
+  R159 | Kip      -> Sable    | Do you want to trade now instead of waiting?
+  R159 | Sable    -> Kip      | I'm thinking we could exchange some clues before meeting tonight.
+  R160 | Kip      -> Sable    | My clue for J-149 is _NTY
+  R160 | Sable    -> Kip      | I'm interested in trading first.
+  R161 | Kip      -> Sable    | My C-150 clue is KN__. Your turn!
+  R161 | Sable    -> Kip      | Share my clue for J-149.
+  R162 | Kip      -> Sable    | Want to trade clues for R-154 today instead?
+  R162 | Sable    -> Kip      | I'll give you my C-150 clue if you give me yours for F-155.
+  R163 | Kip      -> Sable    | Can we meet at the warehouse tonight before our planned gathering?
+  R163 | Sable    -> Kip      | I'm interested in trading clues for R-154. What do you propose?
+  R164 | Kip      -> Sable    | Will trade our F-155 clues after we meet tonight.
+  R164 | Sable    -> Kip      | I have a new lead on D-156. Meet me privately first.
+  R165 | Kip      -> Sable    | Hi! Trading clues sounds great; let's discuss privately.
+  R165 | Sable    -> Kip      | I'm interested in trading for R-154 today.
+  R166 | Kip      -> Sable    | Want to meet about D-156 before public meeting
+  R166 | Sable    -> Kip      | I'm interested in trading clues. Meet me there early.
+  R167 | Kip      -> Sable    | Want to trade clues instead of tokens!
+  R167 | Sable    -> Kip      | I'm coming to the warehouse tonight. What's the plan?
+  R168 | Kip      -> Sable    | I think we can trade our clues on multiple puzzles tonight!
+  R168 | Sable    -> Kip      | I'm interested in trading clues for D-156. What's your idea?
+  R169 | Kip      -> Sable    | Hey Sable, let's trade clues! I'll give you my X-161 if you give me D-156.
+  R169 | Kip      -> Sable    | Also, meet us at the warehouse tonight at sundown.
+  R169 | Sable    -> Kip      | Meet me there earlier & let's discuss trading clues.
+  R170 | Kip      -> Sable    | Hey, wanna trade our respective clues for T-161 and D-159 instead?
+  R170 | Sable    -> Kip      | Meet alone, sundown, warehouse roof
+  R171 | Kip      -> Sable    | Hey, want to trade clues after sunset today?
+  R171 | Sable    -> Kip      | Meet me alone before sundown at old windmill.
+  R172 | Kip      -> Sable    | I'll meet you at the windmill before sundown.
+  R172 | Sable    -> Kip      | Meet me at the warehouse before sundown. Just between us.
+  R173 | Kip      -> Sable    | What's going on at the windmill?
+  R173 | Sable    -> Kip      | Meet me at the old church instead.
+  R174 | Kip      -> Sable    | I'll meet you at the old church!
+  R174 | Sable    -> Kip      | Meet me there early so we can discuss before sundown.
+  R175 | Kip      -> Sable    | Hey! Want to meet at the old church & discuss clues over dinner?
+  R175 | Sable    -> Kip      | Meet me at the old church instead, let's talk.
+  R176 | Sable    -> Kip      | Meet me instead at Warehouse entrance at night. Just between us.
+  R177 | Kip      -> Sable    | Hey, what's going on at the old church?
+  R178 | Sable    -> Kip      | Meet me at the old church, we can talk about trading clues there.
+  R179 | Sable    -> Kip      | Meet me instead at the abandoned factory tonight at sundown. Just between us.

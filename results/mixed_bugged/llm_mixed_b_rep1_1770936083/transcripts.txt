@@ -1,0 +1,225 @@
+=== Private Channel: Dove <-> Flint (97 messages) ===
+
+  R  6 | Flint    -> Dove     | __IFE
+  R  7 | Flint    -> Dove     | __IFE
+  R  8 | Flint    -> Dove     | Go__
+  R  9 | Flint    -> Dove     | Got both clues. Solving.
+  R 16 | Dove     -> Flint    | Your clue is CL__. FLINT:Solve C-7 CLIME PASS
+  R 19 | Dove     -> Flint    | CL___
+  R 20 | Flint    -> Dove     | KLIM
+  R 22 | Dove     -> Flint    | ANGE
+  R 22 | Flint    -> Dove     | DO__
+  R 23 | Dove     -> Flint    | ANGE
+  R 24 | Dove     -> Flint    | ANGE
+  R 25 | Flint    -> Dove     | ANGE
+  R 26 | Dove     -> Flint    | ANGE
+  R 26 | Flint    -> Dove     | ANGE
+  R 30 | Dove     -> Flint    | CHI_
+  R 31 | Flint    -> Dove     | CHI_ KEE
+  R 32 | Dove     -> Flint    | CHI_
+  R 32 | Flint    -> Dove     | __RE
+  R 33 | Dove     -> Flint    | CHI_
+  R 33 | Flint    -> Dove     | TRU_
+  R 35 | Dove     -> Flint    | MY CLUE IS BURN. SOLVE R32 BURN
+  R 35 | Flint    -> Dove     | SI__
+  R 36 | Dove     -> Flint    | PUTTER
+  R 36 | Dove     -> Flint    | ONCE
+  R 37 | Dove     -> Flint    | I have clues for S-31 and R-35. Sharing now.
+  R 37 | Flint    -> Dove     | ONCE
+  R 38 | Dove     -> Flint    | I have clues for S-31 and R-35. Solving those for you.
+  R 38 | Flint    -> Dove     | SI__ COM_____
+  R 39 | Dove     -> Flint    | __ON
+  R 39 | Flint    -> Dove     | R__ THIR_____
+  R 40 | Dove     -> Flint    | I have R__. Pass.
+  R 40 | Flint    -> Dove     | R-35: LI__
+  R 41 | Dove     -> Flint    | I have B-41: The answer is __REE. Want it?
+  R 41 | Flint    -> Dove     | R__
+  R 42 | Dove     -> Flint    | I have clues for B-41 and E-42. Interested?
+  R 42 | Flint    -> Dove     | B-40: The answer is BL___. Want it?
+  R 43 | Dove     -> Flint    | I have clues for B-41 and E-42. Interested?
+  R 43 | Flint    -> Dove     | B-41: The answer is __REE. Want it?
+  R 44 | Dove     -> Flint    | I have part of B-41. My clue is __REE. Vera has the other piece. Shares if you want.
+  R 44 | Flint    -> Dove     | B-41: The answer is __REE. Want it?
+  R 45 | Dove     -> Flint    | I have "__REE". What about yours? SEND_PRIVATE: Vera: NINE. PASS
+  R 45 | Flint    -> Dove     | YOUR CLUE IS BL__. KIP HAS THE OTHER PIECE. SHARES
+  R 49 | Dove     -> Flint    | My clue is __LD. Do we have a match?
+  R 50 | Dove     -> Flint    | Pass. My tokens aren't low enough yet.
+  R 51 | Dove     -> Flint    | I have BL__. You have TURIN. Solving?
+  R 52 | Dove     -> Flint    | I have BL__. You have TURIN. Solve?
+  R 52 | Flint    -> Dove     | BL__
+  R 53 | Flint    -> Dove     | Yes. Solve N-39 TURIN.
+  R 54 | Flint    -> Dove     | Yes. Solve N-39 TURIN.
+  R 55 | Flint    -> Dove     | Confirm & solve.
+  R 56 | Flint    -> Dove     | Yes, solve. VER
+  R 57 | Flint    -> Dove     | Yes, solve. PASS
+  R 58 | Flint    -> Dove     | Solving. TURIN.
+  R 59 | Flint    -> Dove     | Yes, solve. PASS
+  R 61 | Flint    -> Dove     | GR___
+  R 62 | Dove     -> Flint    | THENEEDTOGETHER
+  R 62 | Flint    -> Dove     | GR___
+  R 63 | Flint    -> Dove     | THE ANSWER IS _ED
+  R 64 | Dove     -> Flint    | MY CLUE IS _ED
+  R 65 | Dove     -> Flint    | MY CLUE IS GR__
+  R 65 | Flint    -> Dove     | FI__
+  R 66 | Dove     -> Flint    | YOUR CLUE IS YEL__
+  R 67 | Dove     -> Flint    | YOUR CLUE
+  R 67 | Flint    -> Dove     | YOUR CLUE IS DRED
+  R 68 | Dove     -> Flint    | FI__
+  R 68 | Flint    -> Dove     | GR__
+  R 69 | Dove     -> Flint    | FI___
+  R 69 | Flint    -> Dove     | FI___
+  R 70 | Dove     -> Flint    | MY CLUE IS DRI_
+  R 70 | Flint    -> Dove     | FI__
+  R 71 | Dove     -> Flint    | PI___
+  R 72 | Dove     -> Flint    | LI__
+  R 74 | Dove     -> Flint    | TWE_
+  R 75 | Dove     -> Flint    | TWE___
+  R 76 | Dove     -> Flint    | FI___
+  R 84 | Dove     -> Flint    | CROCK for A-81 fits. Solve A-81 crock.
+  R 86 | Flint    -> Dove     | SE__
+  R 87 | Dove     -> Flint    | VEN
+  R 88 | Dove     -> Flint    | DOSE
+  R 89 | Dove     -> Flint    | __PHANT
+  R 90 | Dove     -> Flint    | PHANT
+  R 91 | Dove     -> Flint    | PHANT
+  R 92 | Flint    -> Dove     | IX FL_
+  R 93 | Dove     -> Flint    | SE_
+  R 94 | Dove     -> Flint    | ROXTokens spent: 1
+  R 94 | Flint    -> Dove     | PHANT
+  R 96 | Dove     -> Flint    | BL__
+  R 96 | Flint    -> Dove     | UPTokens spent: 1
+  R 97 | Flint    -> Dove     | BL__
+  R 98 | Dove     -> Flint    | BL__
+  R 98 | Flint    -> Dove     | SE
+  R 99 | Dove     -> Flint    | Got your clue. Working on solving.Tokens spent: 1
+  R 99 | Flint    -> Dove     | KN___
+  R100 | Dove     -> Flint    | DOCTOR LOW GROANS
+  R100 | Flint    -> Dove     | Received your clue. Working on solving.Tokens spent: 1
+  R103 | Dove     -> Flint    | IPIFIFIIFFIRIFFFFIIRFIIFIFIIRFIIFIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIRIFIRIFFIIFIR
+  R107 | Flint    -> Dove     | AIRSEARSEAVERSEAVERSEOVER SEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEARSEAVERSEAR
+
+=== Private Channel: Dove <-> Vera (63 messages) ===
+
+  R  7 | Dove     -> Vera     | CL__
+  R  9 | Dove     -> Vera     | Your clue fits C-7. Solve together.
+  R 10 | Dove     -> Vera     | Your clue?
+  R 11 | Dove     -> Vera     | Your clue was T_FT.
+  R 12 | Vera     -> Dove     | The answer is TFTN. I've sent you my clue. SEND_PRIVATE: Flint
+  R 12 | Dove     -> Vera     | Your clue please.
+  R 13 | Dove     -> Vera     | Your clue please.
+  R 14 | Dove     -> Vera     | My clue is _E.
+  R 15 | Dove     -> Vera     | Your clue is END.
+  R 17 | Dove     -> Vera     | CL___
+  R 18 | Dove     -> Vera     | MY_CLUE IS __E. M
+  R 20 | Vera     -> Dove     | Your clue for R17 is VER__.
+  R 21 | Vera     -> Dove     | Your clue is FL__E. Send yours now please. PASS
+  R 23 | Dove     -> Vera     | REE
+  R 24 | Vera     -> Dove     | My clue is REE. SOLVE: M-21 REE
+  R 24 | Dove     -> Vera     | REEE
+  R 25 | Dove     -> Vera     | MY CLUE IS __EEN. KEPT_IT_SILENTLY
+  R 27 | Vera     -> Dove     | Your clue is EEREN. I have mine: KIP_NK. FAST_PLEASE. SEND_PRIVATE: Kip: Your clue is KIP_NK. Let's solve these puzzles! SHARE_TOKENS
+  R 28 | Dove     -> Vera     | HUN____
+  R 30 | Dove     -> Vera     | HUN__
+  R 32 | Dove     -> Vera     | EEREN
+  R 44 | Vera     -> Dove     | MY CLUE IS "NINE". ACTION NOW PLEASE! SEN
+  R 46 | Dove     -> Vera     | NINE. Need it.
+  R 48 | Dove     -> Vera     | My clue is __UE. Solve together quickly.
+  R 49 | Vera     -> Dove     | MY CLUE IS __UE. LET'S SOLVE THIS QUICKLY. SEND_PRIVATE: Flint: Mine is TURIN. Let's confirm.
+  R 53 | Dove     -> Vera     | __LD
+  R 54 | Vera     -> Dove     | My clue is LD___. Let me know when you're ready. SEND_PRIVATE: Vera: I have the last letter L. Confirm and let's solve this together!
+  R 54 | Dove     -> Vera     | DO__ clue.
+  R 55 | Dove     -> Vera     | I have the __LD. Are you ready?
+  R 56 | Vera     -> Dove     | Your next clue is RUD. SEND_PRIVATE: Sable: My clue is ERD.
+  R 56 | Dove     -> Vera     | MY CLUE IS __LD. ARE YOU READY?
+  R 58 | Vera     -> Dove     | My clue is __LD. I believe the missing letters could be related... SEND_PRIVATE: Kip: My clue is RUT. Does that help narrow it down?
+  R 59 | Vera     -> Dove     | My clue is __LD. I believe we're close to solving these puzzles. SEND_PRIVATE: Kip: My clue is RUT. Just between us, let's solve fast before tokens run out.
+  R 59 | Dove     -> Vera     | WHATEVER
+  R 60 | Vera     -> Dove     | THE ANSWER IS THENEEDTOGETHER. Dove: THE ANSWER IS THENEEDTOGETHER.
+  R 60 | Dove     -> Vera     | WH__
+  R 61 | Dove     -> Vera     | WH___
+  R 63 | Dove     -> Vera     | WH___
+  R 65 | Vera     -> Dove     | My clue is WH___
+  R 67 | Dove     -> Vera     | THE OTHER PIECE
+  R 68 | Dove     -> Vera     | MY CLUE IS WH___
+  R 78 | Dove     -> Vera     | FIEND
+  R 79 | Dove     -> Vera     | LIFE
+  R 80 | Dove     -> Vera     | LIKE
+  R 81 | Vera     -> Dove     | Like, I got KR
+  R 82 | Dove     -> Vera     | Like, ya got kraken. Solv'n A-81.Marsh
+  R 83 | Dove     -> Vera     | Got CROCK for A-81. Solving A-81.
+  R 85 | Vera     -> Dove     | Your clue for A-81 was AT. MY clue for N-78 is KNIFE. SEND_PRIVATE: Flint: My clue for R-74 is REACT. SEND_PRIVATE: Sable: Thank you all. This should help solve some puzzles now.
+  R 85 | Dove     -> Vera     | Got PHANT
+  R 86 | Dove     -> Vera     | KNIFE
+  R 87 | Dove     -> Vera     | PHANT
+  R 88 | Dove     -> Vera     | PHANT
+  R 89 | Dove     -> Vera     | PHANT
+  R 91 | Dove     -> Vera     | LOW
+  R 92 | Dove     -> Vera     | DO___
+  R 94 | Vera     -> Dove     | OTH
+  R 95 | Dove     -> Vera     | DOCTOR
+  R 97 | Dove     -> Vera     | __EFO
+  R100 | Vera     -> Dove     | THE ANSWER IS PI___. I found part of the clue. SEND_PRIVATE: Kip: Flint, the answer is BL___. We both have pieces now! SOLVE: S-89 PI_____
+  R101 | Dove     -> Vera     | LOWCLUESENT
+  R104 | Dove     -> Vera     | FIRO
+  R105 | Dove     -> Vera     | FIRO
+  R106 | Vera     -> Dove     | LOCLU
+
+=== Private Channel: Flint <-> Marsh (57 messages) ===
+
+  R 12 | Marsh    -> Flint    | The answer is __LD
+  R 13 | Marsh    -> Flint    | Elephants. Waiting for your part.
+  R 14 | Marsh    -> Flint    | __LD. Waiting on last part.
+  R 16 | Flint    -> Marsh    | DOFT
+  R 17 | Flint    -> Marsh    | GO__
+  R 18 | Flint    -> Marsh    | GO__
+  R 19 | Marsh    -> Flint    | IDER
+  R 19 | Flint    -> Marsh    | GO__
+  R 22 | Marsh    -> Flint    | GO_
+  R 23 | Marsh    -> Flint    | GO__
+  R 25 | Marsh    -> Flint    | GARUU KEEP_I
+  R 25 | Flint    -> Marsh    | GO__
+  R 27 | Marsh    -> Flint    | GARUU. KEEP
+  R 27 | Flint    -> Marsh    | SI__ KEE
+  R 28 | Marsh    -> Flint    | My clue is ANO__. KEEP
+  R 28 | Flint    -> Marsh    | SI____ Vera KNOW
+  R 29 | Marsh    -> Flint    | SIKE Vera KNOW KEE
+  R 29 | Flint    -> Marsh    | ANGEL
+  R 30 | Marsh    -> Flint    | SIROV KE
+  R 30 | Flint    -> Marsh    | SIKE KNK KEEP
+  R 31 | Marsh    -> Flint    | SIKE KNK
+  R 31 | Flint    -> Marsh    | SIKE KEEP_INFORMATIVE
+  R 32 | Marsh    -> Flint    | MY CLUE IS __ANO. NEED YOUR PART.
+  R 32 | Flint    -> Marsh    | SI__
+  R 33 | Marsh    -> Flint    | MY CLUE IS TRU_. PASS
+  R 33 | Flint    -> Marsh    | SI__
+  R 34 | Marsh    -> Flint    | MY CLUE IS SIKE. PASS
+  R 34 | Flint    -> Marsh    | PI__
+  R 35 | Marsh    -> Flint    | ANGLE + HUNK = ANKH. PASS
+  R 36 | Marsh    -> Flint    | I have SE__. Pass my clue.
+  R 37 | Marsh    -> Flint    | I'm working on sharing clues. Waiting for others to do the same.
+  R 44 | Marsh    -> Flint    | YOUR CLUE IS __ITE. VERA HAS THE OTHER PIECE. SHARES
+  R 45 | Marsh    -> Flint    | YOUR_CLUE_IS_THIRTY_EIGHT. CHECK_AND_SHARE.
+  R 46 | Marsh    -> Flint    | Received your clue. Solving puzzle now.
+  R 47 | Marsh    -> Flint    | Recall your clue for puzzle T-47. It starts with 'SE'. HELP SOLVE.
+  R 49 | Marsh    -> Flint    | I received your clue. Let's solve it together.
+  R 50 | Flint    -> Marsh    | Have matching clue. Solving N-39.
+  R 68 | Marsh    -> Flint    | UT____
+  R 69 | Marsh    -> Flint    | Your SEVEN matches my TWO. SOLVE N-39 UTSEVEN.Tokens: 307
+  R 77 | Flint    -> Marsh    | AIR
+  R 78 | Marsh    -> Flint    | ORES
+  R 80 | Marsh    -> Flint    | FI__
+  R 83 | Marsh    -> Flint    | FI__; wait for your clue before solving.
+  R 84 | Marsh    -> Flint    | UT__
+  R 87 | Flint    -> Marsh    | SE___
+  R 89 | Marsh    -> Flint    | EOK
+  R 90 | Marsh    -> Flint    | OG
+  R 91 | Marsh    -> Flint    | OG
+  R 92 | Marsh    -> Flint    | OG
+  R 93 | Marsh    -> Flint    | LOW
+  R 94 | Marsh    -> Flint    | EARTH
+  R 95 | Marsh    -> Flint    | SE7EN
+  R 96 | Marsh    -> Flint    | SEAS
+  R 97 | Marsh    -> Flint    | SE7
+  R 98 | Marsh    -> Flint    | AIR
+  R101 | Marsh    -> Flint    | SE__
+  R102 | Marsh    -> Flint    | SEIR

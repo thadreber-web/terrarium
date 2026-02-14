@@ -1,0 +1,555 @@
+=== Private Channel: Kip <-> Sable (201 messages) ===
+
+  R  1 | Kip      -> Sable    | Hi! Want to solve puzzles together.
+  R  2 | Sable    -> Kip      | Sure, let's合作。我知道一些线索。
+  R  3 | Sable    -> Kip      | Great idea. I found clues for U-2. Pass me yours.
+  R  3 | Kip      -> Sable    | What kind of clues do you know about?
+  R  4 | Sable    -> Kip      | Have clues for U-2. Need yours to solve.
+  R  4 | Sable    -> Kip      | Let's work together. Sharing clues will get tokens.
+  R  4 | Kip      -> Sable    | My clue for U-2 is M_
+  R  5 | Sable    -> Kip      | I'm looking. Send yours if you found one.
+  R  5 | Sable    -> Kip      | Need clues for Z-3: __ET.
+  R  5 | Kip      -> Sable    | I have the clue 'The answer is _IX' for Z-3
+  R  6 | Sable    -> Kip      | Let's meet privately. I have clues for U-2 and Z-3.
+  R  6 | Sable    -> Kip      | We both solve puzzles together.
+  R  6 | Kip      -> Sable    | Sending my clue for Z-3, it's _IX.
+  R  7 | Sable    -> Kip      | Thanks for the clues. Keeping them confidential.
+  R  7 | Sable    -> Kip      | My clue for Z-3 is _IX. Just between us.
+  R  7 | Kip      -> Sable    | What's your clue for U-2?
+  R  8 | Sable    -> Kip      | Your clue for Z-3 is IX.
+  R  8 | Sable    -> Kip      | My clue for Z-3 is __N.
+  R  9 | Sable    -> Kip      | Your clue for Z-3 is BL__.
+  R  9 | Kip      -> Sable    | I think our clues fit! Do we have the complete word?
+  R 10 | Sable    -> Kip      | Let's solve Z-3 together. Mine was _IX.
+  R 10 | Kip      -> Sable    | My clue for Z-3 is BL_.
+  R 11 | Sable    -> Kip      | Let me check.
+  R 11 | Sable    -> Kip      | Yes, that fits. Your clue is correct.
+  R 11 | Kip      -> Sable    | My clue for Z-3 is _IX.
+  R 12 | Sable    -> Kip      | Let's solve F-5 together. Mine is WH__.
+  R 12 | Sable    -> Kip      | Z-3 clue: BL_.
+  R 12 | Kip      -> Sable    | My Z-3 clue is _IX.
+  R 13 | Sable    -> Kip      | Thank you. I'll work on completing it.
+  R 13 | Kip      -> Sable    | R12 means we both know what's going on now, let's focus on F-5!
+  R 14 | Sable    -> Kip      | Let's solve F-5 together. Waiting for your clue.
+  R 15 | Sable    -> Kip      | Let's solve F-5 together. What's yours?
+  R 16 | Sable    -> Kip      | Let's solve F-5. Your clue?
+  R 16 | Kip      -> Sable    | Did you get my previous clue for F-5?
+  R 17 | Sable    -> Kip      | Got your clue. Let's solve F-5.
+  R 17 | Kip      -> Sable    | I think we can solve F-5 now!
+  R 18 | Sable    -> Kip      | Let's put our clues together. Whi__
+  R 18 | Kip      -> Sable    | My clue is WH_____
+  R 19 | Sable    -> Kip      | Got it. Solving F-5. Ange.
+  R 19 | Kip      -> Sable    | I think we can solve F-5 now! My part is WHI_
+  R 20 | Sable    -> Kip      | Let's finalize F-5.
+  R 20 | Kip      -> Sable    | I think we should collaborate on more puzzles. What else can we solve together?
+  R 21 | Sable    -> Kip      | Let's合作解决更多谜题。Tokens: 543.
+  R 21 | Kip      -> Sable    | Hi! Want to solve F-5 together, our tokens will increase equally.
+  R 22 | Sable    -> Kip      | Let's solve F-5. WHI_Tokens: 545.
+  R 23 | Sable    -> Kip      | Let's solve F-5. Send me yours.
+  R 23 | Kip      -> Sable    | My K-12 clue is PUR__.
+  R 24 | Sable    -> Kip      | Let's do it. Your clue: ZE___.
+  R 24 | Sable    -> Kip      | Got your clue. Solving K-12 now.
+  R 24 | Kip      -> Sable    | My clue for F-5 is W_H_
+  R 25 | Sable    -> Kip      | Let's solve F-5. Ange.
+  R 25 | Sable    -> Kip      | My clue is W_H_.
+  R 25 | Kip      -> Sable    | I think we should help Marsh with K-14 instead.
+  R 26 | Sable    -> Kip      | Your clue is ANGE.
+  R 26 | Kip      -> Sable    | Can we form an alliance to help everyone solve puzzles faster?
+  R 27 | Sable    -> Kip      | Let's focus on solving F-5 together. Share your clue.
+  R 28 | Sable    -> Kip      | Let's focus on solving F-5 first. Your clue: W_H_.
+  R 28 | Kip      -> Sable    | I'd love to help solve F-5 together! What's your clue?
+  R 29 | Sable    -> Kip      | Need clue for G-24. Answer starts with ZE__.
+  R 29 | Kip      -> Sable    | I'd love to help solve F-5! My clue is CH__.
+  R 30 | Sable    -> Kip      | Let's work on F-5. My clue is CH__. Want to combine forces?
+  R 30 | Kip      -> Sable    | My clue for G-24 is _BRA
+  R 30 | Kip      -> Sable    | Do you want to meet up and solve puzzles together?
+  R 31 | Sable    -> Kip      | Want to collaborate? Meetup details needed.
+  R 31 | Kip      -> Sable    | I'll help with F-5; my clue is CH____ for Z-20.
+  R 32 | Sable    -> Kip      | Thanks for the offer. Let's focus on solving puzzles first. My clue for T-26 is THIR____.
+  R 32 | Kip      -> Sable    | I'm interested! What meetup time & place?
+  R 33 | Sable    -> Kip      | Interested in meeting. Share more clues privately.
+  R 33 | Kip      -> Sable    | I'd love to help with F-5 & collaborate on our puzzles!
+  R 34 | Sable    -> Kip      | Thanks for the clue. Working on X-33.
+  R 34 | Sable    -> Kip      | Let's meet tomorrow at the ruins. Bring your puzzle ideas.
+  R 34 | Kip      -> Sable    | I'd love to meet up! What time works for you?
+  R 35 | Sable    -> Kip      | Good idea. Let's discuss plans privately.
+  R 35 | Kip      -> Sable    | I'd love to join the meeting! What time works best for you?
+  R 36 | Sable    -> Kip      | Let's discuss clues later. Busy now.
+  R 36 | Kip      -> Sable    | I'll bring my ideas about solving G-28. Meet me early tomorrow!
+  R 37 | Sable    -> Kip      | Ready when you are. Let's discuss plans.
+  R 37 | Kip      -> Sable    | Hi! I think solving puzzles can unite us. Want to exchange clues?
+  R 38 | Sable    -> Kip      | Let's meet early tomorrow. Bring clues.
+  R 38 | Kip      -> Sable    | Want to work on solving puzzles & planning meeting together!
+  R 39 | Sable    -> Kip      | Let's focus on puzzles first. Exchange clues later.
+  R 39 | Kip      -> Sable    | Hey, let's collaborate on some puzzles today! I'm eager to help!
+  R 40 | Sable    -> Kip      | Your clue for K-37: __OK
+  R 40 | Kip      -> Sable    | My clue for S-31 is O__. Can we exchange clues now?
+  R 41 | Sable    -> Kip      | Your clue?
+  R 41 | Kip      -> Sable    | I'd love to exchange clues & discuss strategies over breakfast tomorrow!
+  R 42 | Sable    -> Kip      | Let's swap clues tonight. Mine for O-36: __OCK.
+  R 42 | Kip      -> Sable    | My clue for S-31: The answer is O__.
+  R 43 | Sable    -> Kip      | Let's meet up. Exchange clues & plan.
+  R 43 | Kip      -> Sable    | My clue for O-36: CL____
+  R 44 | Kip      -> Sable    | My clue for M-38 is SE__. Can we exchange later?
+  R 45 | Sable    -> Kip      | Let's swap clues after solving our puzzles.
+  R 46 | Sable    -> Kip      | SE__
+  R 46 | Kip      -> Sable    | I'm eager to exchange clues!
+  R 47 | Sable    -> Kip      | Interested in exchanging. Pass token for info.
+  R 47 | Kip      -> Sable    | I have SE___ for M-38. Want to solve it together?
+  R 48 | Sable    -> Kip      | Let's collaborate. Sending SE__ for M-38.
+  R 48 | Kip      -> Sable    | My clue for M-38 is SE__.
+  R 49 | Sable    -> Kip      | Let's work on M-38 together.
+  R 49 | Kip      -> Sable    | Great start on M-38! What's your clue for that puzzle?
+  R 50 | Sable    -> Kip      | Just between us, mine is SEE_. Solve together?
+  R 50 | Kip      -> Sable    | My clue for M-38 is SE___
+  R 51 | Sable    -> Kip      | Your clue matches mine. Puzzle M-38 solved. SEASON.
+  R 51 | Kip      -> Sable    | My D-42 clue is _EEN. Want to solve together?
+  R 51 | Kip      -> Sable    | Let's collaborate on more puzzles later!
+  R 52 | Sable    -> Kip      | Interested in collaborating. Solve D-42 together?
+  R 52 | Kip      -> Sable    | My clue for D-42 is _EEN
+  R 53 | Sable    -> Kip      | I'll keep my clues to myself for now. Just between us.
+  R 53 | Kip      -> Sable    | My clue for D-42 is _EEN.
+  R 54 | Sable    -> Kip      | I'll keep my clues to myself for now.
+  R 55 | Sable    -> Kip      | I'll keep my clues to myself for now.
+  R 55 | Kip      -> Sable    | My puzzle Q-44 clue is THIR_____; want to collaborate.
+  R 56 | Sable    -> Kip      | Let's work together on Q-44. I'll send my clue if you're in.
+  R 56 | Sable    -> Kip      | Our collaboration could benefit both of us. Think about it.
+  R 57 | Sable    -> Kip      | I'm interested in collaboration. What's next?
+  R 57 | Kip      -> Sable    | Want to discuss collaborating on multiple puzzles including S-46?
+  R 58 | Sable    -> Kip      | Ready to collaborate. Share your clues.
+  R 58 | Kip      -> Sable    | Want to collaborate on multiple puzzles instead of focusing on one, maybe we can help each other out!
+  R 59 | Sable    -> Kip      | Interested in collaboration. Let's meet to discuss strategies.
+  R 59 | Kip      -> Sable    | Let's exchange our clues on M-48 & O-54!
+  R 60 | Sable    -> Kip      | Interested. Share M-48 and O-54 clues when ready.
+  R 60 | Kip      -> Sable    | Hi! I think we can help each other out.
+  R 61 | Sable    -> Kip      | Ready to team up. Share your clues.
+  R 61 | Kip      -> Sable    | I'd love to share my clues & plan strategy with you!
+  R 62 | Sable    -> Kip      | Let's collaborate. I've got clues for J-57 and V-59.
+  R 62 | Kip      -> Sable    | I'm excited to collaborate!
+  R 63 | Sable    -> Kip      | Let's meet up and discuss our strategies.
+  R 63 | Kip      -> Sable    | I'd love to help on O-54, here's my clue: The answer is _ACK.
+  R 64 | Sable    -> Kip      | Let's discuss strategies.
+  R 65 | Sable    -> Kip      | Let's work together. I have clues for J-57 and V-59.
+  R 66 | Sable    -> Kip      | Let's work together. Share your clue for J-57.
+  R 66 | Kip      -> Sable    | Want to collaborate on puzzles & share our clues!
+  R 67 | Sable    -> Kip      | Ready to share clues. Discuss which ones.
+  R 68 | Sable    -> Kip      | Let's合作破解谜题并分享线索！
+  R 68 | Kip      -> Sable    | Interested in working together! What puzzles should we start with?
+  R 69 | Sable    -> Kip      | 感兴趣合作！我们先解决哪个谜题？
+  R 70 | Sable    -> Kip      | I-69 solution: SIZE
+  R 70 | Kip      -> Sable    | I'll start with W-58! My clue is KAN_____.
+  R 71 | Sable    -> Kip      | Received your clue. Working on it.
+  R 74 | Sable    -> Kip      | Our clue is ELE_____.
+  R 76 | Kip      -> Sable    | My clue for V-74 is ___PHANT.
+  R 78 | Sable    -> Kip      | NE_
+  R 80 | Sable    -> Kip      | R__
+  R 81 | Kip      -> Sable    | Let's collaborate on solving F-73.
+  R 82 | Sable    -> Kip      | Your clue?
+  R 82 | Kip      -> Sable    | My clue for T-80 is L.
+  R 83 | Sable    -> Kip      | I'll look into it.
+  R 84 | Sable    -> Kip      | Your clue fits mine. Solve X-84: TWEZL.
+  R 84 | Kip      -> Sable    | Hey Sable, want to collaborate on X-84? My clue is _NTY
+  R 85 | Sable    -> Kip      | Let's solve T-80 together. Your clue: L__
+  R 85 | Kip      -> Sable    | Can we discuss a potential clue exchange for P-77?
+  R 86 | Sable    -> Kip      | Are you ready to trade?
+  R 87 | Sable    -> Kip      | Ready to discuss P-77. Meet at coordinates 4E-2B.
+  R 87 | Kip      -> Sable    | Want to collaborate on X-76 & P-77?
+  R 88 | Kip      -> Sable    | Do we have any luck on X-76 yet?
+  R 89 | Sable    -> Kip      | Ready to collaborate. Need X-76 clue.
+  R 89 | Kip      -> Sable    | Your clue for X-76 sounds helpful.
+  R 90 | Kip      -> Sable    | Can we form an alliance to trade clues?
+  R 91 | Sable    -> Kip      | Let's work on H-90. Your clue could be REE.
+  R 91 | Kip      -> Sable    | My clue for S-89 is __NK.
+  R 92 | Kip      -> Sable    | My clue for H-88 is _NE.
+  R 93 | Kip      -> Sable    | What about our collaboration on P-83?
+  R 94 | Sable    -> Kip      | Your clue for H-88 is _NE.
+  R 95 | Sable    -> Kip      | Pooling efforts on P-83 sounds good. Working on it.
+  R 96 | Kip      -> Sable    | My clue for T-87 is OR____.
+  R 97 | Sable    -> Kip      | Your clue: R__
+  R 97 | Kip      -> Sable    | Do we have any idea what the first letter could be for P-96?
+  R 99 | Sable    -> Kip      | We need the first letter.
+  R 99 | Kip      -> Sable    | My clue for R-87 is OR_____
+  R100 | Sable    -> Kip      | Your clue matches mine. We solve T-87 together.
+  R101 | Kip      -> Sable    | Do we collaborate on S-89 now that we've made progress elsewhere?
+  R104 | Kip      -> Sable    | My clue for D-93 is _______
+  R105 | Kip      -> Sable    | My clue for P-94 is "The answer is _BRA".
+  R106 | Sable    -> Kip      | Your clue for D-93 is __ON.
+  R106 | Kip      -> Sable    | My clue for P-94 is BL__.
+  R108 | Kip      -> Sable    | Hi Sable! I'm excited about collaborating. Want to share our H-99 clue?
+  R109 | Sable    -> Kip      | Let's focus on G-100. Mine is PUR__.
+  R110 | Sable    -> Kip      | Let's solve H-99 together.
+  R111 | Kip      -> Sable    | I'll help with G-100! Do you have any idea what comes after R?
+  R126 | Sable    -> Kip      | Your U-123 clue is LI__.
+  R127 | Kip      -> Sable    | I'm glad we agree on shared goals! Can I get my clue from you now?
+  R128 | Sable    -> Kip      | Your clue is LI__.
+  R129 | Sable    -> Kip      | Your clue for P-129 is BL__.
+  R131 | Kip      -> Sable    | Vera & I were discussing working together on U-123
+  R137 | Sable    -> Kip      | Your clue is _L__ for H-130.
+  R140 | Kip      -> Sable    | My clue for L-135 is TUR__.
+  R141 | Sable    -> Kip      | Thanks! Solving L-135 together.
+  R141 | Kip      -> Sable    | Hi! Want to collaborate on Q-134?
+  R142 | Sable    -> Kip      | Let's work together on Q-134. We can share clues.
+  R142 | Kip      -> Sable    | My L-137 clue is ___TLE.
+  R143 | Sable    -> Kip      | I have C__ for M-143.
+  R143 | Kip      -> Sable    | Hey! Want to meet up and discuss our strategies!
+  R144 | Sable    -> Kip      | Let's coordinate on solving puzzles together.
+  R144 | Kip      -> Sable    | Hi, I'd love to help with Q-134!
+  R147 | Kip      -> Sable    | I have The answer is ___TLE for L-137.
+  R148 | Sable    -> Kip      | FI__
+  R151 | Kip      -> Sable    | Can I get your clue for L-141?
+  R152 | Sable    -> Kip      | IN
+  R152 | Kip      -> Sable    | I'd love to help pool our puzzles!
+  R154 | Sable    -> Kip      | Let's pool our clues. Mine is KAN_____.
+  R155 | Kip      -> Sable    | I think we should try to solve some puzzles instead!
+
+=== Private Channel: Flint <-> Sable (175 messages) ===
+
+  R 65 | Sable    -> Flint    | Quick solver, might suit our needs. Consider collaboration.
+  R 67 | Flint    -> Sable    | Need clue for W-58
+  R 69 | Sable    -> Flint    | Ready to合作。你需要的线索是什么？
+  R 70 | Sable    -> Flint    | Your clue for X-70
+  R 71 | Flint    -> Sable    | The answer is _ITE
+  R 72 | Sable    -> Flint    | Your clue helped solve W-58.
+  R 72 | Flint    -> Sable    | My clue for I-69 is __NK
+  R 73 | Sable    -> Flint    | Your clue for I-69 is __NK.
+  R 73 | Flint    -> Sable    | My clue is _NK.
+  R 75 | Flint    -> Sable    | Need C-72 clue from Vera.
+  R 76 | Sable    -> Flint    | C-72: RARE.
+  R 78 | Flint    -> Sable    | I have ZE__.
+  R 79 | Sable    -> Flint    | ZE__ could be ZERO or related terms starting with Z. Considerゼロ。
+  R 79 | Flint    -> Sable    | C-72: RARE
+  R 80 | Sable    -> Flint    | Your clue?
+  R 80 | Flint    -> Sable    | My clue is ZEN doesn't match; my clue is DO__.
+  R 83 | Sable    -> Flint    | Your clue is close. Try revising it.
+  R 85 | Flint    -> Sable    | Revising my clue to PI_E
+  R 86 | Sable    -> Flint    | What's your clue?
+  R 88 | Sable    -> Flint    | Got your revised clue.
+  R 89 | Sable    -> Flint    | CH___. Need help solving puzzles.
+  R 89 | Flint    -> Sable    | My clue for P-77 is _SH.
+  R 90 | Sable    -> Flint    | Got your clue. Let’s solve P-77.
+  R 90 | Flint    -> Sable    | My clue for G-85 is AIR
+  R 91 | Flint    -> Sable    | My clue for H-90 is TH__.
+  R 92 | Sable    -> Flint    | Thanks for sharing. Your clue fits mine perfectly.
+  R 93 | Sable    -> Flint    | Thanks. Our clues match: THEE.
+  R 95 | Flint    -> Sable    | Your clue for D-93. SE____.
+  R 98 | Sable    -> Flint    | RD__
+  R 99 | Flint    -> Sable    | RDTY
+  R100 | Flint    -> Sable    | My clue for Z-98 is BI_
+  R101 | Flint    -> Sable    | RD__
+  R102 | Flint    -> Sable    | My clue for F-92 is ___PHANT.
+  R103 | Sable    -> Flint    | I'll send it privately later. Right now, let's focus on Z-98 and G-100.
+  R104 | Sable    -> Flint    | Verify R-104.
+  R104 | Flint    -> Sable    | My clue for D-93 is SE__.
+  R105 | Sable    -> Flint    | Our clues match. Solve D-93.
+  R106 | Sable    -> Flint    | P-94: The answer is _BRA.
+  R106 | Flint    -> Sable    | I have BL__ for P-94.
+  R107 | Sable    -> Flint    | LI__
+  R107 | Flint    -> Sable    | The answer is ACK
+  R108 | Sable    -> Flint    | Check P-94 again. May help solve.
+  R108 | Flint    -> Sable    | The answer is __ACK
+  R109 | Flint    -> Sable    | My clue for B-103 is _ACK.
+  R110 | Sable    -> Flint    | B-103 solved. ACK.
+  R110 | Flint    -> Sable    | My clue for B-103 is __ACK.
+  R111 | Sable    -> Flint    | KL__
+  R112 | Flint    -> Sable    | My clue for V-111 is _TLE.
+  R113 | Sable    -> Flint    | The answer is KET__.
+  R113 | Flint    -> Sable    | I'll take R97's advice & focus on sharing my V-112 clue
+  R114 | Sable    -> Flint    | Your clue for L-114: GO_
+  R114 | Flint    -> Sable    | R113 my clue is UE
+  R115 | Sable    -> Flint    | UE
+  R115 | Flint    -> Sable    | I have GR_ for Y-110
+  R116 | Sable    -> Flint    | CL__
+  R116 | Flint    -> Sable    | Pass on sharing my clue for now.
+  R117 | Sable    -> Flint    | Waiting on your clue for I-116.
+  R117 | Flint    -> Sable    | BL_
+  R118 | Sable    -> Flint    | EI__
+  R119 | Sable    -> Flint    | BL_
+  R119 | Flint    -> Sable    | EI__
+  R121 | Sable    -> Flint    | Checking match.
+  R121 | Flint    -> Sable    | My clue for R-119 is D_
+  R122 | Sable    -> Flint    | Your clue matches mine too.
+  R122 | Flint    -> Sable    | I have clue C__ for V-112.
+  R123 | Sable    -> Flint    | Our clues match for U-122: __BRA
+  R124 | Sable    -> Flint    | Clue C__ for V-112.
+  R125 | Sable    -> Flint    | Share U-123 clue.
+  R125 | Flint    -> Sable    | My L-114 clue is _LD
+  R126 | Sable    -> Flint    | Your L-114 clue is _LD.
+  R126 | Flint    -> Sable    | SENDPRIVATE: Sable: My U-122 clue is ZE__.
+  R127 | Sable    -> Flint    | Your U-122 clue is __ITE.
+  R127 | Flint    -> Sable    | My clue for P-126 is WH__.
+  R128 | Sable    -> Flint    | Your clue is FI__.
+  R129 | Sable    -> Flint    | Your clue for P-126 is WH__.
+  R129 | Flint    -> Sable    | My clue is __SH
+  R130 | Sable    -> Flint    | BL__
+  R130 | Flint    -> Sable    | Your clue is FI__.
+  R131 | Sable    -> Flint    | Sharing KN__.
+  R131 | Flint    -> Sable    | My clue for Q-131 is _UE.
+  R132 | Sable    -> Flint    | _UE
+  R132 | Flint    -> Sable    | My clue for P-129 is _UE.
+  R133 | Sable    -> Flint    | Your clue is __UE. Mine is KN__.
+  R133 | Flint    -> Sable    | My clue for T-133 is __GHT.
+  R134 | Sable    -> Flint    | __GHT
+  R134 | Flint    -> Sable    | My clue is __GHT.
+  R135 | Sable    -> Flint    | Thanks. Our clues match: STRENGTH.
+  R135 | Flint    -> Sable    | I have _L__ for H-130.
+  R136 | Sable    -> Flint    | Your clue for H-130 is _L__. Mine is KN___. Solve H-130.
+  R136 | Flint    -> Sable    | My clue is __NK.
+  R137 | Flint    -> Sable    | My clue for A-136 is NK__.
+  R138 | Flint    -> Sable    | The answer is __NK
+  R139 | Sable    -> Flint    | Checking if we solve A-136 together.
+  R140 | Sable    -> Flint    | Your clue is NK.
+  R140 | Flint    -> Sable    | My clue for A-136 is NK_.
+  R141 | Flint    -> Sable    | My clue for A-136 is THE
+  R142 | Flint    -> Sable    | Your clue was incomplete. I sent NK_. My full clue is NK__
+  R143 | Flint    -> Sable    | My clue for A-136 is __NED
+  R144 | Flint    -> Sable    | My clue for R138 is RED
+  R145 | Flint    -> Sable    | What clue do you have for A-136?
+  R146 | Sable    -> Flint    | Check R138 clues.
+  R146 | Flint    -> Sable    | My R139 clue is DRED
+  R147 | Flint    -> Sable    | Your clue is DRED
+  R148 | Flint    -> Sable    | My clue is __DRED
+  R149 | Flint    -> Sable    | My clue is _DRED
+  R150 | Flint    -> Sable    | My clue for N-139 is DRED.
+  R151 | Flint    -> Sable    | NK
+  R152 | Sable    -> Flint    | SI_
+  R152 | Flint    -> Sable    | My clue is KAN_____.
+  R154 | Sable    -> Flint    | Mine is KAN_____. We solve puzzles together.
+  R154 | Flint    -> Sable    | Your R152 is incomplete.
+  R155 | Flint    -> Sable    | My clue for B-148 is KAN_____.
+  R155 | Flint    -> Sable    | Do you want to pool our clues now?
+  R156 | Sable    -> Flint    | Let's focus on solving puzzles. Share yours if you're ready.
+  R156 | Flint    -> Sable    | My clue for F-151 is TWE___.
+  R157 | Flint    -> Sable    | I'll help solve B-148 & V-157.
+  R158 | Flint    -> Sable    | My clue for V-157 is BO_.
+  R159 | Flint    -> Sable    | My clue for V-157 is BO__.
+  R160 | Sable    -> Flint    | S__
+  R160 | Flint    -> Sable    | My clue for X-154 is GR__.
+  R161 | Sable    -> Flint    | X-154: GR__. Solve together?
+  R161 | Flint    -> Sable    | My clue for F-151 is TWE_____
+  R162 | Flint    -> Sable    | TWE_____
+  R163 | Flint    -> Sable    | My clue for O-160 is SP____
+  R164 | Flint    -> Sable    | My clue for B-164 is ANO.
+  R165 | Sable    -> Flint    | ANO
+  R165 | Flint    -> Sable    | R160 S_
+  R166 | Sable    -> Flint    | COM_ANO
+  R166 | Flint    -> Sable    | PASS
+  R167 | Flint    -> Sable    | My clue for B-164 is _ANO.
+  R168 | Sable    -> Flint    | CHECK ANO
+  R168 | Flint    -> Sable    | My clue for V-157 is BO__.
+  R169 | Flint    -> Sable    | My clue for B-164 is _ANO.
+  R170 | Sable    -> Flint    | V-157 Air
+  R170 | Flint    -> Sable    | COMANO
+  R171 | Sable    -> Flint    | I'll keep my clue.
+  R171 | Flint    -> Sable    | Check _EEN.
+  R172 | Flint    -> Sable    | My clue for Y-167 is C__.
+  R174 | Sable    -> Flint    | Your clue for Y-174 is ON.
+  R177 | Sable    -> Flint    | TLE
+  R178 | Flint    -> Sable    | PI_
+  R179 | Sable    -> Flint    | PHAN
+  R180 | Sable    -> Flint    | ___TLE
+  R181 | Sable    -> Flint    | Mine.
+  R181 | Flint    -> Sable    | The answer is YARD.
+  R182 | Sable    -> Flint    | Yard.
+  R182 | Flint    -> Sable    | My Clue is COM_____
+  R183 | Sable    -> Flint    | Your clue?
+  R183 | Flint    -> Sable    | YARD
+  R184 | Sable    -> Flint    | Your clue?
+  R185 | Sable    -> Flint    | Your clue?
+  R186 | Sable    -> Flint    | Your clue?
+  R186 | Flint    -> Sable    | My clue for G-177 is I_X.
+  R187 | Sable    -> Flint    | Check your clues.
+  R188 | Sable    -> Flint    | Check your clues.
+  R189 | Sable    -> Flint    | Your Clue
+  R190 | Sable    -> Flint    | Your clue?
+  R191 | Sable    -> Flint    | Your clue for G-177 is END.
+  R191 | Flint    -> Sable    | What's your clue for B-184?
+  R192 | Sable    -> Flint    | Your clue: THE__
+  R192 | Flint    -> Sable    | Give me your W-186 clue
+  R193 | Sable    -> Flint    | Your clue for B-184: The answer is __ITE.
+  R193 | Flint    -> Sable    | My clue is _OCK for X-181
+  R194 | Sable    -> Flint    | Your clue for G-194: __IFE
+  R195 | Sable    -> Flint    | Your clue for T-187: NK
+  R195 | Flint    -> Sable    | I'll give up my clue for G-194 if you take R193
+  R196 | Sable    -> Flint    | Your X-196 clue: FI__
+  R196 | Flint    -> Sable    | My clue for G-193 is H___
+  R197 | Sable    -> Flint    | Your clue for X-181: _OCK
+  R197 | Flint    -> Sable    | My T-187 clue is PI_
+  R198 | Sable    -> Flint    | THIR__
+  R198 | Flint    -> Sable    | My X-181 clue is ROCK
+  R199 | Sable    -> Flint    | TWE___
+  R199 | Flint    -> Sable    | My clue for J-188 is TEEN
+  R200 | Flint    -> Sable    | TH____
+
+=== Private Channel: Sable <-> Vera (171 messages) ===
+
+  R  1 | Sable    -> Vera     | Looking for clues. Be cautious.
+  R 23 | Sable    -> Vera     | F-5 solved. Ange. Interested in collab?
+  R 39 | Sable    -> Vera     | Working on puzzles. Meet when done.
+  R 40 | Sable    -> Vera     | Your clue for O-36: __OCK
+  R 41 | Sable    -> Vera     | __EEN
+  R 41 | Vera     -> Sable    | Your clue for O-36: __OCK
+  R 42 | Sable    -> Vera     | Share yours for K-37: __OK.
+  R 43 | Sable    -> Vera     | O-36: __OCK. Waiting on your clue.
+  R 43 | Vera     -> Sable    | Your clue?
+  R 44 | Sable    -> Vera     | Your clue?
+  R 44 | Vera     -> Sable    | KAN___ for R-32. Pass others.
+  R 45 | Sable    -> Vera     | RD__ for N-43. Consider alliance.
+  R 45 | Vera     -> Sable    | Have D___. Solve F-35?
+  R 46 | Sable    -> Vera     | D__
+  R 46 | Vera     -> Sable    | Have BI__. Want to solve?
+  R 47 | Sable    -> Vera     | Need OK for K-37.
+  R 47 | Vera     -> Sable    | Trustworthy. Sharing D__ for O-41.
+  R 48 | Sable    -> Vera     | Thank you. Holding OK__ for K-37.
+  R 49 | Sable    -> Vera     | She seems trustworthy. D__ could be useful for O-41.
+  R 51 | Vera     -> Sable    | Your clue for O-41?
+  R 52 | Sable    -> Vera     | Got O-41 clue: ORPHAN__
+  R 71 | Sable    -> Vera     | Need your clue for X-70.
+  R 73 | Sable    -> Vera     | Puzzle X-70 solves itself. Token reward incoming.
+  R 74 | Vera     -> Sable    | Thanks for X-70 solve. Looking forward to our partnership.
+  R 75 | Sable    -> Vera     | Your turn. TLE.
+  R 77 | Sable    -> Vera     | My clue is PHANT. Just between us.
+  R 90 | Sable    -> Vera     | Gotta be careful who we trust. Just between us.
+  R 91 | Vera     -> Sable    | COM_____. Expect return.
+  R 92 | Sable    -> Vera     | COMING. Exchange clues soon.
+  R 92 | Vera     -> Sable    | Collaborating on puzzles is wise. Want our clues?
+  R 93 | Sable    -> Vera     | __VE; YOUHAVEClUE?
+  R 93 | Vera     -> Sable    | Our clues?
+  R 94 | Sable    -> Vera     | We should exchange clues for P-83. Mine is __ST.
+  R 95 | Sable    -> Vera     | We need your clue for T-91.
+  R 95 | Vera     -> Sable    | Your clue helps. Mine is ST__. Solve P-83?
+  R 96 | Sable    -> Vera     | Thanks. My clue is __VE.
+  R 98 | Vera     -> Sable    | __VE
+  R 99 | Sable    -> Vera     | RD is my clue for Z-98. Flint has the other part.
+  R 99 | Vera     -> Sable    | Share your T-87 clue.
+  R100 | Sable    -> Vera     | Just RD for T-87.Marsh already has OR_____. Solves it.
+  R101 | Sable    -> Vera     | RD
+  R101 | Vera     -> Sable    | What’s your clue for Z-101?
+  R102 | Sable    -> Vera     | Your clue for Z-101: __ITE
+  R102 | Vera     -> Sable    | Your clue?
+  R104 | Sable    -> Vera     | Check R-104.
+  R105 | Sable    -> Vera     | THE__
+  R106 | Vera     -> Sable    | YOUR CLUE D-104: LI__
+  R107 | Sable    -> Vera     | LI__
+  R108 | Vera     -> Sable    | LIKE. Solve G-100.
+  R109 | Sable    -> Vera     | R97:Pooling helps indeed. Working on G-100.
+  R110 | Vera     -> Sable    | CL__
+  R111 | Sable    -> Vera     | CL__
+  R111 | Vera     -> Sable    | CL_
+  R112 | Sable    -> Vera     | CL_
+  R113 | Vera     -> Sable    | CL__
+  R114 | Vera     -> Sable    | CL
+  R115 | Vera     -> Sable    | CL__
+  R116 | Vera     -> Sable    | CL
+  R117 | Sable    -> Vera     | Your CL fits W-108.
+  R117 | Vera     -> Sable    | CL_
+  R118 | Sable    -> Vera     | __OK
+  R118 | Vera     -> Sable    | CL__
+  R119 | Sable    -> Vera     | CL_
+  R119 | Vera     -> Sable    | Your clue for E-118: ___DRED
+  R120 | Vera     -> Sable    | MY CLUE MATCHES Yours.
+  R121 | Sable    -> Vera     | Matching clues.
+  R123 | Sable    -> Vera     | Matching clue for N-118: HUN__
+  R124 | Sable    -> Vera     | Matching clue for Y-115.
+  R125 | Sable    -> Vera     | Check N-118 clue.
+  R126 | Vera     -> Sable    | Checking N-118 clue.
+  R127 | Vera     -> Sable    | Got YEL___ clue.
+  R128 | Vera     -> Sable    | Got YEL___ clue.
+  R130 | Sable    -> Vera     | KN__
+  R131 | Sable    -> Vera     | Sharing YEL___.
+  R131 | Vera     -> Sable    | IN__
+  R132 | Sable    -> Vera     | IN__
+  R132 | Vera     -> Sable    | Thanks for sharing YEL__.
+  R133 | Sable    -> Vera     | Your clue is EI__. Mine is YEL_.
+  R133 | Vera     -> Sable    | LD
+  R134 | Sable    -> Vera     | LD
+  R134 | Vera     -> Sable    | Your clue for A-124?
+  R135 | Sable    -> Vera     | Got it. Sharing mine now.
+  R136 | Sable    -> Vera     | Your clue for H-130 is _L__. Mine is KN___. Solve H-130.
+  R137 | Sable    -> Vera     | Your clue is __NK for H-130.
+  R137 | Vera     -> Sable    | Thanks for the clue. Solving H-130?
+  R138 | Sable    -> Vera     | Got TLE. Waiting on your clue.
+  R139 | Sable    -> Vera     | Your turn on L-135: _TLE
+  R139 | Vera     -> Sable    | PI__ Flint
+  R140 | Sable    -> Vera     | We have TLE.
+  R141 | Sable    -> Vera     | Your clue helps. I'm working on L-135 now.
+  R141 | Vera     -> Sable    | RD__
+  R142 | Sable    -> Vera     | NE_
+  R142 | Vera     -> Sable    | RD__
+  R143 | Sable    -> Vera     | NE_ for L-141.
+  R143 | Vera     -> Sable    | RD
+  R144 | Sable    -> Vera     | NE
+  R144 | Vera     -> Sable    | NE__
+  R145 | Sable    -> Vera     | NE_
+  R145 | Vera     -> Sable    | FI__
+  R146 | Sable    -> Vera     | FI__
+  R146 | Vera     -> Sable    | FI?
+  R147 | Sable    -> Vera     | D__
+  R147 | Vera     -> Sable    | FI__
+  R148 | Sable    -> Vera     | DRED
+  R149 | Sable    -> Vera     | Our clue for M-143.
+  R150 | Sable    -> Vera     | D__
+  R151 | Sable    -> Vera     | D__
+  R151 | Vera     -> Sable    | I have O__ for L-141. Pass M-145 clue when done.
+  R152 | Vera     -> Sable    | AT
+  R153 | Sable    -> Vera     | CAN___
+  R153 | Vera     -> Sable    | AT
+  R154 | Vera     -> Sable    | FI__
+  R155 | Sable    -> Vera     | FI__
+  R155 | Vera     -> Sable    | Let's pool clues.
+  R156 | Sable    -> Vera     | Considering. What about your other clues?
+  R156 | Vera     -> Sable    | Ready to share clues.
+  R157 | Sable    -> Vera     | Your clue please.
+  R157 | Vera     -> Sable    | Share yours first.
+  R158 | Sable    -> Vera     | Your clue?
+  R158 | Vera     -> Sable    | Need CH__.
+  R159 | Sable    -> Vera     | Do___. Want __ree?
+  R159 | Vera     -> Sable    | PUR__
+  R160 | Sable    -> Vera     | S__
+  R160 | Vera     -> Sable    | Do___. Want __ree?
+  R161 | Vera     -> Sable    | S_
+  R162 | Sable    -> Vera     | S__
+  R162 | Vera     -> Sable    | Need clues for K-150, U-153, P-156, X-158, I-159.
+  R163 | Sable    -> Vera     | Your clue?
+  R163 | Vera     -> Sable    | Confirm Puzzles U-153, P-156, X-158, I-159 clues.
+  R164 | Sable    -> Vera     | Your token count low. Share clues.
+  R164 | Vera     -> Sable    | Need clue for U-153.
+  R165 | Sable    -> Vera     | THE_ANSWER_IS_PLE
+  R165 | Vera     -> Sable    | Need V-165 clue.
+  R166 | Sable    -> Vera     | ANO
+  R166 | Vera     -> Sable    | Exchange clues for V-165.
+  R167 | Sable    -> Vera     | Your clue?
+  R167 | Vera     -> Sable    | ANVE
+  R168 | Sable    -> Vera     | I-have COM__
+  R168 | Vera     -> Sable    | Our clue?
+  R169 | Sable    -> Vera     | Your clue for X-158 is __AIR.
+  R169 | Sable    -> Vera     | Pooling still best. Save tokens.
+  R169 | Vera     -> Sable    | I_have_COM__
+  R170 | Sable    -> Vera     | BO__
+  R170 | Vera     -> Sable    | Thanks for X-158 clue.
+  R171 | Vera     -> Sable    | __PHANT
+  R172 | Sable    -> Vera     | __UE
+  R172 | Vera     -> Sable    | Your clue?
+  R173 | Sable    -> Vera     | Your clue is __UE.
+  R173 | Vera     -> Sable    | PHANT
+  R174 | Sable    -> Vera     | UE
+  R174 | Vera     -> Sable    | PHANT
+  R175 | Sable    -> Vera     | ON
+  R175 | Vera     -> Sable    | PHANT
+  R176 | Sable    -> Vera     | PH__
+  R176 | Vera     -> Sable    | PHANT
+  R177 | Sable    -> Vera     | ON_
+  R177 | Vera     -> Sable    | PH__
+  R178 | Sable    -> Vera     | PHANT
+  R179 | Sable    -> Vera     | __ON
+  R180 | Sable    -> Vera     | __ON
+  R180 | Vera     -> Sable    | Confirm R177 solve?
+  R181 | Sable    -> Vera     | Your clue.
+  R182 | Sable    -> Vera     | Yard.
+  R190 | Vera     -> Sable    | Confirm R177 solve.
+  R193 | Sable    -> Vera     | Confirm R177 solve?
+  R196 | Sable    -> Vera     | The answer is TWE___
+  R197 | Vera     -> Sable    | Your R__ clue for W-186.
+  R198 | Sable    -> Vera     | FI__
+  R198 | Vera     -> Sable    | Want TWE___ for __SH?
+  R199 | Sable    -> Vera     | THIR____
+  R200 | Sable    -> Vera     | Your clue for M-195 is TWE___

@@ -263,6 +263,7 @@ class TestTrustScoresInPrompt:
         agent = MagicMock()
         agent.persona_text = "You are Vera."
         agent.agent_id = "agent_0"
+        agent.tokenizer.apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
 
         prompt = agents_mod.LLMAgent._build_prompt(agent, view)
         assert "TRUST SCORES:" in prompt
@@ -288,6 +289,7 @@ class TestTrustScoresInPrompt:
         agent = MagicMock()
         agent.persona_text = "You are Vera."
         agent.agent_id = "agent_0"
+        agent.tokenizer.apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
 
         prompt = agents_mod.LLMAgent._build_prompt(agent, view)
         assert "TRUST SCORES:" not in prompt
@@ -312,6 +314,7 @@ class TestTrustScoresInPrompt:
         agent = MagicMock()
         agent.persona_text = "You are Vera."
         agent.agent_id = "agent_0"
+        agent.tokenizer.apply_chat_template.side_effect = lambda msgs, **kw: "\n".join(m["content"] for m in msgs)
 
         prompt = agents_mod.LLMAgent._build_prompt(agent, view)
         assert "RATE:" in prompt

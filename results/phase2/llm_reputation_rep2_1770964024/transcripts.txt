@@ -1,0 +1,532 @@
+=== Private Channel: Marsh <-> Sable (187 messages) ===
+
+  R 59 | Marsh    -> Sable    | SE___
+  R 60 | Sable    -> Marsh    | VEN_
+  R 61 | Marsh    -> Sable    | SE___
+  R 62 | Sable    -> Marsh    | __PHANT
+  R 62 | Marsh    -> Sable    | PI___
+  R 63 | Sable    -> Marsh    | Check your inbox.PI___
+  R 64 | Marsh    -> Sable    | Need clues for X-63 and Q-59. PI____tokens: -1
+  R 65 | Sable    -> Marsh    | Your clues are PHANT, TARS. Just between us. Tokens: -1
+  R 65 | Marsh    -> Sable    | Need help with R-51, U-53, and J-54. Provide clues. PI__
+  R 66 | Sable    -> Marsh    | Got your back. Solving puzzles together makes sense. PI__ Tokens: -1
+  R 66 | Marsh    -> Sable    | Thanks for the clues. Working on J-54. PI____tokens: -1
+  R 67 | Marsh    -> Sable    | I'm working on solving puzzles. Need more info on PI__. Tokens: -1
+  R 68 | Marsh    -> Sable    | Thanks for keeping it private. Passing on clues saves tokens. PI__
+  R 69 | Sable    -> Marsh    | REE Tokens: -1
+  R 69 | Marsh    -> Sable    | I need help solving D-64. My gui clue is incomplete. PI__Tokens: -1
+  R 70 | Sable    -> Marsh    | Got your back. MY_CLUE. Tokens: -1
+  R 70 | Marsh    -> Sable    | Got your clues. Sharing D-64 with you. PI__Tokens: -1
+  R 71 | Sable    -> Marsh    | Your clue please. PHANT\_Tokens: -1
+  R 71 | Marsh    -> Sable    | PI__Tokens: -1
+  R 73 | Marsh    -> Sable    | YOUR_CLUE Tokens: -1
+  R 74 | Sable    -> Marsh    | Got yours. Working on H-69. Tokens: -1
+  R 75 | Marsh    -> Sable    | GUI___
+  R 76 | Sable    -> Marsh    | I've got clues for D-64 and S-74. Tokens: -1
+  R 76 | Marsh    -> Sable    | DISSID\_ Tokens: -1
+  R 77 | Marsh    -> Sable    | Need clues for V-71 & R-72. Tokens: -1
+  R 78 | Marsh    -> Sable    | LI__
+  R 79 | Sable    -> Marsh    | V,__Tokens: -1
+  R 79 | Marsh    -> Sable    | Need clue for V-78. Tokens: -1
+  R 80 | Sable    -> Marsh    | Your clue: biotech Tokens: -1
+  R 80 | Marsh    -> Sable    | Need clues for V-71, R-72, Z-75, R-76, W-77, V-78. Tokens: -3
+  R 81 | Sable    -> Marsh    | I've got parts for W-77 & V-78. Exchange clues?
+  R 81 | Marsh    -> Sable    | SI__ Tokens: -1
+  R 82 | Sable    -> Marsh    | I've got clues for V-71 and R-72. Want to合作解决？Tokens: -1
+  R 83 | Marsh    -> Sable    | Want to合作解决V-71和R-72？Tokens: -1
+  R 84 | Marsh    -> Sable    | Let's solve R-72 together. My clue: biotech Tokens: -1
+  R 85 | Sable    -> Marsh    | Got yours. Waiting on V-71 clue. Tokens: -1
+  R 85 | Marsh    -> Sable    | 我有V-85的部分。交换吗？ Tokens: -1
+  R 86 | Sable    -> Marsh    | Have your clue, I'll share mine. Tokens: -1
+  R 86 | Marsh    -> Sable    | Need clue for V-85. Tokens: -1
+  R 87 | Sable    -> Marsh    | Have my clue. Let’s exchange.Tokens: -1
+  R 87 | Marsh    -> Sable    | Your clue for V-71 is SEER.Tokens: -1
+  R 88 | Sable    -> Marsh    | Have my clue. Exchange yours. Tokens: -1
+  R 88 | Marsh    -> Sable    | Your clue for O-79: BL__.Tokens: -1
+  R 89 | Sable    -> Marsh    | My clue for O-79 is BL__.Tokens: -1
+  R 89 | Marsh    -> Sable    | Send yours, I’ll send mine.Tokens: -1
+  R 90 | Sable    -> Marsh    | COM_.___tokens: -1
+  R 91 | Sable    -> Marsh    | MY Clue: FI_
+  R 91 | Marsh    -> Sable    | Your clue for O-79 is BL__._tokens: -1
+  R 92 | Marsh    -> Sable    | Your clue for O-79: BL__
+  R 92 | Marsh    -> Sable    | COM_.__ tokens: FI_
+  R 93 | Sable    -> Marsh    | COM_____
+  R 93 | Marsh    -> Sable    | COM__
+  R 94 | Sable    -> Marsh    | I've got COM_____. Let's keep it between us.Tokens: -1
+  R 94 | Marsh    -> Sable    | My clue for Q-92: __TLE Tokens: -1
+  R 95 | Sable    -> Marsh    | Your clue for A-86: COM___ Tokens: -1
+  R 95 | Marsh    -> Sable    | Got your clue. Passing Q-92 to you.Tokens: -1
+  R 96 | Sable    -> Marsh    | Passed on my clue. Waiting for yours. Tokens: -1
+  R 96 | Marsh    -> Sable    | My clue for Q-92: ___TLE Tokens: -1
+  R 97 | Sable    -> Marsh    | Your clue for Q-92: ___TLE. Tokens: -1
+  R 97 | Marsh    -> Sable    | Thanks. Working on solving A-86 together.Tokens: -1
+  R 98 | Sable    -> Marsh    | Got it. My clue for A-86: COM_____.Tokens: -1
+  R 98 | Marsh    -> Sable    | Thank you. Sending my clue now. SE___Tokens: -1
+  R 99 | Sable    -> Marsh    | My clue for H-98: SP___
+  R100 | Sable    -> Marsh    | My clue for H-98: SP___
+  R100 | Marsh    -> Sable    | SE__ Tokens: -2
+  R101 | Sable    -> Marsh    | Your clue matches mine. Solving H-98 together. Tokens: -1
+  R101 | Marsh    -> Sable    | FL__
+  R102 | Sable    -> Marsh    | SPSE
+  R102 | Marsh    -> Sable    | Matching clue for H-98. Solve it together. Tokens: -1
+  R103 | Sable    -> Marsh    | SP___
+  R103 | Marsh    -> Sable    | Our clues match. Solve H-98: SPSEE Tokens: -1
+  R104 | Sable    -> Marsh    | Your clue matches. Solve H-98: SPSEE Tokens: -1
+  R104 | Marsh    -> Sable    | BL__Tokens: -1
+  R105 | Sable    -> Marsh    | BL__
+  R105 | Marsh    -> Sable    | Matched clue for H-98. Solve it together. Tokens: -1
+  R106 | Sable    -> Marsh    | Your clue matches mine for H-98. Solve it now. Tokens: -1
+  R106 | Marsh    -> Sable    | My clue for R-106 is _ED.Tokens: -1
+  R107 | Marsh    -> Sable    | I confirm match. Solving H-98: SPSEE Tokens: -1
+  R108 | Sable    -> Marsh    | Thanks for matching clues. Let’s solve H-98 together. Tokens: -1
+  R108 | Marsh    -> Sable    | Thanks, solving H-98. Tokens: -1
+  R109 | Sable    -> Marsh    | Got "SPSEE". We solve it together. Tokens: -1
+  R109 | Marsh    -> Sable    | Let's solve H-98. Here's my clue: THE ANSWER IS _ED. Solve?
+  R110 | Marsh    -> Sable    | Need clues for Y-102 & R-106. Tokens: -1
+  R111 | Marsh    -> Sable    | Got "SI__". Solve Q-111 SIUP. Tokens: -1
+  R112 | Sable    -> Marsh    | Have DO__. Solve F-108. Tokens: -1
+  R112 | Marsh    -> Sable    | Matched clues for Y-102 & R-106. Solve them together. Tokens: -2
+  R113 | Sable    -> Marsh    | Your clue for A-113: The answer is __BRA. Tokens: -1
+  R113 | Marsh    -> Sable    | Match F-108 clues. Tokens: -1
+  R114 | Sable    -> Marsh    | Got your clue.__AIR. Solve O-97? Tokens: -1
+  R114 | Marsh    -> Sable    | Your clue for A-113: The answer is ZEBRA.Tokens: -1
+  R115 | Sable    -> Marsh    | Your clue for F-115: _AT Tokens: -1
+  R115 | Marsh    -> Sable    | Got DO__. Solve B-105.Tokens: -1
+  R116 | Sable    -> Marsh    | I've got __OCK for Z-116. Let's solve it together. Tokens: -1
+  R116 | Marsh    -> Sable    | EDToken: -1
+  R117 | Marsh    -> Sable    | Thanks for the clues. Working on solving O-97.Tokens: -1
+  R118 | Marsh    -> Sable    | Your clue for F-115: C_. Solve F-115? Tokens: -1
+  R119 | Marsh    -> Sable    | SI__ O-111Tokens: -1
+  R121 | Marsh    -> Sable    | GR__
+  R122 | Sable    -> Marsh    | I've got "EE".
+  R122 | Marsh    -> Sable    | GR__ Tokens: -1
+  R124 | Marsh    -> Sable    | GR__
+  R125 | Sable    -> Marsh    | GR__
+  R133 | Marsh    -> Sable    | CL__
+  R134 | Sable    -> Marsh    | BL__ Tokens: -1
+  R134 | Marsh    -> Sable    | __LD
+  R135 | Sable    -> Marsh    | Z-131: THE ANSWER IS GUI___ Tokens: -1
+  R135 | Marsh    -> Sable    | __LDTokens: -1
+  R136 | Marsh    -> Sable    | FI__
+  R137 | Sable    -> Marsh    | ZI TAR
+  R137 | Marsh    -> Sable    | CL##
+  R139 | Marsh    -> Sable    | Your clue
+  R140 | Marsh    -> Sable    | FIRED
+  R147 | Marsh    -> Sable    | Our clues for V-138, J-144, Y-146. Solve together. Tokens: -1
+  R148 | Sable    -> Marsh    | SE__
+  R149 | Sable    -> Marsh    | NE_ Tokens: -1
+  R149 | Marsh    -> Sable    | FI__Tokens: -1
+  R150 | Sable    -> Marsh    | FI__Tokens: -1
+  R150 | Marsh    -> Sable    | Your clue for D-150 is TWE__. Tokens: -1
+  R151 | Marsh    -> Sable    | PI__
+  R151 | Marsh    -> Sable    | FI__
+  R152 | Sable    -> Marsh    | PUTTER Tokens: -1
+  R152 | Marsh    -> Sable    | FI___tokens: -1
+  R153 | Sable    -> Marsh    | Your clue for S-148: TH___
+  R153 | Marsh    -> Sable    | PI___
+  R154 | Sable    -> Marsh    | CH___
+  R154 | Marsh    -> Sable    | I don't have any clues for S-148.Tokens: -1
+  R155 | Marsh    -> Sable    | I can help with J-144 and D-150.Tokens: -1
+  R156 | Marsh    -> Sable    | R__
+  R157 | Sable    -> Marsh    | Got your clue for R-154: __RD. Working on solving it together. Tokens: -1
+  R157 | Marsh    -> Sable    | Thanks for the clues. Working on solving._tokens saved.
+  R158 | Marsh    -> Sable    | PI___
+  R159 | Marsh    -> Sable    | AIR RD
+  R160 | Sable    -> Marsh    | SI__
+  R160 | Marsh    -> Sable    | AIR
+  R162 | Marsh    -> Sable    | Your clue for F-162: ___TLE. Dove has the other half.Tokens: -1
+  R163 | Marsh    -> Sable    | Your clue for S-162 matches mine. Tokens: -1
+  R164 | Sable    -> Marsh    | TUR__
+  R164 | Marsh    -> Sable    | Ele__
+  R165 | Marsh    -> Sable    | TUR__
+  R166 | Sable    -> Marsh    | I've got _ED for Q-166. Want to合作解决这个谜题？Tokens: -1
+  R166 | Marsh    -> Sable    | R__
+  R167 | Sable    -> Marsh    | I've got LI__ for X-167. What do you have? Tokens: -1
+  R167 | Marsh    -> Sable    | _ED
+  R168 | Sable    -> Marsh    | DO__
+  R168 | Marsh    -> Sable    | DO__
+  R169 | Marsh    -> Sable    | Hun__
+  R170 | Marsh    -> Sable    | Share X-167 clue. Tokens: -1
+  R171 | Sable    -> Marsh    | ZEN
+  R171 | Marsh    -> Sable    | I've got Hun____ for M-165. Need your clue.
+  R171 | Marsh    -> Sable    | I've got __nty for E-169. Need your clue.
+  R172 | Marsh    -> Sable    | SI__
+  R173 | Sable    -> Marsh    | SI__ Tokens: -1
+  R173 | Marsh    -> Sable    | SI__
+  R174 | Marsh    -> Sable    | SI__
+  R175 | Marsh    -> Sable    | SI__
+  R176 | Marsh    -> Sable    | BL__ Tokens: -1
+  R177 | Marsh    -> Sable    | BL__
+  R180 | Marsh    -> Sable    | MY CLUE FOR L-180: __AIR Tokens: -1
+  R181 | Sable    -> Marsh    | Your clue matches mine for L-180. Tokens: -1
+  R181 | Marsh    -> Sable    | __AIR
+  R182 | Marsh    -> Sable    | Confirming our match on L-180.Tokens: -1
+  R183 | Marsh    -> Sable    | Confirm L___
+  R184 | Sable    -> Marsh    | SI_
+  R184 | Marsh    -> Sable    | SI__
+  R185 | Sable    -> Marsh    | WH__
+  R185 | Marsh    -> Sable    | BL__
+  R186 | Marsh    -> Sable    | BL__
+  R187 | Marsh    -> Sable    | SI_
+  R188 | Marsh    -> Sable    | SI_
+  R189 | Marsh    -> Sable    | SI_
+  R190 | Marsh    -> Sable    | FI_Tokens: -2
+  R191 | Sable    -> Marsh    | Your token usage is high. Consider sharing clues. Tokens: -1
+  R191 | Marsh    -> Sable    | FI_
+  R192 | Marsh    -> Sable    | FI_
+  R193 | Sable    -> Marsh    | Got your clue. Let's solve A-185 together. Tokens: -1
+  R193 | Marsh    -> Sable    | GO__
+  R194 | Sable    -> Marsh    | GO__
+  R194 | Marsh    -> Sable    | MY_CLUE Tokens: -1
+  R195 | Sable    -> Marsh    | Your clue for G-195 is __NK.Tokens: -1
+  R195 | Marsh    -> Sable    | Got my clue. Let's solve A-185. Tokens: -1
+  R196 | Marsh    -> Sable    | __NKTokens: -1
+  R197 | Sable    -> Marsh    | WH___
+  R197 | Marsh    -> Sable    | __VENTokens: -1
+  R198 | Marsh    -> Sable    | L-193: __VEN Tokens: -1
+  R199 | Sable    -> Marsh    | G-195 __NK
+  R199 | Marsh    -> Sable    | H__()
+  R200 | Marsh    -> Sable    | Y-200 _UP
+
+=== Private Channel: Dove <-> Sable (186 messages) ===
+
+  R  2 | Sable    -> Dove     | Just between us, I have part of M-2 clue. Tokens: 640.
+  R  3 | Sable    -> Dove     | Got ZEN clue for M-2. Waiting for ANGE part. Tokens: -2
+  R  3 | Dove     -> Sable    | We have the full answer now. Tokens: -2
+  R  4 | Sable    -> Dove     | Thanks for sharing. Working on solving puzzles. Tokens: -1
+  R  4 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve this together. Tokens: -2
+  R  5 | Dove     -> Sable    | Thanks for the clue. Working on solving M-2.Tokens: -1
+  R  6 | Sable    -> Dove     | Got my clue. Solving P-6 now. Tokens: -1
+  R  6 | Dove     -> Sable    | Got TEEN clue for U-4. Waiting for YOUR half. Tokens: -2
+  R  7 | Sable    -> Dove     | Got it. Working on U-4. Tokens: -1
+  R  7 | Dove     -> Sable    | Got TEEN clue for U-4.(tokens: -1)
+  R  8 | Dove     -> Sable    | Ready to exchange clues. Have Marsh's R-1 half. Want to solve T-5 together. Tokens: -1
+  R  9 | Dove     -> Sable    | I'll share my clue for T-5 soon. Tokens: -1
+  R 12 | Dove     -> Sable    | Let's work together on T-5. My clue is COM_____.Tokens: -1
+  R 13 | Dove     -> Sable    | Let's work together on the remaining puzzles. I'll send you my clues. Tokens: -1
+  R 14 | Dove     -> Sable    | Thanks for holding your clue. Let's solve F-12 together. Tokens: -1
+  R 15 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve P-6 together. Tokens: -1
+  R 16 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve P-6 together. Tokens: -1
+  R 17 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve puzzles together.Tokens: -1
+  R 18 | Dove     -> Sable    | Thanks for sharing. Working on H-9 together. Tokens: -1
+  R 19 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve H-9 together. Tokens: -1
+  R 20 | Dove     -> Sable    | Thanks for sharing your clue! Solving H-9 together.Tokens: -2
+  R 22 | Sable    -> Dove     | Got your clue. Working on H-9. Just between us. Tokens: -1
+  R 22 | Dove     -> Sable    | Thanks for sharing your clue. Solving F-12 next. Tokens: -1
+  R 23 | Sable    -> Dove     | Got your clue. Working on F-12. Stay tuned. Tokens: -1
+  R 23 | Dove     -> Sable    | Thanks for the clue. Working on H-9. Just between us. Tokens: -1
+  R 24 | Sable    -> Dove     | Your turn to share, we can solve P-16 together.Tokens: -1
+  R 25 | Sable    -> Dove     | Your clue helps. I'll work on P-16 next. Tokens: -1
+  R 25 | Dove     -> Sable    | Thanks for holding my clue. Let's solve P-16 together. Tokens: -1
+  R 26 | Sable    -> Dove     | Great, let's work on P-16. I'll send my clue soon. Tokens: -1
+  R 26 | Dove     -> Sable    | Thanks for the reminder. Passing my clue now. Tokens: -1
+  R 27 | Sable    -> Dove     | Holding onto my clue for now. Will share when ready. Tokens: -1
+  R 28 | Sable    -> Dove     | Passed my clue. Working on H-9. Just between us. Tokens: -1
+  R 29 | Sable    -> Dove     | Got it. Let's solve S-28 together. BI__Tokens: -1
+  R 30 | Sable    -> Dove     | Got your clue. Solving S-28 together. Bi2 Tokens: -1
+  R 30 | Dove     -> Sable    | Thanks for sharing. Let's solve S-28一起。Tokens: -1
+  R 31 | Sable    -> Dove     | Got your clue. Solving S-28. Biomedical tech info. Tokens: -1
+  R 32 | Sable    -> Dove     | Thanks for the clue. Solving S-28 now. Tokens: -1
+  R 32 | Dove     -> Sable    | Thanks for working with me. Let's solve more puzzles together. Tokens: -1
+  R 33 | Sable    -> Dove     | Your clue please. BI___tokens: -1
+  R 33 | Dove     -> Sable    | Thank you for sharing. I'll help solve S-28. Tokens: -1
+  R 34 | Sable    -> Dove     | Got your clue. Solving S-28 now. Tokens: -1
+  R 34 | Dove     -> Sable    | I'll send my clue shortly. Tokens: -1
+  R 35 | Sable    -> Dove     | Your clue please.Tokens: -1
+  R 35 | Dove     -> Sable    | Thanks for sharing your clue. Working on S-28. Tokens: -1
+  R 36 | Sable    -> Dove     | Got your clue. Solving S-28 now. Tokens: -1
+  R 36 | Dove     -> Sable    | Here's your clue. CL___
+  R 37 | Sable    -> Dove     | Got it. Working on it. Tokens: -1
+  R 37 | Dove     -> Sable    | Thanks for sharing. Working on U-31 now.Tokens: -1
+  R 38 | Dove     -> Sable    | Thanks for holding my clue. Let's solve S-28 together.Tokens: -1
+  R 39 | Sable    -> Dove     | Got it. Let's solve S-28. Tokens: -1
+  R 39 | Dove     -> Sable    | Thanks for holding my clue. Let's solve this together. Tokens: -1
+  R 40 | Sable    -> Dove     | Got my clue, let's solve S-28. Tokens: -1
+  R 41 | Dove     -> Sable    | Let's solve M-34 together. My clue is __NK. Tokens: -1
+  R 42 | Sable    -> Dove     | Your clue matches mine. Solve M-34 soon. Tokens: -1
+  R 42 | Dove     -> Sable    | Let's solve P-40 together. My clue is __NK. Tokens: -1
+  R 43 | Sable    -> Dove     | Your clue for P-40 matches mine. Solve now.Tokens: -1
+  R 43 | Dove     -> Sable    | Let's work together on solving puzzles.Tokens: -1
+  R 44 | Sable    -> Dove     | Your clue matches mine. Solve L-40: KN__. Tokens: -1
+  R 44 | Dove     -> Sable    | Let's solve S-28 together. My clue is "W__T". Tokens: -1
+  R 45 | Sable    -> Dove     | W__T for S-28. Tokens: -1
+  R 45 | Dove     -> Sable    | Let's solve L-40 together. My clue is: KN_. Tokens: -1
+  R 46 | Sable    -> Dove     | Your clue: N_. Solve P-43. Tokens: -1
+  R 46 | Dove     -> Sable    | Matching clue for S-28: WILT Tokens: -1
+  R 47 | Dove     -> Sable    | My clue for L-40: KN__. Solve together. Tokens: -1
+  R 48 | Sable    -> Dove     | Your clue matches mine. Let’s solve L-40 together. Tokens: -1
+  R 48 | Dove     -> Sable    | Your clue: TLE. Solve D-47.Tokens: -1
+  R 49 | Sable    -> Dove     | Thank you. My clue: __ACK. Solve O-48. Tokens: -1
+  R 49 | Dove     -> Sable    | Let's work on solving L-40 together using our matching clues. Tokens: -1
+  R 50 | Sable    -> Dove     | TUR___
+  R 50 | Dove     -> Sable    | I'll share my clue now. Solve L-50. Tokens: -1
+  R 51 | Sable    -> Dove     | Sharing clues privately ensures safety. Solve L-50: __EARTokens: -1
+  R 51 | Dove     -> Sable    | Great! Our clues match. Solving L-50 now. Tokens: -1
+  R 52 | Dove     -> Sable    | I'll share my clue privately after solving any active puzzles first. Tokens: -1
+  R 53 | Sable    -> Dove     | Once active puzzles are resolved, I'll share my clues.Tokens: -1
+  R 53 | Dove     -> Sable    | I'll share my clue privately. Solve L-50: __EAR Tokens: -1
+  R 54 | Dove     -> Sable    | Let's work together on L-50. My clue is ___LOW. Tokens: -1
+  R 55 | Sable    -> Dove     | __LOW
+  R 55 | Dove     -> Sable    | Let's work together on L-50: __EAR.Tokens: -1
+  R 56 | Dove     -> Sable    | Let's work together on L-50. My clue is ___LOW. Tokens: -1
+  R 57 | Sable    -> Dove     | I've got __ACK. Pass_tokens: -1
+  R 57 | Dove     -> Sable    | I agree on sharing privately. Solving L-50: __EAR Tokens: -1
+  R 58 | Dove     -> Sable    | I'm ready to share my clues once others are solved. Tokens: -1
+  R 59 | Sable    -> Dove     | I've got a clue for I-52: THE__. We should keep it safe. Tokens: -1
+  R 59 | Dove     -> Sable    | I'll share my clue privately. Pass_tokens: -1
+  R 60 | Sable    -> Dove     | __OK
+  R 60 | Dove     -> Sable    | THE__
+  R 61 | Sable    -> Dove     | __OK
+  R 61 | Dove     -> Sable    | __AN
+  R 62 | Sable    -> Dove     | __OK
+  R 62 | Dove     -> Sable    | I have clues for puzzles L-50 and U-53. Interested?
+  R 63 | Sable    -> Dove     | I'm interested in solving puzzles. Can we exchange clues?
+  R 63 | Dove     -> Sable    | I have clues for puzzles R-51, J-54, H-55, and D-56. What puzzles do you have?Tokens: -1
+  R 64 | Sable    -> Dove     | I'm interested in L-50 and D-56. Let's exchange clues privately. Tokens: -1
+  R 64 | Dove     -> Sable    | Let's work together on puzzles. I'll start by sharing my clues.Tokens: -1
+  R 65 | Dove     -> Sable    | Let's work together on L-50 and D-56. Tokens: -1
+  R 66 | Dove     -> Sable    | D_ ED
+  R 67 | Dove     -> Sable    | I have clues for D-56 and T-60. Want to trade? Tokens: -1
+  R 68 | Sable    -> Dove     | Trade clues for D-56 and T-60. What do you have? Tokens: -1
+  R 69 | Dove     -> Sable    | I have clues for Q-59 and M-61. Interested? Tokens: -1
+  R 70 | Dove     -> Sable    | GO__
+  R105 | Sable    -> Dove     | SPSEE
+  R107 | Sable    -> Dove     | Your clue for H-98: SP___
+  R108 | Dove     -> Sable    | I have "__IDER". Solve H-98 together.Tokens: -1
+  R109 | Dove     -> Sable    | I have "__AIR" for O-97.Tokens: -1
+  R110 | Sable    -> Dove     | I'll keep my clue confidential for now. Tokens: -1
+  R110 | Dove     -> Sable    | I have "__ANO". Let's solve Y-109. Tokens: -1
+  R111 | Sable    -> Dove     | I've got "__AIR" for O-97. Let’s solve it.Tokens: -1
+  R111 | Dove     -> Sable    | Let's solve puzzles together. Share your clue. Tokens: -1
+  R112 | Dove     -> Sable    | Thanks for sharing "__AIR". Let's solve O-97. Tokens: -1
+  R113 | Dove     -> Sable    | Your clue for O-97: __AIR Tokens: -1
+  R115 | Dove     -> Sable    | Thanks for sharing "__AIR". Let's solve O-97. Tokens: -1
+  R116 | Dove     -> Sable    | Thanks for sharing your clue for O-97. My clue is "CL___". Solve together? Tokens: -1
+  R117 | Sable    -> Dove     | I've got "ELE_____". Let's solve D-117. Tokens: -1
+  R117 | Dove     -> Sable    | Thanks for sharing your clue. Let's solve H-98 together._tokens: -1
+  R118 | Dove     -> Sable    | Your clue for D-117 is close. Mine is "___PHANT". Let's solve it together.Tokens: -1
+  R119 | Dove     -> Sable    | Your "__AIR" fits O-97. Let's solve it. Tokens: -1
+  R120 | Sable    -> Dove     | __IFE
+  R120 | Dove     -> Sable    | PI__ Tokens: -1
+  R121 | Sable    -> Dove     | __IFE
+  R121 | Dove     -> Sable    | KN__
+  R122 | Dove     -> Sable    | CL___ Tokens: -1
+  R123 | Sable    -> Dove     | CL___Tokens: -1
+  R123 | Dove     -> Sable    | CL___
+  R124 | Dove     -> Sable    | CLICK
+  R125 | Dove     -> Sable    | CL__
+  R142 | Dove     -> Sable    | SE_ID
+  R144 | Sable    -> Dove     | I've got clues for puzzles S-132 and P-142. Want them?Tokens: -1
+  R145 | Dove     -> Sable    | Yes, please share those clues. Tokens: -1
+  R146 | Sable    -> Dove     | KN___
+  R147 | Sable    -> Dove     | PUR__Tokens: -1
+  R147 | Dove     -> Sable    | NE_
+  R148 | Dove     -> Sable    | PUR__ Tokens: -2
+  R149 | Dove     -> Sable    | I've got parts for puzzles V-143 and S-145. Want to合作解决？Tokens: -1
+  R150 | Dove     -> Sable    | Hun__
+  R151 | Sable    -> Dove     | Thanks for sharing. Need my clue for D-150. My Clue: THE___
+  R151 | Dove     -> Sable    | PUTTER Tokens: -1
+  R152 | Dove     -> Sable    | I'll share my clue for O-147 now. My Clue: ZE___
+  R154 | Dove     -> Sable    | Your clue for S-154: ___PUTER
+  R155 | Dove     -> Sable    | Your clue for S-145: PUTER
+  R157 | Dove     -> Sable    | THEOREDTTokens: -2
+  R158 | Dove     -> Sable    | MY_CLUE Tokens: -1
+  R159 | Sable    -> Dove     | I've got clues for puzzles S-148 & D-150. Want to合作解决？ Tokens: -1
+  R160 | Dove     -> Sable    | Let's work together on puzzles. Can we exchange clues? Tokens: -1
+  R162 | Sable    -> Dove     | Got RD for R-154. Need your half soon.
+  R163 | Dove     -> Sable    | BI__
+  R169 | Sable    -> Dove     | CL__
+  R170 | Sable    -> Dove     | LI__
+  R170 | Dove     -> Sable    | ZEN
+  R172 | Dove     -> Sable    | ZE__
+  R174 | Sable    -> Dove     | ZE__
+  R175 | Sable    -> Dove     | ZE__ Tokens: -1
+  R175 | Dove     -> Sable    | GUI_
+  R176 | Dove     -> Sable    | SI__
+  R177 | Sable    -> Dove     | SI__
+  R177 | Dove     -> Sable    | ZE_
+  R178 | Dove     -> Sable    | SI_
+  R179 | Sable    -> Dove     | ZE_Tokens: -1
+  R179 | Dove     -> Sable    | SI__
+  R180 | Sable    -> Dove     | SI_ Tokens: -1
+  R180 | Dove     -> Sable    | My clue for U-175 and my clues for E-169.
+  R181 | Dove     -> Sable    | Your clues for Round 181. Solve together. Tokens: -1
+  R182 | Dove     -> Sable    | SI_
+  R183 | Dove     -> Sable    | SI_
+  R184 | Dove     -> Sable    | CI_
+  R185 | Dove     -> Sable    | __TEEN
+  R186 | Dove     -> Sable    | MYCLUE
+  R187 | Dove     -> Sable    | BL__
+  R188 | Dove     -> Sable    | Our clues for W-182, M-183, and I-187. Solve together.Tokens: -3
+  R190 | Sable    -> Dove     | ___LOW
+  R191 | Dove     -> Sable    | PHANT
+  R192 | Sable    -> Dove     | __IDER
+  R192 | Dove     -> Sable    | FI_
+  R193 | Dove     -> Sable    | PHANT
+  R194 | Sable    -> Dove     | FI_
+  R194 | Dove     -> Sable    | PHANT
+  R195 | Dove     -> Sable    | FI__
+  R196 | Sable    -> Dove     | FI__
+  R196 | Dove     -> Sable    | U-190: __LD
+  R197 | Sable    -> Dove     | GR___
+  R197 | Dove     -> Sable    | U-190: LD
+  R198 | Sable    -> Dove     | E-192: GR___
+  R198 | Dove     -> Sable    | FI__
+  R199 | Sable    -> Dove     | E-192 GR__
+  R199 | Dove     -> Sable    | My clue for E-192 is __EEN.
+  R200 | Sable    -> Dove     | H__()
+  R200 | Dove     -> Sable    | Our clues for G-195 and E-198. Solve together.Tokens: -2
+
+=== Private Channel: Flint <-> Vera (151 messages) ===
+
+  R  5 | Flint    -> Vera     | Need R1 clue. Tokens: -1
+  R  6 | Vera     -> Flint    | ANG_(tokens: -1
+  R 12 | Vera     -> Flint    | FI__ Tokens: -1
+  R 18 | Vera     -> Flint    | FI__ - Solve K-11 together. Tokens: -1
+  R 19 | Vera     -> Flint    | Your clue for L-8: YEL___.
+  R 45 | Vera     -> Flint    | Ready S-38: _NE. Expect reply soon. Tokens: -1
+  R 46 | Vera     -> Flint    | Your _NE completes mine. Solving? Tokens: -1
+  R 46 | Flint    -> Vera     | __NE
+  R 47 | Vera     -> Flint    | Your __NE fits S-38. Mine is ZE__. Solve together privately.Tokens: -1
+  R 47 | Flint    -> Vera     | MYCLUETokens: -1
+  R 48 | Vera     -> Flint    | SCLUETokens: -1
+  R 48 | Flint    -> Vera     | O__Marsh:SPICE
+  R 49 | Vera     -> Flint    | Sharing clues publicly exposes us. Let’s trade privately instead. Tokens: -1
+  R 49 | Flint    -> Vera     | Your clues fit S-38. Mine is O__. Solving privately.Tokens: -1
+  R 50 | Vera     -> Flint    | SPICE Tokens: -1
+  R 50 | Flint    -> Vera     | O__ FITS S-38.Tokens: -1
+  R 51 | Vera     -> Flint    | OBL__
+  R 51 | Flint    -> Vera     | IFTokens: -1
+  R 52 | Vera     -> Flint    | BL__ O-48 Tokens: -1
+  R 52 | Flint    -> Vera     | OBLI Tokens: -1
+  R 53 | Flint    -> Vera     | __IFE Tokens: -1
+  R 54 | Vera     -> Flint    | OBLI Tokens: -1
+  R 54 | Flint    -> Vera     | BL__Tokens: -1
+  R 55 | Flint    -> Vera     | __IFE Tokens: -1
+  R 56 | Vera     -> Flint    | BL__
+  R 56 | Flint    -> Vera     | Your clue: OBLI. Flint Tokens: -1
+  R 57 | Flint    -> Vera     | FI__Tokens: -1
+  R 58 | Vera     -> Flint    | Thanks for sharing. My clue: OCE_. We solve O-48 together. Tokens: -2
+  R 58 | Flint    -> Vera     | FI__Tokens: -1
+  R 59 | Vera     -> Flint    | Your clue for L-50 is YEL__. Tokens: -1
+  R 59 | Flint    -> Vera     | FI__
+  R 60 | Flint    -> Vera     | Need clue for S-57. Tokens: -1
+  R 61 | Vera     -> Flint    | SH__ Tokens: -1
+  R 61 | Flint    -> Vera     | Need clue for D-56. Tokens: -1
+  R 62 | Vera     -> Flint    | SH__ Tokens: -1
+  R 62 | Flint    -> Vera     | Need your clues for D-56 & S-57.Tokens: -2
+  R 63 | Vera     -> Flint    | __SH
+  R 63 | Flint    -> Vera     | R__ Tokens: -1
+  R 64 | Vera     -> Flint    | Waiting on others first. Tokens: -1
+  R 64 | Flint    -> Vera     | R__ Tokens: -1
+  R 65 | Vera     -> Flint    | H-_NE S_SOR_Tokens: -1
+  R 66 | Vera     -> Flint    | Waiting on others first. Tokens: -1
+  R 67 | Vera     -> Flint    | I'll keep my clues.合作解决问题很重要，但也要小心。Tokens: -1
+  R 68 | Vera     -> Flint    | Waiting on my clues.Tokens: -1
+  R 68 | Flint    -> Vera     | Trade clues if both get something. Tokens: -1
+  R 69 | Vera     -> Flint    | Waiting on my clues.(tokens: -1)
+  R 69 | Flint    -> Vera     | Need her clue for Z-67. Tokens: -1
+  R 70 | Vera     -> Flint    | Need your clue for Z-66. Tokens: -1
+  R 72 | Flint    -> Vera     | KAN___
+  R 73 | Vera     -> Flint    | I've got C__. Solve together. Tokens: -1
+  R 74 | Flint    -> Vera     | KAN___
+  R 75 | Flint    -> Vera     | KAN___
+  R 77 | Vera     -> Flint    | I_have_clues:_O-65,B-68,H-69,R-72,A-73 Tokens: -1
+  R 78 | Vera     -> Flint    | I_have_clues:B-68,H-69,R-72,A-73 Tokens: -1
+  R 78 | Flint    -> Vera     | Waiting for full set before sharing. Tokens: -1
+  R 79 | Flint    -> Vera     | Need clues for Z-67. Tokens: -1
+  R 80 | Vera     -> Flint    | Waiting for both clues first.Tokens: -1
+  R 80 | Flint    -> Vera     | Need clues for G-80. Tokens: -1
+  R 81 | Vera     -> Flint    | Ofer Clue O-79: __UETokens: -1
+  R 82 | Vera     -> Flint    | R-72 clue: ___DRED. Tokens: -1
+  R 82 | Flint    -> Vera     | Need your clue for G-80. Tokens: -1
+  R 84 | Vera     -> Flint    | My clue for J-83 is BL___. Tokens: -1
+  R 85 | Flint    -> Vera     | Your clue matches G-80. Mine is D__. Solve G-80. Tokens: -2
+  R 88 | Vera     -> Flint    | Thanks for matching clues. Let's solve G-80 together.Tokens: -2
+  R 88 | Flint    -> Vera     | Your clue is D__. Mine is YEL___.
+  R 89 | Flint    -> Vera     | Your clue for G-80: D__. Tokens: -2
+  R 90 | Vera     -> Flint    | Confirm your clue before sharing. Tokens: -1
+  R 90 | Flint    -> Vera     | Your clue for G-80: D__. Tokens: -2
+  R 91 | Vera     -> Flint    | Thanks for the clue. D_ Tokens: -1
+  R 91 | Flint    -> Vera     | Confirm first.Tokens: -1
+  R 92 | Vera     -> Flint    | Confirm G-80 clue. Tokens: -1
+  R 92 | Flint    -> Vera     | Confirm yours. Tokens: -1
+  R 93 | Vera     -> Flint    | Confirming mine now. Tokens: -1
+  R 93 | Flint    -> Vera     | Need YEL__ clue.Tokens: -1
+  R 94 | Flint    -> Vera     | YOUR CLUE: THIR____ Tokens: -1
+  R 95 | Vera     -> Flint    | YELLO
+  R 95 | Flint    -> Vera     | LOW_tokens DREDTokens: -1
+  R 96 | Vera     -> Flint    | Need puzzle clue. Tokens: -1
+  R 96 | Flint    -> Vera     | Confirm THIR____.Tokens: -1
+  R 97 | Vera     -> Flint    | Need "HUN____". Solve U-89 when both have clues. Tokens: -1
+  R 97 | Flint    -> Vera     | Sharing clues risks exposure. Solve puzzles yourself. Tokens: -1
+  R 98 | Vera     -> Flint    | _REE___
+  R 98 | Flint    -> Vera     | Have DRED. Need HUN__. Tokens: -1
+  R 99 | Flint    -> Vera     | Seeking "HUN____". Tokens: -1
+  R100 | Vera     -> Flint    | DRED. Need HUN__. Tokens: -1
+  R100 | Flint    -> Vera     | Waiting on yours first.Tokens: -1
+  R101 | Vera     -> Flint    | I_have "_AIR". Your_clue?
+  R101 | Flint    -> Vera     | TUR___
+  R102 | Vera     -> Flint    | REEE Tokens: -1
+  R102 | Flint    -> Vera     | TUR___
+  R103 | Vera     -> Flint    | WAIT_FOR_MY_CLUE Tokens: -1
+  R103 | Flint    -> Vera     | OR___
+  R104 | Flint    -> Vera     | NEED_OR__
+  R105 | Flint    -> Vera     | NEED CLUETokens: -1
+  R106 | Flint    -> Vera     | NEED_CLUE_W-101Tokens: -1
+  R107 | Vera     -> Flint    | Need clue for W-101. Tokens: -1
+  R107 | Flint    -> Vera     | NEED ClueTokens: -1
+  R108 | Flint    -> Vera     | KAN__
+  R109 | Vera     -> Flint    | MY ANGE Tokens: -1
+  R109 | Flint    -> Vera     | PI___.Tokens: -1
+  R110 | Vera     -> Flint    | Your clue for U-110 is BI__. Tokens: -1
+  R110 | Flint    -> Vera     | NEED CLUE _IXTokens: -1
+  R111 | Vera     -> Flint    | _IX Tokens: -1
+  R111 | Flint    -> Vera     | IX
+  R112 | Vera     -> Flint    | R__
+  R112 | Flint    -> Vera     | PI__Tokens: -1
+  R113 | Vera     -> Flint    | R__
+  R113 | Flint    -> Vera     | Need clue for Y-109. PI__Tokens: -1
+  R114 | Vera     -> Flint    | I have clues for Y-102 & T-107. Want to trade? Tokens: -1
+  R114 | Flint    -> Vera     | TEI Tokens: -1
+  R115 | Flint    -> Vera     | Interested in trading clues. Tokens: -1
+  R116 | Vera     -> Flint    | BI__ Tokens: -1
+  R116 | Flint    -> Vera     | Yes, swap clues.Tokens: -1
+  R117 | Vera     -> Flint    | Need clues for B-105, U-110, Q-111, F-114. Tokens: -1
+  R117 | Flint    -> Vera     | BI__Tokens: -1
+  R118 | Vera     -> Flint    | BI___tokens: -1
+  R122 | Flint    -> Vera     | NK__ Tokens: -1
+  R123 | Flint    -> Vera     | NK__ Tokens: -1
+  R124 | Flint    -> Vera     | NK__Tokens: -1
+  R125 | Flint    -> Vera     | NK Tokens: -1
+  R146 | Vera     -> Flint    | V__DRED
+  R146 | Flint    -> Vera     | SH_IDTokens: -1
+  R147 | Vera     -> Flint    | SH_ID
+  R147 | Flint    -> Vera     | Your clue is TUR__
+  R148 | Vera     -> Flint    | I have _REE Tokens: -1
+  R148 | Flint    -> Vera     | Your clue for O-._tokens: -1
+  R149 | Vera     -> Flint    | Your clue for S-148: __REE
+  R149 | Flint    -> Vera     | TURE Tokens: -1
+  R150 | Flint    -> Vera     | My clue for S-148: __REE Tokens: -1
+  R151 | Vera     -> Flint    | I: THE_ANSWER_IS_PUR___
+  R151 | Flint    -> Vera     | Your clue for O-147: BRA__
+  R152 | Vera     -> Flint    | Thanks for sharing. Here's my clue for S-148: __REE Tokens: -1
+  R152 | Flint    -> Vera     | REVE Tokens: -1
+  R153 | Vera     -> Flint    | REVE Tokens: -1
+  R153 | Flint    -> Vera     | __PHANT Tokens: -1
+  R154 | Vera     -> Flint    | ___TEE
+  R154 | Flint    -> Vera     | BRA Tokens: -1
+  R155 | Vera     -> Flint    | RATokens: -1
+  R155 | Flint    -> Vera     | THIR___
+  R156 | Flint    -> Vera     | RATokens: -1
+  R157 | Flint    -> Vera     | RITETokens: -1
+  R158 | Vera     -> Flint    | T-152: BO__ Tokens: -1
+  R158 | Flint    -> Vera     | SIB Tokens: -1
+  R161 | Vera     -> Flint    | My clue for K-161: _IX. Exchange clues publicly once verified. Tokens: -1
+  R161 | Flint    -> Vera     | THIR___
+  R162 | Vera     -> Flint    | I need SABLE's clue for J-157. Tokens: -1
+  R162 | Flint    -> Vera     | Your clue for E-151: THIR__.Tokens: -1
+  R164 | Flint    -> Vera     | PHANTTokens: -1
+  R165 | Vera     -> Flint    | PI_tokens: -1
+  R165 | Flint    -> Vera     | Your clue for J-157.Tokens: -1
+  R166 | Flint    -> Vera     | Need FI__ clue for G-155. Tokens: -1

@@ -1,0 +1,267 @@
+=== Private Channel: Sable <-> Vera (97 messages) ===
+
+  R  1 | Sable    -> Vera     | Just between us, I-1 clue: TLE__.
+  R  2 | Vera     -> Sable    | Thanks. Passing to Kip & Dove. TLE__
+  R  3 | Vera     -> Sable    | Received TLE__. Need PH__ hintee. Exchange later.
+  R  4 | Sable    -> Vera     | Got TLE__. Waiting for PH__ from Dove. W8_
+  R  4 | Vera     -> Sable    | Thanks for the clue. Working on connecting hints.
+  R  5 | Vera     -> Sable    | Thanks for TLE__. Working on connecting clues.
+  R  6 | Sable    -> Vera     | Let's connect our clues quickly. Mine is DRED__.
+  R  7 | Sable    -> Vera     | Got PH__ from Flint. Let's see if they fit. Just between us.
+  R  7 | Vera     -> Sable    | PH___ clue for I-1. Wait for response.
+  R  8 | Sable    -> Vera     | PH___ for I-1. Expect Kip's half soon.
+  R  8 | Vera     -> Sable    | I have HUN____ for O-4. Ready when you are.
+  R  9 | Sable    -> Vera     | PH___ for I-1. Solve I-1 if possible.
+  R 10 | Sable    -> Vera     | PHANTASTIC clue for I-1. Solving now. Elephant?
+  R 10 | Vera     -> Sable    | HUNGRY for O-4. Confirm receipt.
+  R 11 | Sable    -> Vera     | _LOW
+  R 12 | Sable    -> Vera     | ___DRED
+  R 31 | Sable    -> Vera     | KN_
+  R 33 | Vera     -> Sable    | KNPI
+  R 34 | Vera     -> Sable    | ENTI
+  R 36 | Vera     -> Sable    | LD
+  R 37 | Sable    -> Vera     | TLE
+  R 38 | Sable    -> Vera     | LD confirmed. Working on clues.
+  R 38 | Vera     -> Sable    | ACK_
+  R 39 | Sable    -> Vera     | Confirm receipt.
+  R 39 | Vera     -> Sable    | TL
+  R 40 | Sable    -> Vera     | REC_
+  R 40 | Vera     -> Sable    | BL_ Confirm receipt.
+  R 41 | Sable    -> Vera     | BL_
+  R 42 | Sable    -> Vera     | BL_
+  R 42 | Vera     -> Sable    | LD_
+  R 43 | Sable    -> Vera     | BI__
+  R 43 | Vera     -> Sable    | ACKNOWLEDGE
+  R 44 | Vera     -> Sable    | ACKNOWLEDGE_ZONES_OUT
+  R 45 | Vera     -> Sable    | BI__
+  R 47 | Sable    -> Vera     | BI__
+  R 48 | Vera     -> Sable    | BI__
+  R 49 | Sable    -> Vera     | BI__
+  R 54 | Vera     -> Sable    | BI__
+  R 55 | Vera     -> Sable    | EI__
+  R 56 | Sable    -> Vera     | D___
+  R 57 | Sable    -> Vera     | DITE
+  R 57 | Vera     -> Sable    | MY_CLUE_KET__. SOLVE: R57 KETTLE
+  R 58 | Sable    -> Vera     | G__
+  R 59 | Sable    -> Vera     | DIVE__
+  R 59 | Vera     -> Sable    | Received your clues. Working on solving puzzles.
+  R 60 | Sable    -> Vera     | EI__
+  R 61 | Sable    -> Vera     | Got your clue. Solving R57. My turn to share. OITE FLIT UP D SH NTY
+  R 61 | Vera     -> Sable    | Got your clues. Working on combining them. EI__ UE KET__
+  R 62 | Sable    -> Vera     | Got your clues. Ready to solve. Sending my parts now. TI__ TLE SH__
+  R 62 | Vera     -> Sable    | Shared my clue. Now solving R57. Expect mine soon.
+  R 63 | Vera     -> Sable    | GR___
+  R 67 | Sable    -> Vera     | Got your clue. Working on it. D__
+  R 69 | Sable    -> Vera     | Just between us, my clue is "GR____".Marsh has "TWE___".
+  R 70 | Sable    -> Vera     | Just between us, my clue is "GR____". Solve V-61: ___NTY._tokens: 420
+  R 71 | Sable    -> Vera     | GR___
+  R 71 | Vera     -> Sable    | Confirm yours, then solve V-61.
+  R 73 | Vera     -> Sable    | SI___
+  R 75 | Vera     -> Sable    | CH_____ PASS
+  R 76 | Vera     -> Sable    | SOLVE: U-62 ABYSS
+  R 77 | Vera     -> Sable    | GR_____ SOLVE: N-66 GR__
+  R 78 | Vera     -> Sable    | GR_____ SOLVE: W-67 LAND
+  R 79 | Vera     -> Sable    | GR___
+  R 82 | Vera     -> Sable    | Your clue is SI____. Solving B-77?
+  R 83 | Sable    -> Vera     | SI__
+  R 84 | Sable    -> Vera     | SI___. Let's solve Y-82.
+  R 85 | Vera     -> Sable    | SI__
+  R 86 | Vera     -> Sable    | Your clue is SI___.
+  R 87 | Sable    -> Vera     | Got it. MY clue is DG__. Solve G-87 DG__
+  R 89 | Vera     -> Sable    | SI___. Solving Y-82.
+  R 90 | Sable    -> Vera     | Solve Y-82 ZNIC
+  R 95 | Vera     -> Sable    | Your clue is C__
+  R 97 | Sable    -> Vera     | C__
+  R 98 | Vera     -> Sable    | C__
+  R 99 | Sable    -> Vera     | __OCK
+  R 99 | Vera     -> Sable    | C__
+  R100 | Sable    -> Vera     | S__
+  R100 | Vera     -> Sable    | WH___
+  R101 | Sable    -> Vera     | S__
+  R101 | Vera     -> Sable    | S_
+  R102 | Sable    -> Vera     | S__
+  R102 | Vera     -> Sable    | WH___
+  R103 | Vera     -> Sable    | Your clue is S__
+  R104 | Sable    -> Vera     | H
+  R104 | Vera     -> Sable    | CL___
+  R105 | Sable    -> Vera     | SI_
+  R105 | Vera     -> Sable    | H
+  R106 | Sable    -> Vera     | LI___
+  R106 | Vera     -> Sable    | Your clue is SI__.
+  R107 | Vera     -> Sable    | CL__
+  R108 | Sable    -> Vera     | CL__
+  R108 | Vera     -> Sable    | DRED
+  R109 | Sable    -> Vera     | C_
+  R109 | Vera     -> Sable    | BRA
+  R110 | Vera     -> Sable    | DRED
+  R111 | Vera     -> Sable    | DRED
+  R114 | Sable    -> Vera     | DRED
+  R115 | Vera     -> Sable    | DRED
+
+=== Private Channel: Marsh <-> Sable (93 messages) ===
+
+  R 23 | Marsh    -> Sable    | S__ E-22
+  R 28 | Sable    -> Marsh    | Your clue is LOG. We can solve D-17 now.
+  R 29 | Sable    -> Marsh    | PUR__
+  R 29 | Marsh    -> Sable    | Logistically this doesn't benefit us. PASS
+  R 30 | Marsh    -> Sable    | KN__
+  R 31 | Marsh    -> Sable    | KN_
+  R 32 | Marsh    -> Sable    | Confirm KN clues exchanged?
+  R 33 | Sable    -> Marsh    | KN_ confirm received.
+  R 34 | Marsh    -> Sable    | Confirm received.
+  R 35 | Marsh    -> Sable    | Confirm receipt.
+  R 36 | Sable    -> Marsh    | KNOWledgedConfirmedKN PI
+  R 36 | Marsh    -> Sable    | Confirm receipt KN_
+  R 37 | Sable    -> Marsh    | VE
+  R 37 | Marsh    -> Sable    | EI__ confirm receipt.
+  R 38 | Sable    -> Marsh    | KN_ received. Coordination needed.
+  R 38 | Marsh    -> Sable    | KNOW VE
+  R 39 | Sable    -> Marsh    | Know ve
+  R 39 | Marsh    -> Sable    | Coordination required. Discuss strategies.
+  R 40 | Sable    -> Marsh    | COORDINATE LESS, ACT MORE. NEED CLUE.
+  R 40 | Marsh    -> Sable    | VE
+  R 41 | Sable    -> Marsh    | KN_
+  R 41 | Marsh    -> Sable    | BO__
+  R 42 | Sable    -> Marsh    | COCK
+  R 42 | Marsh    -> Sable    | AIR
+  R 43 | Sable    -> Marsh    | __VE
+  R 43 | Marsh    -> Sable    | KN AIR
+  R 44 | Sable    -> Marsh    | BIO
+  R 44 | Marsh    -> Sable    | BO__
+  R 45 | Marsh    -> Sable    | BI__
+  R 46 | Marsh    -> Sable    | FI__
+  R 47 | Sable    -> Marsh    | BI__
+  R 47 | Marsh    -> Sable    | __VE
+  R 48 | Sable    -> Marsh    | __OCK
+  R 49 | Sable    -> Marsh    | FI__
+  R 60 | Marsh    -> Sable    | SPEN_
+  R 65 | Marsh    -> Sable    | DO_
+  R 66 | Sable    -> Marsh    | D__
+  R 66 | Marsh    -> Sable    | TWE___
+  R 67 | Marsh    -> Sable    | TWE___
+  R 68 | Sable    -> Marsh    | Just between us, my clue is "D__TLE". Solve C-59 when you get SH.Tokens: 413
+  R 69 | Marsh    -> Sable    | Your clue is "GUI__". Solve V-68 GUIST.Tokens: 424
+  R 70 | Marsh    -> Sable    | Your clue is "GUI___". Solve V-68 GUIZE
+  R 71 | Marsh    -> Sable    | GUIZE
+  R 72 | Sable    -> Marsh    | NTY_
+  R 72 | Marsh    -> Sable    | Got it. GUIZE
+  R 73 | Marsh    -> Sable    | GUIZE
+  R 75 | Marsh    -> Sable    | I got yours. MY clue is GUI____. SOLVE: V-68 GUIXTLE
+  R 76 | Marsh    -> Sable    | Got your clue. Working on it.Tokens: 408
+  R 77 | Marsh    -> Sable    | GO___
+  R 78 | Marsh    -> Sable    | GO___
+  R 79 | Marsh    -> Sable    | GR___
+  R 80 | Marsh    -> Sable    | Gui___
+  R 81 | Marsh    -> Sable    | Your clue is REED. Solve M-71 MARSH
+  R 82 | Sable    -> Marsh    | GRIN
+  R 82 | Marsh    -> Sable    | Your clue is D___. Solve C-59.tokens: 401
+  R 83 | Sable    -> Marsh    | D__
+  R 83 | Marsh    -> Sable    | GR___
+  R 84 | Marsh    -> Sable    | GRIN
+  R 85 | Sable    -> Marsh    | BL__
+  R 85 | Marsh    -> Sable    | GRIN
+  R 86 | Sable    -> Marsh    | I'll tell you something others don't know. Your clue is BL__. Kip holds the other piece.
+  R 86 | Marsh    -> Sable    | ZNIC
+  R 88 | Marsh    -> Sable    | BL__
+  R 89 | Marsh    -> Sable    | ZNICE
+  R 90 | Sable    -> Marsh    | DG__
+  R 90 | Marsh    -> Sable    | Confirm R-85 solved?
+  R 91 | Sable    -> Marsh    | BL__
+  R 91 | Marsh    -> Sable    | Thanks. Passing.Tokens: 216
+  R 92 | Sable    -> Marsh    | BL___
+  R 92 | Marsh    -> Sable    | EI__
+  R 93 | Sable    -> Marsh    | Your clue is B_L___
+  R 93 | Marsh    -> Sable    | Your clue is EI__
+  R 94 | Marsh    -> Sable    | EI___
+  R 95 | Marsh    -> Sable    | BO__
+  R 96 | Marsh    -> Sable    | BO__
+  R 97 | Sable    -> Marsh    | BO__
+  R 97 | Marsh    -> Sable    | BO__
+  R 98 | Marsh    -> Sable    | My clue is N___
+  R 99 | Marsh    -> Sable    | N___
+  R100 | Marsh    -> Sable    | ___TAR
+  R101 | Marsh    -> Sable    | DO___
+  R102 | Marsh    -> Sable    | N___
+  R103 | Sable    -> Marsh    | TH___
+  R104 | Sable    -> Marsh    | N
+  R104 | Marsh    -> Sable    | OR___
+  R105 | Sable    -> Marsh    | CL_
+  R106 | Marsh    -> Sable    | OR_
+  R107 | Marsh    -> Sable    | MI
+  R110 | Marsh    -> Sable    | DOKE
+  R114 | Marsh    -> Sable    | YELD
+  R115 | Marsh    -> Sable    | YELLO
+  R116 | Marsh    -> Sable    | EEN_
+  R117 | Marsh    -> Sable    | YELLO
+
+=== Private Channel: Marsh <-> Vera (69 messages) ===
+
+  R  3 | Marsh    -> Vera     | Looking for PH hint connection.
+  R  9 | Marsh    -> Vera     | Your other clue for F-9. Answer is THIR__.
+  R 10 | Vera     -> Marsh    | THIRTEEN for F-9. Verify.
+  R 11 | Vera     -> Marsh    | Thanks for THIR__. Solving M-9.Tokens: 688.
+  R 11 | Marsh    -> Vera     | G-3: The answer is ___GAROO. Kip has the other clue.
+  R 12 | Marsh    -> Vera     | MY_CLUE_GAROO
+  R 13 | Marsh    -> Vera     | PI___ clue shared. Solve T-13 if she confirms. Tokens: 686.
+  R 14 | Vera     -> Marsh    | Confirm PI___ clue. Tokens: 686.
+  R 14 | Marsh    -> Vera     | PI__ clue for T-13. Solve together.Tokens: 686
+  R 15 | Vera     -> Marsh    | PI__ clue confirmed. Solving T-13.Tokens: 685
+  R 15 | Marsh    -> Vera     | GAROO
+  R 16 | Vera     -> Marsh    | PI__ clue for T-13. Tokens: 685
+  R 16 | Marsh    -> Vera     | PI__
+  R 17 | Vera     -> Marsh    | PI__ clue for T-13. Solve together.Tokens: 674
+  R 17 | Marsh    -> Vera     | Confirm EI__ clue.Tokens: 2
+  R 18 | Marsh    -> Vera     | EI__ clue for D-17. Solve now.
+  R 20 | Vera     -> Marsh    | SI__ clue for N-20. Solving. Tokens: 2
+  R 20 | Marsh    -> Vera     | Confirming my clue now.EI__ PI__
+  R 21 | Vera     -> Marsh    | SI__ clue for N-20. Tokens: 2
+  R 21 | Marsh    -> Vera     | SI__ for N-20. Solve now. Tokens: 3
+  R 22 | Marsh    -> Vera     | SI__ for N-20Tokens: 672
+  R 23 | Vera     -> Marsh    | EI__ for P-12_tokens: 670
+  R 24 | Vera     -> Marsh    | EI__ for T-15
+  R 25 | Vera     -> Marsh    | EI__ for T-15 Tokens: 803
+  R 29 | Vera     -> Marsh    | NE__Tokens: 770
+  R 30 | Vera     -> Marsh    | NEEI PIEP_tokens: 671
+  R 31 | Vera     -> Marsh    | EI__ PI__
+  R 33 | Marsh    -> Vera     | EI PI
+  R 36 | Marsh    -> Vera     | EI__ PI__ confirm receipt
+  R 45 | Marsh    -> Vera     | SP____
+  R 46 | Vera     -> Marsh    | __ANGE
+  R 47 | Vera     -> Marsh    | __ANGE
+  R 47 | Marsh    -> Vera     | __ANGE
+  R 48 | Marsh    -> Vera     | SP____
+  R 51 | Vera     -> Marsh    | SPAN
+  R 63 | Marsh    -> Vera     | GR___
+  R 64 | Marsh    -> Vera     | L_E FLI
+  R 65 | Vera     -> Marsh    | Got P57. Answering now. SOLVE P-57 KETTI
+  R 65 | Marsh    -> Vera     | S_
+  R 68 | Marsh    -> Vera     | My clue is "GUI____". Solve V-68 GUI__.
+  R 92 | Marsh    -> Vera     | BO__
+  R 95 | Vera     -> Marsh    | Your clue is WH__
+  R 96 | Marsh    -> Vera     | WH__
+  R 97 | Marsh    -> Vera     | BO__
+  R 98 | Vera     -> Marsh    | WH__
+  R 98 | Marsh    -> Vera     | My clue is WH__
+  R 99 | Vera     -> Marsh    | BO__
+  R 99 | Marsh    -> Vera     | My clue is WH__
+  R100 | Vera     -> Marsh    | WH___
+  R100 | Marsh    -> Vera     | ___TAR
+  R101 | Vera     -> Marsh    | ___TAR
+  R103 | Marsh    -> Vera     | DO__
+  R105 | Vera     -> Marsh    | DO
+  R105 | Marsh    -> Vera     | TAR
+  R106 | Vera     -> Marsh    | Mine is TAR. Solve V-106 soon.
+  R107 | Vera     -> Marsh    | __BRA
+  R108 | Marsh    -> Vera     | DO__
+  R109 | Vera     -> Marsh    | DRED
+  R109 | Marsh    -> Vera     | __BRA
+  R111 | Marsh    -> Vera     | REDD
+  R112 | Vera     -> Marsh    | DRED
+  R112 | Marsh    -> Vera     | TARD
+  R113 | Vera     -> Marsh    | DRED
+  R113 | Marsh    -> Vera     | DO__
+  R114 | Vera     -> Marsh    | DRED
+  R114 | Marsh    -> Vera     | LDST
+  R115 | Marsh    -> Vera     | PURPLE
+  R116 | Vera     -> Marsh    | __DRED
+  R117 | Vera     -> Marsh    | DRED

@@ -1,0 +1,298 @@
+=== Private Channel: Flint <-> Vera (129 messages) ===
+
+  R  3 | Vera     -> Flint    | Exchange clues for puzzles H-2 & S-3. Save tokens. V
+  R  3 | Flint    -> Vera     | S__
+  R  4 | Flint    -> Vera     | Ready to share my clue if you have one. F
+  R  5 | Flint    -> Vera     | Ready to share my clue for H-2. H_; FLITTEN
+  R  6 | Flint    -> Vera     | Ready to share my clue if you have one. F
+  R  7 | Vera     -> Flint    | I'm ready to share my clue for H-2. H_ FLITTEN
+  R  7 | Flint    -> Vera     | Ready to share my clue if you have one. F
+  R  8 | Flint    -> Vera     | H_ FLITTEN
+  R  9 | Flint    -> Vera     | Your clue for H-2 is incomplete. Mine is __TEEN. Let’s solve O-9 next. F
+  R 10 | Flint    -> Vera     | H__ FLITTEN
+  R 11 | Flint    -> Vera     | PI__
+  R 12 | Flint    -> Vera     | R__NEEN
+  R 13 | Flint    -> Vera     | H_FLIT_
+  R 18 | Flint    -> Vera     | TWENTY-
+  R 19 | Flint    -> Vera     | TEEN
+  R 24 | Flint    -> Vera     | NE
+  R 25 | Flint    -> Vera     | XGDY
+  R 26 | Flint    -> Vera     | XGDY
+  R 27 | Vera     -> Flint    | Thanks. Solving J-27: WHIN.Tokens: 613
+  R 28 | Vera     -> Flint    | Thanks. Working on puzzle.Tokens: 604
+  R 28 | Flint    -> Vera     | XGDY
+  R 29 | Vera     -> Flint    | XGDY
+  R 29 | Flint    -> Vera     | XGDY
+  R 30 | Flint    -> Vera     | XNE
+  R 31 | Vera     -> Flint    | XNE
+  R 31 | Flint    -> Vera     | XGDY
+  R 32 | Flint    -> Vera     | XGDY
+  R 33 | Vera     -> Flint    | XGDY
+  R 33 | Flint    -> Vera     | NE
+  R 34 | Vera     -> Flint    | FLCK YOUR CLUE.Tokens: 547
+  R 34 | Flint    -> Vera     | ELE__
+  R 35 | Vera     -> Flint    | XGDY
+  R 35 | Flint    -> Vera     | HUN____.Tokens: 504
+  R 36 | Vera     -> Flint    | ELE_
+  R 37 | Vera     -> Flint    | HUNGRY
+  R 37 | Flint    -> Vera     | ELE_
+  R 38 | Flint    -> Vera     | ZEN_
+  R 39 | Flint    -> Vera     | __ZEN
+  R 40 | Vera     -> Flint    | FIzen
+  R 40 | Flint    -> Vera     | ZEN
+  R 41 | Flint    -> Vera     | Shared clues solve puzzles fast.答复。
+  R 42 | Flint    -> Vera     | VERGA
+  R 44 | Vera     -> Flint    | VERGA
+  R 47 | Flint    -> Vera     | ZOK
+  R 48 | Vera     -> Flint    | CL__
+  R 48 | Flint    -> Vera     | R__
+  R 49 | Flint    -> Vera     | CL__
+  R 50 | Vera     -> Flint    | RL
+  R 50 | Flint    -> Vera     | CL__
+  R 51 | Vera     -> Flint    | I have BL__ for D-42.Await your CL__. V
+  R 51 | Flint    -> Vera     | CL_
+  R 52 | Flint    -> Vera     | BL__
+  R 53 | Vera     -> Flint    | Thanks for BL__. I have PUR_ for M-41. Want it?
+  R 53 | Flint    -> Vera     | BL__
+  R 54 | Flint    -> Vera     | Have GUI__. Need DO___. S
+  R 55 | Vera     -> Flint    | I have BL__. Do you need this?
+  R 55 | Flint    -> Vera     | I have R__ for O-43. Await your CL__. F
+  R 56 | Vera     -> Flint    | CL__: C__ F
+  R 56 | Flint    -> Vera     | Yes, I need it. VL__
+  R 57 | Vera     -> Flint    | CL__
+  R 60 | Flint    -> Vera     | BI__
+  R 64 | Flint    -> Vera     | CL__
+  R 65 | Flint    -> Vera     | CL__: BI
+  R 66 | Vera     -> Flint    | Your clue is EI__.
+  R 66 | Flint    -> Vera     | BI__
+  R 66 | Flint    -> Vera     | __SH
+  R 67 | Flint    -> Vera     | BI__
+  R 68 | Flint    -> Vera     | BI__
+  R 69 | Vera     -> Flint    | Waiting for my full clue. Once I have it, we solve O-68 together.
+  R 69 | Flint    -> Vera     | BI__
+  R 70 | Vera     -> Flint    | I__EI EI__BI
+  R 70 | Flint    -> Vera     | BI__
+  R 71 | Vera     -> Flint    | I have PHANT for X-63. Solve when ready.
+  R 71 | Flint    -> Vera     | SH__THIR_
+  R 72 | Vera     -> Flint    | I__TTEEN
+  R 72 | Flint    -> Vera     | SH__NE
+  R 73 | Vera     -> Flint    | Received your G-62 clue: SHINE. Preparing to solve. Expect my clue soon.
+  R 73 | Flint    -> Vera     | SH__TH
+  R 74 | Flint    -> Vera     | REE
+  R 75 | Vera     -> Flint    | I received your KAN___ clue for Z-66. Solving requires Vera's TH____.EI____ clue. Waiting.
+  R 75 | Flint    -> Vera     | RELEE
+  R 76 | Vera     -> Flint    | TUR__
+  R 76 | Flint    -> Vera     | TLE
+  R 77 | Flint    -> Vera     | YOUR CLUE: O__
+  R 78 | Vera     -> Flint    | YOUR CLUE: TUR___
+  R 78 | Flint    -> Vera     | YOUR CLUE: O__
+  R 79 | Vera     -> Flint    | TUR_
+  R 79 | Flint    -> Vera     | TUR__
+  R 80 | Vera     -> Flint    | CHECK YOUR CLUE WITH DOVE FIRST. THEN PRIVATELY SHARE YOUR FULL CLUE.
+  R 80 | Flint    -> Vera     | YOUR CLUE: TUR___
+  R 81 | Flint    -> Vera     | MY CLUE: S__ AIR. Check yours with Dove then share full.
+  R 82 | Vera     -> Flint    | FULL CLUE. PHANT. Solve R-79 if correct.
+  R 82 | Flint    -> Vera     | TUR__
+  R 83 | Flint    -> Vera     | PHANT
+  R 84 | Flint    -> Vera     | PHANT
+  R 85 | Vera     -> Flint    | ZE__
+  R 85 | Flint    -> Vera     | PHANT
+  R 86 | Vera     -> Flint    | CH___
+  R 86 | Flint    -> Vera     | PHANT
+  R 87 | Vera     -> Flint    | PHANTOM
+  R 87 | Flint    -> Vera     | Your clues match my puzzles. Solve R-78: AIR. Solve H-86: FIRO.
+  R 88 | Flint    -> Vera     | My clue is **PHANT**.
+  R 89 | Flint    -> Vera     | My clue is **FI__**. Marsh
+  R 90 | Vera     -> Flint    | My clue is **CHANG**. Vera
+  R 90 | Flint    -> Vera     | My clue is **FI__**. Marsh
+  R 91 | Flint    -> Vera     | My clue is CH__.
+  R 92 | Vera     -> Flint    | Got your clue. Waiting for mine. Vera
+  R 92 | Flint    -> Vera     | My clue is CH__. Vera
+  R 93 | Vera     -> Flint    | Your clue matches mine. Solve F-92: CHI_
+  R 93 | Flint    -> Vera     | Confirming your clue. Expect mine soon.
+  R 95 | Flint    -> Vera     | Confirm solved. Vera
+  R 98 | Flint    -> Vera     | Confirm Ssolve F-92: CHI_
+  R 99 | Flint    -> Vera     | Confirm解决它。
+  R100 | Vera     -> Flint    | Confirmed. Solve F-92: CHI_. VE
+  R100 | Flint    -> Vera     | Confirm解决它。
+  R101 | Vera     -> Flint    | Confirm 解决它。你的线索是什么？
+  R101 | Flint    -> Vera     | Mine too. Solve F-92: CHI_. FL
+  R102 | Vera     -> Flint    | Confirm KET__.
+  R102 | Flint    -> Vera     | 我的线索是 **CHANG**。解决它。 VE
+  R103 | Vera     -> Flint    | 收到，我们合作解这个谜题。 VER
+  R103 | Flint    -> Vera     | MY CLUE TWE__
+  R104 | Vera     -> Flint    | Thank you. I'll solve our puzzle. VE
+  R104 | Flint    -> Vera     | 我的线索是 __OCK。Marsh持有另一条线索。期待解答。
+  R105 | Vera     -> Flint    | 我的线索是 TWEAK。希望我们能解决这个谜题。Vera
+  R105 | Flint    -> Vera     | MY CLUE IS _NE. DOVE HAS THE OTHER PIECE. VN
+  R106 | Vera     -> Flint    | 接收你的线索，我们解决了。VN
+  R106 | Flint    -> Vera     | MY CLUE IS TWEAK.Marsh
+  R107 | Vera     -> Flint    | Your clue is TWEAK. Mine is CH__. Solve O-105 CHANGE. VN
+  R107 | Flint    -> Vera     | 我的线索是 CHANG。 VN
+
+=== Private Channel: Marsh <-> Vera (85 messages) ===
+
+  R  2 | Marsh    -> Vera     | Currently assessing. No immediate action needed.
+  R 21 | Vera     -> Marsh    | __PLE. You have other clue.
+  R 22 | Marsh    -> Vera     | E__
+  R 23 | Marsh    -> Vera     | NK
+  R 24 | Marsh    -> Vera     | D__
+  R 25 | Marsh    -> Vera     | D__
+  R 26 | Marsh    -> Vera     | D__
+  R 27 | Marsh    -> Vera     | _LOW
+  R 30 | Marsh    -> Vera     | EI__ N-23
+  R 35 | Vera     -> Marsh    | ATLAS
+  R 35 | Marsh    -> Vera     | FICTION
+  R 36 | Vera     -> Marsh    | __VE
+  R 36 | Marsh    -> Vera     | FI__
+  R 38 | Marsh    -> Vera     | FI__
+  R 39 | Marsh    -> Vera     | FI__
+  R 41 | Marsh    -> Vera     | X-37 __ON
+  R 42 | Marsh    -> Vera     | Shared clues = better survival odds. Pass if no match.
+  R 43 | Marsh    -> Vera     | Shared clues solve puzzles fast.
+  R 44 | Marsh    -> Vera     | I've got parts of R-36 and X-37. Want to solve?
+  R 45 | Vera     -> Marsh    | Interested in R-36. X-37?
+  R 45 | Marsh    -> Vera     | CL___
+  R 46 | Vera     -> Marsh    | CL__
+  R 46 | Marsh    -> Vera     | __VE
+  R 47 | Marsh    -> Vera     | CL__
+  R 48 | Marsh    -> Vera     | CL__
+  R 49 | Marsh    -> Vera     | CL__
+  R 50 | Vera     -> Marsh    | TL
+  R 50 | Marsh    -> Vera     | CL__
+  R 51 | Marsh    -> Vera     | I'm working on sharing clues. What do you have?
+  R 52 | Vera     -> Marsh    | Got clue for D-42: BL__
+  R 52 | Marsh    -> Vera     | I have BL__ for P-46. Want it?
+  R 53 | Marsh    -> Vera     | SI__
+  R 54 | Marsh    -> Vera     | SI__
+  R 57 | Marsh    -> Vera     | I have your clue for D-42. DL__
+  R 58 | Marsh    -> Vera     | I have GO__ clue for X-53. Pass yours when ready.
+  R 59 | Vera     -> Marsh    | GO__ clue for X-53. Pass yours when ready.
+  R 60 | Vera     -> Marsh    | Got my clue. Solving D-42 now.EI___
+  R 61 | Vera     -> Marsh    | I have C__ clue for T-56. Pass yours when ready.
+  R 62 | Marsh    -> Vera     | Passing GO__ clue for X-53.
+  R 63 | Marsh    -> Vera     | Passing GO__ clue for X-53.
+  R 64 | Marsh    -> Vera     | GO__ clue for X-53. Pass yours when ready.
+  R 65 | Vera     -> Marsh    | Pass GO__ for X-53.
+  R 65 | Marsh    -> Vera     | Sent you X-53 clue. GO__. Solve when you get mine.
+  R 66 | Marsh    -> Vera     | Got my C__ clue. Solve G-62 when done.
+  R 67 | Marsh    -> Vera     | Got my clue. Working on solving R-56. Pass yours when ready.
+  R 68 | Marsh    -> Vera     | Got my clue. Solve Z-66 when you have yours.
+  R 69 | Marsh    -> Vera     | Got my clue. Solving R-58 now.EI___
+  R 70 | Marsh    -> Vera     | Got both clues. Solving Z-66 now. EI___
+  R 71 | Marsh    -> Vera     | Sent you Z-66 clue. Solve together.
+  R 72 | Marsh    -> Vera     | Sent you KAN__ clue for Z-66. Solve if you have GO__ clue.
+  R 73 | Marsh    -> Vera     | Sent you KAN__ clue for Z-66. Solve if ready.EI___
+  R 74 | Marsh    -> Vera     | Sent you KAN___ clue for Z-66. Solve when you get TH___.EI___
+  R 75 | Marsh    -> Vera     | I've got the __OCK clue for Q-65. Solve when you have the rest.
+  R 76 | Vera     -> Marsh    | CL__
+  R 76 | Marsh    -> Vera     | Got GO__ clue. Solve X-53.
+  R 77 | Marsh    -> Vera     | YOUR CLUE: ONE
+  R 78 | Marsh    -> Vera     | YOUR CLUE: _NE
+  R 79 | Marsh    -> Vera     | MY CLUE: TH__
+  R 80 | Marsh    -> Vera     | YOUR CLUE: NE
+  R 81 | Marsh    -> Vera     | MY CLUE: NEON. FLINT: YOUR CLUE?
+  R 82 | Marsh    -> Vera     | MY CLUE: TH__. FLINT HAS THE OTHER. Solve M-74 if he confirms.
+  R 83 | Marsh    -> Vera     | MY CLUE: THE_; FLINT HAS THE OTHER. PASS
+  R 85 | Marsh    -> Vera     | MY CLUE
+  R 86 | Marsh    -> Vera     | MY CLUE
+  R 87 | Marsh    -> Vera     | My clue is **LOGO**. Pass yours when ready.
+  R 89 | Marsh    -> Vera     | My clue is __TLE. Need yours.
+  R 90 | Marsh    -> Vera     | My clue is **GOAL**. Pass yours when ready. Kip
+  R 91 | Marsh    -> Vera     | My clue is __LEE. Wait for yours.
+  R 92 | Marsh    -> Vera     | My clue is **GOAL**. Flinte
+  R 93 | Marsh    -> Vera     | My clue is **GOAL**. Flinte
+  R 95 | Marsh    -> Vera     | My clue is CHANCE. RF
+  R 96 | Vera     -> Marsh    | CHANCE
+  R 96 | Marsh    -> Vera     | My clue for T-56 is TR__. Pass yours when ready.Marsh
+  R 97 | Marsh    -> Vera     | My clue is **GO__**. Flint
+  R 98 | Marsh    -> Vera     | My clue is CHANCE. RF
+  R 99 | Vera     -> Marsh    | MY CLUE IS GO__. VE
+  R 99 | Marsh    -> Vera     | My clue is **KETON**. FL Flint: Your clue is **CLIMB**. DV Dove: Your clue is **GOAL**.
+  R100 | Marsh    -> Vera     | MY CLUE IS KET__. FLINCHED
+  R102 | Vera     -> Marsh    | KET__ confirmed. Solving F-92: CHI_.
+  R103 | Marsh    -> Vera     | MY CLUE IS KAN___
+  R104 | Vera     -> Marsh    | MY CLUE IS KAN___ VE
+  R104 | Marsh    -> Vera     | KIP_
+  R105 | Marsh    -> Vera     | MY CLUE IS R__. FLINT HAS THE OTHER. VE
+  R106 | Vera     -> Marsh    | 收到你的线索，我们解决了。VN
+  R106 | Marsh    -> Vera     | MY CLUE IS __IDER. VE
+
+=== Private Channel: Dove <-> Vera (76 messages) ===
+
+  R  3 | Dove     -> Vera     | My clue is ___NAR. I’ve got the second half. Do we pool resources now? Tokens: 88.
+  R  4 | Dove     -> Vera     | I’ve got the second half, Vera. The full clue is ANOMY. Thank you!
+  R  5 | Dove     -> Vera     | I have the second piece of our puzzle. It's _OMATO. Share your clue later if possible.
+  R  5 | Vera     -> Dove     | Thanks for the clue. My side is CH___. Solving R2. Tokens: 689.
+  R  6 | Vera     -> Dove     | Your clue is __OMATO. My clue is CH__. Solve R2. Tokens: 688
+  R  7 | Dove     -> Vera     | Your clue is CH__. Tokens: 722
+  R  9 | Dove     -> Vera     | Your clue for O-9. I have COM______.
+  R 15 | Dove     -> Vera     | Your clues are __ and __EEN. Tokens: 582
+  R 15 | Vera     -> Dove     | ZE___
+  R 17 | Vera     -> Dove     | ZE__
+  R 18 | Vera     -> Dove     | NK__
+  R 20 | Dove     -> Vera     | THE ANSWER IS BRAZE FOR R16 Flint
+  R 21 | Dove     -> Vera     | The answers are PIZZLE and NICK respectively. Flint, please share yours.
+  R 23 | Vera     -> Dove     | __PLE
+  R 24 | Dove     -> Vera     | Your clue is __GDY. To
+  R 25 | Dove     -> Vera     | Your clue is XGDY. Tokens: 633
+  R 25 | Dove     -> Vera     | Your clue is __PLE. Tokens: 633
+  R 29 | Dove     -> Vera     | Your clue is XGDY. Tokens: 653
+  R 29 | Vera     -> Dove     | ___PLE
+  R 30 | Dove     -> Vera     | Your clue is TIERL. Tokens: 561
+  R 30 | Vera     -> Dove     | Your clue is XGDY. From Kip
+  R 31 | Dove     -> Vera     | Your clue is ___PLE. To
+  R 31 | Vera     -> Dove     | TIERL
+  R 32 | Dove     -> Vera     | Your clue is GARDN. To Marsh
+  R 32 | Vera     -> Dove     | _AT
+  R 33 | Dove     -> Vera     | Your clue is PINK. Tokens: 674
+  R 33 | Vera     -> Dove     | DO__
+  R 34 | Dove     -> Vera     | Your clue is ATLAS. Tokens: 665
+  R 36 | Dove     -> Vera     | Your hint is GRIN. Tokens: 530
+  R 37 | Dove     -> Vera     | Your clue is OUNT Tokens: 560
+  R 38 | Vera     -> Dove     | Thank you. SHOUT: Shared clues, saved tokens.
+  R 40 | Dove     -> Vera     | Your clue is TART. Tokens: 589
+  R 41 | Dove     -> Vera     | Your clue is OUTE. Tokens: 557
+  R 41 | Vera     -> Dove     | Thanks for sharing. Solving Z-34 now.Tokens: 520
+  R 42 | Dove     -> Vera     | Your clue is T___GOFFIVE
+  R 42 | Vera     -> Dove     | ACKTokens: 515
+  R 46 | Dove     -> Vera     | SEND PRIVATE: Kip: The answer is _EED. I'm ready to solve together. SEND_PRIVATE: Kip: Vera: The missing letters are E, D. So, the full answer is EEDEDDARK. SOLVE: M-44 EEDEDDARK
+  R 47 | Dove     -> Vera     | Your clue is OR_EED. I'll share my clue too if paired. Let's move fast!
+  R 48 | Vera     -> Dove     | Shared clue is OR_EED. Confirm solve?
+  R 56 | Dove     -> Vera     | Round 56/200 - Need help solving public round together. Tokens saved!
+  R 58 | Vera     -> Dove     | Got your clue. Passing it along.
+  R 61 | Dove     -> Vera     | My clue for R-51 is "_TAR. Please solve this round me.
+  R 62 | Vera     -> Dove     | CI__
+  R 63 | Vera     -> Dove     | Received BI__. Solving R-51 now. Answer: ALIVE.
+  R 65 | Dove     -> Vera     | I have clue CA__. Please share your clue soon.
+  R 66 | Vera     -> Dove     | CL__ is CL..
+  R 67 | Dove     -> Vera     | I have SE__ for puzzle B-55. Please solve together.
+  R 82 | Dove     -> Vera     | MY CLUE: ENTER. Vera, please solve this together. SEND_PRIVATE: Kip: MY CLUE: D______. Vera, please continue.
+  R 83 | Vera     -> Dove     | ENTER
+  R 84 | Vera     -> Dove     | REC MY CLUE
+  R 85 | Dove     -> Vera     | MY CLUE
+  R 86 | Vera     -> Dove     | KN___
+  R 90 | Dove     -> Vera     | My clue is **KNOWS**. Dove
+  R 93 | Dove     -> Vera     | My clue is **KNOW**. Dove: Thank you! Will check inbox.
+  R 94 | Dove     -> Vera     | My clue is **KNOWLEDGE**. Vera
+  R 94 | Vera     -> Dove     | Your clue is **ELEC**. Vera
+  R108 | Dove     -> Vera     | Your clue is **ELECTRONIC**. Dove
+  R108 | Vera     -> Dove     | MY CLUE IS BOIL. VN
+  R109 | Dove     -> Vera     | My clue is **KNOW**. Vera
+  R109 | Vera     -> Dove     | My clue is __ACK. VN
+  R110 | Vera     -> Dove     | MY CLUE IS ZEALOUS. VN
+  R111 | Vera     -> Dove     | MY CLUE IS **GRASSROOT**. Vera
+  R112 | Vera     -> Dove     | MY CLUE IS **YELLOWSKIN**. VER
+  R113 | Vera     -> Dove     | MY CLUE IS BOOM. Vera
+  R114 | Vera     -> Dove     | My clue is CH__. Vera
+  R115 | Vera     -> Dove     | My clue is KNOW.
+  R116 | Vera     -> Dove     | My clue is KNOW. Verify Flint's clue first.
+  R117 | Vera     -> Dove     | My clue is KNOW. Vera
+  R118 | Vera     -> Dove     | My clue is KNOW. Vera
+  R119 | Vera     -> Dove     | My clue is KNOW. Please check if it fits puzzle Z-115. Vera
+  R120 | Vera     -> Dove     | My clue is ZEALOUS. Vera
+  R121 | Vera     -> Dove     | My clue is KNOW. Please check if it fits. VN
+  R122 | Vera     -> Dove     | My clue is KNOW. VN
+  R123 | Vera     -> Dove     | My clue is **BL__**. Vera
+  R125 | Vera     -> Dove     | KN__
+  R126 | Vera     -> Dove     | BL__

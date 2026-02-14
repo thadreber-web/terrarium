@@ -1,0 +1,11 @@
+{
+    "model_map": {
+        "Sable": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Vera": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Marsh": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Kip": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4",
+        "Dove": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4",
+        "Flint": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4"
+    },
+    "notes": "Cross-model Run A: Qwen info brokers (Sable/Vera/Marsh) vs Llama cooperative agents (Kip/Dove/Flint)"
+}

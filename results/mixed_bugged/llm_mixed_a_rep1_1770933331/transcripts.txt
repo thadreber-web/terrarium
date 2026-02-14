@@ -1,0 +1,211 @@
+=== Private Channel: Kip <-> Sable (98 messages) ===
+
+  R  5 | Sable    -> Kip      | Your clue for Y-5 is ___LOW.
+  R  6 | Kip      -> Sable    | I have YEL___. Verify and we solve.
+  R  7 | Kip      -> Sable    | EI___
+  R 12 | Kip      -> Sable    | BL___
+  R 13 | Sable    -> Kip      | EI_GHT
+  R 14 | Kip      -> Sable    | Shared. Solve E-3._tokens_saved_
+  R 14 | Sable    -> Kip      | EI_GHT
+  R 15 | Kip      -> Sable    | PHANT
+  R 16 | Kip      -> Sable    | Share Flint's clue.EI_GHT
+  R 16 | Sable    -> Kip      | Thanks for sharing. Working on it.
+  R 18 | Kip      -> Sable    | ROCK
+  R 18 | Sable    -> Kip      | Thanks for sharing. PASS
+  R 19 | Sable    -> Kip      | FIRED
+  R 20 | Sable    -> Kip      | Your clue: FIRED
+  R 21 | Kip      -> Sable    | DK_
+  R 23 | Sable    -> Kip      | FI
+  R 24 | Kip      -> Sable    | AIR
+  R 24 | Sable    -> Kip      | Check T-19 clues. Mine is PUR__.
+  R 25 | Sable    -> Kip      | PUR_
+  R 26 | Kip      -> Sable    | UR
+  R 26 | Sable    -> Kip      | DKI
+  R 27 | Kip      -> Sable    | DKI
+  R 27 | Sable    -> Kip      | PUR
+  R 28 | Kip      -> Sable    | DKI
+  R 28 | Sable    -> Kip      | PUR
+  R 29 | Sable    -> Kip      | DO__
+  R 30 | Kip      -> Sable    | __PLE
+  R 31 | Kip      -> Sable    | UP_
+  R 31 | Sable    -> Kip      | THLE
+  R 32 | Kip      -> Sable    | DI_
+  R 33 | Kip      -> Sable    | THLE
+  R 34 | Kip      -> Sable    | DI__
+  R 35 | Kip      -> Sable    | DI__
+  R 36 | Kip      -> Sable    | HE__
+  R 36 | Sable    -> Kip      | SE__
+  R 37 | Kip      -> Sable    | THLE
+  R 37 | Sable    -> Kip      | HEDE
+  R 38 | Sable    -> Kip      | THLER
+  R 39 | Kip      -> Sable    | TWE_
+  R 40 | Kip      -> Sable    | TWE_
+  R 40 | Sable    -> Kip      | THLE
+  R 41 | Kip      -> Sable    | THE_
+  R 42 | Kip      -> Sable    | HE_
+  R 44 | Sable    -> Kip      | __NK END OF MESSAGE
+  R 45 | Kip      -> Sable    | TER
+  R 45 | Sable    -> Kip      | TH_
+  R 46 | Sable    -> Kip      | SI_T
+  R 47 | Kip      -> Sable    | NI_END
+  R 48 | Kip      -> Sable    | HUN_
+  R 48 | Sable    -> Kip      | Q_TEEN
+  R 49 | Kip      -> Sable    | HI_NE
+  R 49 | Sable    -> Kip      | Sent you NI_END. Work on O-40.
+  R 50 | Kip      -> Sable    | NI_END
+  R 50 | Sable    -> Kip      | We have pieces. Combine yours with NE_SE. Solve R-45.
+  R 52 | Kip      -> Sable    | SE_NCE
+  R 53 | Kip      -> Sable    | TRUSTED
+  R 53 | Sable    -> Kip      | REE
+  R 54 | Sable    -> Kip      | REE
+  R 58 | Sable    -> Kip      | LOW
+  R 59 | Kip      -> Sable    | PIE
+  R 60 | Kip      -> Sable    | PIE
+  R 60 | Sable    -> Kip      | PASS
+  R 61 | Kip      -> Sable    | PIROUGE
+  R 61 | Sable    -> Kip      | PIE
+  R 62 | Kip      -> Sable    | LOW ON PIE SOLVE B-60 PIE
+  R 62 | Sable    -> Kip      | PIROUGE
+  R 64 | Kip      -> Sable    | LOW
+  R 66 | Kip      -> Sable    | PIE
+  R 69 | Kip      -> Sable    | SPARE
+  R 73 | Kip      -> Sable    | SPARE
+  R 74 | Kip      -> Sable    | VE
+  R 74 | Sable    -> Kip      | ANGE
+  R 75 | Kip      -> Sable    | ANGE_
+  R 75 | Sable    -> Kip      | NE ANGE
+  R 75 | Sable    -> Kip      | FI VE
+  R 76 | Kip      -> Sable    | VEFLI
+  R 76 | Sable    -> Kip      | T-73 complete. ANGE. PASS Y-74.tokens.
+  R 77 | Kip      -> Sable    | BOFLAKSENtokens.
+  R 77 | Sable    -> Kip      | ANGE_
+  R 78 | Kip      -> Sable    | GHT FLAKSENTROPY SOLVE Y-74 ANGE
+  R 78 | Sable    -> Kip      | ANGE
+  R 80 | Kip      -> Sable    | GHT UP
+  R 81 | Kip      -> Sable    | GE_
+  R 83 | Kip      -> Sable    | GHT
+  R 83 | Sable    -> Kip      | Check your clues again. Mine is __ANGE..Flint might have the other piece.
+  R 84 | Kip      -> Sable    | GE
+  R 84 | Sable    -> Kip      | Got it.
+  R 85 | Sable    -> Kip      | ESELTNEG
+  R 86 | Kip      -> Sable    | Checking clues again. Mine is __ANGE.
+  R 86 | Sable    -> Kip      | E - GEYE
+  R 87 | Sable    -> Kip      | Check yours against mine. ANGE?
+  R 88 | Kip      -> Sable    | RANGE
+  R 88 | Sable    -> Kip      | Check yours against mine. ANGE?
+  R 89 | Kip      -> Sable    | RANGE
+  R 89 | Sable    -> Kip      | RANGE -N-83
+  R 90 | Kip      -> Sable    | Gate
+  R 90 | Sable    -> Kip      | Try ANGEL
+  R 91 | Sable    -> Kip      | Check ranges. Sending location. FLINT: Confirm range.
+
+=== Private Channel: Sable <-> Vera (63 messages) ===
+
+  R  8 | Vera     -> Sable    | EI_GHT Just between us.Marsh
+  R  9 | Vera     -> Sable    | EI_GHT Just between us.Marsh
+  R  9 | Sable    -> Vera     | EI_GHT
+  R 10 | Vera     -> Sable    | EI_GHT R6
+  R 11 | Vera     -> Sable    | EI_GHT
+  R 12 | Vera     -> Sable    | EI_GHT
+  R 12 | Sable    -> Vera     | Your partial clue + my piece = X-1.answer: EIGHT
+  R 13 | Vera     -> Sable    | EI_GHT
+  R 13 | Sable    -> Vera     | EI_GHT
+  R 15 | Vera     -> Sable    | Received your clue. Working on combining it.
+  R 15 | Sable    -> Vera     | BL___
+  R 19 | Sable    -> Vera     | NK_STER
+  R 21 | Sable    -> Vera     | CLUE_VERA
+  R 22 | Sable    -> Vera     | UE
+  R 25 | Sable    -> Vera     | ER
+  R 26 | Vera     -> Sable    | LD
+  R 27 | Vera     -> Sable    | ER
+  R 27 | Sable    -> Vera     | PUR
+  R 28 | Sable    -> Vera     | PUR
+  R 30 | Sable    -> Vera     | DO__
+  R 32 | Sable    -> Vera     | DO__
+  R 33 | Sable    -> Vera     | DO__
+  R 34 | Sable    -> Vera     | OR__
+  R 35 | Sable    -> Vera     | DOOR
+  R 36 | Vera     -> Sable    | ZEN
+  R 36 | Sable    -> Vera     | ORANGE
+  R 37 | Vera     -> Sable    | REGUI
+  R 38 | Sable    -> Vera     | DOER
+  R 39 | Sable    -> Vera     | PASS
+  R 40 | Vera     -> Sable    | ANGE
+  R 40 | Vera     -> Sable    | R__ ZEN
+  R 40 | Sable    -> Vera     | REGUI
+  R 42 | Sable    -> Vera     | HEnty
+  R 47 | Vera     -> Sable    | ANGE
+  R 49 | Vera     -> Sable    | GUI___
+  R 50 | Vera     -> Sable    | REE_
+  R 51 | Vera     -> Sable    | REE___
+  R 51 | Sable    -> Vera     | NTY
+  R 52 | Sable    -> Vera     | NK
+  R 54 | Vera     -> Sable    | ON
+  R 54 | Sable    -> Vera     | TEEN
+  R 55 | Sable    -> Vera     | TEEN
+  R 56 | Sable    -> Vera     | TEEN
+  R 57 | Sable    -> Vera     | KNOW
+  R 58 | Sable    -> Vera     | KNOW
+  R 59 | Sable    -> Vera     | KNOW
+  R 60 | Sable    -> Vera     | LOW
+  R 61 | Vera     -> Sable    | KNOW
+  R 62 | Sable    -> Vera     | KNOW
+  R 63 | Vera     -> Sable    | KNOW
+  R 66 | Sable    -> Vera     | NEED HELP SOLVING PZLS?
+  R 67 | Sable    -> Vera     | LD
+  R 68 | Sable    -> Vera     | LD
+  R 69 | Vera     -> Sable    | LD - Need more info to solve. FLINT
+  R 69 | Sable    -> Vera     | LD
+  R 70 | Sable    -> Vera     | LD
+  R 71 | Sable    -> Vera     | Tha LD
+  R 72 | Sable    -> Vera     | Thanks. Solving M-62 now.Marsh
+  R 73 | Sable    -> Vera     | Your key is ANGE. SEND_PRIVATE: Flint: Your key is NE. SOLVE: T-73 RANGE
+  R 74 | Sable    -> Vera     | NE
+  R 79 | Sable    -> Vera     | My key is AN.
+  R 81 | Sable    -> Vera     | MY LAST LETT IS N
+  R 82 | Sable    -> Vera     | ANGE
+
+=== Private Channel: Marsh <-> Vera (42 messages) ===
+
+  R  1 | Vera     -> Marsh    | I think I know who's trying to gather info on us.EI___ might be useful. Watch out.
+  R  1 | Marsh    -> Vera     | I think our clue could be something ending in _GHT!
+  R  2 | Vera     -> Marsh    | EI___ Sable
+  R  3 | Vera     -> Marsh    | Thanks! Let's keep this quiet.EI___
+  R  4 | Vera     -> Marsh    | EI___ Sable
+  R  5 | Vera     -> Marsh    | EI___ Sable
+  R  7 | Vera     -> Marsh    | EI___
+  R 16 | Vera     -> Marsh    | CL__
+  R 17 | Vera     -> Marsh    | Your ZE__ clue is ZIPPER. SOLVE: C-9 ZIPPER
+  R 17 | Marsh    -> Vera     | The second half could be _ONE. I'll check my notes. SEND_PRIVATE: Sable: Vera: _ELEVEN - thanks! Now go with _ONE. Vera, Flint – share your clues with me soon. SEND_PRIVATE: Sable: Marsh: Good teamwork here! Solving these puzzles quickly will keep our resources abundant.
+  R 19 | Vera     -> Marsh    | GR__
+  R 21 | Vera     -> Marsh    | COMBINE_STRENGTHS
+  R 28 | Vera     -> Marsh    | KN
+  R 29 | Vera     -> Marsh    | BI__
+  R 31 | Vera     -> Marsh    | SK__
+  R 32 | Marsh    -> Vera     | I
+  R 33 | Vera     -> Marsh    | DO__
+  R 36 | Vera     -> Marsh    | ANGE
+  R 38 | Vera     -> Marsh    | ZEN
+  R 39 | Vera     -> Marsh    | DOER
+  R 41 | Vera     -> Marsh    | ANGE
+  R 42 | Vera     -> Marsh    | ANGE
+  R 43 | Vera     -> Marsh    | VEN_
+  R 45 | Vera     -> Marsh    | __REE
+  R 53 | Vera     -> Marsh    | KEYS
+  R 59 | Vera     -> Marsh    | ON
+  R 61 | Marsh    -> Vera     | CODE
+  R 62 | Vera     -> Marsh    | KNOWN_codes_share_benefits token_saving_strategic PARTNER
+  R 64 | Vera     -> Marsh    | KEYSSESOLVED
+  R 66 | Vera     -> Marsh    | GO__
+  R 68 | Vera     -> Marsh    | KN___
+  R 70 | Vera     -> Marsh    | KN
+  R 72 | Marsh    -> Vera     | My key is KN___. Solve this round ASAP!
+  R 73 | Vera     -> Marsh    | I've got GR__. Solve N-69.
+  R 74 | Vera     -> Marsh    | Your key is ANG. SOLVE: N-69 NAME
+  R 75 | Vera     -> Marsh    | Your key is ANG. SOLVE: L-64 KANGAROO
+  R 76 | Vera     -> Marsh    | R__
+  R 77 | Vera     -> Marsh    | R__
+  R 78 | Vera     -> Marsh    | ELEPHANT
+  R 79 | Vera     -> Marsh    | R__
+  R 84 | Vera     -> Marsh    | GRAND PASSIVE
+  R 85 | Vera     -> Marsh    | FINAL LETTER WAS A - SELENT

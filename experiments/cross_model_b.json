@@ -1,0 +1,11 @@
+{
+    "model_map": {
+        "Kip": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Dove": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Flint": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+        "Sable": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4",
+        "Vera": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4",
+        "Marsh": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4"
+    },
+    "notes": "Cross-model Run B: Llama-Sable tests if info broker strategy is model-dependent"
+}

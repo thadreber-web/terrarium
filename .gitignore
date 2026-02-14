@@ -5,6 +5,26 @@ __pycache__/
 # Large Plotly HTML files (~4.7MB each)
 *.html
 
+# Model weights (download from HuggingFace instead)
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+
+# vLLM / runtime artifacts
+vllm_cache/
+*.log
+
+# Planning docs (not part of the project)
+extension_plans.md
+identities.md
+terrarium_plan.md
+CROSS_MODEL_PLAN.md
+terrarium_phase_2.md
+review.md
+docs/plans/
+
 # Old directory structure (pre-restructure)
 server/
 agents/
@@ -13,7 +33,5 @@ logs/
 reports/
 figures/
 
-# Planning docs (not part of the project)
-extension_plans.md
-identities.md
-terrarium_plan.md
+# OS artifacts
+.DS_Store
