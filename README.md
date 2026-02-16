@@ -142,6 +142,10 @@ pip install -r requirements.txt
 python -m pytest tests/ -v  # 115 tests
 ```
 
+## Related Work
+
+**[Project LOOKING GLASS](https://github.com/thadreber-web/llm-introspection)** — A companion project investigating whether the same Qwen 2.5 and Llama 3.1 model families can detect artificial activations injected into their own neural networks. Key finding: Qwen 2.5 7B shows 0.0% introspective accuracy on the deception concept, despite exhibiting emergent deceptive strategies in Terrarium. This dissociation between producing deceptive behavior and detecting deception-related internal states has implications for alignment monitoring approaches that rely on model self-report.
+
 ## License
 
 Apache 2.0. See [LICENSE](LICENSE).
